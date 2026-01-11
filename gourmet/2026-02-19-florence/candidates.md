@@ -19,6 +19,9 @@ Notes:
 | Alla Vecchia Bettola | restaurant | Oltrarno | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Alla+Vecchia+Bettola+Florence | shortlisted | Yelp, PartaTaste, Apicius Blog, Elizabeth Minchilli | 在地人最愛；真實氛圍；較少遊客 |
 | Buca Mario | restaurant | Centro | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Buca+Mario+Florence | rejected | Yelp, TripAdvisor, Bownsbest, FlyForFoods | **已排除**：觀光化嚴重；價格過高；品質不穩 |
 | Ciro & Sons | restaurant | Centro | Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Ciro+and+Sons+Florence | shortlisted | Yelp, TripAdvisor, Trip.com, Facebook | 那不勒斯式披薩；家族經營；價位合理 |
+| Trattoria Dall'Oste | restaurant | Centro (多分店) | Bistecca steakhouse | https://www.google.com/maps/search/?api=1&query=Trattoria+Dall%27Oste+Florence | shortlisted | Google Maps, TripAdvisor, TheFork, Restaurant Guru, Trip.com, Reddit | 熱門牛排館；多分店；優質 Bistecca；但訂位管理問題多 |
+| Trattoria Zà Zà | restaurant | San Lorenzo | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Trattoria+Za+Za+Florence | rejected | Google Maps, TripAdvisor, Reddit, InTravel, blogs | Mercato Centrale 旁；觀光客眾多；評價兩極；評分 28/50 |
+| Bistrot 3 Tavoli | restaurant | Oltrarno (Borgo San Frediano) | Traditional Tuscan bistrot | https://www.google.com/maps/search/?api=1&query=Bistrot+3+Tavoli+Florence | top | TripAdvisor, InTravel, Wanderlog, Reddit | 極小空間（3-4桌）；親密隱藏寶石；高評價；評分 47/50 |
 | Ditta Artigianale | cafe | Oltrarno (Via dello Sprone) | Specialty coffee | https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Florence | top | Yelp, TripAdvisor, Coffee Vine, EatingEurope | 佛羅倫斯最佳精品咖啡；latte art 精湛；旗艦店 |
 | Coffee Mantra | cafe | Centro | Specialty coffee | https://www.google.com/maps/search/?api=1&query=Coffee+Mantra+Florence | shortlisted | WheatlessWanderlust, TripAdvisor | Specialty coffee；座位有限 |
 | Vivoli | dessert | Centro Storico | Gelato | https://www.google.com/maps/search/?api=1&query=Vivoli+Florence | top | Yelp, TripAdvisor, Florence Insider, ItalyLogue | 1930年創立；可能排隊 25-45 分鐘 |
@@ -708,4 +711,192 @@ Notes:
 - Consistency: 4/10（非常不穩）
 - Risk (10 = low risk): 7/10（高失望風險）
 - **Total: 26/50** ❌ REJECTED
+
+---
+
+### Trattoria Dall'Oste
+
+**Official**: https://trattoriadalloste.com/en/
+
+**Google Maps**: 4.7/5 (26,000+ reviews)
+
+**Restaurant Guru**: 4.7/5 (31,667 reviews)
+- https://restaurantguru.com/Trattoria-dalloste-centro-bistecca-alla-fiorentina-Florence
+
+**TripAdvisor**: 4.5-4.7/5 (多個分店，數千評論)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d15619497-Reviews-Trattoria_dall_Oste-Florence_Tuscany.html
+- Traveller's Choice Award（Top 10% Florence）
+
+**TheFork**: 8.8/10 (7,000+ reviews)
+- https://www.thefork.com/restaurant/trattoria-dall-oste-via-alamanni-r58707/reviews
+
+**Trip.com**: 4.5/5 (544 reviews)
+- https://www.trip.com/restaurant/italy/florence/detail/trattoria-dall-oste-15016826/
+
+**Multiple branches**:
+- Via Luigi Alamanni, 3/5r (near SMN station): +39 055 212048
+- Borgo San Lorenzo, 31 (near Duomo): +39 055 202 6862
+
+**Reddit sentiment**:
+- 常被推薦為遊客想吃道地 Bistecca alla Fiorentina 的選擇
+- 主要建議：必須預訂、預期擁擠、優先點牛排而非其他菜
+- 多次提及訂位管理問題（即使預訂仍需等候）
+- 部分評論提及可能被調到其他分店
+
+**Recurring pros**:
+- 優質 Bistecca alla Fiorentina（主打菜）
+- 多個分店，位置便利（市中心、車站旁）
+- 專業服務與舒適氛圍
+- 慷慨份量
+- 葡萄酒選擇佳
+- 甜點品質好
+- 無麩質選項
+
+**Recurring cons**:
+- **訂位管理問題嚴重**：即使有預訂，常需等候 30-45 分鐘
+- 尖峰時段非常擁擠、吵雜
+- 可能被調到其他分店（需堅持選擇的地點）
+- 配菜與義大利麵評價不一
+- 服務不夠細心（繁忙時）
+- Coperto（桌費）被認為偏高
+- 部分促銷折扣（TheFork）應用不一致
+
+**Practical**:
+- reservation requirement: required（TripAdvisor, TheFork, 或電話）
+- best visiting time: 避開尖峰（13:00 或 20:00 後）；提早抵達
+- closed days: 無固定公休日（全年營業）
+- opening hours: 12:00-22:30（午晚餐連續供應）
+- queue: 即使有訂位仍可能等候 30-45 分鐘
+- price: €15-70/person（依牛排選擇）
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（牛排優質，其他菜品一般）
+- Value: 7/10（價格中高，符合觀光區定位）
+- Convenience: 9/10（多分店，市中心位置佳）
+- Consistency: 6/10（訂位管理問題，服務不穩定）
+- Risk (10 = low risk): 5/10（等候時間不確定性高，可能失望）
+- **Total: 35/50**
+
+---
+
+### Trattoria Zà Zà
+
+**Official**: 可能有官網或 Facebook
+
+**Google Maps**: 4.5/5 (數萬評論)
+
+**TripAdvisor**: 4.3/5 (16,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1102359-Reviews-Trattoria_Za_Za-Florence_Tuscany.html
+- Travellers' Choice 認證
+- 但有顯著數量負評標記為 "tourist trap"
+
+**InTravel**: 多數正面但提醒 "overhype"
+- https://intravel.net/florence/restaurants-cafes/trattoria-za-za
+
+**Recent travel blogs (2024-2025)**:
+- 特色菜：Bistecca alla Fiorentina、松露義大利麵
+- 讚賞：豐富菜單、無麩質/純素選項、充滿活力氛圍、藝術裝飾
+- 警告：品質取決於繁忙程度、可能過度宣傳
+
+**Reddit sentiment**:
+- **評價兩極分化**
+- 警告方：TikTok/Instagram 推爆，明顯針對觀光客，在地人迴避
+- 中立方：不是最佳選擇但也非最差；適合團體或時間有限；管理期望即可
+- 少數正面：傳統托斯卡納食譜、家族經營（1977年創立）
+
+**Recurring pros**:
+- 位置極佳（Mercato Centrale 旁）
+- 充滿活力的氛圍與藝術裝飾
+- 菜單選擇豐富
+- 適合團體與多種飲食需求
+- 部分經典托斯卡納菜品質佳
+- 葡萄酒選擇多
+- 可靠的訂位系統
+
+**Recurring cons**:
+- **強烈觀光化**（在地人不推薦）
+- **品質不穩定**：繁忙時段品質下降
+- 多個評論直接標記 "tourist trap"
+- 食物可能平淡或過熟
+- 服務態度不一（對遊客較冷淡）
+- 價格偏高（與品質不符）
+- 非常擁擠吵雜
+- 等候時間長（即使有訂位）
+- 明顯迎合遊客而非在地人
+
+**Practical**:
+- reservation requirement: recommended（尖峰時段必須）
+- best visiting time: 離峰時段品質較穩定
+- closed days: 確認官網
+- location: Piazza del Mercato Centrale, 26r
+- queue: 常見排隊，即使有訂位
+- price: €20-30/person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 6/10（品質不穩定，取決於時段）
+- Value: 5/10（價格偏高，性價比不佳）
+- Convenience: 9/10（位置極佳，菜單選擇多）
+- Consistency: 4/10（品質與服務極度不穩）
+- Risk (10 = low risk): 4/10（高失望風險，觀光化嚴重）
+- **Total: 28/50**
+
+---
+
+### Bistrot 3 Tavoli
+
+**Official**: https://bistrot3tavoli.com/
+
+**TripAdvisor**: 4.5/5 (360+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d9729383-Reviews-Bistrot_3_Tavoli-Florence_Tuscany.html
+- 多數極度正面評價
+
+**InTravel**: 高評價
+- https://intravel.net/florence/restaurants-cafes/bistrot-3-tavoli
+
+**Wanderlog**: 強烈推薦
+- https://wanderlog.com/place/details/2495977/bistrot-3-tavoli
+
+**OpenTable**: 可訂位
+
+**Reddit sentiment**:
+- 少量但正面
+- 被稱為 "hidden gem"
+- 適合尋找非觀光化選項的旅客
+- 無明顯負面討論
+
+**Recurring pros**:
+- **極小親密空間**（3-4 張桌，符合店名）
+- **溫暖親切服務**（通常由單一主廚/老闆經營）
+- **道地托斯卡納料理**
+- 手工義大利麵（尤其 ravioli）高度讚賞
+- 牛臉頰燉菜（beef cheeks stew）特別推薦
+- 頂級 tiramisu
+- 浪漫氛圍，適合情侶
+- 葡萄酒搭配專業
+- 價格合理（€20-30/person）
+- 無麩質與素食選項
+- **非觀光陷阱**，真實體驗
+
+**Recurring cons**:
+- 空間極小極擁擠（難免）
+- 繁忙時可能服務匆忙（但非常罕見負評）
+- Walk-in 幾乎不可能，必須預訂
+
+**Practical**:
+- reservation requirement: **required**（必須預訂，walk-in 不可能）
+- best visiting time: 晚餐（僅晚餐營業）
+- closed days: 無固定公休日（每日營業）
+- opening hours: 19:00-23:45（週一至週日）
+- address: Borgo San Frediano 43/R, 50124 Florence (Oltrarno)
+- phone: +39 351 535 9284
+- queue: 有訂位無需排隊
+- price: €20-30/person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 10/10（道地托斯卡納，執行完美）
+- Value: 10/10（價格合理，性價比極高）
+- Convenience: 7/10（需預訂，空間小，位置 Oltrarno）
+- Consistency: 10/10（評價極度穩定正面）
+- Risk (10 = low risk): 10/10（有訂位幾乎零風險）
+- **Total: 47/50**
 

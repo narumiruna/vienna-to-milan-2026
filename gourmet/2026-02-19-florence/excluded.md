@@ -67,29 +67,80 @@
 
 ---
 
+### 2. Trattoria Zà Zà
+
+**Category**: Restaurant  
+**Area**: San Lorenzo (Mercato Centrale 旁)  
+**Type**: Traditional Tuscan  
+**Status**: REJECTED  
+
+**Reason for Exclusion**: 觀光化極度嚴重，品質不穩定，評價兩極，評分低於 30 分門檻
+
+**Evidence Summary**:
+
+**Google Maps**: 4.5/5 (數萬評論)
+
+**TripAdvisor**: 4.3/5 (16,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1102359-Reviews-Trattoria_Za_Za-Florence_Tuscany.html
+- Travellers' Choice 認證
+- 但有**顯著數量負評直接標記為 "tourist trap"**
+
+**InTravel**: 多數正面但警告 "overhype"
+- https://intravel.net/florence/restaurants-cafes/trattoria-za-za
+
+**Recent blogs (2024-2025)**: 混合評價，建議管理期望
+
+**Reddit sentiment**:
+- **評價極度兩極分化**
+- 警告方：TikTok/Instagram 推爆，明顯針對觀光客，在地人完全迴避
+- 中立方：不是最佳但也非最差；適合團體或時間有限；必須管理期望
+- 極少數正面：家族經營（1977年創立），部分傳統菜品尚可
+
+**Recurring pros**:
+- 位置極佳（Mercato Centrale 旁）
+- 充滿活力的氛圍與藝術裝飾
+- 菜單選擇豐富
+- 適合團體與多種飲食需求（無麩質、純素選項）
+- 可靠的訂位系統
+
+**Recurring cons**（更多且更嚴重）:
+- **極度觀光化**（在地人完全不推薦）
+- **品質極度不穩定**：繁忙時段品質明顯下降
+- **多個評論直接標記 "tourist trap"**
+- 食物可能平淡、過熟、或缺乏風味
+- 服務態度不一（對遊客較冷淡或匆忙）
+- 價格偏高（€20-30/person 但品質不符）
+- 非常擁擠吵雜
+- 等候時間長（即使有訂位）
+- **明顯迎合遊客而非在地人**
+
+**Comparison with other options**:
+- Trattoria Sergio Gozzi: 46/50（更道地，價格更親民）
+- Osteria Vini e Vecchi Sapori: 48/50（更高品質，真實家庭式）
+- L'Osteria di Giovanni: 46/50（更穩定，可 walk-in）
+- → Zà Zà 在各方面都不如已有選項
+
+**Score (50-point rubric)**:
+- Taste / Quality: 6/10（品質不穩定，取決於時段與運氣）
+- Value: 5/10（價格偏高，性價比不佳）
+- Convenience: 9/10（位置極佳，菜單選擇多）
+- Consistency: 4/10（品質與服務極度不穩定）
+- Risk (10 = low risk): 4/10（高失望風險，觀光化嚴重）
+- **Total: 28/50** ❌
+
+**Exclusion Decision**: 
+評分 28/50 低於 30 分門檻。雖然位置便利、菜單豐富，但觀光化極度嚴重、品質不穩定、性價比差，且已有多個更優質的 trattoria 選項（Sergio Gozzi, Vini e Vecchi Sapori, L'Osteria di Giovanni）。**強烈建議避開**，選擇更道地的在地 trattoria。
+
+Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高品質、道地、性價比佳的餐廳）不符。
+
+---
+
 ## 未深入研究候選（Not Researched Further）
 
 以下候選在初步篩選後未深入研究，原因包括：優先級較低、與 Top Picks 重複類型、或初步資訊不足。
 這些**不代表被排除**，僅是在時間有限情況下未優先研究。
 
-### 1. Trattoria ZaZa
-
-**Category**: Restaurant  
-**Area**: San Lorenzo (Mercato Centrale 旁)  
-**Type**: Traditional Tuscan  
-**Initial sources**: TripAdvisor, multiple guides  
-
-**Why not researched further**:
-- 位置緊鄰中央市場，觀光客密集區
-- 初步 Reddit 搜尋顯示混合評價
-- 多數評論提及觀光化傾向
-- 已有更高評價的 trattoria 選項（Sergio Gozzi, Vini e Vecchi Sapori）
-
-**Status**: 未深入研究，優先級低
-
----
-
-### 2. Trattoria Mario
+### 1. Trattoria Mario
 
 **Category**: Restaurant  
 **Area**: San Lorenzo  
@@ -289,8 +340,9 @@
 
 ## 總結排除決策
 
-### Hard Rejections（1間）
+### Hard Rejections（2間）
 1. **Buca Mario**: 評分 26/50，觀光陷阱警告，價格過高，品質不穩
+2. **Trattoria Zà Zà**: 評分 28/50，觀光化極度嚴重，品質不穩定，在地人不推薦
 
 ### Not Researched Further（15+ 間）
 - 優先級較低
