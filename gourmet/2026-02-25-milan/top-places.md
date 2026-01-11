@@ -21,7 +21,8 @@
 - **約束條件**:
   - 預訂: **建議**（尤其晚餐）
   - 價格: 中等（米蘭標準合理）
-  - 休息日: unknown
+  - 休息日: **Monday**
+  - 營業: Tue 19:30-22:30 (dinner only), Wed-Sat 12:30-14:30 & 19:30-22:30, Sun 12:30-14:30 (lunch only)
   - 注意: 確認帳單細節
 
 ### 3. **Pasticceria Marchesi 1824** - 38/50
@@ -32,7 +33,7 @@
 - **約束條件**:
   - 預訂: Optional（Galleria 可預訂座位）
   - 價格: 高價位
-  - 休息日: unknown
+  - 休息日: **Open daily** (Mon-Sun 07:30-21:00)
   - 注意: 早上前往避開人潮
 
 ### 4. **Trattoria Milanese** - 37/50
@@ -43,7 +44,8 @@
 - **約束條件**:
   - 預訂: **強烈建議**（尤其晚餐與週末）
   - 價格: 偏高（主菜約 €33）
-  - 休息日: unknown
+  - 休息日: **Sunday**
+  - 營業: Mon-Sat 12:00-14:30 (lunch), 19:00-22:30 (dinner)
   - 注意: 非常擁擠吵鬧，服務不一致
 
 ### 5. **Bar Basso** - 36/50
@@ -113,21 +115,25 @@
 - 晚餐: **Trattoria Masuelli San Marco** 或 **Trattoria Milanese**
   - 體驗經典米蘭料理（Cotoletta, Risotto, Ossobuco）
   - 需預訂
+  - ⚠️ Masuelli 週一休息，但 2/25 是週三營業
+  - ⚠️ Trattoria Milanese 週日休息，2/25 週三營業
 
 **Day 2 - 2/26 (四)**
 - 早餐: **Pasticceria Marchesi 1824** (Galleria 分店)
   - Panettone, cornetti, cappuccino
   - 08:00-09:00 前往避開人潮
+  - ✅ 每日營業 07:30-21:00
   
 - 午餐: 輕食或第二家傳統餐廳（如 Antica Trattoria della Pesa）
   
 - Aperitivo (18:00-21:00): **Bar Basso**
   - 必試 Negroni Sbagliato
-  - 注意週二休息，週三應營業
+  - ⚠️ 週二休息，但 2/26 是週四營業 ✅
   
 - 晚餐: **Enrico Bartolini al Mudec** (如預算許可)
   - 米其林三星體驗
   - 必須提前預訂
+  - ⚠️ 週一與週日休息，但 2/26 週四營業 ✅
   - 或選擇其他米其林一星（如 Il Luogo di Aimo e Nadia）
 
 **Day 3 - 2/27 (五)**

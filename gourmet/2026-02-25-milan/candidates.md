@@ -48,8 +48,9 @@
 **實用資訊**:
 - reservation requirement: recommended（強烈建議，尤其晚餐與週末）
 - best visiting time: 午餐相對較不擁擠
-- closed days: unknown
+- closed days: **Sunday**
 - queue: 即使預訂也可能等待
+- 營業時間: Mon-Sat 12:00-14:30 (lunch), 19:00-22:30 (dinner)
 
 **50 分評分系統**:
 - Taste/Quality (口味): 8/10 - 經典料理執行良好但偶有不穩定
@@ -194,7 +195,7 @@
 **實用資訊**:
 - reservation requirement: optional（Galleria 分店可預訂桌位）
 - best visiting time: 早上避開高峰
-- closed days: unknown
+- closed days: **Open daily** (Mon-Sun 07:30-21:00)
 - queue: 繁忙時可能排隊
 - 價格: 高價位
 
@@ -237,9 +238,10 @@
 **實用資訊**:
 - reservation requirement: recommended（尤其晚餐）
 - best visiting time: 午餐或晚餐
-- closed days: unknown
+- closed days: **Monday** (Tue dinner only, Wed-Sat lunch+dinner, Sun lunch only)
 - queue: 熱門需預訂
 - 地點: Viale Umbria（Zone 4，中心且易達）
+- 營業時間: Tue 19:30-22:30, Wed-Sat 12:30-14:30 & 19:30-22:30, Sun 12:30-14:30
 
 **50 分評分系統**:
 - Taste/Quality (口味): 9/10 - 真實米蘭菜，Cotoletta 與 Risotto 出色
