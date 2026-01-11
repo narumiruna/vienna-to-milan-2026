@@ -10,7 +10,29 @@
 
 ### 餐廳 Top Picks
 
-#### 1. La Tavernaccia Da Bruno (41/50) ⭐
+#### 1. Antico Forno Roscioli (45/50) ⭐⭐⭐ 🍕
+- **type**: Pizza al taglio, bakery
+- **area**: Centro Storico (Campo de' Fiori)
+- **total score**: 45/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome
+- **justification**: 歷史麵包店，Pizza bianca 羅馬經典，每日營業，價格合理，品質極穩定
+- **constraints**: 
+  - reservation: none（外帶麵包店）
+  - 主要外帶，座位有限
+  - 中午繁忙
+  - 早上 7:30-10:00 選擇最多最新鮮
+
+#### 2. Otaleg (43/50) ⭐⭐ 🍨
+- **type**: Gelato, artisanal
+- **area**: Trastevere
+- **total score**: 43/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Otaleg+Rome
+- **justification**: Pistachio 被譽為羅馬最佳，水果風味濃郁天然如 sorbet，季節性創意口味
+- **constraints**: 
+  - 位於 Trastevere，需特地前往
+  - 無需訂位
+
+#### 3. La Tavernaccia Da Bruno (41/50) ⭐
 - **type**: Traditional Roman trattoria
 - **area**: Trastevere
 - **total score**: 41/50
@@ -33,7 +55,29 @@
   - 僅14張桌子，座位有限
   - 價格略高
 
-#### 3. Cesare Al Casaletto (40.5/50) ⭐
+#### 3. Ditirambo (41.5/50) ⭐
+- **type**: Creative seasonal Italian
+- **area**: Trastevere/Campo de' Fiori
+- **total score**: 41.5/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Ditirambo+Rome
+- **justification**: 創意季節料理，TheFork 9.3/10，素食友善，溫馨氛圍
+- **constraints**: 
+  - reservation: recommended（強烈建議訂位，尤其晚餐週末）
+  - 可通過 TheFork、OpenTable 訂位
+  - 繁忙時服務可能較慢
+
+#### 4. Bottega Tredici (41.5/50) ⭐
+- **type**: Creative seasonal Italian
+- **area**: Ghetto/Centro Storico
+- **total score**: 41.5/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Bottega+Tredici+Rome
+- **justification**: 現代創意義大利料理，TheFork 9.2/10，Travelers' Choice Top 10%
+- **constraints**: 
+  - reservation: recommended（建議訂位）
+  - 價格偏高（tasting menu €45-60）
+  - 適合特殊場合
+
+#### 5. Cesare Al Casaletto (40.5/50) ⭐
 - **type**: Traditional Roman trattoria
 - **area**: Monteverde
 - **total score**: 40.5/50
@@ -44,7 +88,7 @@
   - 位置偏遠（Monteverde 區，距市中心 20-30 分鐘）
   - 英文菜單可能有限
 
-#### 4. Luciano Cucina Italiana (40.5/50)
+#### 6. Luciano Cucina Italiana (40.5/50)
 - **type**: Carbonara specialist
 - **area**: Centro Storico (Campo de' Fiori)
 - **total score**: 40.5/50
@@ -55,7 +99,7 @@
   - 價格略高
   - 中心位置
 
-#### 5. Trattoria Monti (39.5/50) 📍
+#### 7. Trattoria Monti (39.5/50) 📍
 - **type**: Le Marche regional cuisine
 - **area**: Esquilino
 - **total score**: 39.5/50
@@ -66,7 +110,7 @@
   - 距 Mercure Roma Piazza Bologna 飯店 8 分鐘步行 ⭐
   - 可能週日公休
 
-#### 6. Roscioli (39/50)
+#### 8. Roscioli (39/50)
 - **type**: Roman pasta, deli, wine bar
 - **area**: Regola (Campo de' Fiori)
 - **total score**: 39/50
@@ -77,7 +121,7 @@
   - 價格偏高
   - 尖峰時段擁擠吵雜
 
-#### 7. Flavio al Velavevodetto (39/50)
+#### 9. Flavio al Velavevodetto (39/50)
 - **type**: Traditional Roman trattoria
 - **area**: Testaccio
 - **total score**: 39/50
@@ -88,9 +132,19 @@
   - 繁忙時服務可能不一致
   - 建議平日週三或週五
 
-### Gelato Top Picks
+### Gelato & 甜點 Top Picks
 
-#### 1. Frigidarium (41/50) ⭐
+#### 1. Otaleg (43/50) ⭐⭐ 🍨
+- **type**: Gelato, artisanal
+- **area**: Trastevere
+- **total score**: 43/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Otaleg+Rome
+- **justification**: Pistachio 被譽為羅馬最佳，水果風味濃郁天然如 sorbet，季節性創意口味
+- **constraints**: 
+  - 位於 Trastevere
+  - 無需訂位
+
+#### 2. Frigidarium (41/50) ⭐
 - **type**: Gelato
 - **area**: Piazza Navona
 - **total score**: 41/50
@@ -110,7 +164,18 @@
   - 價格偏高
   - 可能排隊
 
-#### 3. Come il Latte (39.5/50) 📍
+#### 3. Giolitti (41/50) ⭐ 🏛️
+- **type**: Gelato, historic
+- **area**: Pantheon
+- **total score**: 41/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Giolitti+Rome
+- **justification**: 1900年開業，125年歷史，Pantheon 旁絕佳位置，經典羅馬 gelato 文化體驗
+- **constraints**: 
+  - 尖峰時段排隊長
+  - 遊客眾多
+  - 先付款再點餐（傳統義大利方式）
+
+#### 4. Come il Latte (39.5/50) 📍
 - **type**: Gelato, creamy
 - **area**: Esquilino
 - **total score**: 39.5/50
@@ -121,9 +186,20 @@
   - 排隊長，建議離峰時段
   - 價格略高
 
-### 糕點 Top Pick
+### 糕點 & 快速餐點 Top Picks
 
-#### 1. Regoli (40.5/50) ⭐📍
+#### 1. Antico Forno Roscioli (45/50) ⭐⭐⭐ 🍕
+- **type**: Pizza al taglio, bakery
+- **area**: Centro Storico (Campo de' Fiori)
+- **total score**: 45/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome
+- **justification**: 歷史麵包店，Pizza bianca 羅馬經典，每日營業 7:30-20:00，價格合理
+- **constraints**: 
+  - 主要外帶，座位有限
+  - 早上選擇最多最新鮮
+  - 中午可能排隊
+
+#### 2. Regoli (40.5/50) ⭐📍
 - **type**: Pastry, maritozzo
 - **area**: Esquilino
 - **total score**: 40.5/50
@@ -162,52 +238,70 @@
 
 ---
 
+## 特殊場合選項（高預算）
+
+### La Pergola (38/50) ⭐⭐⭐ 💎
+- **type**: Fine dining, Michelin 3-star
+- **area**: Monte Mario (Rome Cavalieri Hotel)
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=La+Pergola+Rome+Cavalieri
+- **justification**: 羅馬唯一米其林三星，Chef Heinz Beck，壯觀城市全景，傳奇葡萄酒窖
+- **constraints**: 
+  - **價格極高**：Tasting menu from €250+ per person（不含酒）
+  - reservation: required（必須提前數週至數月訂位）
+  - 位於 Monte Mario 山上，需交通安排
+  - Dress code: Smart elegant
+  - 週日週一公休，8月與冬季特定日期關閉
+  - **僅適合特殊場合與充足預算**
+
+---
+
 ## Researching（研究中）
 
-以下候選正在進行詳細研究：
-
-- **Antico Forno Roscioli** (歷史麵包店，pizza al taglio)
-- **Ditirambo** (Trastevere 創意料理)
-- **Bottega Tredici** (創意季節料理)
-- **Giolitti** (1900年開業，經典 gelato)
-- **Otaleg** (Trastevere gelato)
-- **La Pergola** (米其林三星，特殊場合)
+**所有候選地點已完成詳細研究。**
 
 ---
 
 ## 用餐策略建議
 
 ### 時間規劃
-- **早餐**: 7:00-9:30 @ Regoli（距飯店 5 分鐘，maritozzo 必吃）
+- **早餐**: 7:00-9:30 @ Regoli（距飯店 5 分鐘，maritozzo 必吃）或 7:30-10:00 @ Antico Forno Roscioli（Pizza bianca）
 - **午餐**: 12:00-15:00（部分店家 15:00 後關門直到 19:00）
 - **晚餐**: 19:30-22:00（羅馬人通常 20:00 後用餐）
 - **Gelato**: 任何時段，通常 11:00-23:00
+- **Pizza al taglio**: Antico Forno Roscioli 每日 7:30-20:00
 
 ### 訂位策略（按優先順序）
 
 **必須訂位（提前 7+ 天，電話訂位）**:
-1. Cesare Al Casaletto（電話訂位，美食家首選）
-2. Armando al Pantheon（訂位困難，僅14桌）
-3. Luciano Cucina Italiana（carbonara 專家）
-4. Roscioli（頂級食材，Michelin）
+1. **La Pergola**（米其林三星，提前數週至數月，僅特殊場合）
+2. Cesare Al Casaletto（電話訂位，美食家首選）
+3. Armando al Pantheon（訂位困難，僅14桌）
+4. Luciano Cucina Italiana（carbonara 專家）
+5. Roscioli（頂級食材，Michelin）
 
-**建議訂位（提前 2-3 天）**:
+**建議訂位（提前 2-3 天，可線上）**:
 1. Trattoria Monti（米其林推薦，距飯店近）
 2. La Tavernaccia Da Bruno（在地秘寶）
 3. Flavio al Velavevodetto（Testaccio 最愛）
+4. **Ditirambo**（創意季節料理，TheFork 可訂）
+5. **Bottega Tredici**（現代創意，TheFork 可訂）
 
 **不接受訂位（需排隊）**:
 - Da Enzo al 29（建議開門前到達）
 - Bonci Pizzarium（非尖峰時段較好）
 
 **無需訂位**:
-- 所有 gelato 店、糕點店、咖啡館
-- **Regoli 特別注意**：7:00-9:30am 供應 maritozzo，需早到
+- **Antico Forno Roscioli**（外帶麵包店，早上最佳）
+- 所有 gelato 店：**Otaleg**, Frigidarium, Gelateria del Teatro, **Giolitti**, Come il Latte
+- **Regoli** 糕點店（早餐 maritozzo，7:00-9:30am）
 
 ### 預算分配（每人每餐概估）
+- **米其林三星**（La Pergola）: €250-400+（僅特殊場合）
 - **高級餐廳**（Roscioli, Armando, Cesare）: €40-60
+- **現代創意**（Ditirambo, Bottega Tredici）: €30-50（tasting menu €45-60）
 - **傳統 trattoria**（Trattoria Monti, Flavio, La Tavernaccia）: €25-40
-- **Pizza al taglio**（Bonci）: €10-15
+- **Pizza al taglio**（Antico Forno Roscioli, Bonci）: €5-15
 - **Gelato**: €3-5
 - **糕點**（Regoli maritozzo）: €2-5
 - **咖啡**: €1-3（站著）/ €5-10（坐著）
@@ -276,6 +370,22 @@
 ---
 
 ## 圖例說明
-- ⭐ = 最高推薦
+- ⭐ = 高度推薦
+- ⭐⭐ = 超級推薦
+- ⭐⭐⭐ = 最高推薦，必訪
 - 📍 = 距飯店步行可達（5-15 分鐘）
-- ⭐⭐⭐ = 超近距離（5 分鐘內）
+- 🍕 = Pizza 或快速餐點
+- 🍨 = Gelato
+- 🏛️ = 歷史悠久，文化體驗
+- 💎 = 特殊場合，高預算
+
+## 總結
+
+**羅馬美食研究已完成**，共 17 個推薦地點：
+- **餐廳 Top Picks**: 9 間（包含傳統羅馬菜、創意料理、carbonara 專家）
+- **Gelato & 甜點**: 5 間（包含歷史名店與創意 gelato）
+- **糕點 & 快速餐點**: 2 間（pizza al taglio、maritozzo）
+- **特殊場合**: 1 間（米其林三星）
+- **備選方案**: 2 間
+
+所有地點已完成詳細研究、評分與來源驗證。
