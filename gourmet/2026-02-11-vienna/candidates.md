@@ -32,6 +32,8 @@ General note on Google Maps
 
 Figlmüller
 - Official: https://www.figlmueller.at/en/location-contact/ (兩家分店；有訂位連結；頁面提供 Google Maps 連結)
+- Guide:
+  - https://b2b.wien.info/en/newsroom/pressservice/all-of-vienna-memorable-meetings-authentic-people-and-pure-enjoy-388084 (vienna.info 提到 Figlmüller 作為在地特色工作/文化片段)
 - Reddit (sentiment is mixed):
   - https://www.reddit.com/r/Austria/comments/w996rq/whats_the_hype_about_figlm%C3%BCller_wiener_schnitzel/
   - https://www.reddit.com/r/SchnitzelVerbrechen/comments/1kduj99/schnitzel_vom_figlm%C3%BCller/?tl=en
@@ -42,6 +44,13 @@ Figlmüller
 - Recurring pros (from Reddit + review snippets): 份量巨大、外皮酥、作為「維也納經典體驗」辨識度高
 - Recurring cons (from Reddit + review snippets): 「tourist trap / overpriced」常被提；品質被形容不差但不值那個價；排隊與擁擠風險
 - Practical: reservation requirement = optional (官網可訂位); best time = 平日非尖峰; queue = 觀光時段可能久等
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 6/10
+  - Convenience: 8/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 5/10
+  - Total: 33/50
 
 Plachutta (Wollzeile)
 - Official: https://www.plachutta.at/en/wollzeile.html (主打 Tafelspitz；站內有 Reservation 入口)
@@ -56,9 +65,18 @@ Plachutta (Wollzeile)
 - Recurring pros: Tafelspitz 作為「一次到位」的代表；服務與座位舒適度常被肯定
 - Recurring cons: 價格偏高、偏觀光；尖峰可能需要排/訂位
 - Practical: reservation requirement = recommended; best time = 午餐早一點/晚餐早一點; queue = 尖峰可能等位
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 8/10
+  - Value: 6/10
+  - Convenience: 8/10
+  - Consistency: 8/10
+  - Risk (10 = low risk): 7/10
+  - Total: 37/50
 
 Café Central
 - Official reservation page: https://cafecentral.wien/en/reservation/ (≤6 人可線上訂位；官網也說桌子翻桌快、通常只要等一下)
+- Guide:
+  - https://www.wien.info/en/dine-drink/coffeehouses/top-traditional-coffee-houses-in-vienna-361666 (vienna.info 傳統咖啡館榜單含 Café Central)
 - Reddit (strong and consistent): 「排隊名店」幾乎是共識；有人建議除非想排隊不然避開
   - https://www.reddit.com/r/wien/comments/ulm45k/tourist_questions_please_help/
   - https://www.reddit.com/r/wien/comments/1ojxy1r/vienna_newbie_any_advice_appreciated/
@@ -69,9 +87,18 @@ Café Central
 - Recurring pros: 建築與氣氛「體驗值」高；甜點/咖啡選擇多
 - Recurring cons: 排隊、觀光化、價位偏高；尖峰可能影響體驗
 - Practical: reservation requirement = optional (≤6 可線上); best time = 平日開門後/下午離峰; queue = 常見
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 5/10
+  - Convenience: 7/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 6/10
+  - Total: 32/50
 
 Demel
 - Official cafe page: https://www.demel.com/en/pages/cafe (明確寫「We unfortunately do not take reservations」；10:00–19:00)
+- Guide:
+  - https://www.wien.info/en/dine-drink/coffeehouses/in-the-old-city-348958 (vienna.info 1010 區咖啡館清單含 Demel)
 - Reddit (common themes): 觀光名店、可能排隊；有人覺得值得「至少一次」，也有人偏好其他咖啡館
   - https://www.reddit.com/r/travel/comments/1irsbhc/3_days_trip_to_vienna/
   - https://www.reddit.com/r/Europetravel/comments/1nucybv/things_to_not_miss_in_vienna_what_not_to_do_as/
@@ -82,6 +109,13 @@ Demel
 - Recurring pros: 甜點選擇多；「歷史名店」氛圍；Kaiserschmarrn 等招牌在官網菜單可見
 - Recurring cons: 不可訂位；觀光人潮與排隊；性價比疑慮
 - Practical: reservation requirement = none (不接受訂位); best time = 開門後/離峰; queue = 可能
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 5/10
+  - Convenience: 7/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 6/10
+  - Total: 32/50
 
 Bitzinger Würstelstand (Albertina)
 - Guide: https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 (維也納官方旅遊資訊提到 Bitzinger)
@@ -94,3 +128,10 @@ Bitzinger Würstelstand (Albertina)
 - Recurring pros: 地點方便（歌劇院/Albertina 附近）；出餐快；適合當機動補給
 - Recurring cons: 觀光點位的擁擠；可能被認為偏貴或「不夠在地」
 - Practical: reservation requirement = none; best time = 非尖峰/當作轉場點; queue = 可能但通常周轉快
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 7/10
+  - Convenience: 9/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 6/10
+  - Total: 36/50
