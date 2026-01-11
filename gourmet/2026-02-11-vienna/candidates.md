@@ -6,13 +6,13 @@ Notes:
 
 | name | category | area | type | google_maps_url | status | sources | notes |
 |---|---|---|---|---|---|---|---|
-| Figlmüller | restaurant | Innere Stadt | Wiener Schnitzel | https://maps.app.goo.gl/1sdyipnUjrmL7cm77 | researching | https://www.figlmueller.at/en/location-contact/ | 大份量 schnitzel 名店；風險是偏觀光/偏貴與排隊。 |
-| Plachutta (Wollzeile) | restaurant | Innere Stadt | Tafelspitz (boiled beef) | https://www.google.com/maps/search/?api=1&query=Plachutta+Wollzeile+Wien | researching | https://www.plachutta.at/en/wollzeile.html ; https://www.wien.info/en/dine-drink/viennese-cuisine/boiled-beef-784360 | Tafelspitz 指標名店；常見評價：品質穩但偏貴/偏觀光。 |
+| Figlmüller | restaurant | Innere Stadt | Wiener Schnitzel | https://maps.app.goo.gl/1sdyipnUjrmL7cm77 | shortlisted | https://www.figlmueller.at/en/location-contact/ | 大份量 schnitzel 名店；風險是偏觀光/偏貴與排隊。 |
+| Plachutta (Wollzeile) | restaurant | Innere Stadt | Tafelspitz (boiled beef) | https://maps.app.goo.gl/pL4GNBpio9uod3977 | top | https://www.plachutta.at/en/wollzeile.html ; https://www.wien.info/en/dine-drink/viennese-cuisine/boiled-beef-784360 | Tafelspitz 指標名店；常見評價：品質穩但偏貴/偏觀光。 |
 | Steirereck im Stadtpark | restaurant | Landstraße (Stadtpark) | fine dining, Austrian | https://www.google.com/maps/search/?api=1&query=Steirereck+im+Stadtpark | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/steirereck-im-stadtpark | 米其林 3 星；價位高但風險低（需確認訂位難度與服裝規範）。 |
 | Mraz & Sohn | restaurant | Brigittenau | fine dining, creative | https://www.google.com/maps/search/?api=1&query=Mraz+%26+Sohn+Wien | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/mraz-sohn | 米其林 2 星；先查菜單節奏與訂位。 |
-| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://www.google.com/maps/search/?api=1&query=Bitzinger+W%C3%BCrstelstand+Albertina | researching | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
-| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Central+Wien | researching | https://cafecentral.wien/en/reservation/ | 官網表示可線上訂位（≤6人），否則現場等位；Reddit 常提到排隊。 |
-| Demel | dessert | Innere Stadt | pastry, cakes | https://www.google.com/maps/search/?api=1&query=Demel+Wien | researching | https://www.demel.com/en/pages/cafe | 官網明示不接受訂位；常見評價是「觀光名店但甜點值得/偏貴」。 |
+| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://www.google.com/maps/search/?api=1&query=Bitzinger+W%C3%BCrstelstand+Albertina+Wien | shortlisted | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
+| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Central+Herrengasse+14+1010+Wien | shortlisted | https://cafecentral.wien/en/reservation/ | 官網表示可線上訂位（≤6人），否則現場等位；Reddit 常提到排隊。 |
+| Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 官網明示不接受訂位；常見評價是「觀光名店但甜點值得/偏貴」。 |
 | Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | inbox | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | 原味 Sacher-Torte 地標；常見長隊與觀光價位（風險待評）。 |
 | Café Landtmann | cafe | Innere Stadt | historic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Landtmann+Wien | inbox | unknown | 觀光/在地皆會去的咖啡館候選；待補來源。 |
 | Café Sperl | cafe | Mariahilf | classic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sperl+Wien | inbox | unknown | 經典咖啡館候選；待補來源與尖峰狀況。 |
@@ -28,10 +28,11 @@ Next step (research queue suggestion)
 Research notes (evidence snapshots; 未完成版)
 
 General note on Google Maps
-- Google Maps rating/review count: `unknown` for now (Google often blocks scraping; will fill when we can reliably capture it). 暫用「Reddit 口碑趨勢 + Tripadvisor/Yelp 類平台評論摘要」做初步風險判斷。
+- Google Maps rating/review count: when available, capture from the Google Maps place page (some listings show a limited view / may omit review counts). 若無法可靠取得，先用「Reddit 口碑趨勢 + Tripadvisor/Yelp 類平台評論摘要」做初步風險判斷，並標記為 `unknown`。
 
 Figlmüller
 - Official: https://www.figlmueller.at/en/location-contact/ (兩家分店；有訂位連結；頁面提供 Google Maps 連結)
+- Google Maps (captured from place page): 4.3 (6,711 reviews) — https://maps.app.goo.gl/1sdyipnUjrmL7cm77
 - Guide:
   - https://b2b.wien.info/en/newsroom/pressservice/all-of-vienna-memorable-meetings-authentic-people-and-pure-enjoy-388084 (vienna.info 提到 Figlmüller 作為在地特色工作/文化片段)
 - Reddit (sentiment is mixed):
@@ -54,6 +55,7 @@ Figlmüller
 
 Plachutta (Wollzeile)
 - Official: https://www.plachutta.at/en/wollzeile.html (主打 Tafelspitz；站內有 Reservation 入口)
+- Google Maps (captured indirectly from Google Maps “People also search for” panel): 4.2 (12,546 reviews) — https://maps.app.goo.gl/pL4GNBpio9uod3977
 - Guide: https://www.wien.info/en/dine-drink/viennese-cuisine/boiled-beef-784360 (提到 Plachutta 與 Tafelspitz)
 - Reddit (common themes): 觀光、價格高，但體驗「正統 Tafelspitz」的代表
   - https://www.reddit.com/r/wien/comments/5u0zc7/in_vienna_next_3_days_where_to_go_for_tafelspitz/?tl=de
@@ -81,6 +83,7 @@ Café Central
   - https://www.reddit.com/r/wien/comments/ulm45k/tourist_questions_please_help/
   - https://www.reddit.com/r/wien/comments/1ojxy1r/vienna_newbie_any_advice_appreciated/
   - https://www.reddit.com/r/AskEurope/comments/yy3gni/what_is_the_most_popular_coffee_place_in_your/
+  - https://www.reddit.com/r/Coffee/comments/d7z3xk/viennese_coffee_houses/
 - Other review platforms:
   - https://www.tripadvisor.com/Restaurant_Review-g190454-d1967964-Reviews-or15-Cafe_Central-Vienna.html
   - https://www.yelp.com/biz/caf%C3%A9-central-wien-4
@@ -97,6 +100,7 @@ Café Central
 
 Demel
 - Official cafe page: https://www.demel.com/en/pages/cafe (明確寫「We unfortunately do not take reservations」；10:00–19:00)
+- Google Maps (captured from place page; review count not shown in limited view): 4.2 (unknown reviews) — https://maps.app.goo.gl/oVTuA6dMfcAKwf156
 - Guide:
   - https://www.wien.info/en/dine-drink/coffeehouses/in-the-old-city-348958 (vienna.info 1010 區咖啡館清單含 Demel)
 - Reddit (common themes): 觀光名店、可能排隊；有人覺得值得「至少一次」，也有人偏好其他咖啡館
@@ -123,6 +127,7 @@ Bitzinger Würstelstand (Albertina)
   - https://www.reddit.com/r/wien/comments/ux540i/work_is_sending_me_to_wien_for_3_weeks_from/
   - https://www.reddit.com/r/AskAustria/comments/1p3w5z1/what_to_do_in_vienna/
   - https://www.reddit.com/r/wien/comments/1ndfqar/favorite_delis_for_austrianinternational_cuisines/
+  - https://www.reddit.com/r/wien/comments/1fl4xtl/wien_solo_trip_itinerary_feedback_and_local/
 - Other review platforms:
   - https://www.tripadvisor.com/Restaurant_Review-g190454-d2656869-Reviews-Bitzinger_Wurstelstand_Albertina-Vienna.html
 - Recurring pros: 地點方便（歌劇院/Albertina 附近）；出餐快；適合當機動補給
