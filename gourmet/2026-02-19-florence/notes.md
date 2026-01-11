@@ -874,3 +874,441 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk (10 = low risk): 10/10（有訂位幾乎零風險）
 - **Total: 47/50**
 
+---
+
+## Ora d'Aria
+
+**Official**: https://www.oradariaristorante.com/en/home.html
+
+**Google Maps**: 4.5/5 (Google listings)
+
+**Tripadvisor**: 4.2/5 (1,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1084308-Reviews-Ora_d_Aria-Florence_Tuscany.html
+- Travelers' Choice Award
+
+**Michelin Guide**: ⭐ (1 Star)
+- https://guide.michelin.com/en/toscana/firenze/restaurant/ora-d-aria
+- Confirmed for 2024 and 2025 guides
+
+**Guide sources**:
+- Wanderlog: https://wanderlog.com/place/details/1177040/ora-daria
+- InTravel: https://intravel.net/florence/restaurants-cafes/ristorante-ora-daria
+- BestItaly.eu: https://en.bestitaly.eu/poi/ora-daria-michelin-experience
+
+**Reddit sentiment**:
+- Recommended for foodies seeking upscale modern Tuscan meal
+- Praised for chef-led experience with open kitchen view
+- Some advise comparing to other Michelin venues before booking
+- Generally positive but price point noted as high
+
+**Recurring pros**:
+- Contemporary Tuscan cuisine by Chef Marco Stabile
+- Innovative tasting menus (separate meat and fish options)
+- High-quality ingredients and meticulous plating
+- Open-view kitchen for interactive dining
+- Impressive wine list
+- Attentive but not intrusive service
+- Elegant and relaxing ambiance
+- About 8 tables maintaining intimate atmosphere
+- Standout dishes: artichoke and shrimp, risotto, Piedmontese steak, black cod
+- Gluten-free, vegetarian, and vegan options available
+
+**Recurring cons**:
+- Price point relatively high compared to other fine-dining in Florence
+- Service can vary during busy periods
+- Some feel it doesn't reach the heights of 2-3 star venues
+- Smaller than other Michelin restaurants
+
+**Practical**:
+- reservation requirement: required（強烈建議，提前預訂，尤其週末）
+- best visiting time: 晚餐（避開繁忙時段）
+- closed days: 需確認（官網或電話查詢）
+- booking: Official website or phone
+- location: Centro, Florence
+- price: €80-120/person（米其林一星價位）
+- capacity: ~8 tables
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（現代托斯卡納，創意技法優秀）
+- Value: 6/10（米其林一星價位，但略貴）
+- Convenience: 8/10（市中心，需提前預訂）
+- Consistency: 7/10（大多正面但服務偶有變化）
+- Risk (10 = low risk): 8/10（米其林一星，但非頂尖）
+- **Total: 37/50**
+
+---
+
+## Trattoria Mario
+
+**Official**: 無官方網站
+
+**Google Maps**: 4.6/5 (4,271+ reviews)
+
+**Tripadvisor**: 4.5/5 (5,000+ reviews)
+- Ranked #238-256 out of 2,400+ Florence restaurants
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1088282-Reviews-Trattoria_Mario-Florence_Tuscany.html
+
+**Restaurant Guru**: 4.6/5 (11,093 reviews)
+- https://restaurantguru.com/Mario-Florence
+
+**Foursquare**: 8.1/10
+
+**Other sources**:
+- InTravel: https://intravel.net/florence/restaurants-cafes/trattoria-mario
+- Airial Travel (TikTok/Instagram/Reddit aggregator): https://www.airial.travel/restaurants/italy/florence/trattoria-mario-dSS8aL4y
+
+**Reddit sentiment**:
+- Frequent praise for food quality and atmosphere
+- Tips: "Show up before noon or after 2pm"
+- Queue is "part of the experience"
+- Shared tables add to liveliness and authenticity
+- Considered a "must" for real Florence experience
+- Best for those who don't mind wait and crowded room
+
+**Recurring pros**:
+- Iconic family-run spot since decades
+- Authentic Tuscan dishes, especially Bistecca alla Fiorentina
+- Outstanding value for genuine cuisine
+- Daily changing menu
+- Warm, family-style atmosphere
+- Great for meeting people
+- Solo travelers enjoy shared seating
+- Vibrant atmosphere with memorabilia
+- Brisk but friendly service
+- Direct view of kitchen
+
+**Recurring cons**:
+- **僅午餐營業**（Monday-Wednesday 12-3pm，無晚餐）
+- Queue required (30+ minutes during peak)
+- No reservations accepted for lunch
+- Shared seating mandatory (not private)
+- Fast-paced turnover may feel rushed
+- Very crowded and noisy
+- Located near tourist area San Lorenzo
+
+**Practical**:
+- reservation requirement: none（不接受預訂，先到先服務）
+- best visiting time: 11:30 前抵達或 14:00 後（避開午餐高峰）
+- closed days: Thursday-Sunday（僅週一至週三營業）
+- opening hours: 12:00-15:00（僅午餐）
+- queue: 預期排隊 30+ 分鐘（高峰時段）
+- seating: **Shared tables**（共享座位）
+- location: Near San Lorenzo market
+- price: €15-25/person（高性價比）
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（道地托斯卡納，品質穩定）
+- Value: 9/10（性價比極高）
+- Convenience: 5/10（僅午餐，需排隊，共享座位）
+- Consistency: 7/10（品質穩定但體驗取決於接受共享座位）
+- Risk (10 = low risk): 6/10（排隊時間不確定，共享座位非人人接受）
+- **Total: 35/50**
+
+---
+
+## Gustapizza
+
+**Official**: 無官方網站（僅 Facebook 頁面）
+
+**Google Maps**: 4.4-4.5/5 (thousands of reviews)
+
+**Tripadvisor**: 4.4-4.5/5 (4,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1155597-Reviews-Gustapizza-Florence_Tuscany.html
+
+**Restaurant Guru**: 4.5/5 (11,000+ opinions)
+- https://restaurantguru.com/Gusta-Panino-Florence
+- Ranked among top pizza places in Florence
+
+**Foursquare**: 8.8/10 (320 ratings)
+- https://foursquare.com/v/gusta-pizza/4b9d3668f964a520f99936e3
+- Ranked #5 for pizza in Florence
+
+**Other sources**:
+- Multiple travel blogs and guides
+- TikTok/Instagram highly popular
+
+**Reddit sentiment**:
+- Regularly recommended as "best pizza in Florence"
+- Locals, expats, and travelers all praise it
+- Many rank it among top pizza experiences in all of Italy
+- "Worth the wait" is common phrase
+
+**Recurring pros**:
+- Soft, chewy Neapolitan style dough
+- Fresh, high-quality ingredients
+- Signature pizzas: Pesto, Burrata, Truffle, Margherita, Calabrese, "Gusta" special
+- Authentic Neapolitan style
+- Affordable pricing (€9-14 per pizza)
+- Generous size portions
+- Welcoming, friendly staff
+- Casual atmosphere
+- Mix of tourists and locals (including students)
+- Quick queue movement despite crowds
+- Popular takeaway option
+
+**Recurring cons**:
+- Almost always a line (20-30 minutes peak times)
+- Very busy during lunch and dinner
+- Limited seating
+- Can be chaotic during rush
+- Location sometimes crowded with tourists
+
+**Practical**:
+- reservation requirement: none（不接受預訂，僅 walk-in）
+- best visiting time: Off-peak hours（避開午晚餐高峰）
+- closed days: 需確認
+- queue: 20-30 分鐘（高峰時段），but moves quickly
+- takeaway: Popular option, eat at Santo Spirito square nearby
+- location: Oltrarno (Via Maggio)
+- price: €9-14/pizza（性價比極高）
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（那不勒斯式披薩，品質優秀）
+- Value: 9/10（價格實惠，份量充足）
+- Convenience: 6/10（需排隊，walk-in only）
+- Consistency: 8/10（評價一致正面）
+- Risk (10 = low risk): 6/10（排隊時間不確定）
+- **Total: 38/50**
+
+---
+
+## Gelateria dei Neri
+
+**Official**: 無官方網站
+
+**Google Maps**: 4.7/5 (based on reviews)
+
+**Tripadvisor**: 4.7/5 (thousands of reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d2075392-Reviews-Gelateria_dei_Neri-Florence_Tuscany.html
+- Often referred to as "best gelato in Florence"
+
+**Other sources**:
+- Airial Travel (Reddit/Instagram/TikTok): https://www.airial.travel/restaurants/italy/florence/gelateria-dei-neri-CGdlqD0d
+- Multiple travel blogs
+
+**Reddit sentiment**:
+- Frequently suggested as "must-visit" for gelato
+- Redditors list it as top pick after taste-testing across Florence
+- Compares favorably to Vivoli and La Carraia
+- Some call it "definitive spot for gelato in Florence"
+
+**Recurring pros**:
+- Authentic, rich, creamy texture
+- Wide array of flavors (classics and creative options)
+- Standout flavors: Pistachio, fruit flavors, rice, "Cream dei Neri" (chocolate/pistachio)
+- Intense and real flavors
+- Reasonable pricing (€3-7 for cups/cones)
+- Fast-moving queue despite crowds
+- Friendly staff
+- Location near Arno River
+- Easy to visit while sightseeing
+- High rating consistency (4.7/5)
+
+**Recurring cons**:
+- Tends to get crowded
+- Queue during peak times
+- Tourist-heavy location
+
+**Practical**:
+- reservation requirement: none（gelato shop，walk-in）
+- best visiting time: Off-peak hours
+- closed days: 需確認
+- queue: 預期排隊（但移動快）
+- location: Centro, near Arno River
+- price: €3-7/cone or cup
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（優質 gelato，口味真實）
+- Value: 8/10（價格合理）
+- Convenience: 7/10（市中心，但需排隊）
+- Consistency: 8/10（評價一致高分）
+- Risk (10 = low risk): 4/10（排隊但品質保證）
+- **Total: 36/50**
+
+---
+
+## Osteria Santo Spirito
+
+**Official**: 可能有官網（需確認）
+
+**Google Maps**: 4.1-4.2/5
+
+**Tripadvisor**: 4.1/5 (3,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d716349-Reviews-Osteria_Santo_Spirito-Florence_Tuscany.html
+
+**Restaurant Guru**: 4.4/5
+- https://restaurantguru.com/Osteria-Santo-Spirito-Florence-2
+
+**InTravel**: 4.4/5 (3,556 reviews)
+- https://intravel.net/florence/restaurants-cafes/osteria-santo-spirito
+
+**Reddit sentiment**:
+- Generally not considered a "tourist trap"
+- Good value and authentic food
+- Popular with tourists AND locals/students
+- Busy location but quality matches hype
+- Prices not inflated despite tourism
+
+**Recurring pros**:
+- Excellent pasta (especially gnocchi gratinati with truffle)
+- High-quality, hearty Tuscan cuisine
+- Sizeable portions
+- Competitive prices for central location
+- Lively, friendly, casual atmosphere
+- Many outdoor tables in bustling piazza
+- Home-style Italian cuisine
+- Cozy terrace
+- Professional, cheerful service (generally)
+- Vegetarian and vegan options available
+- Good for casual and group dining
+
+**Recurring cons**:
+- Very busy, long queues without reservation
+- Reservation highly recommended (especially dinner/weekends)
+- Service may be slow when crowded
+- Can feel "touristy" due to popularity
+- Piazza location (may be more touristy than hidden gems)
+
+**Practical**:
+- reservation requirement: recommended（強烈建議，尤其晚餐與週末）
+- best visiting time: 需預訂以避免排隊
+- closed days: 需確認
+- booking: 可提前數天預訂
+- queue: 無預訂可能長時間排隊
+- outdoor seating: Highly recommended
+- location: Oltrarno (Santo Spirito square)
+- price: €20-35/person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10（優質托斯卡納家常菜）
+- Value: 7/10（價格合理，份量足）
+- Convenience: 6/10（需預訂，繁忙）
+- Consistency: 6/10（繁忙時服務可能變慢）
+- Risk (10 = low risk): 7/10（有預訂風險低）
+- **Total: 33/50**
+
+---
+
+## Il Pizzaiuolo
+
+**Official**: https://ilpizzaiuolo.it/en/
+
+**Google Maps**: 4.5/5 (thousands of reviews)
+
+**Tripadvisor**: 4.2/5 (2,100+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d1109269-Reviews-Il_Pizzaiuolo-Florence_Tuscany.html
+- Travelers' Choice Award
+
+**Restaurant Guru**: 4.4/5 (7,140 votes)
+
+**Foursquare**: 8.8/10 (ranked #5 for pizza in Florence, 320 ratings)
+- https://foursquare.com/v/il-pizzaiuolo/4be0774198f2a593bf58c25a
+
+**VisitFlorence**: 4-5/5 food quality
+- https://www.visitflorence.com/eating-and-drinking-in-florence/il-pizzaiuolo.html
+
+**Reddit sentiment**:
+- Frequently mentioned in "best pizza in Florence" discussions
+- Genuine Neapolitan option
+- Advice to reserve ahead as almost always busy
+
+**Recurring pros**:
+- Authentic Neapolitan pizzas (high crust, thin center)
+- Wood-fired oven
+- High-quality ingredients (Mozzarella di Bufala)
+- Standout pizzas: Bomba, Diavola
+- Excellent starters: arancini, burrata, octopus pasta
+- Bustling, informal atmosphere
+- Friendly, efficient service
+- Popular with locals (Florentines eat here)
+- Good desserts: cannoli, pastiera napoletana
+- Family-friendly
+- Great value for Neapolitan pizza
+
+**Recurring cons**:
+- Very busy, long queues especially dinner/weekends
+- Not suitable for romantic dinners (lively/loud)
+- Tiramisu receives mixed reviews
+- Location slightly off-center (Sant'Ambrogio)
+- Reservation essential
+
+**Practical**:
+- reservation requirement: required（強烈建議，尤其晚餐與週末）
+- best visiting time: 需預訂，避開晚餐高峰
+- closed days: 需確認
+- booking: Official website or phone
+- queue: Walk-ins face long waits
+- location: Sant'Ambrogio area (near market)
+- price: €15-25/person
+- atmosphere: Informal, lively, casual
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（正宗那不勒斯披薩）
+- Value: 8/10（價格合理，品質優）
+- Convenience: 6/10（需預訂，位置稍偏，繁忙）
+- Consistency: 7/10（品質穩定，但繁忙時較吵鬧）
+- Risk (10 = low risk): 6/10（需預訂否則排隊長）
+- **Total: 35/50**
+
+---
+
+## Caffè Gilli (REJECTED)
+
+**Official**: 可能有官網
+
+**Google Maps**: ~3.7/5
+
+**Tripadvisor**: 3.7/5 (thousands of reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d696487-Reviews-Caffe_Gilli-Florence_Tuscany.html
+
+**Historic significance**:
+- Oldest café in Florence (since 1733)
+- Art Nouveau decor, Murano chandeliers
+- Historic meeting place for writers, artists, designers
+
+**Sources**:
+- BestFreeTour: https://bestfreetour.com/2025/03/18/caffe-gilli-the-oldest-cafe-in-florence-and-its-fascinating-history/
+- AFAR review: https://www.afar.com/places/caffe-gilli-firenze
+
+**Reddit/Review sentiment**:
+- Frequently described as "expensive"
+- Multiple reviews explicitly call it "tourist trap"
+- "Avoid" recommendations common
+- Some find ambiance justifies splurge for special occasions
+- Historic value vs actual experience debate
+
+**Recurring pros**:
+- Unique historic setting (Belle Époque)
+- Beautiful Art Nouveau decor
+- Good pastries (sometimes)
+- Often excellent coffee (at bar)
+- Prime location in Piazza della Repubblica
+- Cultural/historic significance
+
+**Recurring cons**:
+- **Very expensive**（€6-8 for espresso）
+- Inconsistent service (slow, inattentive)
+- Long wait times
+- Lackluster food quality (doesn't match premium price)
+- Some felt ignored
+- Commercialized and crowded
+- Quality varies significantly
+- Table service much more expensive than bar
+
+**Practical**:
+- reservation requirement: optional（walk-in 可，但體驗不佳）
+- best visiting time: Bar service only（避免坐下用餐）
+- location: Piazza della Repubblica (prime tourist area)
+- price: €6-8/espresso, €15-30 for full service（極貴）
+- recommendation: Bar only if must visit
+
+**Score (50-point rubric)**:
+- Taste / Quality: 5/10（品質不穩定，普通）
+- Value: 3/10（價格極高，性價比極差）
+- Convenience: 8/10（市中心黃金地段）
+- Consistency: 4/10（服務與品質極度不穩）
+- Risk (10 = low risk): 5/10（高失望風險）
+- **Total: 25/50** ❌
+
+**Exclusion Reason**: 評分 25/50 遠低於 30 分門檻。多來源警告為觀光陷阱，價格極高但品質與服務不符。歷史價值無法彌補實際用餐體驗的缺陷。若想體驗歷史氛圍，建議僅在吧台點咖啡，避免坐下用餐。
+

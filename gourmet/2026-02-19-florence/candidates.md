@@ -27,6 +27,13 @@ Notes:
 | Vivoli | dessert | Centro Storico | Gelato | https://www.google.com/maps/search/?api=1&query=Vivoli+Florence | top | Yelp, TripAdvisor, Florence Insider, ItalyLogue | 1930年創立；可能排隊 25-45 分鐘 |
 | Gelateria Perchè No | dessert | Centro | Gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+Perche+No+Florence | top | TripAdvisor, Wanderlog, HappyCow, Facebook | 1939年創立；歷史悠久；品質穩定 |
 | I Gelati del Bondi | dessert | Centro Storico | Gelato | https://www.google.com/maps/search/?api=1&query=I+Gelati+del+Bondi+Florence | shortlisted | TripAdvisor, Florentine Interview, Wanderlog, Viator | Master Gelatiere；工藝精湛 |
+| Ora d'Aria | restaurant | Centro | Michelin 1-star | https://www.google.com/maps/search/?api=1&query=Ora+d%27Aria+Florence | shortlisted | Michelin Guide, TripAdvisor, Wanderlog, InTravel | 米其林一星；現代托斯卡納；開放式廚房；評分 37/50 |
+| Trattoria Mario | restaurant | San Lorenzo | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence | shortlisted | TripAdvisor, Restaurant Guru, Foursquare, InTravel | 家族經營；僅午餐；共享座位；需排隊；評分 35/50 |
+| Gustapizza | restaurant | Oltrarno | Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Gustapizza+Florence | shortlisted | TripAdvisor, Restaurant Guru, Foursquare | 佛羅倫斯最佳披薩之一；需排隊；評分 38/50 |
+| Gelateria dei Neri | dessert | Centro | Gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+dei+Neri+Florence | shortlisted | TripAdvisor, Airial Travel, Reddit | 被譽為佛羅倫斯最佳 gelato；評分 36/50 |
+| Osteria Santo Spirito | restaurant | Oltrarno | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito+Florence | shortlisted | TripAdvisor, Restaurant Guru, InTravel | 廣場餐廳；gnocchi 出名；需預訂；評分 33/50 |
+| Il Pizzaiuolo | restaurant | Sant'Ambrogio | Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Il+Pizzaiuolo+Florence | shortlisted | TripAdvisor, Restaurant Guru, Foursquare, VisitFlorence | 正宗那不勒斯披薩；需預訂；評分 35/50 |
+| Caffè Gilli | cafe | Piazza della Repubblica | Historic cafe | https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Gilli+Florence | rejected | TripAdvisor, BestFreeTour, AFAR | **已排除**：觀光陷阱；價格極高；服務不穩；評分 25/50 |
 
 ---
 

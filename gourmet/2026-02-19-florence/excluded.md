@@ -135,45 +135,77 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 
 ---
 
+### 3. Caffè Gilli
+
+**Category**: Cafe  
+**Area**: Piazza della Repubblica  
+**Type**: Historic cafe  
+**Status**: REJECTED  
+
+**Reason for Exclusion**: 觀光陷阱，價格極高，服務不穩，品質與價格不符
+
+**Evidence Summary**:
+
+**Tripadvisor**: 3.7/5 (thousands of reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d696487-Reviews-Caffe_Gilli-Florence_Tuscany.html
+- Mixed reviews with many warnings
+
+**Historic significance**:
+- Oldest café in Florence (since 1733)
+- Art Nouveau decor, Murano chandeliers
+- Historic meeting place
+
+**Sources**:
+- BestFreeTour: https://bestfreetour.com/2025/03/18/caffe-gilli-the-oldest-cafe-in-florence-and-its-fascinating-history/
+- AFAR: https://www.afar.com/places/caffe-gilli-firenze
+
+**Recurring complaints**:
+- **價格極高**: €6-8 for espresso, €15-30 for table service
+- **Explicitly labeled "tourist trap"** by multiple reviewers
+- **Service issues**: Slow, inattentive, inconsistent
+- Long wait times
+- Food quality doesn't match premium prices
+- Commercialized atmosphere
+- Quality varies significantly
+
+**Recurring positives** (not sufficient to overcome negatives):
+- Historic setting and beautiful decor
+- Good pastries (sometimes)
+- Cultural significance
+- Prime location
+
+**Score (50-point rubric)**:
+- Taste / Quality: 5/10（品質不穩定，普通）
+- Value: 3/10（價格極高，性價比極差）
+- Convenience: 8/10（市中心黃金地段）
+- Consistency: 4/10（服務與品質極度不穩）
+- Risk (10 = low risk): 5/10（高失望風險）
+- **Total: 25/50** ❌
+
+**Exclusion Decision**: 
+評分 25/50 遠低於 30 分門檻。多來源警告為觀光陷阱，價格極高但品質與服務不符。歷史價值無法彌補實際用餐體驗的缺陷。
+
+若想體驗歷史氛圍，建議僅在吧台點咖啡（約 €3-4），避免坐下用餐。但即使如此，Ditta Artigianale 提供更優質的咖啡體驗。
+
+---
+
 ## 未深入研究候選（Not Researched Further）
 
 以下候選在初步篩選後未深入研究，原因包括：優先級較低、與 Top Picks 重複類型、或初步資訊不足。
 這些**不代表被排除**，僅是在時間有限情況下未優先研究。
 
-### 1. Trattoria Mario
+**2026-01-11 更新**：以下候選已完成深入研究：
+- ✅ **Ora d'Aria** (Michelin 1-star): 已研究並評分（37/50），列入 shortlisted
+- ✅ **Trattoria Mario** (Traditional Tuscan): 已研究並評分（35/50），列入 shortlisted
+- ✅ **Gustapizza** (Neapolitan pizza): 已研究並評分（38/50），列入 shortlisted  
+- ✅ **Gelateria dei Neri** (Gelato): 已研究並評分（36/50），列入 shortlisted
+- ✅ **Osteria Santo Spirito** (Traditional Tuscan): 已研究並評分（33/50），列入 shortlisted
+- ✅ **Il Pizzaiuolo** (Neapolitan pizza): 已研究並評分（35/50），列入 shortlisted
+- ✅ **Caffè Gilli** (Historic cafe): 已研究並評分（25/50），移至已排除餐廳（rejected）
 
-**Category**: Restaurant  
-**Area**: San Lorenzo  
-**Type**: Traditional Tuscan  
-**Initial sources**: TripAdvisor, travel guides  
+### 剩餘未深入研究候選（5 間）
 
-**Why not researched further**:
-- 與 Trattoria ZaZa 類似，位於觀光區
-- 座位共享（shared seating）可能不適合所有旅客
-- 已有足夠高品質 trattoria 選項
-- 時間有限，優先研究更高評價選項
-
-**Status**: 未深入研究，優先級低
-
----
-
-### 3. Osteria Santo Spirito
-
-**Category**: Restaurant  
-**Area**: Oltrarno (Santo Spirito square)  
-**Type**: Traditional Tuscan  
-**Initial sources**: Multiple guides  
-
-**Why not researched further**:
-- Oltrarno 區已有 Alla Vecchia Bettola 作為代表
-- 廣場位置可能較觀光化
-- 優先研究更小、更隱密的選項
-
-**Status**: 未深入研究，可作為備選
-
----
-
-### 4. La Giostra
+### 1. La Giostra
 
 **Category**: Restaurant  
 **Area**: Centro  
@@ -189,9 +221,7 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 
 ---
 
-## Gelato 店排除/未研究
-
-### 1. Giolitti
+### 2. Giolitti
 
 **Category**: Dessert (Gelato)  
 **Area**: Pantheon area (Rome - 錯誤地點)  
@@ -200,24 +230,9 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 **Why excluded/not researched**:
 - **主要原因**: Giolitti 主要位於羅馬，非佛羅倫斯
 - 若佛羅倫斯有分店，資訊不明確
-- 已有 3 間高評價歷史 gelateria（Vivoli, Perchè No, Bondi）
+- 已有 4 間高評價歷史 gelateria（Vivoli, Perchè No, Bondi, dei Neri）
 
 **Status**: 地點不符
-
----
-
-### 2. Gelateria dei Neri
-
-**Category**: Dessert (Gelato)  
-**Area**: Centro  
-**Type**: Gelato  
-
-**Why not researched further**:
-- 初步評價顯示品質良好但不突出
-- 已有 3 間頂級 gelateria 選項
-- 時間有限，優先研究更高評價選項
-
-**Status**: 未深入研究，可作為備選
 
 ---
 
@@ -229,32 +244,14 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 
 **Why not researched further**:
 - 評價良好但未達 Top Tier
-- 已有足夠高品質選項
+- 已有 4 間高品質 gelato 選項（包含 dei Neri）
 - 優先研究更具特色或歷史的 gelateria
 
 **Status**: 未深入研究，可作為備選
 
 ---
 
-## 咖啡館排除/未研究
-
-### 1. Caffè Gilli
-
-**Category**: Cafe  
-**Area**: Piazza della Repubblica  
-**Type**: Historic cafe  
-
-**Why not researched further**:
-- 歷史悠久但評價顯示觀光化嚴重
-- 價格極高（€6-8 for espresso）
-- Specialty coffee 品質可能不如精品咖啡館
-- 已有 Ditta Artigianale 作為頂級選擇
-
-**Status**: 未深入研究，觀光傾向
-
----
-
-### 2. Caffè Rivoire
+### 4. Caffè Rivoire
 
 **Category**: Cafe  
 **Area**: Piazza della Signoria  
@@ -265,48 +262,14 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 - 價格極高
 - 位置極度觀光化（Piazza della Signoria）
 - Specialty coffee 品質疑慮
+- 已有 Ditta Artigianale 作為頂級選擇
+- Caffè Gilli 研究結果顯示此類歷史咖啡館不適合本次目標
 
 **Status**: 未深入研究，觀光傾向
 
 ---
 
-## 披薩店排除/未研究
-
-### 1. Gustapizza
-
-**Category**: Restaurant (Pizza)  
-**Area**: Oltrarno  
-**Type**: Pizza  
-
-**Why not researched further**:
-- 初步評價顯示品質良好
-- 但 Ciro & Sons 已涵蓋披薩選項
-- 時間有限，披薩非主要優先
-- 可作為備選
-
-**Status**: 未深入研究，已有披薩選項
-
----
-
-### 2. Il Pizzaiuolo
-
-**Category**: Restaurant (Pizza)  
-**Area**: Sant'Ambrogio  
-**Type**: Neapolitan pizza  
-
-**Why not researched further**:
-- 那不勒斯式披薩，評價良好
-- Ciro & Sons 已涵蓋此類型
-- 位置稍偏
-- 披薩非本次旅行主要重點（托斯卡納料理優先）
-
-**Status**: 未深入研究，類型重複
-
----
-
-## 高級餐廳排除/未研究
-
-### 1. Cibrèo
+### 5. Cibrèo
 
 **Category**: Restaurant  
 **Area**: Sant'Ambrogio  
@@ -315,47 +278,43 @@ Reddit 與 TripAdvisor 多次警告為觀光陷阱，與項目目標（尋找高
 **Why not researched further**:
 - 高價位與米其林選項重疊
 - 評價顯示近年品質有爭議
-- 已有 Enoteca Pinchiorri 和 Santa Elisabetta 作為米其林選項
-- 預算與時間有限
+- 已有 Enoteca Pinchiorri (3星), Santa Elisabetta (2星), Ora d'Aria (1星) 作為米其林選項
+- 預算與時間有限（3天僅能安排 0-1 餐米其林）
 
 **Status**: 未深入研究，米其林已涵蓋
 
 ---
 
-### 2. Ora d'Aria
-
-**Category**: Restaurant  
-**Area**: Centro  
-**Type**: Michelin 1-star  
-
-**Why not researched further**:
-- 1星米其林，品質優秀
-- 但時間與預算有限，3天僅能安排 0-1 餐米其林
-- 已優先選擇 3星（Enoteca Pinchiorri）和 2星（Santa Elisabetta）
-- 若不選 3星，此店可作為替代
-
-**Status**: 未深入研究，預算/時間限制
-
----
-
 ## 總結排除決策
 
-### Hard Rejections（2間）
+### Hard Rejections（3 間）
 1. **Buca Mario**: 評分 26/50，觀光陷阱警告，價格過高，品質不穩
 2. **Trattoria Zà Zà**: 評分 28/50，觀光化極度嚴重，品質不穩定，在地人不推薦
+3. **Caffè Gilli**: 評分 25/50，觀光陷阱，價格極高，服務不穩
 
-### Not Researched Further（15+ 間）
-- 優先級較低
-- 類型重複
-- 觀光化傾向
-- 時間與預算限制
+### Researched and Added to Shortlist（6 間）
+經過深入研究，以下候選已評分並列入 candidates.md：
+1. **Ora d'Aria** (Michelin 1-star): 37/50 - 現代托斯卡納，米其林一星替代方案
+2. **Trattoria Mario** (Traditional Tuscan): 35/50 - 家族經營，僅午餐，共享座位，性價比高
+3. **Gustapizza** (Neapolitan pizza): 38/50 - 佛羅倫斯最佳披薩之一
+4. **Gelateria dei Neri** (Gelato): 36/50 - 被譽為佛羅倫斯最佳 gelato
+5. **Osteria Santo Spirito** (Traditional Tuscan): 33/50 - 廣場餐廳，gnocchi 出名
+6. **Il Pizzaiuolo** (Neapolitan pizza): 35/50 - 正宗那不勒斯披薩
+
+### Not Researched Further（5 間，已更新）
+- La Giostra（優先級低）
+- Giolitti（地點不符，位於羅馬）
+- Edoardo（可作為 gelato 備選）
+- Caffè Rivoire（觀光傾向，與 Gilli 類似）
+- Cibrèo（米其林選項已充足）
 
 ### 建議
-若 Top Picks 無法預訂或臨時需要備選，可重新研究以下選項：
-- **Trattoria**: Trattoria Mario（若接受共享座位）
-- **Gelato**: Gelateria dei Neri, Edoardo
-- **Pizza**: Gustapizza, Il Pizzaiuolo
-- **Fine dining**: Ora d'Aria（1星米其林替代方案）
+若 Top Picks 無法預訂或臨時需要備選，可參考以下選項：
+- **Trattoria**: Trattoria Mario（35/50，已研究，若接受共享座位與僅午餐）
+- **Gelato**: Gelateria dei Neri（36/50，已研究）, Edoardo（未研究，可作為備選）
+- **Pizza**: Gustapizza（38/50，已研究）, Il Pizzaiuolo（35/50，已研究）
+- **Fine dining**: Ora d'Aria（37/50，已研究，1星米其林替代方案）
+- **Trattoria (Oltrarno)**: Osteria Santo Spirito（33/50，已研究）
 
 ---
 

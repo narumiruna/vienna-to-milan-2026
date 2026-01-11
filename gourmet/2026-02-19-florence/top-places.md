@@ -185,6 +185,73 @@
   - reservation: optional
   - price: €15-25/person
 
+#### Gustapizza (38/50) ⭐
+- **type**: Neapolitan pizza
+- **area**: Oltrarno
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Gustapizza+Florence
+- **justification**: 佛羅倫斯最佳披薩之一，Reddit 與在地人強力推薦，軟Q 那不勒斯麵團，新鮮食材，性價比極高
+- **constraints**: 
+  - reservation: none（不接受預訂，僅 walk-in）
+  - queue: 20-30 分鐘（高峰時段但移動快）
+  - takeaway: 可外帶至 Santo Spirito 廣場享用
+  - price: €9-14/pizza
+  - 推薦口味：Pesto, Burrata, Margherita, Calabrese
+
+#### Ora d'Aria (37/50) ⭐ (Michelin 1-star)
+- **type**: Michelin 1-star contemporary Tuscan
+- **area**: Centro
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Ora+d%27Aria+Florence
+- **official**: https://www.oradariaristorante.com/en/home.html
+- **justification**: 米其林一星，現代托斯卡納料理，開放式廚房，創意 tasting menu，適合不想選 3 星但想體驗米其林的旅客
+- **constraints**: 
+  - reservation: required（提前預訂，尤其週末）
+  - price: €80-120/person（米其林一星價位）
+  - capacity: 約 8 桌，親密空間
+  - 特色：分開的肉類與海鮮 tasting menu，優質wine list
+
+#### Gelateria dei Neri (36/50) ⭐
+- **type**: Gelato
+- **area**: Centro (near Arno River)
+- **total score**: 36/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Gelateria+dei+Neri+Florence
+- **justification**: 被譽為佛羅倫斯最佳 gelato 之一，真實濃郁口味，Reddit 高度推薦，性價比優
+- **constraints**: 
+  - queue: 會排隊但移動快
+  - price: €3-7/cone or cup
+  - 推薦口味：Pistachio, Cream dei Neri (chocolate/pistachio), 水果口味
+
+#### Il Pizzaiuolo (35/50) ⭐
+- **type**: Neapolitan pizza
+- **area**: Sant'Ambrogio
+- **total score**: 35/50
+- **official**: https://ilpizzaiuolo.it/en/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Il+Pizzaiuolo+Florence
+- **justification**: 正宗那不勒斯披薩，木燒爐，高品質食材（Mozzarella di Bufala），在地人推薦，Travelers' Choice
+- **constraints**: 
+  - reservation: required（強烈建議，尤其晚餐與週末）
+  - queue: Walk-ins 需長時間等候
+  - price: €15-25/person
+  - atmosphere: 熱鬧非正式，不適合浪漫晚餐
+  - 推薦：Bomba pizza, Diavola, arancini, burrata
+
+#### Trattoria Mario (35/50)
+- **type**: Traditional Tuscan trattoria
+- **area**: San Lorenzo (near market)
+- **total score**: 35/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence
+- **justification**: 標誌性家族經營 trattoria，道地托斯卡納菜，性價比極高，Reddit 強推，特別體驗
+- **constraints**: 
+  - **CRITICAL**: 僅午餐（12:00-15:00，週一至週三）
+  - reservation: none（不接受預訂）
+  - queue: 30+ 分鐘（高峰時段）
+  - seating: **共享座位**（mandatory shared tables）
+  - best time: 11:30 前或 14:00 後
+  - closed: 週四至週日
+  - price: €15-25/person
+  - 注意：接受共享座位、等待、吵雜環境者適合
+
 #### Trattoria Dall'Oste (35/50)
 - **type**: Bistecca steakhouse
 - **area**: Centro（多分店：Via Luigi Alamanni 近車站 / Borgo San Lorenzo 近主教堂）
@@ -200,6 +267,19 @@
   - opening hours: 12:00-22:30（全年營業）
   - price: €15-70/person（依牛排選擇）
   - 建議：優先點牛排，堅持預訂的分店，準備等候
+
+#### Osteria Santo Spirito (33/50)
+- **type**: Traditional Tuscan
+- **area**: Oltrarno (Santo Spirito square)
+- **total score**: 33/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito+Florence
+- **justification**: 廣場餐廳，gnocchi gratinati 特別出名（尤其加 truffle），份量大，價格合理，適合團體
+- **constraints**: 
+  - reservation: recommended（強烈建議，尤其晚餐與週末）
+  - queue: 無預訂可能長時間排隊
+  - outdoor seating: 廣場戶外座位佳
+  - price: €20-35/person
+  - 注意：繁忙時服務可能較慢
 
 ### 咖啡館 Backups
 
