@@ -63,6 +63,125 @@ Agents MUST respect this structure and naming.
 
 ---
 
+## Progressive Disclosure Principle
+
+**Progressive disclosure** is a design principle where information is revealed gradually, showing only what's necessary at each stage while providing paths to deeper detail when needed.
+
+### Why This Matters
+
+In this project:
+- **Travelers need quick answers** (e.g., "What are the top 3 places for dinner?")
+- **But decisions require justification** (e.g., "Why did you exclude Restaurant X?")
+- **Research depth varies** (quick scan → detailed investigation → deep dive)
+
+Progressive disclosure prevents:
+- ❌ Overwhelming users with all details upfront
+- ❌ Hiding critical information too deeply
+- ❌ Making quick decisions difficult
+- ❌ Losing traceability of research rationale
+
+### How We Apply It
+
+#### File Structure (Layered Information)
+
+```
+overview.md       ← START HERE: Context, strategy, progress at a glance
+    ↓
+top-places.md     ← ACTIONABLE: Final recommendations with scores
+    ↓
+candidates.md     ← RESEARCH: Detailed evidence and scoring rationale
+    ↓
+inbox.md          ← RAW DATA: Unstructured capture, exploration notes
+    ↓
+excluded.md       ← REJECTED: What was considered and why it was excluded
+```
+
+**Each file serves a distinct purpose**:
+- **overview.md**: Quick orientation (5-minute read)
+- **top-places.md**: Decision-making (10-minute read, includes dining strategy)
+- **candidates.md**: Full research trail (30+ minutes, includes all evidence)
+- **inbox.md**: Working space (exploratory, always in flux)
+- **excluded.md**: Audit trail (transparency, prevents re-research)
+
+#### Within-Document Disclosure
+
+**In candidates.md**:
+1. **Summary table** at top (name, score, status) → quick scan
+2. **Detailed sections** below per place → click/scroll to investigate
+3. **Evidence and sources** → full research trail
+
+**In top-places.md**:
+1. **Top Picks** first (35+ scores) → immediate action
+2. **Backups** second (30-34 scores) → alternatives if needed
+3. **Dining Strategy** → logistics and planning
+4. **To-Do items** → execution checklist
+
+**In overview.md**:
+1. **Travel info** → immediate context
+2. **Food highlights** → city-specific focus
+3. **Strategy** → research approach
+4. **Progress checklist** → current status
+
+### Guidelines for Agents
+
+When creating or updating documentation:
+
+1. **Start with the answer, then justify**
+   - ✅ "Top Pick: Restaurant X (42/50) - Exceptional pasta, reliable service"
+   - ❌ "After reviewing 15 sources and analyzing 200 reviews... Restaurant X"
+
+2. **Use visual hierarchy**
+   - Headers, scores, and key facts should stand out
+   - Details should be scannable (bullets, short paragraphs)
+   - Full evidence goes in expandable sections or separate files
+
+3. **Link, don't duplicate**
+   - overview.md references top-places.md
+   - top-places.md links to candidates.md for full research
+   - Avoid copying the same information into multiple files
+
+4. **Respect the reader's journey**
+   - Someone planning their day → starts at top-places.md
+   - Someone questioning a recommendation → digs into candidates.md
+   - Someone auditing research → checks excluded.md
+
+5. **Maintain traceability without overwhelming**
+   - Every score must be justifiable (in candidates.md)
+   - Every top pick must have evidence (sources linked)
+   - But top-places.md doesn't need to repeat all evidence
+
+### Anti-Patterns to Avoid
+
+- ❌ Putting all research in one massive file
+- ❌ Hiding final recommendations deep in candidates.md
+- ❌ Forcing readers to read everything to find actionable info
+- ❌ Removing audit trails (deleted places, score changes)
+- ❌ Creating too many layers (more than 5 files per city)
+
+### Example Flow
+
+**Quick Trip Planning (5 minutes)**:
+```
+README.md → [select city] → top-places.md → Done
+```
+
+**Reservation Planning (15 minutes)**:
+```
+top-places.md → Check constraints → Make reservations → Update To-Do
+```
+
+**Deep Research Review (1 hour)**:
+```
+overview.md → top-places.md → candidates.md → Check all sources → Validate scores
+```
+
+**Investigating an Exclusion (5 minutes)**:
+```
+excluded.md → Find place → Read reason → (Optional: check candidates.md for full details)
+```
+
+---
+
 ## Workflow (Must Follow)
 
 ### 0 Initialize City Research
@@ -367,6 +486,6 @@ For each researched place, ensure you can answer:
 ## MCP
 
 - You will leverage MCP tools to search for the information you need.
-- Document design will consider progressive disclosure.
+- Document design must follow the **Progressive Disclosure Principle** (see dedicated section above).
 - If rate limits are hit, then try another tool or wait before retrying.
 - The rate limits of firecrawl search is 5 times per minute.
