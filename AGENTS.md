@@ -72,6 +72,7 @@ Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO
 - overview.md  
 - inbox.md  
 - candidates.md  
+- notes.md  
 - top-places.md  
 - excluded.md  
 
@@ -107,7 +108,9 @@ overview.md       ← START HERE: Context, strategy, progress at a glance
     ↓
 top-places.md     ← ACTIONABLE: Final recommendations with scores
     ↓
-candidates.md     ← RESEARCH: Detailed evidence and scoring rationale
+candidates.md     ← SUMMARY: Quick scan table with scores and status
+    ↓
+notes.md          ← EVIDENCE: Detailed research notes, sources, and rationale
     ↓
 inbox.md          ← RAW DATA: Unstructured capture, exploration notes
     ↓
@@ -117,16 +120,23 @@ excluded.md       ← REJECTED: What was considered and why it was excluded
 **Each file serves a distinct purpose**:
 - **overview.md**: Quick orientation (5-minute read)
 - **top-places.md**: Decision-making (10-minute read, includes dining strategy)
-- **candidates.md**: Full research trail (30+ minutes, includes all evidence)
+- **candidates.md**: Summary table (quick scan, 5-10 minutes, shows all candidates with scores and status)
+- **notes.md**: Detailed evidence (deep dive, 30+ minutes, full research trail for each place)
 - **inbox.md**: Working space (exploratory, always in flux)
 - **excluded.md**: Audit trail (transparency, prevents re-research)
 
 #### Within-Document Disclosure
 
 **In candidates.md**:
-1. **Summary table** at top (name, score, status) → quick scan
-2. **Detailed sections** below per place → click/scroll to investigate
-3. **Evidence and sources** → full research trail
+1. **Summary table only** (name, category, area, type, google_maps_url, status, sources, notes) → quick scan
+2. **No detailed sections** - these belong in notes.md
+3. **Brief notes column** - one-line summary per place (Traditional Chinese)
+
+**In notes.md**:
+1. **Detailed evidence sections** per place → deep research trail
+2. **Source citations** with URLs → full traceability
+3. **Scoring rationale** → justification for each score component
+4. **Practical information** → reservation, queues, closed days, etc.
 
 **In top-places.md**:
 1. **Top Picks** first (35+ scores) → immediate action
@@ -155,32 +165,40 @@ When creating or updating documentation:
 
 3. **Link, don't duplicate**
    - overview.md references top-places.md
-   - top-places.md links to candidates.md for full research
+   - top-places.md links to candidates.md for quick scan
+   - candidates.md table rows can reference notes.md for detailed evidence
    - Avoid copying the same information into multiple files
 
 4. **Respect the reader's journey**
    - Someone planning their day → starts at top-places.md
-   - Someone questioning a recommendation → digs into candidates.md
+   - Someone wanting a quick overview → checks candidates.md table
+   - Someone questioning a score → digs into notes.md for evidence
    - Someone auditing research → checks excluded.md
 
 5. **Maintain traceability without overwhelming**
-   - Every score must be justifiable (in candidates.md)
-   - Every top pick must have evidence (sources linked)
-   - But top-places.md doesn't need to repeat all evidence
+   - Every score must be justifiable (in notes.md)
+   - Every top pick must have evidence (sources in notes.md)
+   - But candidates.md and top-places.md stay concise with summary info only
 
 ### Anti-Patterns to Avoid
 
 - ❌ Putting all research in one massive file
-- ❌ Hiding final recommendations deep in candidates.md
+- ❌ Mixing summary tables with detailed evidence in candidates.md
+- ❌ Hiding final recommendations deep in notes
 - ❌ Forcing readers to read everything to find actionable info
 - ❌ Removing audit trails (deleted places, score changes)
-- ❌ Creating too many layers (more than 5 files per city)
+- ❌ Creating too many layers (more than 6 files per city)
 
 ### Example Flow
 
 **Quick Trip Planning (5 minutes)**:
 ```
 README.md → [select city] → top-places.md → Done
+```
+
+**Quick Candidate Scan (10 minutes)**:
+```
+candidates.md → Scan table with scores and status → Identify priorities
 ```
 
 **Reservation Planning (15 minutes)**:
@@ -190,12 +208,12 @@ top-places.md → Check constraints → Make reservations → Update To-Do
 
 **Deep Research Review (1 hour)**:
 ```
-overview.md → top-places.md → candidates.md → Check all sources → Validate scores
+overview.md → top-places.md → candidates.md → notes.md → Check all sources → Validate scores
 ```
 
 **Investigating an Exclusion (5 minutes)**:
 ```
-excluded.md → Find place → Read reason → (Optional: check candidates.md for full details)
+excluded.md → Find place → Read reason → (Optional: check notes.md for full details)
 ```
 
 ---
@@ -292,13 +310,15 @@ Minimum fields per candidate in candidates.md table:
 ### 2 Evidence Collection — Per Place
 
 For each candidate promoted to research:
-- Add a detailed evidence section in `candidates.md` (keep it skimmable; link sources).
+- Add a detailed evidence section in `notes.md` (keep it skimmable; link sources).
+- Update the candidates.md table row with brief summary in notes column.
 - Summarize evidence from multiple independent sources.
 
 **Efficient research pattern**:
 1. Use web_search with specific queries: "[Restaurant Name] [City] reviews rating reservation Reddit"
 2. One search often provides Google Maps rating, Tripadvisor reviews, and Reddit sentiment together
 3. Extract key information systematically
+4. Document full evidence in notes.md, update candidates.md table with status and brief summary
 
 Required source types:
 - Google Maps (rating, review count, recurring pros/cons)
@@ -318,7 +338,7 @@ Rules:
 - Include actual URLs in sources section
 - Note if information is unavailable (use `unknown`)
 
-**Evidence section template**:
+**Evidence section template (for notes.md)**:
 ```
 ### [Place Name]
 
