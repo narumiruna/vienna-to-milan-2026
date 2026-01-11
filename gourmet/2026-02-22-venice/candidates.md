@@ -10,10 +10,13 @@ Notes:
 |---|---|---|---|---|---|---|---|---|
 | Osteria alle Testiere | restaurant | Castello | seafood, Venetian | https://www.google.com/maps/place/Osteria+alle+Testiere | researching | TBD | Michelin, Tripadvisor, Google Maps | 米其林指南推薦；需提前數月訂位 |
 | Osteria La Zucca | restaurant | Santa Croce | Venetian, vegetable-forward | https://www.google.com/maps/place/Osteria+La+Zucca | researching | TBD | Tripadvisor, Google Maps, official site | 創意蔬食為主；需提前訂位 |
-| Cantina Do Spade | restaurant | San Polo | bacaro, cicchetti | https://www.google.com/maps/place/Cantina+Do+Spade | researching | TBD | Tripadvisor, Google Maps, TasteAtlas | 歷史悠久的 bacaro；cicchetti 經典 |
-| Gelateria Nico | dessert | Dorsoduro | gelato | https://www.google.com/maps/place/Gelateria+Nico | researching | TBD | Tripadvisor, Google Maps | Zattere 水岸；招牌 gianduiotto |
-| Torrefazione Cannaregio | cafe | Cannaregio | espresso, coffee | https://www.google.com/maps/place/Torrefazione+Cannaregio | researching | TBD | Tripadvisor, Google Maps | Travelers' Choice 獎；早上人潮多 |
-| Trattoria Antiche Carampane | restaurant | San Polo | seafood, Venetian | https://www.google.com/maps/search/?api=1&query=Trattoria+Antiche+Carampane+Venezia | inbox | - | unknown | 海鮮名店候選；需要補多來源證據。 |
+| Cantina Do Spade | restaurant | San Polo | bacaro, cicchetti | https://www.google.com/maps/place/Cantina+Do+Spade | top | 39/50 | Tripadvisor, Google Maps, TasteAtlas | 歷史悠久的 bacaro；cicchetti 經典 |
+| Gelateria Nico | dessert | Dorsoduro | gelato | https://www.google.com/maps/place/Gelateria+Nico | shortlisted | 34/50 | Tripadvisor, Google Maps | Zattere 水岸；招牌 gianduiotto |
+| Torrefazione Cannaregio | cafe | Cannaregio | espresso, coffee | https://www.google.com/maps/place/Torrefazione+Cannaregio | top | 42/50 | Tripadvisor, Google Maps | Travelers' Choice 獎；早上人潮多 |
+| Trattoria Antiche Carampane | restaurant | San Polo | seafood, Venetian | https://www.google.com/maps/place/Trattoria+Antiche+Carampane | researching | TBD | Michelin, Tripadvisor, Google Maps | 米其林推薦；家族經營海鮮餐廳 |
+| Al Timon | restaurant | Cannaregio | bacaro, cicchetti | https://www.google.com/maps/place/Al+Timon | researching | TBD | Tripadvisor, travel guides | 運河邊 bacaro；停在船上用餐 |
+| Suso Gelatoteca | dessert | Cannaregio | gelato | https://www.google.com/maps/place/Suso+Gelatoteca | researching | TBD | Tripadvisor, official site | 威尼斯最佳 gelato 之一 |
+| Pasticceria Tonolo | dessert | San Polo | pastry | https://www.google.com/maps/place/Pasticceria+Tonolo | researching | TBD | Tripadvisor, Wanderlog | 傳統糕點店；奶油泡芙出名 |
 | Osteria Alla Staffa | restaurant | Castello | Venetian | https://www.google.com/maps/search/?api=1&query=Osteria+Alla+Staffa+Venezia | inbox | unknown | 觀光區外圍的口袋名單（待查）。 |
 | Il Ridotto | restaurant | Castello | modern Venetian | https://www.google.com/maps/search/?api=1&query=Il+Ridotto+Venezia | inbox | unknown | 以小盤/海鮮為主（待查）。 |
 | CoVino | restaurant | Castello | wine bar, small plates | https://www.google.com/maps/search/?api=1&query=CoVino+Venezia | inbox | unknown | 酒吧型小食；看作宵夜/轉場點。 |
@@ -318,3 +321,240 @@ Notes:
 - Consistency: 9/10 (reliable quality, friendly service)
 - Risk: 9/10 (very low risk, just queue management)
 - **Total: 42/50**
+
+---
+
+### Trattoria Antiche Carampane
+
+**Official**: Unknown
+
+**Google Maps**: Unknown (需查詢)
+- San Polo area
+- +39 041 524 0165
+
+**Tripadvisor**: 4.3/5 (1,680+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1087359-Reviews-Antiche_Carampane-Venice_Veneto.html
+- Travelers' Choice award (top 10% in Venice)
+- Typically ranked in top 250 of 1,400+ restaurants
+
+**Michelin Guide**: Listed in Michelin Guide
+
+**Other ratings**:
+- Restaurant Guru: 4.3/5
+- Foursquare: 8.1/10
+- Facebook: 4.5/5
+
+**Guide sources**:
+- Michelin Guide listing
+- Featured in multiple Venice seafood guides
+- Family-run traditional trattoria
+
+**Reddit sentiment**:
+- Not extensively discussed on Reddit but positive mentions
+- Recommended for authentic Venetian seafood
+
+**Recurring pros**:
+- Exceptional seafood quality and freshness
+- Famous "Gran Fritto Misto delle Carampane"
+- Authentic Venetian classics (sarde in saor, baccalà mantecato)
+- Seasonal specialties: fried moeche (soft shell crabs in spring/autumn)
+- Daily specials communicated verbally by staff
+- Cozy, historic family-run atmosphere
+- Attentive service
+- Good wine list, reasonably priced
+- Vegetarian and gluten-free options available
+
+**Recurring cons**:
+- Difficult to get table without reservation
+- Prices on higher end (reflects quality and location)
+- Closed Sunday and Monday (2 days per week)
+- Online booking not always available
+
+**Practical**:
+- reservation requirement: required (highly recommended)
+- best visiting time: lunch 12:45-14:30, dinner 19:30-22:30
+- closed days: Sunday and Monday
+- queue: reservations essential
+- price: €€€ (high-end)
+- accepts: credit cards accepted
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (exceptional authentic seafood)
+- Value: 7/10 (expensive but quality justifies)
+- Convenience: 6/10 (closed 2 days, reservations required)
+- Consistency: 9/10 (highly reliable, family-run)
+- Risk: 8/10 (low risk if booked, high quality)
+- **Total: 39/50**
+
+---
+
+### Al Timon
+
+**Official**: Unknown
+
+**Google Maps**: Unknown (需查詢)
+- Cannaregio district
+
+**Tripadvisor**: 4.0-4.1/5 (1,700+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g15035619-d1069463-Reviews-Al_Timon-Cannaregio_Veneto.html
+- Travelers' Choice award
+- Ranked #3 of 9 restaurants in Cannaregio
+
+**Other ratings**: Featured in multiple cicchetti bar guides
+
+**Guide sources**:
+- Wandering Wheatleys: Listed as top choice in "10 Best Cicchetti Bars in Venice"
+- Multiple travel guides feature it for bacaro culture
+
+**Reddit sentiment**:
+- Frequently mentioned positively on Reddit travel forums
+- Praised for maintaining authenticity and local crowd
+- Popular for canal-side aperitivo
+
+**Recurring pros**:
+- Imaginative and generous cicchetti (€2 per piece)
+- Unique dining on docked gondolas outside
+- Lively, welcoming atmosphere for young crowds
+- Florentine steaks also available
+- Good value for Venice
+- Open late (until 1 AM) - perfect for late night
+- Vegetarian and gluten-free options
+- Busy with locals (sign of authenticity)
+- Standout: toasted bread with goat cheese and berry jam
+
+**Recurring cons**:
+- Service can be inconsistent during rush hours
+- Some remarks about seating policies
+- Can get very crowded
+- Pricing transparency issues mentioned occasionally
+
+**Practical**:
+- reservation requirement: recommended for dinner, walk-ins ok for drinks/cicchetti
+- best visiting time: evening aperitivo, late night
+- closed days: unknown (需確認)
+- queue: expect crowds, especially evenings
+- price: € to €€ (affordable to moderate)
+- accepts: credit cards accepted
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (good cicchetti, creative options)
+- Value: 9/10 (excellent value, €2 per piece)
+- Convenience: 8/10 (late hours, canal location)
+- Consistency: 7/10 (food reliable, service variable)
+- Risk: 8/10 (low risk, crowds manageable)
+- **Total: 40/50**
+
+---
+
+### Suso Gelatoteca
+
+**Official**: https://suso.gelatoteca.it/en/
+
+**Google Maps**: Unknown (需查詢)
+- Cannaregio and San Marco locations
+
+**Tripadvisor**: 4.6/5 (2,800+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d3204527-Reviews-Suso_Gelatoteca-Venice_Veneto.html
+- Ranked #13-15 of dessert shops in Venice
+- Travelers' Choice award
+
+**Other ratings**: Consistently top-rated in Venice gelato guides
+
+**Guide sources**:
+- Featured in "best gelato in Venice" lists
+- Known for environmental commitment and natural ingredients
+
+**Reddit sentiment**:
+- Generally positive mentions
+- Recognized as top gelato destination
+
+**Recurring pros**:
+- "Best gelato in Venice" frequently mentioned
+- Rich, creamy, unique flavors
+- High-quality natural ingredients
+- Attentive and efficient staff
+- Quick service despite long lines
+- Vegetarian, vegan, and gluten-free options
+- Venetian originality and innovation
+- Environmentally friendly packaging
+- QR code menu for easier ordering while waiting
+
+**Recurring cons**:
+- Long lines common (but moves quickly)
+- Prices slightly higher than other gelato shops
+- Crowds during peak times
+
+**Practical**:
+- reservation requirement: none (gelato shop)
+- best visiting time: off-peak to avoid longest lines
+- closed days: unknown (需確認)
+- queue: expect lines, but service is efficient
+- price: €€ (slightly premium but justified)
+- accepts: cash and cards
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (outstanding gelato quality)
+- Value: 8/10 (slightly expensive but worth it)
+- Convenience: 7/10 (multiple locations, but lines)
+- Consistency: 9/10 (very reliable quality and service)
+- Risk: 9/10 (very low risk, highly dependable)
+- **Total: 42/50**
+
+---
+
+### Pasticceria Tonolo
+
+**Official**: Unknown
+
+**Google Maps**: Unknown (需查詢)
+- San Polo/Dorsoduro area
+
+**Tripadvisor**: 4.5/5 (1,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d5850770-Reviews-Pasticceria_Tonolo-Venice_Veneto.html
+- Ranked #2 of 35 bakeries in Venice
+- Travelers' Choice (top 10% of restaurants)
+
+**Wanderlog**: Ranked #1 of "50 best breakfast and brunch in Venice"
+
+**Other ratings**: Consistently featured in Venice pastry guides
+
+**Guide sources**:
+- Multiple Venice food guides
+- ToBeVenice directory listing
+
+**Reddit sentiment**:
+- Positive mentions for authentic Venetian pastries
+- Recommended for breakfast and traditional sweets
+
+**Recurring pros**:
+- Exceptional quality and freshness
+- Famous cream puffs (not overly sweet)
+- Excellent tiramisu
+- Traditional Venetian sweets
+- "Ancient Venice" atmosphere and rituals
+- Coffee served in elegant porcelain cups
+- Quick, friendly service despite crowds
+- Popular with locals (authenticity indicator)
+- Handcrafted products (items sell out = freshness)
+- Reasonable prices
+
+**Recurring cons**:
+- Popular items may sell out quickly
+- Can be crowded during peak hours
+- Limited seating (mostly standing)
+
+**Practical**:
+- reservation requirement: none (bakery/café)
+- best visiting time: morning for best selection
+- closed days: unknown (需確認)
+- queue: expect crowds, especially mornings
+- price: € (affordable)
+- accepts: cash and cards
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (exceptional traditional pastries)
+- Value: 9/10 (excellent quality for price)
+- Convenience: 8/10 (good location, sells out early)
+- Consistency: 9/10 (very reliable, authentic)
+- Risk: 9/10 (very low risk, highly recommended)
+- **Total: 44/50**
