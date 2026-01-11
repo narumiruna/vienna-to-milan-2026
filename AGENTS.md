@@ -181,3 +181,4 @@ Each entry MUST include:
 - You will leverage MCP tools to search for the information you need.
 - Document design will consider progressive disclosure.
 - If rate limits are hit, then try another tool or wait before retrying.
+- The rate limits of firecrawl search is 5 times per minute.
