@@ -43,17 +43,13 @@ All recommendations must be:
 
 ## Required Repository Structure (Per City)
 
-Each city directory under `food/` MUST contain:
+Each city directory under `gourmet/` MUST contain:
 
 - overview.md  
 - inbox.md  
-- candidates.csv  
+- candidates.md  
 - top-places.md  
 - excluded.md  
-- decisions/  
-  - YYYY-MM-DD-<action>.md  
-- places/  
-  - <city>-<normalized-place-name>.md  
 
 Agents MUST respect this structure and naming.
 
@@ -66,7 +62,7 @@ Agents MUST respect this structure and naming.
 - Search broadly for food, coffee, and dessert places in the city.
 - Record raw findings in:
   - inbox.md (unstructured, fast capture)
-  - and/or candidates.csv (structured list)
+  - and/or candidates.md (structured list)
 
 Minimum fields per candidate:
 - name
@@ -81,8 +77,7 @@ Minimum fields per candidate:
 ### 2 Evidence Collection — Per Place
 
 For each candidate promoted to research:
-- Create a file in places/ named:
-  - <city>-<normalized-place-name>.md
+- Add an evidence section for the place in `candidates.md` (keep it skimmable; link sources).
 - Summarize evidence from multiple independent sources.
 
 Required source types:
@@ -126,7 +121,7 @@ Also record:
 
 Record exclusions in:
 - excluded.md
-- and/or decisions/YYYY-MM-DD-triage.md
+- and/or `candidates.md` (if keeping all notes in one file)
 
 Hard exclusion triggers:
 - Strong multi-source signals of tourist traps
@@ -157,6 +152,8 @@ Each entry MUST include:
 
 ## Documentation & Naming Rules
 
+- `AGENTS.md` is written in English.
+- Other documents in this repo MUST be primarily in Traditional Chinese (Taiwan).
 - Use English for structured fields and keys
 - Dates must follow ISO format (YYYY-MM-DD)
 - Unknown information must be labeled as `unknown`
@@ -170,3 +167,8 @@ Each entry MUST include:
 - Prefer fewer, higher-confidence picks
 - Avoid relying on a single platform
 - Preserve traceability at all times
+
+## MCP
+
+- You will leverage MCP tools to search for the information you need.
+- Document design will consider progressive disclosure.
