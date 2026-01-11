@@ -252,12 +252,12 @@ Each entry MUST include:
 - constraints (reservation, queues, closed days, price level)
 
 **Additional sections to include**:
-- 用餐策略建議 (Dining Strategy):
+- Dining Strategy:
   - Time planning (lunch/dinner hours, local customs)
   - Reservation strategy (which places need booking, how far in advance)
   - Budget allocation (price ranges per category)
   - Transportation from hotel (how to reach different areas)
-- 待辦事項 (To-Do):
+- To-Do:
   - Confirm closed days
   - Make reservations (with timing)
   - Plan daily dining schedule
