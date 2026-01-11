@@ -10,20 +10,20 @@ Agents MUST NOT:
 - Reorder cities or modify the travel route
 
 ## Flight Itinerary (Immutable)
-TPE→VIE BR61
-2/10 22:30 TPE
-2/11 08:25 VIE
-VIE→FCO OS557
-2/13 17:40 VIE
-2/13 19:15 FCO
-MXP→TPE BR96
-2/27 11:00 MXP
-2/28 05:55 TPE
+- TPE→VIE BR61
+  - 2/10 22:30 TPE
+  - 2/11 08:25 VIE
+- VIE→FCO OS557
+  - 2/13 17:40 VIE
+  - 2/13 19:15 FCO
+- MXP→TPE BR96
+  - 2/27 11:00 MXP
+  - 2/28 05:55 TPE
 
 ## Train Itinerary (Immutable)
-2/19 Roma Tiburtina(10:45 → Firenze S. M. Novella(12:11)
-2/22 Firenze S. M. Novella(10:20 → Venezia Mestre(12:23)
-2/25 Venezia Mestre(12:00 → Milano Centrale(14:15)
+- 2/19 Roma Tiburtina → Firenze S. M. Novella
+- 2/22 Firenze S. M. Novella → Venezia Mestre
+- 2/25 Venezia Mestre → Milano Centrale
 
 ## Accommodation (Immutable)
 - Vienna: Hilton Vienna Park
