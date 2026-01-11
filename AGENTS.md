@@ -105,16 +105,16 @@ Before marking a city as "✅ 已完成", verify:
 
 ```bash
 # Check candidates.md for any remaining inbox items
-grep "status: inbox" candidates.md
-# → Should return ZERO results
+grep "| inbox |" candidates.md | wc -l
+# → Should return 0
 
 # Check excluded.md for pending decision sections
-grep -i "待決定\|尚未研究\|undecided\|not yet researched" excluded.md
-# → Should return ZERO results (except in headers explaining what those terms mean)
+grep -i "待決定\|尚未研究\|undecided\|not yet researched" excluded.md | wc -l
+# → Should return 0
 
 # Check overview.md for incomplete checklist items
-grep "\[ \]" overview.md
-# → Should return ZERO results
+grep "\[ \]" overview.md | wc -l
+# → Should return 0
 
 # Verify top-places.md exists and has content
 ls -la top-places.md && wc -l top-places.md
