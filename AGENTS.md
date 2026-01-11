@@ -82,7 +82,7 @@ A city can be marked as "✅ 已完成" (Completed) in README.md **only when ALL
 - ❌ Researching EVERY place initially collected
   - It's acceptable to deprioritize candidates and document them in excluded.md as "Not Researched Further"
   - Focus on quality over quantity (4-6 top picks is sufficient)
-  - **Important**: While candidates may have `status: inbox` during active research, they must be resolved (researched or explicitly excluded) before marking the city as completed
+  - **Note on workflow**: During active research (📝 or 🔄 status), candidates may temporarily have `status: inbox`. However, before marking a city as ✅ Completed, all inbox items must be resolved—either researched and scored, or explicitly moved to excluded.md with reasoning.
 
 - ❌ Having backups for every category
   - Top picks are essential; backups are nice-to-have
@@ -113,6 +113,10 @@ grep -E "\| inbox \||status:?\s*inbox" candidates.md | wc -l
 
 # Check excluded.md for pending decision sections (headers only)
 # Targets section headers (lines starting with #) containing pending indicators
+# Examples that should match:
+#   "### 待決定的候選"
+#   "## Undecided Candidates"
+#   "### Not Yet Researched"
 grep -E "^#.*待決定|^#.*待定|^#.*尚未研究|^#.*[Uu]ndecided|^#.*[Nn]ot [Yy]et [Rr]esearched|^#.*[Pp]ending" excluded.md | wc -l
 # → Should return 0
 
