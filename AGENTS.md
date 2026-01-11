@@ -43,7 +43,7 @@ All recommendations must be:
 
 ## Required Repository Structure (Per City)
 
-Each city directory under `gourmet/` MUST contain:
+Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO), e.g. `2026-02-11-vienna/`, and MUST contain:
 
 - overview.md  
 - inbox.md  
