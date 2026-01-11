@@ -8,20 +8,20 @@ Notes:
 |---|---|---|---|---|---|---|---|
 | Figlmüller | restaurant | Innere Stadt | Wiener Schnitzel | https://maps.app.goo.gl/1sdyipnUjrmL7cm77 | shortlisted | https://www.figlmueller.at/en/location-contact/ | 大份量 schnitzel 名店；風險是偏觀光/偏貴與排隊。 |
 | Plachutta (Wollzeile) | restaurant | Innere Stadt | Tafelspitz (boiled beef) | https://maps.app.goo.gl/pL4GNBpio9uod3977 | top | https://www.plachutta.at/en/wollzeile.html ; https://www.wien.info/en/dine-drink/viennese-cuisine/boiled-beef-784360 | Tafelspitz 指標名店；常見評價：品質穩但偏貴/偏觀光。 |
-| Steirereck im Stadtpark | restaurant | Landstraße (Stadtpark) | fine dining, Austrian | https://www.google.com/maps/search/?api=1&query=Steirereck+im+Stadtpark | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/steirereck-im-stadtpark | 米其林 3 星；價位高但風險低（需確認訂位難度與服裝規範）。 |
-| Mraz & Sohn | restaurant | Brigittenau | fine dining, creative | https://www.google.com/maps/search/?api=1&query=Mraz+%26+Sohn+Wien | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/mraz-sohn | 米其林 2 星；先查菜單節奏與訂位。 |
-| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9 | shortlisted | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 ; https://www.bitzinger-wien.at/ | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
-| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://maps.app.goo.gl/S4y1vfWbPE4vcswb8 | shortlisted | https://cafecentral.wien/en/reservation/ ; https://cafecentral.wien/en/ | 官網表示可線上訂位（≤6人），否則現場等位；Reddit 常提到排隊。 |
-| Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 官網明示不接受訂位；常見評價是「觀光名店但甜點值得/偏貴」。 |
-| Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | inbox | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | 原味 Sacher-Torte 地標；常見長隊與觀光價位（風險待評）。 |
-| Café Landtmann | cafe | Innere Stadt | historic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Landtmann+Wien | inbox | unknown | 觀光/在地皆會去的咖啡館候選；待補來源。 |
-| Café Sperl | cafe | Mariahilf | classic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sperl+Wien | inbox | unknown | 經典咖啡館候選；待補來源與尖峰狀況。 |
-| Café Prückel | cafe | Innere Stadt | classic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Pr%C3%BCckel+Wien | inbox | unknown | 復古風格咖啡館候選；待補來源。 |
-| Gasthaus Pöschl | restaurant | Innere Stadt | Viennese beisl | https://www.google.com/maps/search/?api=1&query=Gasthaus+P%C3%B6schl+Wien | inbox | unknown | 內城小酒館候選；查「在地感 vs 觀光化」。 |
-| Zum Schwarzen Kameel | restaurant | Innere Stadt | open-faced sandwiches, Austrian | https://www.google.com/maps/search/?api=1&query=Zum+Schwarzen+Kameel+Wien | inbox | unknown | 名氣大；先查性價比與排隊。 |
-
-Next step (research queue suggestion)
-- Start with: Figlmüller, Plachutta, Café Central, Demel, Bitzinger Würstelstand
+| Steirereck im Stadtpark | restaurant | Landstraße (Stadtpark) | fine dining, Austrian | https://www.google.com/maps/search/?api=1&query=Steirereck+im+Stadtpark | top | https://guide.michelin.com/us/en/vienna/wien/restaurant/steirereck-im-stadtpark | 米其林 3 星；價位高但風險低（需確認訂位難度與服裝規範）。 |
+| Mraz & Sohn | restaurant | Brigittenau | fine dining, creative | https://www.google.com/maps/search/?api=1&query=Mraz+%26+Sohn+Wien | top | https://guide.michelin.com/us/en/vienna/wien/restaurant/mraz-sohn | 米其林 2 星；先查菜單節奏與訂位。 |
+| Gasthaus Pöschl | restaurant | Innere Stadt | Viennese beisl | https://www.google.com/maps/search/?api=1&query=Gasthaus+P%C3%B6schl+Wien | top | https://www.tripadvisor.com/Restaurant_Review-g190454-d877454-Reviews-Gasthaus_Poschl-Vienna.html | 正宗維也納小酒館，在地人與遊客皆推薦。 |
+| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9 | top | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 ; https://www.bitzinger-wien.at/ | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
+| Café Landtmann | cafe | Innere Stadt | historic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Landtmann+Wien | shortlisted | https://viennatrips.com/blog/cafe-landtmann-vienna | 正宗維也納咖啡館體驗；尖峰可能擁擠。 |
+| Café Prückel | cafe | Innere Stadt | classic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Pr%C3%BCckel+Wien | shortlisted | https://www.visitingvienna.com/eatingdrinking/cafespubsbars/cafe-pruckel/ | 1950 年代復古風格；服務評價可能不一。 |
+| Zum Schwarzen Kameel | restaurant | Innere Stadt | open-faced sandwiches, Austrian | https://www.google.com/maps/search/?api=1&query=Zum+Schwarzen+Kameel+Wien | shortlisted | https://www.tripadvisor.com/Restaurant_Review-g190454-d714256-Reviews-Zum_Schwarzen_Kameel-Vienna.html | 名氣大；午餐/週末可能需要排隊。 |
+| Café Sperl | cafe | Mariahilf | classic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sperl+Wien | shortlisted | https://www.tripadvisor.com/Restaurant_Review-g190454-d877314-Reviews-Cafe_Sperl-Vienna.html | 經典咖啡館候選；較不觀光化。 |
+| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://maps.app.goo.gl/S4y1vfWbPE4vcswb8 | shortlisted | https://cafecentral.wien/en/reservation/ ; https://cafecentral.wien/en/ | 經典咖啡館；排隊風險顯著。 |
+| Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 老牌甜點名店；不接受訂位；可能排隊。 |
+| Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | rejected | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | Soft exclusion：29/50（已列入 excluded.md）。 |
+  
+  Next step (research queue suggestion)
+  - Start with: Figlmüller, Plachutta, Café Central, Demel, Bitzinger Würstelstand
 
 ---
 
@@ -142,3 +142,160 @@ Bitzinger Würstelstand (Albertina)
   - Consistency: 7/10
   - Risk (10 = low risk): 6/10
   - Total: 36/50
+
+Café Sacher Wien
+- Official: https://www.sacher.com/en/restaurants/cafe-sacher-wien/ (可線上訂位以避開排隊)
+- Google Maps: 3.9/5 (18,000+ 評論)
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d793025-Reviews-Cafe_Sacher_Wien-Vienna.html (4.0/5, 20,000+ 評論)
+  - https://thirdeyetraveller.com/cafe-sacher-vienna-review-sachertorte/ (部落格評價)
+- Reddit / community: 「bucket-list」體驗；多數認為氛圍與歷史價值高於蛋糕本身；Sacher-Torte 常被評為「乾」，需搭配鮮奶油食用
+- Other platforms:
+  - https://restaurantguru.com/Sacher-Eck-Vienna-5 (4/5)
+  - https://globetrotgal.com/cafe-sacher-vienna-review-overhyped-chocolate-cake/ (部分評論認為過譽)
+- Recurring pros: 原創 Sacher-Torte、優雅歷史氛圍、位於國家歌劇院對面地點絕佳
+- Recurring cons: 等待時間長（45-60分鐘常見）；蛋糕偏乾且價格偏高；服務參差不齊
+- Practical: reservation requirement = optional (建議線上訂位); best time = 離峰時段/早晨或傍晚; queue = 常見長隊
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 6/10
+  - Value: 5/10
+  - Convenience: 7/10
+  - Consistency: 6/10
+  - Risk (10 = low risk): 5/10
+  - Total: 29/50
+
+Café Landtmann
+- Official: 官網可訂位
+- Google Maps: 4.4/5 (19,000+ 評論)
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d694332-Reviews-Cafe_Landtmann-Vienna.html (4.1/5, 4,000+ 評論, Travellers' Choice award)
+  - https://www.thefork.com/restaurant/cafe-landtmann-r616469/reviews (9.1/10, 3,600+ 評分)
+  - https://viennatrips.com/blog/cafe-landtmann-vienna (歷史評論)
+- Reddit / community: 常被推薦作為正宗維也納咖啡館體驗；曾是佛洛伊德、馬勒等名人常客
+- Other platforms:
+  - https://restaurantguru.com/Cafe-Landtmann-Vienna (4.3/5, 25,000+ 評論)
+- Recurring pros: 歷史意義與正宗維也納氛圍；高品質奧地利料理與甜點；中心位置（靠近 Burgtheater）；專業服務（服務生穿燕尾服）
+- Recurring cons: 價格較高；尖峰時段擁擠；部分評論指出食物或服務品質不一致
+- Practical: reservation requirement = recommended; best time = 平日或離峰時段; queue = 尖峰時段可能需要等位
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 8/10
+  - Value: 6/10
+  - Convenience: 8/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 7/10
+  - Total: 36/50
+
+Café Sperl
+- Official: Gumpendorfer Strasse 11, Mariahilf (靠近 Naschmarkt)
+- Google Maps: 估計 4.0+/5 (詳細數據待確認)
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d877314-Reviews-Cafe_Sperl-Vienna.html (多數評論肯定氛圍)
+- Reddit / community: 常出現在 r/Vienna 推薦清單上，作為較不觀光化的經典咖啡館選項；建議離峰時段前往以獲得更好體驗
+- Recurring pros: 1880 年歷史；保存完好的舊世界氛圍；適合悠閒喝咖啡；較 Café Central/Sacher 觀光化程度低
+- Recurring cons: 服務參差不齊（部分評論提到粗魯或慢速服務）；甜點品質評價不一（有人覺得優秀，有人覺得普通）；尖峰時段可能需要等位
+- Practical: reservation requirement = recommended (尖峰時段); best time = 非尖峰時段; queue = 繁忙時段可能等位
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 7/10
+  - Convenience: 7/10
+  - Consistency: 6/10
+  - Risk (10 = low risk): 6/10
+  - Total: 33/50
+
+Café Prückel
+- Official: https://www.visitingvienna.com/eatingdrinking/cafespubsbars/cafe-pruckel/ (1950 年代復古設計，2024 年翻新)
+- Google Maps: 4.0/5 (4,600+ 評論)
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d1126069-Reviews-Cafe_Prueckel-Vienna.html (3.6/5, 990+ 評論)
+  - https://www.theviennareview.at/food-drink/3339/cafe-pruckel (1954 年建築師 Oswald Haerdtl 設計)
+- Reddit / community: 以獨特 1950 年代中世紀復古風格聞名；混合客群（學生、在地人、創意工作者）
+- Other platforms:
+  - https://restaurantguru.com/Cafe-Pruckel-Vienna (3.9-4/5)
+  - https://intravel.net/vienna/restaurants-cafes/cafe-pruckel
+- Recurring pros: 獨特復古風格（橄欖綠沙發、鏡面牆、黃銅裝飾）；價格較市中心其他咖啡館親民；友善氛圍；靠近 MAK 博物館；寵物友善
+- Recurring cons: 服務不一致（有時友善，有時慢速或疏忽）；尖峰時段擁擠
+- Practical: reservation requirement = recommended (尖峰時段); best time = 早餐或下午茶時段; queue = 尖峰時段可能需等位
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 7/10
+  - Value: 7/10
+  - Convenience: 8/10
+  - Consistency: 6/10
+  - Risk (10 = low risk): 7/10
+  - Total: 35/50
+
+Steirereck im Stadtpark
+- Official: 需提前預訂（電話或官網）
+- Michelin: ⭐⭐⭐ (2025 年獲得第三星)
+- Guide:
+  - https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark (米其林官方)
+  - https://thefinediningjournal.com/steirereck-vienna-review-austrias-most-iconic-fine-dining-restaurant-in-the-stadtpark/ (專業評論)
+  - https://www.travelsforstars.com/blog/2025/01/30/steirereck-vienna (深度評論)
+  - World's 50 Best Restaurants #22 (2024)
+- Reddit / community: 公認奧地利頂級餐廳；創新且深植於奧地利傳統的料理
+- Recurring pros: Heinz Reitbauer 主廚的藝術性呈現；稀有地方食材；傳奇麵包與起司推車（25 種麵包）；溫暖專業的服務（Birgit Reitbauer 主持）；Stadtpark 現代建築設置
+- Recurring cons: 價格極高（品嚐菜單 €225-245，酒類搭配 €105-120）；訂位困難（需提前數週或數月）
+- Practical: reservation requirement = required (提前數週預訂); dress code = smart casual to formal; best time = 彈性選擇日期提高訂位機會
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 10/10
+  - Value: 7/10 (價格高但體驗值得)
+  - Convenience: 5/10 (訂位困難)
+  - Consistency: 10/10
+  - Risk (10 = low risk): 9/10
+  - Total: 41/50
+
+Mraz & Sohn
+- Official: https://www.mrazundsohn.at (訂位電話 +43 1 3304594)
+- Michelin: ⭐⭐
+- Guide:
+  - https://guide.michelin.com/en/vienna/wien/restaurant/mraz-sohn (米其林官方)
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d929162-Reviews-Mraz_Sohn-Vienna.html (高評價)
+  - https://www.novacircle.com/en-SG/spots/europe/austria/vienna-district/brigittenau-municipality/vienna/mraz-sohn-f84e8a
+- Reddit / community: 創意品嚐菜單（驚喜套餐形式，10+ 道菜）；開放式廚房
+- Recurring pros: 創意季節性料理；優雅且不做作的氛圍；知識豐富的侍酒師；開放式廚房體驗；可提前告知素食/純素/無麩質需求
+- Recurring cons: 驚喜菜單意味著選擇有限（冒險食客喜歡，挑食者可能不適合）；價格高（品嚐菜單約 €178）；並非所有菜色都能平均討好每位客人
+- Practical: reservation requirement = required; opening hours = 週一至週五晚餐 (19:00-00:00)，週六日休息; dress code = smart casual
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 9/10
+  - Value: 7/10
+  - Convenience: 6/10 (需預訂，週末不營業)
+  - Consistency: 9/10
+  - Risk (10 = low risk): 8/10
+  - Total: 39/50
+
+Gasthaus Pöschl
+- Official: 內城傳統小酒館
+- Google Maps: 估計 4.2+/5
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d877454-Reviews-Gasthaus_Poschl-Vienna.html (4.2/5, 1,200+ 評論)
+  - https://restaurantguru.com/Gasthaus-Poschl-Vienna
+  - https://wanderlog.com/place/details/42614/gasthaus-p%C3%B6schl
+- Reddit / community: 在地人與遊客皆推薦的正宗 Viennese beisl；儘管位於市中心且遊客眾多，仍保持維也納特色
+- Recurring pros: 正宗維也納料理（Wiener Schnitzel、goulash、馬鈴薯沙拉、內臟料理）；溫馨熱鬧氛圍；友善服務；價格合理（考量市中心位置）；份量充足
+- Recurring cons: 繁忙時段需預訂；座位舒適度在繁忙夜晚可能受影響；部分常客提到菜色供應有時不一致
+- Practical: reservation requirement = recommended; best time = 平日或提早/延後用餐時段; queue = 繁忙時段可能需等位
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 8/10
+  - Value: 8/10
+  - Convenience: 8/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 8/10
+  - Total: 39/50
+
+Zum Schwarzen Kameel
+- Official: 歷史可追溯至 1618 年
+- Google Maps: 估計 4.0+/5
+- Guide:
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d714256-Reviews-Zum_Schwarzen_Kameel-Vienna.html (Michelin selected)
+  - https://restaurantguru.com/Zum-Schwarzen-Kameel-Vienna
+  - https://wanderlog.com/place/details/458064/zum-schwarzen-kameel
+- Reddit / community: 以開放式三明治（belegte Brötchen）聞名；art-deco 裝飾；熱鬧維也納氛圍
+- Recurring pros: 新鮮多樣的開放式三明治（招牌）；優秀的酒單；優雅舒適的環境；專業但輕鬆的服務；Michelin selected 品質保證
+- Recurring cons: 價格偏高（三明治小份量，性價比疑慮）；尖峰時段排隊；服務評價不一（有時專注，有時等待過久）
+- Practical: reservation requirement = recommended; best time = 非尖峰時段，或選擇熟食櫃檯快速用餐; queue = 午餐/週末尖峰時段可能排隊
+- Score (preliminary; 50-point rubric):
+  - Taste / Quality: 8/10
+  - Value: 6/10
+  - Convenience: 7/10
+  - Consistency: 7/10
+  - Risk (10 = low risk): 7/10
+  - Total: 35/50
