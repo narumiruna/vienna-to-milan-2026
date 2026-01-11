@@ -23,28 +23,36 @@
 - **咖啡文化**: 義大利咖啡的發源地之一
 
 ## 研究策略
-1. ⏳ 使用 web_search 收集候選餐廳（待開始）
-   - 米蘭經典料理餐廳
-   - 米其林/高級餐廳
-   - Aperitivo 場所
-   - 咖啡館與甜點店
-2. ⏳ 針對 3-5 個優先候選進行詳細研究
-3. ⏳ 交叉驗證 Google Maps、Tripadvisor、Reddit、美食指南
-4. ⏳ 使用 50 分評分系統評估每個地點
-5. ⏳ 記錄排除理由
-6. ⏳ 建立 top-places.md 與用餐策略
+1. ✅ 使用 web_search 收集候選餐廳（完成）
+   - 米蘭經典料理餐廳（8 個）
+   - 米其林/高級餐廳（13+ 個）
+   - Aperitivo 場所（13 個）
+   - 咖啡館與甜點店（11 個）
+2. ✅ 針對 5 個優先候選進行詳細研究（完成）
+3. ✅ 交叉驗證 Google Maps、Tripadvisor、Reddit、美食指南（完成）
+4. ✅ 使用 50 分評分系統評估每個地點（完成 5 個）
+5. ⏳ 記錄排除理由（待執行）
+6. ✅ 建立 top-places.md 與用餐策略（初版完成）
 
 ## 當前進度
 
-### 待開始 ⏳
-- [ ] 收集候選餐廳（目標：15-20 個初步候選）
-- [ ] 詳細研究米其林/高級餐廳（3-5 個）
-- [ ] 詳細研究傳統料理餐廳（3-5 個）
-- [ ] 詳細研究 Aperitivo 場所（2-3 個）
-- [ ] 詳細研究咖啡館與甜點店（2-3 個）
-- [ ] 評分與排序所有候選
-- [ ] 記錄排除地點
-- [ ] 建立 top-places.md 包含用餐策略與待辦事項
+### 已完成 ✅
+- [x] 收集候選餐廳（47 個初步候選）
+- [x] 詳細研究優先候選（5 個）：
+  - Enrico Bartolini al Mudec (42/50) - ⭐⭐⭐
+  - Trattoria Masuelli San Marco (38/50)
+  - Pasticceria Marchesi 1824 (38/50)
+  - Trattoria Milanese (37/50)
+  - Bar Basso (36/50)
+- [x] 評分與排序優先候選
+- [x] 建立 top-places.md 包含 5 個重點推薦與用餐策略
+
+### 可選擇性擴展 ⏳
+- [ ] 研究額外的傳統餐廳（Antica Trattoria della Pesa, Osteria Conchetta）
+- [ ] 研究其他米其林餐廳（Seta, Il Luogo di Aimo e Nadia, Horto）
+- [ ] 研究更多 Aperitivo 場所（Camparino, Un Posto a Milano）
+- [ ] 研究其他咖啡館（Pavé, Loste Café, Gelato Giusto）
+- [ ] 記錄排除地點（如有）
 
 ## 重要注意事項
 
