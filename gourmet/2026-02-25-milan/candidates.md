@@ -67,7 +67,7 @@
 
 **官網**: https://www.enricobartolini.net/en/i-ristoranti/mudec
 
-**Google Maps**: unknown (但評價極高)
+**Google Maps**: 4.6/5 (Restaurant Guru aggregate)
 
 **Tripadvisor**: 4.6/5 (about 500+ 評論)
 - https://www.tripadvisor.com/Restaurant_Review-g187849-d12432575-Reviews-Ristorante_Enrico_Bartolini-Milan_Lombardy.html
