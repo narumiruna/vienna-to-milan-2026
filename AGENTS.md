@@ -61,6 +61,8 @@ Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO
 
 Agents MUST respect this structure and naming.
 
+**All documentation must follow the Progressive Disclosure Principle** (see dedicated section below for details).
+
 ---
 
 ## Progressive Disclosure Principle
@@ -482,10 +484,3 @@ For each researched place, ensure you can answer:
 - ✓ What is the approximate price range?
 - ✓ What are the most common complaints?
 - ✓ Is it touristy or more local?
-
-## MCP
-
-- You will leverage MCP tools to search for the information you need.
-- Document design must follow the **Progressive Disclosure Principle** (see dedicated section above).
-- If rate limits are hit, then try another tool or wait before retrying.
-- The rate limits of firecrawl search is 5 times per minute.
