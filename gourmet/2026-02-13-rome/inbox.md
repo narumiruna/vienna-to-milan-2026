@@ -47,6 +47,34 @@
    - 注意：高價位，特殊場合
    - 來源：Michelin 3-star
 
+9. **Cesare Al Casaletto**
+   - 位置：Monteverde
+   - 特色：道地羅馬，美食家最愛，Katie Parla 大力推薦
+   - 注意：必須電話訂位，提前 7 天以上
+   - 來源：Katie Parla blog, Reddit, multiple food guides
+
+10. **Trattoria Monti**
+   - 位置：Esquilino（靠近 Piazza Bologna 飯店）
+   - 特色：米其林推薦，Le Marche 區域料理
+   - 注意：建議訂位
+   - 來源：Michelin Guide, Yelp, TripAdvisor
+
+11. **La Tavernaccia Da Bruno**
+   - 位置：Trastevere
+   - 特色：在地秘寶，「從不失望」
+   - 注意：建議訂位
+   - 來源：Reddit locals, food blogs
+
+12. **Ditirambo**
+   - 位置：Trastevere
+   - 特色：創意季節料理
+   - 來源：TripAdvisor, Yelp
+
+13. **Bottega Tredici**
+   - 位置：Centro Storico
+   - 特色：創意季節料理
+   - 來源：TripAdvisor, TheFork
+
 ## 披薩 / Pizzeria
 
 ### Pizza al Taglio（切片披薩）
@@ -134,11 +162,20 @@
 
 9. **Frigidarium**
    - 位置：Piazza Navona 附近
-   - 特色：可沾黑或白巧克力，創意與經典選擇
-   - 來源：famous for chocolate dipping
+   - 特色：可沾黑或白巧克力，創意與經典選擇，部落客首選
+   - 來源：famous for chocolate dipping, Reddit #1 pick
 
 ### 其他甜點與咖啡
-（待補充：Maritozzo 專門店、傳統咖啡館等）
+10. **Regoli**
+   - 位置：Esquilino（距飯店 5 分鐘步行）
+   - 特色：100年老店，羅馬最佳 maritozzo
+   - 注意：早上 7:00 開門，9:30 前 maritozzi 常賣光
+   - 來源：TripAdvisor, food blogs, TasteAtlas
+
+11. **La Casa del Caffè Tazza d'Oro**
+   - 位置：Pantheon
+   - 特色：18世紀傳統咖啡館，granita di caffè 必試
+   - 來源：historic coffee tradition
 
 ## 研究優先順序
 1. 高優先：Da Enzo al 29, Armando al Pantheon, Roscioli, Bonci Pizzarium
