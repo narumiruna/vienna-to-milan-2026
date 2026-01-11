@@ -81,8 +81,8 @@ A city can be marked as "✅ 已完成" (Completed) in README.md **only when ALL
 
 - ❌ Researching EVERY place initially collected
   - It's acceptable to deprioritize candidates and document them in excluded.md as "Not Researched Further"
-  - Candidates can remain in candidates.md with `status: inbox` during early research, but must be resolved before marking city as completed
   - Focus on quality over quantity (4-6 top picks is sufficient)
+  - **Important**: While candidates may have `status: inbox` during active research, they must be resolved (researched or explicitly excluded) before marking the city as completed
 
 - ❌ Having backups for every category
   - Top picks are essential; backups are nice-to-have
@@ -106,8 +106,9 @@ Before marking a city as "✅ 已完成", verify:
 
 ```bash
 # Check candidates.md for any remaining inbox items
-# Pattern matches: table format "| inbox |" or alternative "status: inbox" format
-grep -E "\| inbox \||\bstatus:?\s*inbox\b" candidates.md | wc -l
+# Primary pattern: "| inbox |" (standard markdown table format with spaces)
+# Fallback pattern: "status: inbox" or "status:inbox" (for robustness)
+grep -E "\| inbox \||status:?\s*inbox" candidates.md | wc -l
 # → Should return 0
 
 # Check excluded.md for pending decision sections (headers only)
@@ -126,7 +127,7 @@ ls -la top-places.md && wc -l top-places.md
 
 **Note on verification**: 
 - candidates.md uses markdown table format: `| inbox |` (with spaces around status)
-- The alternative pattern `status: inbox` provides flexibility for potential format variations
+- The fallback pattern `status: inbox` handles edge cases if table format varies slightly
 - excluded.md pattern specifically targets section headers (`^#`) to avoid false positives in body text
 
 ---
