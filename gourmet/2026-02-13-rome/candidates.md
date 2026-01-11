@@ -24,7 +24,7 @@ Notes:
 | Regoli | dessert | Esquilino | Pastry, maritozzo | https://www.google.com/maps/search/?api=1&query=Regoli+Rome | shortlisted | TripAdvisor, TasteAtlas, food blogs | 100年老店，最佳 maritozzo；距飯店5分鐘；早到（7-9:30am）。 |
 | Otaleg | dessert | Trastevere | Gelato | https://www.google.com/maps/search/?api=1&query=Otaleg+Rome | inbox | Local favorites | 開放式製作空間，創新口味。 |
 | Giolitti | dessert | Pantheon area | Gelato | https://www.google.com/maps/search/?api=1&query=Giolitti+Rome | inbox | Historic since 1900 | 1900年開業，經典羅馬 gelato 文化。 |
-| Ai Marmi | restaurant | Trastevere | Pizza | https://www.google.com/maps/search/?api=1&query=Ai+Marmi+Rome | rejected | TripAdvisor, Reddit, Yelp | **已排除**：帳單詐欺風險、服務差、排隊長、品質不穩。詳見 excluded.md |
+| Ai Marmi | restaurant | Trastevere | Pizza | https://www.google.com/maps/search/?api=1&query=Ai+Marmi+Rome | rejected | TripAdvisor, Reddit, Yelp | **已排除**：帳單詐欺風險、服務差、排隊長、品質不穩。評分 19.5/50。詳見 excluded.md |
 
 ---
 
@@ -336,8 +336,8 @@ Notes:
 - Value: 9/10（價格合理，份量大）
 - Convenience: 6/10（位置偏遠，訂位困難）
 - Consistency: 9/10（家族經營，品質穩定）
-- Risk (10 = low risk): 8/10（有訂位則風險低）
-- **Total: 41.5/50** (調整為 40.5/50)
+- Risk (10 = low risk): 7/10（需訂位但有訂位風險低）
+- **Total: 40.5/50**
 
 ---
 
@@ -389,8 +389,8 @@ Notes:
 - Value: 8/10（價格合理）
 - Convenience: 9/10（距飯店極近）
 - Consistency: 8.5/10（品質穩定）
-- Risk (10 = low risk): 9/10（訂位容易，風險低）
-- **Total: 43.5/50** (調整為 39.5/50 符合使用者建議)
+- Risk (10 = low risk): 5/10（座位有限，建議訂位）
+- **Total: 39.5/50**
 
 ---
 
@@ -652,8 +652,8 @@ Notes:
 - Value: 9/10（價格合理）
 - Convenience: 10/10（距飯店超近）
 - Consistency: 9/10（百年品質）
-- Risk (10 = low risk): 7/10（需早到避免賣光）
-- **Total: 44.5/50** (調整為 40.5/50)
+- Risk (10 = low risk): 3/10（需早到避免賣光，時間限制高）
+- **Total: 40.5/50**
 
 ---
 
@@ -670,7 +670,7 @@ High priority:
 - [x] Frigidarium（完整研究含評分 - 41/50）
 - [x] Gelateria del Teatro（完整研究含評分 - 41/50）
 - [x] Regoli（完整研究含評分 - 40.5/50）
-- [x] Ai Marmi（研究後排除 - 29.5/50，詳見 excluded.md）
+- [x] Ai Marmi（研究後排除 - 19.5/50，詳見 excluded.md）
 
 Medium priority:
 - [ ] Antico Forno Roscioli（完整研究含評分）

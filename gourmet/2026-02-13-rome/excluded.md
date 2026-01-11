@@ -11,7 +11,7 @@
 - **location**: Trastevere
 - **type**: Pizza
 - **status**: rejected
-- **total score**: 29.5/50（低於排除門檻 30 分）
+- **total score**: 19.5/50（嚴重低於排除門檻 30 分）
 - **google maps**: https://www.google.com/maps/search/?api=1&query=Ai+Marmi+Pizzeria+Rome
 
 **排除理由**：
@@ -38,13 +38,13 @@
 - Reddit r/rome: 多位用戶警告避開
 - Yelp: 服務態度投訴
 
-**評分breakdown**：
+**評分 breakdown**：
 - Taste / Quality: 6/10（品質不穩定）
 - Value: 4/10（價格與品質不符，詐欺風險）
 - Convenience: 3/10（排隊時間長）
 - Consistency: 5.5/10（評價兩極）
-- Risk (10 = low risk): 1/10（**詐欺風險高**）
-- **Total: 19.5/50**（實際風險調整後）
+- Risk (10 = low risk): 1/10（**詐欺風險極高**）
+- **Total: 19.5/50**
 
 **替代方案**：
 - Trastevere 其他披薩選擇
