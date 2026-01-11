@@ -24,6 +24,14 @@ MXP→TPE BR96
 2/19 Roma Tiburtina(10:45 → Firenze S. M. Novella(12:11)
 2/22 Firenze S. M. Novella(10:20 → Venezia Mestre(12:23)
 2/25 Venezia Mestre(12:00 → Milano Centrale(14:15)
+
+## Accommodation (Immutable)
+- Vienna: Hilton Vienna Park
+- Rome: Mercure Roma Piazza Bologna
+- Firenze: Hotel Delle Nazioni
+- Venice: Hotel Plaza Venice
+- Milano: Hotel ibis Milano Centro
+
 --- END DO NOT EDIT---
 
 ## Agent Mission
