@@ -10,8 +10,8 @@ Notes:
 | Plachutta (Wollzeile) | restaurant | Innere Stadt | Tafelspitz (boiled beef) | https://maps.app.goo.gl/pL4GNBpio9uod3977 | top | https://www.plachutta.at/en/wollzeile.html ; https://www.wien.info/en/dine-drink/viennese-cuisine/boiled-beef-784360 | Tafelspitz 指標名店；常見評價：品質穩但偏貴/偏觀光。 |
 | Steirereck im Stadtpark | restaurant | Landstraße (Stadtpark) | fine dining, Austrian | https://www.google.com/maps/search/?api=1&query=Steirereck+im+Stadtpark | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/steirereck-im-stadtpark | 米其林 3 星；價位高但風險低（需確認訂位難度與服裝規範）。 |
 | Mraz & Sohn | restaurant | Brigittenau | fine dining, creative | https://www.google.com/maps/search/?api=1&query=Mraz+%26+Sohn+Wien | inbox | https://guide.michelin.com/us/en/vienna/wien/restaurant/mraz-sohn | 米其林 2 星；先查菜單節奏與訂位。 |
-| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://www.google.com/maps/search/?api=1&query=Bitzinger+W%C3%BCrstelstand+Albertina+Wien | shortlisted | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
-| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Central+Herrengasse+14+1010+Wien | shortlisted | https://cafecentral.wien/en/reservation/ | 官網表示可線上訂位（≤6人），否則現場等位；Reddit 常提到排隊。 |
+| Bitzinger Würstelstand (Albertina) | restaurant | Innere Stadt (Albertinaplatz) | würstelstand, sausages | https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9 | shortlisted | https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 ; https://www.bitzinger-wien.at/ | 代表性香腸攤；適合當機動補給，尖峰可能擁擠。 |
+| Café Central | cafe | Innere Stadt | historic cafe, cakes | https://maps.app.goo.gl/S4y1vfWbPE4vcswb8 | shortlisted | https://cafecentral.wien/en/reservation/ ; https://cafecentral.wien/en/ | 官網表示可線上訂位（≤6人），否則現場等位；Reddit 常提到排隊。 |
 | Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 官網明示不接受訂位；常見評價是「觀光名店但甜點值得/偏貴」。 |
 | Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | inbox | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | 原味 Sacher-Torte 地標；常見長隊與觀光價位（風險待評）。 |
 | Café Landtmann | cafe | Innere Stadt | historic cafe | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Landtmann+Wien | inbox | unknown | 觀光/在地皆會去的咖啡館候選；待補來源。 |
@@ -77,6 +77,7 @@ Plachutta (Wollzeile)
 
 Café Central
 - Official reservation page: https://cafecentral.wien/en/reservation/ (≤6 人可線上訂位；官網也說桌子翻桌快、通常只要等一下)
+- Google Maps (captured via Playwright; share link): 4.3 (review count `unknown` — Google showed “limited view”) — https://maps.app.goo.gl/S4y1vfWbPE4vcswb8
 - Guide:
   - https://www.wien.info/en/dine-drink/coffeehouses/top-traditional-coffee-houses-in-vienna-361666 (vienna.info 傳統咖啡館榜單含 Café Central)
 - Reddit (strong and consistent): 「排隊名店」幾乎是共識；有人建議除非想排隊不然避開
@@ -100,7 +101,7 @@ Café Central
 
 Demel
 - Official cafe page: https://www.demel.com/en/pages/cafe (明確寫「We unfortunately do not take reservations」；10:00–19:00)
-- Google Maps (captured from place page; review count not shown in limited view): 4.2 (unknown reviews) — https://maps.app.goo.gl/oVTuA6dMfcAKwf156
+- Google Maps (captured via Playwright; review count `unknown` — Google showed “limited view”): 4.2 — https://maps.app.goo.gl/oVTuA6dMfcAKwf156
 - Guide:
   - https://www.wien.info/en/dine-drink/coffeehouses/in-the-old-city-348958 (vienna.info 1010 區咖啡館清單含 Demel)
 - Reddit (common themes): 觀光名店、可能排隊；有人覺得值得「至少一次」，也有人偏好其他咖啡館
@@ -123,6 +124,7 @@ Demel
 
 Bitzinger Würstelstand (Albertina)
 - Guide: https://www.wien.info/en/dine-drink/viennese-cuisine/hot-dog-stands-348128 (維也納官方旅遊資訊提到 Bitzinger)
+- Google Maps (captured via Playwright; review count `unknown` — Google showed “limited view”): 4.1 — https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9
 - Reddit (mixed): 有人說「知名且受喜愛」，也有人警告「Albertinaplatz 那家被觀光客淹沒」
   - https://www.reddit.com/r/wien/comments/ux540i/work_is_sending_me_to_wien_for_3_weeks_from/
   - https://www.reddit.com/r/AskAustria/comments/1p3w5z1/what_to_do_in_vienna/
