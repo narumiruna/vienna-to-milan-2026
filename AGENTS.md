@@ -1,7 +1,7 @@
 # Instructions for Agents
 
 ---   DO NOT EDIT  ---
-- The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food and sightseeing.
+- The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
 - All flights, trains, and accommodations have already been booked and are FINAL.
 
 Agents MUST NOT:
