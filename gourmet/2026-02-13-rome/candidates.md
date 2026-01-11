@@ -14,16 +14,17 @@ Notes:
 | Armando al Pantheon | restaurant | Pantheon | Roman classics | https://www.google.com/maps/search/?api=1&query=Armando+al+Pantheon+Rome | shortlisted | Tripadvisor, Google Maps, Michelin, Reddit | 1961年開業，經典木板內裝；carbonara 被譽為羅馬最佳；強烈建議訂位。 |
 | Luciano Cucina Italiana | restaurant | Centro Storico | Carbonara specialist | https://www.google.com/maps/search/?api=1&query=Luciano+Cucina+Italiana+Rome | shortlisted | Michelin mentions, Reddit, multiple guides | "Carbonara 之王" Chef Luciano Monosilio；必須訂位。 |
 | Flavio al Velavevodetto | restaurant | Testaccio | Roman classics | https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome | shortlisted | Tripadvisor, Google Maps, Reddit, TripExpert | Testaccio 在地人最愛；carbonara/amatriciana/cacio e pepe 高評價；建議訂位。 |
-| Ditirambo | restaurant | Trastevere | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Ditirambo+Rome | inbox | TripAdvisor, Yelp, food blogs | Trastevere 創意料理；季節性菜單。 |
-| Bottega Tredici | restaurant | Centro Storico | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Bottega+Tredici+Rome | inbox | TripAdvisor, TheFork, Yelp | 創意季節料理；建議訂位。 |
+| Ditirambo | restaurant | Trastevere/Campo de' Fiori | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Ditirambo+Rome | shortlisted | TheFork, TripAdvisor, Restaurant Guru | 創意季節料理，素食友善；TheFork 9.3/10；建議訂位。 |
+| Bottega Tredici | restaurant | Ghetto/Centro Storico | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Bottega+Tredici+Rome | shortlisted | TheFork, TripAdvisor, Restaurant Guru | 現代義大利創意料理；TheFork 9.2/10；Tripadvisor Travelers' Choice。 |
 | Bonci Pizzarium | restaurant | Trionfale (Vatican) | Pizza al taglio | https://www.google.com/maps/search/?api=1&query=Bonci+Pizzarium+Rome | researching | Tripadvisor, Google Maps, food guides | "Pizza al taglio 之王"；有機麵粉、創意口味；常需排隊 30-60 分鐘。 |
-| Antico Forno Roscioli | restaurant | Centro Storico | Pizza al taglio, bakery | https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome | inbox | Local favorites | 歷史悠久麵包店，經典 pizza rossa/bianca。 |
+| Antico Forno Roscioli | restaurant | Centro Storico | Pizza al taglio, bakery | https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome | shortlisted | TripAdvisor, Google Maps, Restaurant Guru | 歷史悠久麵包店，經典 pizza rossa/bianca；外帶為主，價格合理。 |
 | Come il Latte | dessert | Esquilino | Gelato | https://www.google.com/maps/search/?api=1&query=Come+il+Latte+Rome | shortlisted | Yelp, TripAdvisor, food blogs | 高級奶油冰淇淋，60-70%牛奶；排隊長，離峰時段佳。 |
 | Frigidarium | dessert | Piazza Navona | Gelato | https://www.google.com/maps/search/?api=1&query=Frigidarium+Rome | shortlisted | Yelp, TripAdvisor, Reddit | 部落客 #1 首選；可沾巧克力；中央位置。 |
 | Gelateria del Teatro | dessert | Near Piazza Navona | Gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+del+Teatro+Rome | shortlisted | Multiple guides, TripAdvisor | 手工創意風味；開放式廚房。 |
 | Regoli | dessert | Esquilino | Pastry, maritozzo | https://www.google.com/maps/search/?api=1&query=Regoli+Rome | shortlisted | TripAdvisor, TasteAtlas, food blogs | 100年老店，最佳 maritozzo；距飯店5分鐘；早到（7-9:30am）。 |
-| Otaleg | dessert | Trastevere | Gelato | https://www.google.com/maps/search/?api=1&query=Otaleg+Rome | inbox | Local favorites | 開放式製作空間，創新口味。 |
-| Giolitti | dessert | Pantheon area | Gelato | https://www.google.com/maps/search/?api=1&query=Giolitti+Rome | inbox | Historic since 1900 | 1900年開業，經典羅馬 gelato 文化。 |
+| Otaleg | dessert | Trastevere | Gelato | https://www.google.com/maps/search/?api=1&query=Otaleg+Rome | shortlisted | TripAdvisor, food blogs | 開放式製作空間，開心果最佳；無奶水果風味如 sorbet。 |
+| Giolitti | dessert | Pantheon area | Gelato | https://www.google.com/maps/search/?api=1&query=Giolitti+Rome | shortlisted | TripAdvisor, historic since 1900 | 1900年開業，經典羅馬 gelato 文化；12,000+ TripAdvisor 評論。 |
+| La Pergola | restaurant | Monte Mario (Rome Cavalieri) | Fine dining, Michelin 3-star | https://www.google.com/maps/search/?api=1&query=La+Pergola+Rome+Cavalieri | researching | Michelin Guide, TripAdvisor, Restaurant Guru | 羅馬唯一米其林三星，Chef Heinz Beck；預算 €250+ per person。 |
 | Ai Marmi | restaurant | Trastevere | Pizza | https://www.google.com/maps/search/?api=1&query=Ai+Marmi+Rome | rejected | TripAdvisor, Reddit, Yelp | **已排除**：帳單詐欺風險、服務差、排隊長、品質不穩。評分 19.5/50。詳見 excluded.md |
 
 ---
@@ -657,6 +658,342 @@ Notes:
 
 ---
 
+---
+
+### Antico Forno Roscioli
+
+**Official**: 無官方網站（傳統麵包店）
+
+**Address**: Via dei Chiavari, 34, 00186 Rome (Campo de' Fiori 附近)
+
+**Opening Hours**: Monday–Sunday 7:30 AM – 8:00 PM（每日營業）
+
+**Google Maps**: 4.5/5 (6,900+ reviews)
+
+**Tripadvisor**: 4.4/5 (1,600+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d6600384-Reviews-Antico_Forno_Roscioli-Rome_Lazio.html
+
+**Restaurant Guru**: 4.5/5 (10,280+ reviews)
+
+**Zomato**: 4.6/5
+
+**Guide sources**:
+- https://www.tasteatlas.com/anticofornoroscioli/pizza-al-taglio
+- https://thebriefreview.com/antico-forno-roscioli-review-rome-italy/
+
+**Recurring pros**:
+- 正宗羅馬 pizza al taglio（按重量販售）
+- Pizza bianca（白披薩）特別推薦：外酥內軟，高品質食材
+- 新鮮手工麵包與糕點
+- Maritozzi（奶油麵包）也很有名
+- 價格合理
+- 早上選擇最多最新鮮
+- 傳統羅馬麵包店氛圍
+
+**Recurring cons**:
+- 主要外帶，座位有限或無
+- 中午時段繁忙
+- 需帶現金較方便
+- 選擇豐富可能讓人難以決定
+
+**Practical**:
+- reservation requirement: none（外帶麵包店）
+- best visiting time: 早上（7:30-10:00）選擇最多最新鮮
+- queue: 中午可能排隊
+- 適合快速早餐、午餐或點心
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（正宗高品質 pizza al taglio 與麵包）
+- Value: 9/10（價格合理）
+- Convenience: 9/10（市中心位置，每日營業，外帶方便）
+- Consistency: 9/10（老店品質穩定）
+- Risk (10 = low risk): 9/10（無訂位需求，品質可靠）
+- **Total: 45/50**
+
+---
+
+### Otaleg
+
+**Official**: 無官方網站
+
+**Address**: Via di San Cosimato 14/A, Trastevere
+
+**Google Maps**: ~4.5/5 (1,500+ reviews)
+
+**Tripadvisor**: 4.1/5 (950+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d3334934-Reviews-Otaleg-Rome_Lazio.html
+
+**Other ratings**: The Infatuation review
+
+**Guide sources**:
+- https://anamericaninrome.com/2018/07/otaleg-gelato-in-trastevere/
+- https://ieo.ucla.edu/rome-best-otaleg-in-trastevere/
+- https://www.theinfatuation.com/rome/reviews/otaleg
+
+**Reddit sentiment**:
+- 被譽為 Trastevere 最佳 gelato 之一
+- Pistachio 被稱為羅馬最佳
+
+**Recurring pros**:
+- 開心果（pistachio）被譽為羅馬最佳
+- 水果口味無奶，如 sorbet，風味濃郁天然
+- 季節性口味，新鮮食材
+- 現代乾淨的內裝，英義雙語標示
+- 價格透明公道（按球計價）
+- 服務友善
+- 創意口味（Gorgonzola、芒果巧克力、hazelnut with coffee）
+- 經典口味也做得很好（stracciatella, fondente, fior di latte）
+
+**Recurring cons**:
+- 位於 Trastevere，需特地前往
+- 部分創意口味較冒險
+
+**Practical**:
+- reservation requirement: none
+- best visiting time: 任何時段，避開飯後尖峰
+- 位於 Trastevere 兩個主要廣場之間
+- 適合散步時順道品嚐
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9.5/10（pistachio 羅馬最佳，水果風味濃郁）
+- Value: 8.5/10（價格公道）
+- Convenience: 7.5/10（Trastevere 位置）
+- Consistency: 9/10（品質穩定，季節性變化）
+- Risk (10 = low risk): 8.5/10（評價高，風險低）
+- **Total: 43/50**
+
+---
+
+### Giolitti
+
+**Official**: https://www.giolitti.it/en/
+
+**Address**: Via degli Uffici del Vicario, 40 (Pantheon 附近)
+
+**Google Maps**: ~4.5/5
+
+**Tripadvisor**: 4.3/5 (12,000+ reviews) - Travelers' Choice
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d1061568-Reviews-Giolitti-Rome_Lazio.html
+
+**Other ratings**: The Infatuation review
+
+**Guide sources**:
+- https://www.saturdaysinrome.com/blog/review-is-giolitti-the-best-gelato-in-rome/
+- https://juliaxeats.com/giolitti-gelato-rome-a-scoop-of-roman-history-in-every-bite/
+- https://www.theinfatuation.com/rome/reviews/giolitti
+
+**Recurring pros**:
+- 1900年開業，125年歷史
+- Pantheon 附近絕佳位置
+- 優雅 art nouveau 裝潢
+- 豐富口味選擇
+- Pistachio、zabaione、mango 特別推薦
+- 份量慷慨
+- 價格合理（中心位置考量下）約 €5 小杯
+- 可加 panna（鮮奶油）
+- 室內座位可用
+- 經典羅馬 gelato 文化體驗
+
+**Recurring cons**:
+- 尖峰時段排隊長
+- 服務評價不一（繁忙時）
+- 靠近國會與觀光景點，遊客眾多
+- 需先付款再點餐（傳統義大利方式）
+
+**Practical**:
+- reservation requirement: none
+- best visiting time: 避開午後尖峰（14:00-17:00）
+- 付款方式：先在櫃台付款拿收據，再到 gelato 吧台點餐
+- 可內用或外帶散步
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8.5/10（經典口味優秀，125年老店）
+- Value: 8/10（價格合理，份量大）
+- Convenience: 9.5/10（Pantheon 旁絕佳位置）
+- Consistency: 8/10（品質穩定但服務不一）
+- Risk (10 = low risk): 7/10（排隊長，遊客多）
+- **Total: 41/50**
+
+---
+
+### Ditirambo
+
+**Official**: 可通過 TheFork 訂位
+
+**Address**: Piazza della Cancelleria, 74, Trastevere/Campo de' Fiori
+
+**Google Maps**: ~4.4/5
+
+**TheFork**: 9.3/10 (nearly 1,000 reviews)
+- Food: 9.4/10
+- Service: 9.2/10
+- Ambience: 9.0/10
+- https://www.thefork.com/restaurant/ditirambo-r62600
+
+**Tripadvisor**: 4.3/5 (1,900+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d788129-Reviews-Ditirambo-Rome_Lazio.html
+
+**Restaurant Guru**: 4.4/5 (4,000+ reviews)
+
+**Tripexpert**: 高評價，專家推薦
+
+**Guide sources**:
+- https://visitrome.com/rome/restaurants/ditirambo
+- https://wanderlog.com/place/details/1339610/ditirambo
+- Frommer's experts
+
+**Recurring pros**:
+- 創意季節性有機料理，現代詮釋羅馬傳統
+- 自製義大利麵（ravioli, pappardelle）
+- 素食與無麩質選項豐富
+- 精選葡萄酒單
+- 溫馨舒適氛圍，親密空間
+- 服務細心專業
+- 創意海鮮料理
+- Carbonara、cacio e pepe、braised beef cheeks、fried artichokes、tiramisu 受好評
+
+**Recurring cons**:
+- 繁忙時段服務可能較慢
+- 個別餐點偶有失誤（但罕見）
+- 座位緊密
+
+**Practical**:
+- reservation requirement: recommended（強烈建議訂位，尤其晚餐與週末）
+- best visiting time: 平日晚餐或週末提前訂位
+- 可通過 TheFork、OpenTable 或官網訂位
+- 位於 Trastevere/Campo de' Fiori 邊界
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（創意季節料理，素食友善）
+- Value: 8/10（價格合理）
+- Convenience: 8/10（中心位置但需訂位）
+- Consistency: 8.5/10（TheFork 9.3/10 高評價）
+- Risk (10 = low risk): 8/10（訂位推薦但評價穩定）
+- **Total: 41.5/50**
+
+---
+
+### Bottega Tredici
+
+**Official**: 可通過 TheFork 訂位
+
+**Address**: Via Ascoli Piceno 27, Ghetto/Centro Storico (Roman Ghetto 與 Piazza Venezia 附近)
+
+**Google Maps**: 4.6/5
+
+**TheFork**: 9.2/10
+- Food: 9.2/10
+- Service: 9.3/10
+- Ambience: 9.1/10
+- https://www.thefork.com/restaurant/bottega-tredici-r465975
+
+**Tripadvisor**: 4.6/5 (hundreds of reviews) - Travelers' Choice (Top 10%)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d15274619-Reviews-Bottega_Tredici-Rome_Lazio.html
+
+**Restaurant Guru**: 4.6/5
+
+**Guide sources**:
+- https://www.concerthotels.com/restaurant/bottega-tredici/116268
+
+**Recurring pros**:
+- 創意現代義大利料理，重新詮釋經典風味
+- 季節性菜單，新鮮在地食材
+- Tasting menu 受好評（€45-60）
+- 自製義大利麵（tortelli filled with baccalà, tagliolini with mushrooms and castelmagno）
+- 精選義大利葡萄酒單，侍酒師專業推薦
+- 溫馨親密氛圍，浪漫適合情侶
+- 服務細心專業
+- 素食、純素、無麩質選項
+
+**Recurring cons**:
+- 價格偏高（tasting menu €45-60，主菜 €14-24，甜點 €8-12）
+- 偶有個別餐點溫度或品質問題（但罕見）
+- 座位緊密
+
+**Practical**:
+- reservation requirement: recommended（建議訂位）
+- best visiting time: 晚餐，適合特殊場合
+- 可通過 TheFork 或 TripAdvisor 訂位
+- 位於 Roman Ghetto 與 Piazza Venezia 之間
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（創意現代義大利料理）
+- Value: 7/10（價格偏高但品質對應）
+- Convenience: 8.5/10（中心位置，需訂位）
+- Consistency: 9/10（TheFork 9.2/10，Travelers' Choice）
+- Risk (10 = low risk): 8/10（需訂位但評價極高）
+- **Total: 41.5/50**
+
+---
+
+### La Pergola
+
+**Official**: https://romecavalieri.com/la-pergola/
+
+**Phone**: +39 06 3509 2152
+
+**Address**: Via Alberto Cadlolo 101, Rome Cavalieri Waldorf Astoria Hotel, Monte Mario
+
+**Google Maps**: 4.5/5 (5,000+ votes)
+
+**Tripadvisor**: 4.6/5 (2,700+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d806462-Reviews-La_Pergola-Rome_Lazio.html
+
+**Michelin Guide**: ⭐⭐⭐ (3 Michelin stars)
+- https://guide.michelin.com/en/lazio/roma/restaurant/la-pergola69016
+
+**Other ratings**: 
+- L'Espresso, Gambero Rosso, Bibenda 高評價
+- World's 50 Best Discovery
+
+**Guide sources**:
+- https://elitetraveler.com/finest-dining/restaurants-finest-dining/la-pergola-review
+- https://majesticmondo.com/la-pergola-rome-what-makes-this-3-michelin-star-experience-legendary/
+
+**Chef**: Heinz Beck (since 1994)
+
+**Signature dishes**:
+- Fagotelli La Pergola
+- Lobster with cherries marinated in vervain and Turkish rose
+- Spaghetti cooked in tomato-infused water
+- Lamb evoking Via Appia Antica
+
+**Recurring pros**:
+- 羅馬唯一米其林三星
+- 創新健康導向料理，結合義大利與地中海風味
+- 壯觀的羅馬全景（St. Peter's Basilica 等）
+- 傳奇葡萄酒窖（53,000-65,000 瓶）by Marco Reitano
+- 優雅豪華但舒適的氛圍
+- 服務世界級
+- 特殊水單與橄欖油選擇
+- 部分菜品桌邊製作
+
+**Recurring cons**:
+- 價格極高（tasting menu from €250+ per person，不含酒）
+- 需提前數週或數月訂位
+- 位於 Monte Mario 山上，需交通安排
+- Dress code: smart elegant
+- 週日週一公休
+- 8月與冬季特定日期關閉
+
+**Practical**:
+- reservation requirement: required（必須提前數週至數月訂位）
+- best visiting time: 晚餐，Tuesday-Saturday
+- closed: Sunday, Monday, August, select winter dates
+- dress code: Smart elegant
+- 位於 Rome Cavalieri hotel 頂樓
+- 需計程車或酒店接駁
+
+**Score (50-point rubric)**:
+- Taste / Quality: 10/10（米其林三星，Chef Heinz Beck）
+- Value: 5/10（€250+ per person，極高價位）
+- Convenience: 5/10（位置偏遠，訂位極難）
+- Consistency: 10/10（米其林三星品質）
+- Risk (10 = low risk): 8/10（有訂位風險低，但預算風險高）
+- **Total: 38/50**
+
+---
+
 ## Next steps (research queue)
 
 High priority:
@@ -673,10 +1010,10 @@ High priority:
 - [x] Ai Marmi（研究後排除 - 19.5/50，詳見 excluded.md）
 
 Medium priority:
-- [ ] Antico Forno Roscioli（完整研究含評分）
-- [ ] Otaleg（gelato）
-- [ ] Giolitti（gelato）
-- [ ] Ditirambo（creative seasonal）
-- [ ] Bottega Tredici（creative seasonal）
-- [ ] La Pergola（米其林三星，特殊場合）
+- [x] Antico Forno Roscioli（完整研究含評分 - 45/50）⭐⭐⭐
+- [x] Otaleg（gelato - 43/50）⭐⭐
+- [x] Giolitti（gelato - 41/50）⭐
+- [x] Ditirambo（creative seasonal - 41.5/50）⭐
+- [x] Bottega Tredici（creative seasonal - 41.5/50）⭐
+- [x] La Pergola（米其林三星 - 38/50，特殊場合，預算限制）
 
