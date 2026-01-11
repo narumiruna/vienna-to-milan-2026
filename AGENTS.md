@@ -255,6 +255,38 @@ Minimum fields per candidate in candidates.md table:
 
 **Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
 
+**⚠️ CRITICAL: Preserving candidates.md Table Entries**
+
+**DO NOT delete or remove entries from the candidates.md summary table** unless absolutely necessary for one of the following reasons:
+
+**Acceptable reasons to modify/remove table entries:**
+1. **Duplicate entries**: Same restaurant appears multiple times in table (merge into one entry with combined information)
+2. **Incorrect information**: Restaurant name, location, or category is wrong and needs correction
+3. **Restaurant permanently closed**: Confirmed closure (must note in excluded.md)
+4. **Explicit instruction**: User specifically requests removal
+
+**NEVER remove entries because:**
+- ❌ They are not yet researched (keep as `status: inbox`)
+- ❌ They seem lower priority (move to excluded.md with reason instead)
+- ❌ There are already enough candidates (document decision in excluded.md)
+- ❌ You think they won't be needed (let user decide; move to excluded.md if appropriate)
+
+**Correct workflow for unwanted candidates:**
+1. Keep entry in candidates.md table with `status: rejected`
+2. Add detailed reason to excluded.md under "未進一步研究的候選 (Not Researched Further)" or similar section
+3. Explain why it was not researched (e.g., "已有足夠推薦", "優先級較低", "地點過遠")
+
+**Why this matters:**
+- Preserves research trail and avoids duplicate work
+- Maintains audit trail of all candidates considered
+- Prevents accidental loss of potentially valuable options
+- Allows user to see full scope of research
+
+**When recovering deleted entries:**
+- If entries were accidentally deleted, restore them to the table
+- Add detailed research sections if available
+- Update excluded.md to remove them from "未進一步研究" if they are now researched
+
 ---
 
 ### 2 Evidence Collection — Per Place
