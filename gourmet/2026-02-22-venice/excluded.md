@@ -11,20 +11,4 @@
 
 ## 目前無排除地點
 
-截至目前的研究階段，所有研究過的候選都達到可接受的品質標準（30 分以上）。
-
-### 待決定的候選
-
-以下候選尚未進行深入研究，暫時保留在 inbox.md 中：
-
-- Osteria Alla Staffa
-- Il Ridotto
-- CoVino
-- Cantina Do Mori
-- Bacareto da Lele
-- Paradiso Perduto
-- Caffè Florian（觀光地標，高價位，需評估是否值得體驗）
-- Gelateria Alaska
-- Rosa Salva（多據點，需選擇最順路的分店）
-
-這些候選將在必要時進行研究，或在實際行程規劃時根據動線需求評估。
+所有研究過的候選都達到可接受的品質標準（30 分以上），並已完成詳細評分。

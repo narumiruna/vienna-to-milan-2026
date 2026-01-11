@@ -46,13 +46,20 @@
   - Bar Basso (36/50)
 - [x] 評分與排序優先候選
 - [x] 建立 top-places.md 包含 5 個重點推薦與用餐策略
+- [x] 核心研究完成（5 個重點推薦符合 4-6 個標準）
 
-### 可選擇性擴展 ⏳
-- [ ] 研究額外的傳統餐廳（Antica Trattoria della Pesa, Osteria Conchetta）
-- [ ] 研究其他米其林餐廳（Seta, Il Luogo di Aimo e Nadia, Horto）
-- [ ] 研究更多 Aperitivo 場所（Camparino, Un Posto a Milano）
-- [ ] 研究其他咖啡館（Pavé, Loste Café, Gelato Giusto）
-- [ ] 記錄排除地點（如有）
+### 可選擇性擴展項目（已評估為不必要）
+
+基於以下原因，不進行額外擴展：
+- ✅ 已有 5 個重點推薦，符合 4-6 個標準
+- ✅ 米蘭停留時間僅 2 天，用餐機會有限（約 4-5 餐）
+- ✅ 現有推薦已涵蓋：米其林三星、傳統餐廳、Aperitivo、糕點店
+
+**不需進一步研究的候選**：
+- 額外的傳統餐廳（Antica Trattoria della Pesa, Osteria Conchetta）
+- 其他米其林餐廳（Seta, Il Luogo di Aimo e Nadia, Horto）
+- 更多 Aperitivo 場所（Camparino, Un Posto a Milano）
+- 其他咖啡館（Pavé, Loste Café, Gelato Giusto）
 
 ## 重要注意事項
 
