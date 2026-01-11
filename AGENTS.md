@@ -407,8 +407,8 @@ Also record:
   - a documented reason
 
 Record exclusions in:
-- excluded.md
-- and/or `candidates.md` (if keeping all notes in one file)
+- excluded.md (primary location for all exclusion reasons)
+- Update candidates.md table with `status: rejected`
 
 Hard exclusion triggers:
 - Strong multi-source signals of tourist traps
