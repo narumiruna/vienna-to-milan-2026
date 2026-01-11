@@ -79,6 +79,21 @@
   - price: €30-50/person
   - 友善 walk-in 選項
 
+#### 7. Bistrot 3 Tavoli (47/50) ⭐
+- **type**: Traditional Tuscan bistrot
+- **area**: Oltrarno (Borgo San Frediano)
+- **total score**: 47/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Bistrot+3+Tavoli+Florence
+- **official**: https://bistrot3tavoli.com/
+- **justification**: 極小親密空間（3-4 張桌），道地托斯卡納料理，溫暖親切服務，被稱為 "hidden gem"，非觀光陷阱
+- **constraints**: 
+  - reservation: **required**（必須預訂，walk-in 不可能）
+  - phone: +39 351 535 9284
+  - opening hours: 19:00-23:45（僅晚餐，每日營業）
+  - price: €20-30/person
+  - address: Borgo San Frediano 43/R, 50124 Florence
+  - 特色菜：手工 ravioli、牛臉頰燉菜、tiramisu
+
 ---
 
 ### 咖啡館 Top Picks
@@ -169,6 +184,22 @@
 - **constraints**: 
   - reservation: optional
   - price: €15-25/person
+
+#### Trattoria Dall'Oste (35/50)
+- **type**: Bistecca steakhouse
+- **area**: Centro（多分店：Via Luigi Alamanni 近車站 / Borgo San Lorenzo 近主教堂）
+- **total score**: 35/50
+- **official**: https://trattoriadalloste.com/en/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Dall%27Oste+Florence
+- **justification**: 優質 Bistecca alla Fiorentina，多分店位置便利，適合想吃牛排的旅客
+- **constraints**: 
+  - reservation: **required**（TripAdvisor, TheFork, 或電話）
+  - phone: +39 055 212048 (Alamanni) / +39 055 202 6862 (Borgo San Lorenzo)
+  - **重要警告**: 即使有預訂，常需等候 30-45 分鐘
+  - best time: 避開尖峰（13:00 或 20:00 後），提早抵達
+  - opening hours: 12:00-22:30（全年營業）
+  - price: €15-70/person（依牛排選擇）
+  - 建議：優先點牛排，堅持預訂的分店，準備等候
 
 ### 咖啡館 Backups
 

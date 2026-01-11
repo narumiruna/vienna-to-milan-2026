@@ -112,6 +112,31 @@
 
 ---
 
+## 已完成詳細研究（Moved to candidates.md）
+
+### 17. **Trattoria Dall'Oste** ✅
+- 位置：市中心（多分店）
+- 特色：優質 Bistecca alla Fiorentina，熱門牛排館
+- 評分：35/50（Backup）
+- 注意：訂位管理問題，需等候
+- 狀態：已研究，已加入 candidates.md 與 top-places.md
+
+### 18. **Trattoria Zà Zà** ❌
+- 位置：San Lorenzo (Mercato Centrale 旁)
+- 特色：傳統托斯卡納料理
+- 評分：28/50（Rejected）
+- 注意：觀光化嚴重，品質不穩定
+- 狀態：已研究，已排除（excluded.md）
+
+### 19. **Bistrot 3 Tavoli** ⭐
+- 位置：Oltrarno (Borgo San Frediano)
+- 特色：極小親密空間（3-4桌），道地托斯卡納
+- 評分：47/50（Top Pick）
+- 注意：必須預訂，僅晚餐
+- 狀態：已研究，已加入 candidates.md 與 top-places.md
+
+---
+
 ## 其他甜點
 
 ### 15. **Melaleuca Bakery**
