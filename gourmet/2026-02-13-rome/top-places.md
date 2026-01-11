@@ -8,7 +8,19 @@
 
 ## Top Picks（高信心推薦）
 
-### 1. Roscioli（Salumeria con Cucina）
+### 1. Armando al Pantheon
+- **type**: Traditional Roman cuisine
+- **area**: Centro Storico (Pantheon)
+- **total score**: 41/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Armando+al+Pantheon+Rome
+- **justification**: 1961年家族經營，carbonara 被譽為最佳之一，Michelin 認可，真實 trattoria 氛圍
+- **constraints**: 
+  - reservation: required（必須提前訂位，訂位困難）
+  - 週日公休
+  - 僅14張桌子，座位有限
+  - 價格略高
+
+### 2. Roscioli（Salumeria con Cucina）
 - **type**: Roman pasta, deli, wine bar
 - **area**: Regola (Campo de' Fiori)
 - **total score**: 39/50
@@ -19,7 +31,18 @@
   - 價格偏高
   - 尖峰時段擁擠吵雜
 
-### 2. Da Enzo al 29
+### 3. Flavio al Velavevodetto
+- **type**: Traditional Roman trattoria
+- **area**: Testaccio
+- **total score**: 39/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome
+- **justification**: Testaccio 在地人最愛，carbonara/amatriciana 高評價，性價比好，建在古羅馬遺址內
+- **constraints**: 
+  - reservation: recommended（建議訂位，尤其週末）
+  - 繁忙時服務可能不一致
+  - 建議平日週三或週五
+
+### 4. Da Enzo al 29
 - **type**: Traditional Roman trattoria
 - **area**: Trastevere
 - **total score**: 35/50
@@ -51,8 +74,6 @@
 
 以下候選正在進行詳細研究：
 
-- **Armando al Pantheon** (經典羅馬餐廳，1961年開業)
-- **Flavio al Velavevodetto** (Testaccio 在地人最愛)
 - **Antico Forno Roscioli** (歷史麵包店，pizza al taglio)
 - **Luciano Cucina Italiana** ("Carbonara 之王")
 - **Otaleg** (Trastevere gelato)

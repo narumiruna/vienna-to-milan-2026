@@ -8,9 +8,9 @@ Notes:
 |---|---|---|---|---|---|---|---|
 | Roscioli | restaurant | Regola (Campo de' Fiori) | Roman pasta, deli | https://www.google.com/maps/search/?api=1&query=Roscioli+Salumeria+con+Cucina+Rome | researching | Tripadvisor, Google Maps, Michelin, Reddit | 頂級食材，Carbonara 被譽為羅馬最佳之一；需提前訂位。 |
 | Da Enzo al 29 | restaurant | Trastevere | Roman trattoria | https://www.google.com/maps/search/?api=1&query=Da+Enzo+al+29+Rome | researching | Tripadvisor, Reddit, multiple guides | 正宗 trattoria，不接受訂位需排隊；carbonara、cacio e pepe 受好評。 |
-| Armando al Pantheon | restaurant | Pantheon | Roman classics | https://www.google.com/maps/search/?api=1&query=Armando+al+Pantheon+Rome | inbox | Multiple guides | 1961年開業，經典木板內裝；強烈建議訂位。 |
+| Armando al Pantheon | restaurant | Pantheon | Roman classics | https://www.google.com/maps/search/?api=1&query=Armando+al+Pantheon+Rome | shortlisted | Tripadvisor, Google Maps, Michelin, Reddit | 1961年開業，經典木板內裝；carbonara 被譽為羅馬最佳；強烈建議訂位。 |
 | Luciano Cucina Italiana | restaurant | Centro Storico | Carbonara specialist | https://www.google.com/maps/search/?api=1&query=Luciano+Cucina+Italiana+Rome | inbox | Michelin mentions | "Carbonara 之王" Chef Luciano Monosilio。 |
-| Flavio al Velavevodetto | restaurant | Testaccio | Roman classics | https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome | inbox | Local favorites | Testaccio 在地人最愛，carbonara/amatriciana/cacio e pepe。 |
+| Flavio al Velavevodetto | restaurant | Testaccio | Roman classics | https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome | shortlisted | Tripadvisor, Google Maps, Reddit, TripExpert | Testaccio 在地人最愛；carbonara/amatriciana/cacio e pepe 高評價；建議訂位。 |
 | Bonci Pizzarium | restaurant | Trionfale (Vatican) | Pizza al taglio | https://www.google.com/maps/search/?api=1&query=Bonci+Pizzarium+Rome | researching | Tripadvisor, Google Maps, food guides | "Pizza al taglio 之王"；有機麵粉、創意口味；常需排隊 30-60 分鐘。 |
 | Antico Forno Roscioli | restaurant | Centro Storico | Pizza al taglio, bakery | https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome | inbox | Local favorites | 歷史悠久麵包店，經典 pizza rossa/bianca。 |
 | Otaleg | dessert | Trastevere | Gelato | https://www.google.com/maps/search/?api=1&query=Otaleg+Rome | inbox | Local favorites | 開放式製作空間，創新口味。 |
@@ -166,11 +166,123 @@ Notes:
 
 ---
 
+### Armando al Pantheon
+
+**Official**: https://www.armandoalpantheon.it/
+
+**Phone**: +39 06 6880 3034
+
+**Google Maps**: ~4.4/5 (thousands of reviews)
+
+**Tripadvisor**: 4.2/5 (2,400+ reviews) - Travelers' Choice
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d780546-Reviews-Da_Armando_al_Pantheon-Rome_Lazio.html
+
+**Restaurant Guru**: 4.3/5
+**Zomato**: 8.4/10
+
+**Michelin Guide**: 有提及，品質認可
+
+**Guide sources**:
+- https://guide.michelin.com/ca/en/lazio/roma/restaurant/da-armando-al-pantheon
+- https://www.tripexpert.com/rome/restaurants/da-armando-al-pantheon
+- Multiple food guides
+
+**Reddit sentiment**:
+- 經常被推薦為正宗羅馬餐廳
+- Carbonara 被形容為 "the best carbonara I've ever tasted"
+- 訂位困難但值得
+- 家族經營（自1961年，第三代）增加真實感
+
+**Recurring pros**:
+- Carbonara 水準極高（完美的蛋醬、脆 guanciale、Pecorino Romano）
+- Rigatoni all'amatriciana、cacio e pepe、羅馬朝鮮薊也很出色
+- 溫馨的木板內裝，真實的羅馬 trattoria 氛圍
+- 僅14張桌子，親密感強
+- 服務友善且專業（大多數時候）
+- 本地人與精明遊客混合，不過度觀光化
+
+**Recurring cons**:
+- 必須提前訂位（非常難訂）
+- 位置緊鄰萬神殿，價格略高
+- 週日公休
+- 座位有限，尖峰時段可能壓力大
+
+**Practical**:
+- reservation requirement: required（強烈建議提前訂位，通過官網或電話）
+- best visiting time: 午餐 12:30-15:00，晚餐 19:00-23:00
+- closed: 週日
+- queue: 有訂位則無需排隊
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（carbonara 與經典羅馬菜水準極高）
+- Value: 7/10（價格略高但品質對應）
+- Convenience: 8/10（萬神殿旁絕佳位置，但訂位困難）
+- Consistency: 9/10（家族經營，品質穩定）
+- Risk (10 = low risk): 8/10（有訂位則風險低）
+- **Total: 41/50**
+
+---
+
+### Flavio al Velavevodetto
+
+**Official**: 無官方網站（傳統餐廳）
+
+**Google Maps**: ~4.2/5 (thousands of reviews)
+
+**Tripadvisor**: 3.8/5 (4,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d1878559-Reviews-Flavio_Al_Velavevodetto-Rome_Lazio.html
+
+**Foursquare**: 8.2/10
+
+**TripExpert Score**: 82（基於 Fodor's、Time Out 等出版物）
+
+**Guide sources**:
+- https://www.tripexpert.com/rome/restaurants/flavio-al-velavevodetto
+- https://thetravellist.net/food/italy/rome/flavio-al-velavevodetto/
+- Reddit, TikTok, Instagram mentions
+
+**Reddit sentiment**:
+- 常被推薦為「真正的羅馬食物」
+- Carbonara 被稱為羅馬最佳之一（"very correct, creamy, intensely flavored"）
+- 性價比好
+- 建議訂位，尤其週末
+- Guanciale 來自 Antica Macelleria Falorni（受尊敬的肉商）
+
+**Recurring pros**:
+- 正宗羅馬傳統菜（carbonara、cacio e pepe、amatriciana 都很出色）
+- 建在 Monte Testaccio 內部，用餐室牆面有古羅馬雙耳瓶碎片
+- 較少觀光客，更多本地人
+- 性價比好
+- 氛圍輕鬆溫暖
+- Carbonara 使用 rigatoni 或 mezze maniche
+
+**Recurring cons**:
+- 尖峰時段服務可能不一致
+- 葡萄酒價格偏高（部分評論）
+- 繁忙時可能擁擠
+- Walk-in 可能等很久
+
+**Practical**:
+- reservation requirement: recommended（強烈建議訂位，尤其週末）
+- best visiting time: 平日週三或週五晚餐
+- queue: 無訂位可能等較久
+- 適合尋求在地體驗的旅客
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（正宗羅馬菜，carbonara 高水準）
+- Value: 8/10（性價比好）
+- Convenience: 7/10（Testaccio 區，需訂位但不算太難）
+- Consistency: 8/10（食物品質穩定，服務偶爾不一）
+- Risk (10 = low risk): 7/10（有訂位則風險低）
+- **Total: 39/50**
+
+---
+
 ## Next steps (research queue)
 
 High priority:
-- [ ] Armando al Pantheon（完整研究含評分）
-- [ ] Flavio al Velavevodetto（完整研究含評分）
+- [x] Armando al Pantheon（完整研究含評分 - 41/50）
+- [x] Flavio al Velavevodetto（完整研究含評分 - 39/50）
 - [ ] Antico Forno Roscioli（完整研究含評分）
 
 Medium priority:
