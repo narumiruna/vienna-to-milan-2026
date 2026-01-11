@@ -105,12 +105,14 @@ Before marking a city as "✅ 已完成", verify:
 
 ```bash
 # Check candidates.md for any remaining inbox items
-grep "| inbox |" candidates.md | wc -l
+# Note: Assumes markdown table format with "| inbox |" or "inbox" as status value
+grep -E "\| inbox \||\bstatus:?\s*inbox\b" candidates.md | wc -l
 # → Should return 0
 
 # Check excluded.md for pending decision sections
-grep -i "待決定\|尚未研究\|undecided\|not yet researched" excluded.md | wc -l
-# → Should return 0
+# Looks for common Chinese/English terms indicating unfinished research
+grep -iE "待決定|待定|尚未研究|undecided|not yet researched|pending" excluded.md | wc -l
+# → Should return 0 (may need manual verification if section headers match)
 
 # Check overview.md for incomplete checklist items
 grep "\[ \]" overview.md | wc -l
@@ -120,6 +122,8 @@ grep "\[ \]" overview.md | wc -l
 ls -la top-places.md && wc -l top-places.md
 # → File should exist and have substantial content (>50 lines typically)
 ```
+
+**Note on verification**: The grep patterns are designed for the standard table format documented in this guide. If you modify the table structure, adjust the patterns accordingly.
 
 ---
 
