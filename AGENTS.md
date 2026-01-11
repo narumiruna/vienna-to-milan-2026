@@ -264,6 +264,28 @@ Each entry MUST include:
 
 ---
 
+### 6 Post-Research Updates — Documentation Maintenance
+
+**After completing research for a city, MUST do the following**:
+
+1. **Update README.md progress**:
+   - Update the 🍽️ 美食研究進度 table with current status
+   - Change status icon (⏳ → 📝 → 🔄 → ✅)
+   - Update 重點推薦 count
+   - Add relevant notes about research completion
+
+2. **Update AGENTS.md if workflow improved**:
+   - If you discovered a more efficient research method, document it in "Process Improvements (Lessons Learned)"
+   - If you found common patterns or pitfalls, add them to relevant sections
+   - Keep the workflow documentation current with actual practices
+
+**Why this matters**:
+- README.md serves as the project dashboard - it must reflect current reality
+- AGENTS.md captures institutional knowledge - improvements benefit future research
+- Consistent updates prevent confusion and duplicate work
+
+---
+
 ## Process Improvements (Lessons Learned)
 
 ### Efficient Research Workflow
