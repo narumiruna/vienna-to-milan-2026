@@ -105,14 +105,14 @@ Before marking a city as "✅ 已完成", verify:
 
 ```bash
 # Check candidates.md for any remaining inbox items
-# Note: Assumes markdown table format with "| inbox |" or "inbox" as status value
+# Note: Assumes markdown table format with "| inbox |" (with spaces)
 grep -E "\| inbox \||\bstatus:?\s*inbox\b" candidates.md | wc -l
 # → Should return 0
 
-# Check excluded.md for pending decision sections
-# Looks for common Chinese/English terms indicating unfinished research
-grep -iE "待決定|待定|尚未研究|undecided|not yet researched|pending" excluded.md | wc -l
-# → Should return 0 (may need manual verification if section headers match)
+# Check excluded.md for pending decision sections (headers only)
+# Targets section headers (lines starting with #) containing pending indicators
+grep -E "^#.*待決定|^#.*待定|^#.*尚未研究|^#.*[Uu]ndecided|^#.*[Nn]ot [Yy]et [Rr]esearched|^#.*[Pp]ending" excluded.md | wc -l
+# → Should return 0
 
 # Check overview.md for incomplete checklist items
 grep "\[ \]" overview.md | wc -l
