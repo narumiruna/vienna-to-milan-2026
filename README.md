@@ -15,6 +15,8 @@
 
 ## 研究進度
 
+> 📊 詳細進度管理與完成標準，請參見 [PROGRESS.md](PROGRESS.md)
+
 ### 🍽️ 美食研究進度
 
 | 城市 | 狀態 | 重點推薦 | 備註 |
@@ -38,6 +40,7 @@
   - `[date-city]/candidates.md` - 候選餐廳與評分
   - `[date-city]/top-places.md` - 最終推薦清單
   - `[date-city]/excluded.md` - 排除地點與原因
+- `PROGRESS.md` - 進度管理與完成標準
 - `AGENTS.md` - AI 代理人作業指南
 
 ## 評分標準

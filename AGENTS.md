@@ -51,88 +51,17 @@ All recommendations must be:
 
 ## Research Completion Standard
 
-A city can be marked as "✅ 已完成" (Completed) in README.md **only when ALL** of the following criteria are met:
+For detailed completion criteria, status definitions, and verification checklists, see [PROGRESS.md](PROGRESS.md).
 
-1. **All candidates have been triaged**
-   - No places remain with `status: inbox` in candidates.md
-   - Every candidate has either been:
-     - Fully researched and scored (with detailed evidence section)
-     - OR explicitly moved to excluded.md with a documented reason
-     - OR documented in excluded.md as "not researched further" with clear rationale
+**Quick Reference:**
+- A city is marked "✅ 已完成" when ALL of the following are met:
+  1. All candidates triaged (no `status: inbox` in candidates.md)
+  2. No pending decisions in excluded.md
+  3. top-places.md finalized (Top Picks, Backups, Dining Strategy, To-Do)
+  4. overview.md checklist fully checked `[x]`
 
-2. **No pending decisions in excluded.md**
-   - excluded.md must NOT contain sections like "待決定的候選" (Undecided Candidates) or "尚未研究" (Not Yet Researched)
-   - Any place listed in excluded.md must have a clear status:
-     - "REJECTED" with score and detailed exclusion reason
-     - "Not Researched Further" with explanation of why it was deprioritized
-
-3. **Final recommendations completed**
-   - top-places.md contains a finalized list of:
-     - Top Picks (score 35+)
-     - Backups (score 30-34)
-   - Dining Strategy section is complete
-   - To-Do section is present
-
-4. **Overview checklist fully checked**
-   - All items in overview.md progress checklist are marked with `[x]`
-   - If any checklist items remain `[ ]`, the city is NOT completed
-
-### What "Completed" Does NOT Require
-
-- ❌ Researching EVERY place initially collected
-  - It's acceptable to deprioritize candidates and document them in excluded.md as "Not Researched Further"
-  - Focus on quality over quantity (4-6 top picks is sufficient)
-  - **Note on workflow**: During active research (📝 or 🔄 status), candidates may temporarily have `status: inbox`. However, before marking a city as ✅ Completed, all inbox items must be resolved—either researched and scored, or explicitly moved to excluded.md with reasoning.
-
-- ❌ Having backups for every category
-  - Top picks are essential; backups are nice-to-have
-
-- ❌ Making actual reservations
-  - Research completion means having a finalized recommendation list
-  - Reservations are execution phase (tracked in README.md's "完成後執行")
-
-### Transition States
-
-Use these status indicators in README.md to reflect actual progress:
-
-- ⏳ **未開始** (Not Started): No overview.md yet
-- 📝 **研究中** (In Progress): Actively researching candidates
-- 🔄 **待完成** (Needs Finalization): Core research done but completion criteria not fully met
-- ✅ **已完成** (Completed): All four criteria above are satisfied
-
-### Verification Checklist
-
-Before marking a city as "✅ 已完成", verify:
-
-```bash
-# Check candidates.md for any remaining inbox items
-# Primary pattern: "| inbox |" (standard markdown table format with spaces)
-# Fallback pattern: "status: inbox" or "status:inbox" (for robustness)
-grep -E "\| inbox \||status:?\s*inbox" candidates.md | wc -l
-# → Should return 0
-
-# Check excluded.md for pending decision sections (headers only)
-# Targets section headers (lines starting with #) containing pending indicators
-# Examples that should match:
-#   "### 待決定的候選"
-#   "## Undecided Candidates"
-#   "### Not Yet Researched"
-grep -E "^#.*待決定|^#.*待定|^#.*尚未研究|^#.*[Uu]ndecided|^#.*[Nn]ot [Yy]et [Rr]esearched|^#.*[Pp]ending" excluded.md | wc -l
-# → Should return 0
-
-# Check overview.md for incomplete checklist items
-grep "\[ \]" overview.md | wc -l
-# → Should return 0
-
-# Verify top-places.md exists and has content
-ls -la top-places.md && wc -l top-places.md
-# → File should exist and have substantial content (>50 lines typically)
-```
-
-**Note on verification**: 
-- candidates.md uses markdown table format: `| inbox |` (with spaces around status)
-- The fallback pattern `status: inbox` handles edge cases if table format varies slightly
-- excluded.md pattern specifically targets section headers (`^#`) to avoid false positives in body text
+**Status Indicators:**
+- ⏳ 未開始 (Not Started) → 📝 研究中 (In Progress) → 🔄 待完成 (Needs Finalization) → ✅ 已完成 (Completed)
 
 ---
 
@@ -476,15 +405,16 @@ Each entry MUST include:
 
 **After completing research for a city, MUST do the following**:
 
-1. **Verify Research Completion Standard** (see "Research Completion Standard" section):
+1. **Verify Research Completion Standard** (see [PROGRESS.md](PROGRESS.md)):
    - ✅ All candidates triaged (no `status: inbox` remaining)
    - ✅ No pending decisions in excluded.md
    - ✅ top-places.md finalized with Top Picks and Dining Strategy
    - ✅ overview.md checklist fully marked `[x]`
-   - Run the verification commands from the completion standard checklist
+   - Run the verification commands from PROGRESS.md
 
-2. **Update README.md progress**:
-   - Update the 🍽️ 美食研究進度 table with current status
+2. **Update progress tracking**:
+   - Update PROGRESS.md with current status (primary source of truth)
+   - Sync README.md progress table to match PROGRESS.md
    - Use accurate status icon based on completion criteria:
      - ⏳ 未開始 → 📝 研究中 → 🔄 待完成 → ✅ 已完成
    - Only use ✅ when ALL completion criteria are met
@@ -497,7 +427,8 @@ Each entry MUST include:
    - Keep the workflow documentation current with actual practices
 
 **Why this matters**:
-- README.md serves as the project dashboard - it must reflect current reality
+- PROGRESS.md serves as the project progress dashboard - it must reflect current reality
+- README.md provides a quick overview that syncs with PROGRESS.md
 - Completion standards ensure consistency across all cities
 - AGENTS.md captures institutional knowledge - improvements benefit future research
 - Consistent updates prevent confusion and duplicate work
