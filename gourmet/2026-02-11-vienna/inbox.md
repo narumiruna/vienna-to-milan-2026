@@ -3,7 +3,13 @@
 ## 研究狀態：📝 擴展研究中（早午餐選項）
 
 所有原始候選地點已完成詳細研究，證據已記錄於 `candidates.md`，最終推薦已整理於 `top-places.md`。
-目前正在擴展研究早午餐 (brunch) 選項。
+
+**2026-01-12 更新**：已新增早午餐 (brunch) 候選地點至 inbox 與 candidates.md，包含：
+- Vollpension（社會企業概念，長者烘焙）
+- ULRICH（現代化早午餐熱點）
+- Meierei im Stadtpark（Steirereck 姐妹店，近飯店）
+
+這些候選地點目前為 `inbox` 狀態，待進一步詳細研究與評分後，將更新至 shortlisted 或 top 狀態。
 
 ## 快速參考
 
