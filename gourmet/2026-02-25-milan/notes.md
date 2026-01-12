@@ -1030,3 +1030,83 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Consistency: 6/10 (service varies, tiramisu quality inconsistent based on reviews)
 - Risk: 6/10 (tiramisu not the strong point despite overall prestige)
 - **Total: 33/50**
+
+---
+
+## Confine - Pizza e Cantina
+
+**官網**: https://confinemilano.it/
+
+**Google Maps**: 4.4/5 (1,100+ reviews)
+- [Google Maps 連結](https://maps.app.goo.gl/EUKi79UspeDsKuKFA)
+
+**Tripadvisor**: 3.3/5 (200+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d25463196-Reviews-CONFINE_PIZZA_E_CANTINA-Milan_Lombardy.html
+
+**Restaurant Guru**: 4.2/5 (1,334 reviews)
+
+**位置與訂位**:
+- 位置：Piazza Guglielmo Massaia (市中心)
+- 訂位：+39 375 542 6086 或官網
+- 建議提前預訂（特別是晚餐與週末）
+
+**料理特色**:
+- 創意披薩，使用高品質食材
+- Tasting menu 推薦（可品嚐多種披薩風格）
+- 葡萄酒選擇豐富
+- 素食友善選項
+
+**氛圍設計**:
+- 現代精緻設計
+- 時尚設計周活動場地
+- 熱鬧氛圍，適合特殊場合
+- 現代與傳統結合的披薩體驗
+
+**Reddit 意見**:
+- 不常出現在主要 Reddit 討論中
+- 過去提及為「披薩愛好者必訪」
+- 強調當代與創意選項
+
+**常見優點**:
+- 高品質食材，創意披薩
+- Tasting menu 可體驗多種風格
+- 優秀的葡萄酒選擇
+- 時尚精緻的設計與氛圍
+- 特殊場合的用餐體驗
+- 當服務優秀時令人印象深刻
+
+**常見缺點**:
+- 環境擁擠、嘈雜，缺乏私密性
+- 服務品質不穩定（從極優到令人失望）
+- 價格偏高（披薩約 €15-25/個）
+- 等待時間長，特別是繁忙時段
+- 照明過亮（天花板燈光被批評為不舒適）
+- 比一般披薩店更高價，但非所有人認同性價比
+
+**實用資訊**:
+- reservation requirement: recommended（繁忙時段強烈建議）
+- best visiting time: 午餐或早晚餐時段（避開最繁忙時段）
+- closed days: 需確認
+- queue: 無預訂可能需長時間等待
+- price: €€€ (披薩 €15-25/個，比一般披薩店貴)
+- 特色：tasting menu 推薦、葡萄酒配搭
+
+**注意事項**:
+- 對光線敏感者需注意（天花板照明被批評）
+- 期望管理：這是高級創意披薩餐廳，非傳統平價 pizzeria
+- 擁擠程度可能影響用餐體驗
+
+**50 分評分系統**:
+- Taste/Quality (口味): 8/10 - 高品質食材與創意披薩，但非所有人喜愛風格
+- Value (性價比): 6/10 - 價格偏高，非所有人認同性價比
+- Convenience (便利性): 7/10 - 市中心位置好，但需預訂且可能等待
+- Consistency (穩定性): 6/10 - 服務與體驗品質不穩定（Google 4.4 vs Tripadvisor 3.3）
+- Risk (風險): 8/10 - 品質可靠，主要風險在擁擠、服務、價格
+
+**總分**: 35/50
+
+**推薦指數**: Backup（30-34 分範圍接近，35 分為及格推薦）
+- 適合：披薩愛好者、尋求創意現代披薩體驗、特殊場合
+- 不適合：預算有限、尋求傳統平價 pizzeria、對環境安靜度有要求
+
+---
