@@ -307,7 +307,7 @@ When starting research for a new city:
 - category (restaurant | cafe | dessert)
 - area / neighborhood
 - type (e.g. pasta, steak, espresso, gelato)
-- google_maps_url (**MUST be direct Google Maps link** - see Google Maps Link Requirement below)
+- google_maps_url (see Google Maps Link Requirement below)
 - status: inbox | researching | shortlisted | rejected | top
 - sources (brief: e.g., "Tripadvisor, Reddit, Michelin")
 - notes (Traditional Chinese, brief summary)
@@ -316,20 +316,18 @@ When starting research for a new city:
 - score (e.g., "39/50" or "TBD") - can be included for quick reference, though detailed scoring should always be in notes.md
 
 **Google Maps Link Requirement**:
-- **MUST use DIRECT Google Maps links**, not search API links
 - ✅ Acceptable formats:
-  - `https://maps.app.goo.gl/...` (short link from Google Maps app)
+  - Direct Google Maps links: `https://maps.app.goo.gl/...`
+  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
+- ⚠️ Avoid using:
   - `https://www.google.com/maps/place/...` (place page URL)
-  - `https://goo.gl/maps/...` (shortened place link)
 - ❌ NOT acceptable:
-  - `https://www.google.com/maps/search/?api=1&query=...` (search API link)
   - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
 - **How to get direct links**:
   1. Search for the place on Google Maps
   2. Click on the specific place to open its info panel
   3. Click "Share" button
-  4. Copy the short link (maps.app.goo.gl format) OR copy URL from address bar
-- **When to use search links**: Only as temporary placeholder during initial discovery (status: inbox), MUST be replaced with direct link when researching
+  4. Copy the short link (maps.app.goo.gl format) OR use search API format
 - Links MUST be tested/verified to point to the correct location
 
 **Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
@@ -503,16 +501,15 @@ Each entry MUST include:
 
 **Google Maps Link Requirement**:
 - Every place in top-places.md MUST have a valid, working Google Maps link
-- **MUST use DIRECT Google Maps links**, not search API links
 - ✅ Acceptable formats:
-  - `https://maps.app.goo.gl/...` (short link from Google Maps app)
+  - Direct Google Maps links: `https://maps.app.goo.gl/...`
+  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
+- ⚠️ Avoid using:
   - `https://www.google.com/maps/place/...` (place page URL)
-  - `https://goo.gl/maps/...` (shortened place link)
 - ❌ NOT acceptable:
-  - `https://www.google.com/maps/search/?api=1&query=...` (search API link)
   - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
 - Links MUST be tested/verified to point to the correct location
-- **Consistency**: Use the same direct link from candidates.md to maintain traceability
+- **Consistency**: Use the same link format from candidates.md to maintain traceability
 
 **Additional sections to include**:
 - Dining Strategy:
