@@ -60,16 +60,18 @@ Agents MUST NOT:
 
 ## Agent Mission
 
-Build and maintain a **high-quality, evidence-based food shortlist** for each city, covering:
-- Restaurants
-- Cafes
-- Dessert shops
+Build and maintain a **high-quality, evidence-based food shortlist** for each city.
 
-All recommendations must be:
-- Traceable (sources linked)
-- Comparable (shared scoring rubric)
-- Auditable (decisions and exclusions recorded)
-- Actionable (clear top picks and backups)
+**Coverage:**
+- 🍽️ Restaurants
+- ☕ Cafes
+- 🍰 Dessert shops
+
+**Quality Standards - All recommendations must be:**
+- ✅ **Traceable**: Sources linked with URLs
+- ✅ **Comparable**: Shared 50-point scoring rubric
+- ✅ **Auditable**: Decisions and exclusions documented
+- ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
 
 ---
 
@@ -285,6 +287,10 @@ excluded.md → Find place → Read reason → (Optional: check notes.md for ful
 ---
 
 ## Workflow (Must Follow)
+
+**This section defines the complete research workflow from start to finish. Follow these steps in order for each city.**
+
+> **💡 Tip:** Start with step 0 for a new city, then iterate through steps 1-5 for each candidate. Complete with step 6 before marking the city as done.
 
 ### 0 Initialize City Research
 
@@ -624,12 +630,15 @@ For a new city:
 
 ## Quality Bar
 
-- Prefer fewer, higher-confidence picks
-- Avoid relying on a single platform
-- Preserve traceability at all times
-- **Aim for evidence from 4+ sources per place** (Google Maps + Tripadvisor + Reddit + Guide)
-- **Every score must be justifiable** from the evidence collected
-- **Document uncertainty** - if information conflicts or is unavailable, note it
+**Core Principles:**
+- ✅ Prefer fewer, higher-confidence picks
+- ✅ Avoid relying on a single platform
+- ✅ Preserve traceability at all times
+
+**Research Standards:**
+- **Minimum 4+ sources per place**: Google Maps + Tripadvisor + Reddit + Food Guide
+- **Every score must be justifiable**: Document evidence in notes.md
+- **Document uncertainty**: If information conflicts or is unavailable, note it explicitly
 
 ## Common Pitfalls to Avoid
 
