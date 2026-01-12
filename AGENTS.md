@@ -1,5 +1,30 @@
 # Instructions for Agents
 
+## Table of Contents
+
+1. [Main Purpose (Immutable)](#main-purpose-immutable)
+2. [Agent Mission](#agent-mission)
+3. [Working with Agents: Ensuring Task Completion](#working-with-agents-ensuring-task-completion)
+4. [Research Completion Standard](#research-completion-standard)
+5. [Required Repository Structure (Per City)](#required-repository-structure-per-city)
+6. [Progressive Disclosure Principle](#progressive-disclosure-principle)
+7. [Workflow (Must Follow)](#workflow-must-follow)
+   - [0. Initialize City Research](#0-initialize-city-research)
+   - [1. Discovery — Candidate Collection](#1-discovery--candidate-collection)
+   - [2. Evidence Collection — Per Place](#2-evidence-collection--per-place)
+   - [3. Scoring — Standard Rubric](#3-scoring--standard-rubric)
+   - [4. Triage — Exclusion with Reasons](#4-triage--exclusion-with-reasons)
+   - [5. Final Output — Top Picks](#5-final-output--top-picks)
+   - [6. Post-Research Updates — Documentation Maintenance](#6-post-research-updates--documentation-maintenance)
+8. [Process Improvements (Lessons Learned)](#process-improvements-lessons-learned)
+9. [Documentation & Naming Rules](#documentation--naming-rules)
+10. [Quality Bar](#quality-bar)
+11. [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
+12. [Research Questions Checklist](#research-questions-checklist)
+13. [Quick Reference](#quick-reference) ⭐
+
+---
+
 ## Main Purpose (Immutable)
 
 - The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
@@ -35,16 +60,18 @@ Agents MUST NOT:
 
 ## Agent Mission
 
-Build and maintain a **high-quality, evidence-based food shortlist** for each city, covering:
-- Restaurants
-- Cafes
-- Dessert shops
+Build and maintain a **high-quality, evidence-based food shortlist** for each city.
 
-All recommendations must be:
-- Traceable (sources linked)
-- Comparable (shared scoring rubric)
-- Auditable (decisions and exclusions recorded)
-- Actionable (clear top picks and backups)
+**Coverage:**
+- 🍽️ Restaurants
+- ☕ Cafes
+- 🍰 Dessert shops
+
+**Quality Standards - All recommendations must be:**
+- ✅ **Traceable**: Sources linked with URLs
+- ✅ **Comparable**: Shared 50-point scoring rubric
+- ✅ **Auditable**: Decisions and exclusions documented
+- ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
 
 ---
 
@@ -91,7 +118,7 @@ All recommendations must be:
 
 ## Research Completion Standard
 
-For detailed completion criteria, status definitions, and verification checklists, see [PROGRESS.md](PROGRESS.md).
+For detailed completion criteria, status definitions, and verification checklists, see [PROGRESS.md - Research Completion Standard](PROGRESS.md#-研究完成標準).
 
 **Quick Reference:**
 - A city is marked "✅ 已完成" when ALL of the following are met:
@@ -144,17 +171,17 @@ Progressive disclosure prevents:
 #### File Structure (Layered Information)
 
 ```
-overview.md       ← START HERE: Context, strategy, progress at a glance
+overview.md       ← START HERE: Context, strategy, progress (5 min read)
     ↓
-top-places.md     ← ACTIONABLE: Final recommendations with scores
+top-places.md     ← ACTIONABLE: Final recommendations (10 min read)
     ↓
-candidates.md     ← SUMMARY: Quick scan table with scores and status
+candidates.md     ← SUMMARY: Quick scan table (5-10 min read)
     ↓
-notes.md          ← EVIDENCE: Detailed research notes, sources, and rationale
+notes.md          ← EVIDENCE: Detailed research (30+ min read)
     ↓
-inbox.md          ← RAW DATA: Unstructured capture, exploration notes
+inbox.md          ← RAW DATA: Working notes (exploratory)
     ↓
-excluded.md       ← REJECTED: What was considered and why it was excluded
+excluded.md       ← REJECTED: What was excluded and why (5 min read)
 ```
 
 **Each file serves a distinct purpose**:
@@ -260,6 +287,10 @@ excluded.md → Find place → Read reason → (Optional: check notes.md for ful
 ---
 
 ## Workflow (Must Follow)
+
+**This section defines the complete research workflow from start to finish. Follow these steps in order for each city.**
+
+> **💡 Tip:** Start with step 0 for a new city, then iterate through steps 1-5 for each candidate. Complete with step 6 before marking the city as done.
 
 ### 0 Initialize City Research
 
@@ -501,14 +532,7 @@ Each entry MUST include:
 
 **Google Maps Link Requirement**:
 - Every place in top-places.md MUST have a valid, working Google Maps link
-- ✅ Acceptable formats:
-  - Direct Google Maps links: `https://maps.app.goo.gl/...`
-  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
-- ⚠️ Avoid using:
-  - `https://www.google.com/maps/place/...` (place page URL)
-- ❌ NOT acceptable:
-  - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
-- Links MUST be tested/verified to point to the correct location
+- See [Section 1: Google Maps Link Requirement](#1-discovery--candidate-collection) for acceptable formats and how to obtain links
 - **Consistency**: Use the same link format from candidates.md to maintain traceability
 
 **Additional sections to include**:
@@ -528,7 +552,7 @@ Each entry MUST include:
 
 **After completing research for a city, MUST do the following**:
 
-1. **Verify Research Completion Standard** (see [PROGRESS.md](PROGRESS.md)):
+1. **Verify Research Completion Standard** (see [PROGRESS.md - Research Completion Standard](PROGRESS.md#-研究完成標準)):
    - ✅ All candidates triaged (no `status: inbox` remaining)
    - ✅ No pending decisions in excluded.md
    - ✅ top-places.md finalized with Top Picks and Dining Strategy
@@ -606,12 +630,15 @@ For a new city:
 
 ## Quality Bar
 
-- Prefer fewer, higher-confidence picks
-- Avoid relying on a single platform
-- Preserve traceability at all times
-- **Aim for evidence from 4+ sources per place** (Google Maps + Tripadvisor + Reddit + Guide)
-- **Every score must be justifiable** from the evidence collected
-- **Document uncertainty** - if information conflicts or is unavailable, note it
+**Core Principles:**
+- ✅ Prefer fewer, higher-confidence picks
+- ✅ Avoid relying on a single platform
+- ✅ Preserve traceability at all times
+
+**Research Standards:**
+- **Minimum 4+ sources per place**: Google Maps + Tripadvisor + Reddit + Food Guide
+- **Every score must be justifiable**: Document evidence in notes.md
+- **Document uncertainty**: If information conflicts or is unavailable, note it explicitly
 
 ## Common Pitfalls to Avoid
 
@@ -634,3 +661,64 @@ For each researched place, ensure you can answer:
 - ✓ What is the approximate price range?
 - ✓ What are the most common complaints?
 - ✓ Is it touristy or more local?
+
+---
+
+## Quick Reference
+
+### File Structure (Per City)
+```
+gourmet/YYYY-MM-DD-city/
+├── overview.md       (5min)  - Context & strategy
+├── top-places.md     (10min) - Final recommendations
+├── candidates.md     (5min)  - Summary table
+├── notes.md          (30min) - Detailed evidence
+├── inbox.md          (working) - Raw capture
+└── excluded.md       (5min)  - Rejected with reasons
+```
+
+### Scoring Rubric (50 points total)
+- **Taste/Quality** (0-10): Food quality, authenticity, execution
+- **Value** (0-10): Price vs quality, portion size
+- **Convenience** (0-10): Location, ease of access/reservation
+- **Consistency** (0-10): Reliability across reviews
+- **Risk** (0-10): Low risk = 10, high risk = 0
+
+**Score Ranges:**
+- 40+: Excellent, highly recommended (Top Pick)
+- 35-39: Very good, solid choice (Top Pick)
+- 30-34: Good, acceptable (Backup)
+- <30: Consider exclusion
+
+### Required Sources (Minimum 4)
+1. Google Maps (rating + review count)
+2. Tripadvisor or similar aggregator
+3. Reddit (threads/comments)
+4. Food/travel guide (Michelin, TimeOut, local blogs)
+
+### Completion Criteria (All Required)
+✅ No `status: inbox` items in candidates.md
+✅ No pending decisions in excluded.md
+✅ top-places.md finalized (Top Picks + Dining Strategy)
+✅ overview.md checklist fully checked `[x]`
+
+### Key Workflow Steps
+0. **Initialize**: Create overview.md → Use web_search for candidates
+1. **Discover**: Add to candidates.md table (focus on top 3-5 first)
+2. **Research**: Add detailed evidence to notes.md (4+ sources)
+3. **Score**: Apply 50-point rubric, document in notes.md
+4. **Triage**: Reject <30 scores, document in excluded.md
+5. **Finalize**: Update top-places.md with Top Picks (35+) and Backups (30-34)
+6. **Update**: Sync PROGRESS.md and README.md when complete
+
+### Common Commands
+```bash
+# Check for inbox items
+grep -E "\| inbox \||status:?\s*inbox" candidates.md | wc -l
+
+# Check for pending exclusions
+grep -E "^#.*待決定|^#.*[Uu]ndecided" excluded.md | wc -l
+
+# Check for incomplete overview tasks
+grep "\[ \]" overview.md | wc -l
+```
