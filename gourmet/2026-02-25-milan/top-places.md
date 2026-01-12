@@ -2,6 +2,23 @@
 
 ## Top Picks（重點推薦，35+ 分）
 
+### Brunch / 早午餐 (NEW)
+
+#### Pavé - 41/50 ⭐
+- **type**: Pastry shop & brunch
+- **area**: Porta Venezia (Via Felice Casati 27)
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Pave+Milan
+- **justification**: 米蘭最愛糕點店；4.4/5 (2,800+ reviews)；肉桂捲、可頌出色
+- **constraints**: €10-20/人；週二休息；可能排隊
+
+#### oTTo - 37/50
+- **type**: Scandinavian-style brunch
+- **area**: Chinatown (Isola)
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=oTTo+Milan
+- **justification**: 北歐設計；開放式三明治 (quadrotti)
+- **constraints**: €12-20/人
+
+
 ### 1. **Enrico Bartolini al Mudec** - 42/50 ⭐⭐⭐
 - **類型**: 米其林三星餐廳
 - **區域**: MUDEC Museum (Zone 6)

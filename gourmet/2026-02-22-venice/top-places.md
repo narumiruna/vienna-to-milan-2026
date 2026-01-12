@@ -2,6 +2,23 @@
 
 ## 重點推薦 (Top Picks - 35+ 分)
 
+### Brunch / 早午餐 (NEW)
+
+#### Fluffy Brunch - 44/50 ⭐
+- **type**: Japanese-style fluffy pancakes, brunch
+- **area**: San Polo (Calle del Capeler 1586)
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Fluffy+Brunch+Venice
+- **justification**: 威尼斯最佳煎餅；4.6/5 (1,380+ reviews)；每日營業
+- **constraints**: €10-18/人；可能排隊
+
+#### Brunch Café - 37/50
+- **type**: International brunch
+- **area**: San Polo
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Brunch+Cafe+Venice
+- **justification**: 煎餅與法式吐司；活潑氛圍
+- **constraints**: €10-16/人
+
+
 ### 1. Pasticceria Tonolo - 44/50 ⭐
 **類型**：傳統糕點店  
 **位置**：San Polo/Dorsoduro  
