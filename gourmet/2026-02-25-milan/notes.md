@@ -902,3 +902,131 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **Price**: €12-20/person
 **Score**: 37/50 (estimated)
 
+
+---
+
+## Pasticceria Martesana
+
+**Official**: Via Cardinale Giovanni Cagliero 14, 20125 Milan (main location)
+
+**Google Maps**: 3.6/5 (750+ reviews at Cagliero location)
+- Main: Via Cardinale Giovanni Cagliero 14, 20125 Milan (Zone 2, Maggiolina)
+- Sant'Agostino: Piazza Sant'Agostino 7, 20123 Milan
+- Sarpi: Via Paolo Sarpi, Milan (Zone 8)
+
+**Tripadvisor**: 3.6/5 (750+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d2264813-Reviews-Pasticceria_Martesana_Milano_Cagliero-Milan_Lombardy.html
+
+**Guide sources**:
+- Widely recognized as Milan's benchmark for tiramisu
+- Vincenzo Santoro's masterful technique
+- Featured in Italian pastry guides as "temple of high pastry"
+- Monoporzione (individual serving) approach for perfect control
+- Known for panettone, pastries, and classic Milanese desserts
+
+**Reviews sentiment**:
+- Praised for quality of cakes, pastries, and coffee
+- Beautiful presentation
+- Massive maritozzi, pistachy croissants
+- Respected for tradition and innovation
+- Some complaints about customer service
+- Prices considered high by some but reasonable for quality by others
+
+**Recurring pros**:
+- Masterful pastry technique
+- Perfectly balanced, creamy tiramisu
+- Considered Milan's benchmark for tiramisu
+- Fresh pastries and cakes
+- Historic reputation (established excellence)
+- Multiple locations
+- Quality ingredients and craftsmanship
+
+**Recurring cons**:
+- Customer service can vary by location and staff
+- Higher pricing ($$-$$$)
+- Main location can be crowded
+- Mercato Centrale branch has lower ratings
+- Some find it overpriced
+
+**Practical**:
+- reservation requirement: none (pastry shop)
+- best visiting time: morning to avoid crowds
+- closed days: varies by location (check before visiting)
+- queue: possible at peak times, especially main location
+- price: €6-8 per slice (tiramisu), €30+ for whole cakes
+- takeaway: yes
+- dietary: standard pastry options
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (exceptional technique, benchmark status, perfectly balanced)
+- Value: 7/10 (€6-8/slice is premium but justified by quality)
+- Convenience: 7/10 (multiple locations but can be crowded, no reservation)
+- Consistency: 7/10 (quality praised but service varies, 3.6/5 rating shows mixed experience)
+- Risk: 7/10 (quality reliable but service/crowding can affect experience)
+- **Total: 37/50**
+
+---
+
+## Pasticceria Marchesi 1824
+
+**Official**: https://www.marchesi1824.com/eu/en.html
+
+**Google Maps**: Multiple locations
+- Via Santa Maria alla Porta 11/a (original)
+- Via Monte Napoleone (fashion district)
+- Galleria Vittorio Emanuele II
+
+**Tripadvisor**: Mixed reviews (4.0+ overall)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d2240726-Reviews-Marchesi_1824-Milan_Lombardy.html
+
+**Prada ownership**: Now part of Prada Group (luxury positioning)
+
+**Guide sources**:
+- Historic Milanese institution since 1824
+- Belle Époque ambiance
+- Art deco accents and original 20th century furnishings
+- Famous for panettone, chocolates, pastries
+- "Elevated Milanese taste"
+
+**Reviews sentiment**:
+- Elegant setting and sophisticated atmosphere
+- Beautiful presentation
+- Premium ingredients
+- Excellent panettone and chocolates
+- Tiramisu receives mixed reviews (some disappointed, others praise it)
+- Service can be rushed at counter, polished at tables
+- Prices reflect luxury positioning
+- Prada clientele
+
+**Recurring pros**:
+- Historic prestige (1824)
+- Beautiful Belle Époque setting
+- Premium quality ingredients
+- Artful pastry presentation
+- Excellent panettone and chocolates
+- Multiple convenient locations
+- Sophisticated atmosphere
+
+**Recurring cons**:
+- Tiramisu specifically criticized by some ("not authentic", "not tasty")
+- High prices
+- Counter service can feel rushed
+- More focused on luxury experience than just food
+- Panettone and chocolates overshadow other desserts
+
+**Practical**:
+- reservation requirement: none for takeaway, table service available
+- best visiting time: avoid peak lunch/afternoon tea times
+- closed days: rarely closed
+- queue: possible at popular locations
+- price: €€€ (premium luxury pricing)
+- takeaway: yes
+- afternoon tea: available
+
+**Score (50-point rubric)**:
+- Taste/Quality: 7/10 (mixed reviews on tiramisu specifically, though other pastries excellent)
+- Value: 6/10 (expensive, luxury pricing may not match tiramisu quality)
+- Convenience: 8/10 (multiple prime locations, no reservation needed)
+- Consistency: 6/10 (service varies, tiramisu quality inconsistent based on reviews)
+- Risk: 6/10 (tiramisu not the strong point despite overall prestige)
+- **Total: 33/50**

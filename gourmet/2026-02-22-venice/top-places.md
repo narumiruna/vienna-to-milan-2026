@@ -57,6 +57,16 @@
 - **constraints**: €10-16/人
 
 
+### 新增推薦：Tiramisù 專門店
+
+#### I Tre Mercanti - 44/50 ⭐
+- **type**: Tiramisù specialist (dessert shop)
+- **area**: Castello (near St. Mark's Square)
+- **google_maps_url**: https://goo.gl/maps/BVwJsRSv4s32
+- **justification**: 威尼斯最佳提拉米蘇；每小時新鮮製作；25+ 口味（經典、開心果、抹茶、Aperol Spritzamisu）；4.6/5 高評價
+- **constraints**: €3.50-4.50/杯；外帶為主；11:00-18:30；無需預訂
+
+
 ### 1. Pasticceria Tonolo - 44/50 ⭐
 **類型**：傳統糕點店  
 **位置**：San Polo/Dorsoduro  

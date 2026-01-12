@@ -48,6 +48,47 @@ All recommendations must be:
 
 ---
 
+## Working with Agents: Ensuring Task Completion
+
+### How to Keep Agents Working Until Completion
+
+**Problem**: Agents may stop mid-task, leaving research incomplete.
+
+**Solutions**:
+
+1. **Break large tasks into clear, atomic steps**
+   - ✅ "Research and score Pompi tiramisu" (specific, achievable)
+   - ❌ "Research all tiramisu in Italy" (too broad, likely to stop mid-way)
+
+2. **Set clear completion criteria in instructions**
+   - Define what "done" means (e.g., "score must be in candidates.md AND notes.md")
+   - Agent will work toward the defined end state
+
+3. **Use progress tracking tools**
+   - Agent should call `report_progress` after each meaningful unit of work
+   - This creates checkpoints and shows what's left
+
+4. **Provide task checklists**
+   - Include a checklist in your request (e.g., "Research 3 restaurants: A, B, C")
+   - Agent can track progress and know when complete
+
+5. **Avoid ambiguous scope**
+   - ✅ "Add top 3 tiramisu places to Rome candidates" (clear boundary)
+   - ❌ "Research tiramisu" (unclear when to stop)
+
+### When Agent Stops Unexpectedly
+
+**If agent stops mid-research**:
+- Check the last commit to see what was completed
+- Verify files in git status to confirm progress
+
+**If agent repeatedly stops**:
+- Break the task into smaller chunks
+- Ask agent to complete one specific file at a time
+- Use "complete X, then Y, then Z" format
+
+---
+
 ## Research Completion Standard
 
 For detailed completion criteria, status definitions, and verification checklists, see [PROGRESS.md](PROGRESS.md).
@@ -266,13 +307,30 @@ When starting research for a new city:
 - category (restaurant | cafe | dessert)
 - area / neighborhood
 - type (e.g. pasta, steak, espresso, gelato)
-- google_maps_url (use search link initially, replace with exact link when researched)
+- google_maps_url (**MUST be direct Google Maps link** - see Google Maps Link Requirement below)
 - status: inbox | researching | shortlisted | rejected | top
 - sources (brief: e.g., "Tripadvisor, Reddit, Michelin")
 - notes (Traditional Chinese, brief summary)
 
 **Optional fields:**
 - score (e.g., "39/50" or "TBD") - can be included for quick reference, though detailed scoring should always be in notes.md
+
+**Google Maps Link Requirement**:
+- **MUST use DIRECT Google Maps links**, not search API links
+- ✅ Acceptable formats:
+  - `https://maps.app.goo.gl/...` (short link from Google Maps app)
+  - `https://www.google.com/maps/place/...` (place page URL)
+  - `https://goo.gl/maps/...` (shortened place link)
+- ❌ NOT acceptable:
+  - `https://www.google.com/maps/search/?api=1&query=...` (search API link)
+  - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
+- **How to get direct links**:
+  1. Search for the place on Google Maps
+  2. Click on the specific place to open its info panel
+  3. Click "Share" button
+  4. Copy the short link (maps.app.goo.gl format) OR copy URL from address bar
+- **When to use search links**: Only as temporary placeholder during initial discovery (status: inbox), MUST be replaced with direct link when researching
+- Links MUST be tested/verified to point to the correct location
 
 **Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
 
@@ -445,13 +503,16 @@ Each entry MUST include:
 
 **Google Maps Link Requirement**:
 - Every place in top-places.md MUST have a valid, working Google Maps link
-- Links MUST be actual URLs (not placeholders or generic text)
-- Acceptable formats:
-  - Direct Google Maps links: `https://maps.app.goo.gl/...`
-  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
-  - Place links: `https://www.google.com/maps/place/[Place+Name]`
+- **MUST use DIRECT Google Maps links**, not search API links
+- ✅ Acceptable formats:
+  - `https://maps.app.goo.gl/...` (short link from Google Maps app)
+  - `https://www.google.com/maps/place/...` (place page URL)
+  - `https://goo.gl/maps/...` (shortened place link)
+- ❌ NOT acceptable:
+  - `https://www.google.com/maps/search/?api=1&query=...` (search API link)
+  - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
 - Links MUST be tested/verified to point to the correct location
-- Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs are NOT acceptable
+- **Consistency**: Use the same direct link from candidates.md to maintain traceability
 
 **Additional sections to include**:
 - Dining Strategy:
