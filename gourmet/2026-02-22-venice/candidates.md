@@ -17,15 +17,15 @@ Notes:
 | Al Timon | restaurant | Cannaregio | bacaro, cicchetti | https://www.google.com/maps/place/Al+Timon | researching | TBD | Tripadvisor, travel guides | 運河邊 bacaro；停在船上用餐 |
 | Suso Gelatoteca | dessert | Cannaregio | gelato | https://www.google.com/maps/place/Suso+Gelatoteca | researching | TBD | Tripadvisor, official site | 威尼斯最佳 gelato 之一 |
 | Pasticceria Tonolo | dessert | San Polo | pastry | https://www.google.com/maps/place/Pasticceria+Tonolo | researching | TBD | Tripadvisor, Wanderlog | 傳統糕點店；奶油泡芙出名 |
-| Osteria Alla Staffa | restaurant | Castello | Venetian | https://www.google.com/maps/search/?api=1&query=Osteria+Alla+Staffa+Venezia | inbox | unknown | 觀光區外圍的口袋名單（待查）。 |
-| Il Ridotto | restaurant | Castello | modern Venetian | https://www.google.com/maps/search/?api=1&query=Il+Ridotto+Venezia | inbox | unknown | 以小盤/海鮮為主（待查）。 |
-| CoVino | restaurant | Castello | wine bar, small plates | https://www.google.com/maps/search/?api=1&query=CoVino+Venezia | inbox | unknown | 酒吧型小食；看作宵夜/轉場點。 |
-| Cantina Do Mori | restaurant | San Polo | bacaro, cicchetti | https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Venezia | inbox | unknown | 近 Rialto 的 bacaro（高人流；風險待評估）。 |
-| Bacareto da Lele | restaurant | Santa Croce | panini, wine | https://www.google.com/maps/search/?api=1&query=Bacareto+da+Lele+Venezia | inbox | unknown | 便宜快吃候選；需查擁擠與踩雷點。 |
-| Paradiso Perduto | restaurant | Cannaregio | seafood | https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Venezia | inbox | unknown | 高人氣；要查服務/擁擠/是否偏觀光。 |
-| Caffè Florian | cafe | San Marco | historic cafe | https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Florian+Venezia | inbox | unknown | 觀光價位高但地標性強；先放候選，後續再決定要不要排。 |
-| Gelateria Alaska | dessert | San Marco | gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+Alaska+Venezia | inbox | unknown | 常見推薦；需補來源與風險評估。 |
-| Rosa Salva | dessert | unknown | pastry, cafe | https://www.google.com/maps/search/?api=1&query=Rosa+Salva+Venezia | inbox | - | https://rosasalva.it/en/rosa-salva-venues | 多據點；之後要挑最順路的一家。 |
+| Osteria Alla Staffa | restaurant | Castello | Venetian | https://maps.app.goo.gl/X7yZh5KNJqF4vL6Z9 | top | 39/50 | Tripadvisor 4.4/5 (1,950+), Travellers' Choice | 正宗威尼斯海鮮；新鮮手工義大利麵；無預約制需排隊。 |
+| Il Ridotto | restaurant | Castello | modern Venetian | https://www.ilridotto.com | top | 39/50 | Michelin Guide, Tripadvisor 4.2/5 (1,200+) | 米其林推薦；創意當代威尼斯料理；小巧精緻；需預訂。 |
+| CoVino | restaurant | Castello | wine bar, small plates | https://www.google.com/maps/search/?api=1&query=Al+Covino+Venice | shortlisted | 38/50 | Tripadvisor 4.4/5 (990+), top 15-23 Venice | 14座精品酒吧；創意菜單配酒；溫馨親密；價高但體驗獨特。 |
+| Cantina Do Mori | restaurant | San Polo | bacaro, cicchetti | https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Venezia | top | 39/50 | Tripadvisor 4.2/5 (950+) | 傳奇bacaro；cicchetti經典；近Rialto；站立式用餐；高人流。 |
+| Bacareto da Lele | restaurant | Santa Croce | panini, wine | https://www.google.com/maps/search/?api=1&query=Bacareto+da+Lele+Venezia | top | 40/50 | Foursquare 4.5/5, local favorite | 超值在地小館；panini€1.2起；站立運河邊；學生與在地人最愛。 |
+| Paradiso Perduto | restaurant | Cannaregio | seafood | https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Venezia | shortlisted | 30/50 | Tripadvisor 3.8/5 (3,100+) | 海鮮餐廳；現場爵士樂；熱鬧氛圍但服務不穩；價位偏高。 |
+| Caffè Florian | cafe | San Marco | historic cafe | https://www.caffeflorian.com | rejected | 28/50 | 義大利最古老咖啡館 (1720) | 歷史地標；極貴(咖啡€10-15)；音樂附加費；觀光陷阱但體驗獨特。 |
+| Gelateria Alaska | dessert | Santa Croce | gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+Alaska+Venezia | shortlisted | 34/50 | Tripadvisor 3.5-4.0/5 (450+) | 創意口味gelato；手工製作；評價兩極但有特色。 |
+| Rosa Salva | dessert | San Marco | pastry, cafe | https://rosasalva.it/en/ | top | 40/50 | Tripadvisor 4.0/5 (900+) | 19世紀糕點老店；多據點；正宗威尼斯糕點；panettone名店。 |
 | Fluffy Brunch | cafe | San Polo (Calle del Capeler) | brunch, Japanese pancakes | https://www.google.com/maps/search/?api=1&query=Fluffy+Brunch+Venice | top | Google/Tripadvisor 4.6/5 (1,380+ reviews) | 日式鬆餅威尼斯最佳；每日 7:30am-7pm；€10-18/人；44/50。 |
 | Brunch Café | cafe | San Polo | brunch | https://www.google.com/maps/search/?api=1&query=Brunch+Caf%C3%A9+Venice | shortlisted | Tripadvisor 4.0-4.2/5 | 煎餅與法式吐司；每日 7:30am-6:30pm；€10-16/人；37/50。 |
 | Combo Venezia | cafe | Cannaregio (monastery) | brunch | https://www.google.com/maps/search/?api=1&query=Combo+Venezia | shortlisted | Local guides | 週日早午餐，修道院環境；€15-25/人；33/50。 |

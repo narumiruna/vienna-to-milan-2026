@@ -1052,3 +1052,471 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Taste/Quality: 7/10 | Value: 7/10 | Convenience: 6/10 | Consistency: 7/10 | Risk: 6/10
 - **Total: 33/50**
 
+
+---
+
+## Osteria Alla Staffa
+
+**Official**: 無官方網站
+
+**Google Maps**: 4.4/5 (thousands of reviews)
+- Location: Calle del Ospedaleto 6397/A Barbaria de le Tole, 30122 Venice
+- +39 041 522 1268
+
+**Tripadvisor**: 4.4/5 (1,950+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1455393-Reviews-Osteria_Alla_Staffa-Venice_Veneto.html
+- Travellers' Choice award (top 10% on Tripadvisor)
+
+**Other ratings**: 
+- Restaurant Guru: 4.4/5
+- Foursquare: 8/10
+- Facebook: 4.8/5
+
+**Guide sources**:
+- Travellers' Choice on Tripadvisor
+- Frequently recommended on travel blogs and Reddit threads
+
+**Reddit sentiment**:
+- Highly recommended as authentic local spot
+- "No reservations policy" frequently mentioned
+- Advice: arrive before opening (6:30 PM) to secure seats
+
+**Recurring pros**:
+- Fresh seafood dishes (cuttlefish spaghetti, squid with black ink)
+- Handmade pasta (duck ragu)
+- Excellent house wine
+- Rustic, cozy atmosphere
+- Good value for quality
+- Friendly, welcoming service
+- Located in Castello (slightly off tourist trail)
+
+**Recurring cons**:
+- No reservations accepted
+- Queue expected, especially at dinner
+- Prices on higher side (but justified by quality)
+- Can be crowded
+
+**Practical**:
+- reservation requirement: none (no reservations accepted)
+- best visiting time: arrive before 6:30 PM opening for dinner, or early for lunch
+- closed days: Tuesday
+- queue: expect to wait in line, especially peak season
+- price: €20-35/person
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (excellent fresh seafood and pasta)
+- Value: 8/10 (high quality justifies pricing)
+- Convenience: 7/10 (Castello location, but no reservations)
+- Consistency: 8/10 (very reliable reviews across platforms)
+- Risk: 7/10 (queue uncertainty, but quality reliable)
+- **Total: 39/50**
+
+---
+
+## Il Ridotto
+
+**Official**: https://www.ilridotto.com/
+- Phone: +39 041 520 8280
+
+**Google Maps**: 4.2/5 (estimated)
+- Location: Campo SS Filippo e Giacomo, Castello 4509, Venice
+
+**Tripadvisor**: 4.2/5 (1,200+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1520518-Reviews-Il_Ridotto-Venice_Veneto.html
+- Travelers' Choice distinction
+
+**Michelin Guide**: Listed in 2025 and 2026 Michelin Guide Italia
+- Two black knife-and-fork symbols (high comfort level)
+- Warm, colorful ambiance
+- Territorial, seasonal cooking
+- Recommended: white chocolate dessert with bergamot
+
+**Restaurant Guru**: 4.1-4.2/5
+
+**Guide sources**:
+- Michelin Guide recommendation
+- TripAdvisor Travelers' Choice
+- Multiple travel blogs praise innovative cuisine
+
+**Recurring pros**:
+- Intimate, refined atmosphere (small restaurant)
+- Creative contemporary Venetian cuisine
+- Local, seasonal ingredients
+- Attentive, knowledgeable staff
+- Excellent tasting menus
+- Good wine pairings
+- Special occasion worthy
+
+**Recurring cons**:
+- Small size means limited seating
+- Can be pricey (but appropriate for quality)
+- Must book in advance
+- Occasional service inconsistencies during busy times
+
+**Practical**:
+- reservation requirement: required (book in advance via website or phone)
+- best visiting time: dinner service
+- closed days: unknown (check website)
+- queue: N/A (reservations required)
+- price: €50-80/person (tasting menus)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (Michelin-listed, creative cuisine)
+- Value: 7/10 (high prices but Michelin-level)
+- Convenience: 7/10 (near San Marco, but reservation required)
+- Consistency: 8/10 (Michelin recognition confirms reliability)
+- Risk: 8/10 (low risk given Michelin status)
+- **Total: 39/50**
+
+---
+
+## CoVino
+
+**Official**: 無明確官網
+
+**Google Maps**: 4.4/5 (estimated)
+- Location: Castello, Venice
+
+**Tripadvisor**: 4.4/5 (990+ reviews)
+- Also listed as "Al Covino"
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d4455527-Reviews-Al_Covino-Venice_Veneto.html
+- Ranks in top 15-23 out of ~1,500 Venice restaurants
+
+**Guide sources**:
+- Consistently appears in "hidden gems" lists
+- Travel bloggers praise the experience
+
+**Recurring pros**:
+- Exceptional wine pairings
+- Intimate atmosphere (only 14 seats)
+- Thoughtfully curated menu (Venetian & Neapolitan-inspired)
+- Inventive, creative cuisine
+- Warm, personal service
+- Cozy, home-like setting
+- Beautiful presentation
+- Good vegetarian options
+
+**Recurring cons**:
+- Very small space (can feel cramped)
+- High prices for portion sizes
+- Limited seating means booking essential
+- Not suitable for large groups
+
+**Practical**:
+- reservation requirement: required (very small venue)
+- best visiting time: dinner service
+- closed days: unknown (check when booking)
+- queue: N/A (reservations only)
+- price: €40-60/person (wine bar pricing)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (highly praised inventive cuisine)
+- Value: 7/10 (expensive for portions, but experience-focused)
+- Convenience: 6/10 (small, must reserve, Castello location)
+- Consistency: 8/10 (consistently excellent reviews)
+- Risk: 8/10 (low risk for quality, but expensive)
+- **Total: 38/50**
+
+---
+
+## Cantina Do Mori
+
+**Official**: 無明確官網
+
+**Google Maps**: 4.2+ stars
+- Location: San Polo 429, near Rialto Bridge
+- Short walk from Rialto Market
+
+**Tripadvisor**: 4.2/5 (950+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1034566-Reviews-Cantina_Do_Mori-Venice_Veneto.html
+- Ranks in top 300 restaurants in Venice
+
+**Guide sources**:
+- Described as legendary bacaro
+- "The home of cicchetti"
+- Historic charm (old Venice atmosphere)
+
+**Recurring pros**:
+- Authentic Venetian bacaro experience
+- Varied, tasty cicchetti selection
+- Excellent house wines (red & white)
+- Historic, old-world atmosphere
+- Popular with locals
+- Affordable pricing
+- Near Rialto Bridge (convenient)
+
+**Recurring cons**:
+- Very limited seating (mostly standing)
+- Can be crowded (high foot traffic near Rialto)
+- Standing room at bar
+- Service can be rushed during peak times
+
+**Practical**:
+- reservation requirement: none (casual bacaro, standing room)
+- best visiting time: off-peak hours to avoid crowds
+- closed days: unknown (check before visiting)
+- queue: can be crowded, especially lunch/aperitivo hour
+- price: €5-15/person (cicchetti & wine)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (authentic, quality cicchetti)
+- Value: 9/10 (excellent value for quality)
+- Convenience: 8/10 (near Rialto, but crowded)
+- Consistency: 7/10 (reliable food, variable crowding)
+- Risk: 7/10 (crowds and standing room main concerns)
+- **Total: 39/50**
+
+---
+
+## Bacareto da Lele
+
+**Official**: 無官方網站
+
+**Google Maps**: Highly rated (estimate 4.2+/5)
+- Location: Campo dei Tolentini, Santa Croce, near Piazzale Roma
+
+**Tripadvisor**: Generally positive reviews
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1900957-Reviews-Bacareto_da_Lele-Venice_Veneto.html
+
+**Foursquare**: 4.5/5
+- Popular local spot
+
+**Guide sources**:
+- Featured in budget travel guides
+- Reddit threads frequently recommend
+- Known for authentic, non-touristy vibe
+
+**Reddit sentiment**:
+- Celebrated as authentic local spot
+- NOT a tourist trap despite fame
+- Mixed clientele: students, locals, visitors
+- Advice: visit off-peak to avoid lines
+
+**Recurring pros**:
+- Unbeatable prices (panini €1.20-1.30, wine €1.20, spritz €2.50)
+- Fresh, delicious panini (salami, mortadella, cheese)
+- Friendly, brisk service
+- Authentic Venetian atmosphere
+- Locals frequent it
+- Great value
+- Near train station/Piazzale Roma
+
+**Recurring cons**:
+- Tiny space (stand outside by canal)
+- Can have lines, especially weekends/midday
+- No elaborate meals (quick bites only)
+- Standing room only
+
+**Practical**:
+- reservation requirement: none (casual standing bar)
+- best visiting time: early morning or mid-afternoon (avoid peak lunch)
+- closed days: unknown (likely closed Sundays)
+- queue: expect lines during peak times, but moves quickly
+- price: €3-8/person (extremely cheap)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 7/10 (simple but fresh and good)
+- Value: 10/10 (exceptional value, best prices in Venice)
+- Convenience: 8/10 (near Piazzale Roma, but lines)
+- Consistency: 8/10 (reliable quality and prices)
+- Risk: 7/10 (lines and standing only)
+- **Total: 40/50**
+
+---
+
+## Paradiso Perduto
+
+**Official**: 無明確官網
+
+**Google Maps**: 3.8/5 (estimated)
+- Location: Cannaregio
+
+**Tripadvisor**: 3.8/5 (3,100+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d2102004-Reviews-Paradiso_Perduto-Venice_Veneto.html
+- Ranks around #578-581 out of 1,400+ Venice restaurants
+
+**Guide sources**:
+- Known for live jazz music
+- Featured in local dining guides
+
+**Recurring pros**:
+- Authentic Venetian seafood
+- Fresh ingredients
+- Bustling, local atmosphere
+- Live jazz performances (weekends)
+- Friendly service (when not too busy)
+- Generous portions
+- Lively scene
+
+**Recurring cons**:
+- Mixed/unpredictable service during busy times
+- High prices relative to quality
+- Reservations can be unreliable
+- Inconsistent experiences reported
+- Can be very crowded/noisy
+- Some reviews mention better alternatives exist
+
+**Practical**:
+- reservation requirement: recommended (but can be unreliable)
+- best visiting time: weekdays or early dinner
+- closed days: unknown (check before visiting)
+- queue: can be crowded, especially with live music
+- price: €30-50/person
+
+**Score (50-point rubric)**:
+- Taste/Quality: 7/10 (authentic but inconsistent)
+- Value: 6/10 (high prices for inconsistent quality)
+- Convenience: 7/10 (Cannaregio location)
+- Consistency: 5/10 (mixed reviews, unpredictable)
+- Risk: 5/10 (higher risk of disappointment)
+- **Total: 30/50**
+
+---
+
+## Caffè Florian
+
+**Official**: https://www.caffeflorian.com/
+
+**Google Maps**: Mixed reviews (3.5-4.0/5 typical)
+- Location: Piazza San Marco 57, Venice
+- Prime location in St. Mark's Square
+
+**Tripadvisor**: Mixed reviews (many "tourist trap" tags)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d945776-Reviews-Cafe_Florian-Venice_Veneto.html
+
+**Restaurant Guru**: Coverage available
+
+**Guide sources**:
+- Italy's oldest café (established 1720)
+- Historic site (Casanova, Proust, Lord Byron)
+- Living museum of Venetian culture
+
+**Recurring pros**:
+- Unmatched historical setting
+- Stunning ornate interiors
+- Live classical/orchestral music
+- Prime view of St. Mark's Square
+- Bucket-list experience
+- Instagram-worthy
+
+**Recurring cons**:
+- Very expensive (coffee €10-15, desserts €15+, mains €20-40+)
+- Music surcharge (~€7/person for outdoor seating)
+- Mixed service (can be unhelpful when busy)
+- Food/drink quality not exceptional (paying for atmosphere)
+- Widely described as "tourist trap"
+- Crowded
+
+**Practical**:
+- reservation requirement: none (casual seating)
+- best visiting time: off-peak to avoid worst crowds
+- closed days: rarely closed (check website)
+- queue: can be wait for tables
+- price: €20-50/person (very expensive)
+- tip: sit at bar to reduce cost significantly
+
+**Score (50-point rubric)**:
+- Taste/Quality: 5/10 (acceptable but not exceptional)
+- Value: 2/10 (extremely poor value, paying for location)
+- Convenience: 9/10 (prime San Marco location)
+- Consistency: 6/10 (consistent atmosphere, inconsistent service)
+- Risk: 6/10 (guaranteed overpriced, but experience is unique)
+- **Total: 28/50**
+
+---
+
+## Gelateria Alaska
+
+**Official**: 無官方網站
+
+**Google Maps**: 3.5-4.0/5 (estimated)
+- Location: Santa Croce
+
+**Tripadvisor**: 3.5-4.0/5 (450+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1527188-Reviews-Gelateria_Alaska-Venice_Veneto.html
+
+**TripExpert**: 83/100
+- Featured in travel guides and TV shows
+
+**Guide sources**:
+- Known for artisanal, creative flavors
+- Featured in multiple travel publications
+
+**Recurring pros**:
+- Original, creative flavors (ginger, cardamom, rocket/arugula, basil, turmeric)
+- Handmade, authentic gelato
+- Friendly owner (offers samples)
+- Goes beyond typical tourist gelato
+- "Best gelato in Venice" claims from some reviewers
+
+**Recurring cons**:
+- Mixed reviews (not universally loved)
+- Some find it average
+- Can be closed unexpectedly or feel "desolate"
+- Less polished than high-end gelaterias
+- Location not central
+
+**Practical**:
+- reservation requirement: none (gelato shop)
+- best visiting time: afternoon/evening
+- closed days: variable (check before visiting)
+- queue: rarely crowded
+- price: €3-6/person (standard gelato pricing)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 7/10 (creative flavors, but mixed reviews)
+- Value: 8/10 (standard pricing, interesting options)
+- Convenience: 6/10 (Santa Croce location, variable hours)
+- Consistency: 6/10 (mixed reviews suggest variability)
+- Risk: 7/10 (not everyone's taste, but creative options)
+- **Total: 34/50**
+
+---
+
+## Rosa Salva
+
+**Official**: https://rosasalva.it/en/
+
+**Google Maps**: 4.0+/5 (estimated)
+- Main location: San Marco 950, 30124 Venice
+- Multiple locations throughout Venice
+
+**Tripadvisor**: 4.0/5 (900+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d1925824-Reviews-Rosa_Salva-Venice_Veneto.html
+
+**Guide sources**:
+- Historic pastry shop (19th century origins)
+- "By far the best cafe in Venice" reviews
+- "Masterclass in patisserie" mentions
+
+**Recurring pros**:
+- Authentic Venetian pastries
+- Famous panettone
+- Excellent croissants, butterfly cakes
+- Quality espresso
+- Historic setting
+- Central location (near San Marco)
+- Multiple convenient locations
+- Vegetarian/vegan options available
+
+**Recurring cons**:
+- Can get crowded (popular spot)
+- Limited seating (mostly standing)
+- Occasional service inconsistencies
+- Prices reflect central location
+
+**Practical**:
+- reservation requirement: none (casual cafe)
+- best visiting time: breakfast or mid-afternoon
+- closed days: rarely closed (check specific location)
+- queue: possible during peak times
+- price: €5-12/person (cafe pricing)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (excellent authentic pastries)
+- Value: 7/10 (good quality, central pricing)
+- Convenience: 9/10 (multiple locations, near San Marco)
+- Consistency: 8/10 (reliable quality, established reputation)
+- Risk: 8/10 (low risk, proven track record)
+- **Total: 40/50**
+

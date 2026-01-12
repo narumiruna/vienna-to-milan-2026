@@ -2,8 +2,8 @@
 
 ## 候選總覽表
 
-| 名稱 | 類別 | 區域 | 特色 | 評分 | 狀態 | 備註 |
-|------|------|------|------|------|------|------|
+| name | category | area | type | score | status | notes |
+|------|----------|------|------|-------|--------|-------|
 | Trattoria Milanese | restaurant | Cinque Vie | 傳統米蘭料理 | 37/50 | shortlisted | 1933年創立，經典三菜 |
 | Enrico Bartolini al Mudec | restaurant | Zone 6 (Mudec) | ⭐⭐⭐ 米其林三星 | 42/50 | shortlisted | 米蘭最高級餐廳 |
 | Bar Basso | aperitivo | Città Studi | Negroni Sbagliato 發源地 | 36/50 | shortlisted | 1947年創立，經典開胃酒吧 |

@@ -127,9 +127,10 @@ excluded.md       ← REJECTED: What was considered and why it was excluded
 #### Within-Document Disclosure
 
 **In candidates.md**:
-1. **Summary table only** (name, category, area, type, google_maps_url, status, sources, notes) → quick scan
+1. **Summary table only** (see "Discovery — Candidate Collection" section for complete field list) → quick scan
 2. **No detailed sections** - these belong in notes.md
 3. **Brief notes column** - one-line summary per place (Traditional Chinese)
+4. **English headers required** - table column names must be in English (e.g., "name", "status", "notes") even though content is in Traditional Chinese
 
 **In notes.md**:
 1. **Detailed evidence sections** per place → deep research trail
@@ -260,7 +261,7 @@ When starting research for a new city:
    - 來源：source type
 ```
 
-Minimum fields per candidate in candidates.md table:
+**Required fields per candidate in candidates.md table:**
 - name
 - category (restaurant | cafe | dessert)
 - area / neighborhood
@@ -269,6 +270,9 @@ Minimum fields per candidate in candidates.md table:
 - status: inbox | researching | shortlisted | rejected | top
 - sources (brief: e.g., "Tripadvisor, Reddit, Michelin")
 - notes (Traditional Chinese, brief summary)
+
+**Optional fields:**
+- score (e.g., "39/50" or "TBD") - can be included for quick reference, though detailed scoring should always be in notes.md
 
 **Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
 
@@ -535,11 +539,10 @@ For a new city:
 
 - `AGENTS.md` and `PROGRESS.md` MUST be written in English.
 - Other documents in this repo MUST be primarily in Traditional Chinese (Taiwan).
-- Use English for structured fields and keys
+- Use English for structured fields and keys (table headers, status values, etc.)
 - Dates must follow ISO format (YYYY-MM-DD)
 - Unknown information must be labeled as `unknown`
-- Place filenames MUST follow:
-  <city>-<normalized-place-name>.md
+- City directory names MUST follow: `YYYY-MM-DD-city/` (e.g., `2026-02-11-vienna/`)
 
 ---
 
