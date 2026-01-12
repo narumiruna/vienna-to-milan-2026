@@ -24,3 +24,47 @@
 - Gelateria Alaska（gelato；San Marco）
 - Pasticceria Tonolo（甜點；Dorsoduro）
 - Rosa Salva（甜點；多據點）
+
+## Brunch / 早午餐選項（新增）
+
+### 熱門 Brunch 餐廳
+1. **Fluffy Brunch**
+   - 位置：Near Rialto Bridge (San Polo)
+   - 特色：Japanese-style fluffy pancakes, matcha or tiramisu pancakes, vegan/vegetarian options
+   - 注意：Daily 7:30am-7pm; fun, modern, Instagram-worthy
+   - 來源：Eating Europe, Tripadvisor 2026
+
+2. **Brunch Café**
+   - 位置：San Polo
+   - 特色：Pancakes and French toast (berry or bacon), international dishes
+   - 注意：Daily 7:30am-6:30pm; compact and lively
+   - 來源：Eating Europe, Tripadvisor 2026
+
+3. **Combo Venezia**
+   - 位置：Cannaregio (restored monastery cloister)
+   - 特色：Relaxed Sunday brunch, cultural vibes, sweet and savory items, vegetarian options
+   - 注意：Unique setting
+   - 來源：Venezia Photography 2025
+
+### 傳統早餐
+4. **Pasticceria Tonolo**
+   - 位置：Dorsoduro
+   - 特色：Legendary pastry shop, seasonal pastries, frittelle, fresh cakes
+   - 注意：Go early for best selection; traditional, friendly
+   - 來源：Venezia Photography 2025, Tourist Checklist
+
+5. **Caffè Florian**
+   - 位置：Piazza San Marco
+   - 特色：Historic (since 1720), elegant, pastries, cappuccinos, omelets, croissants, live music
+   - 注意：Higher prices; luxurious classical brunch experience
+   - 來源：Wanderlog, City Seeker
+
+### 高級 Brunch
+6. **Terrazza Danieli**
+   - 位置：Hotel Danieli (close to St. Mark's)
+   - 特色：Mediterranean brunch with panoramic views over Venice
+   - 注意：Splurge option; beautifully presented
+   - 來源：City Seeker
+
+## 研究優先順序更新
+- **新增 - Brunch 優先**：Fluffy Brunch, Brunch Café, Combo Venezia

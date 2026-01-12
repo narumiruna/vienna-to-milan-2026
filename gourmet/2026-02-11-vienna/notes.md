@@ -416,3 +416,175 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Consistency: 7/10
 - Risk (10 = low risk): 7/10
 - **Total: 35/50**
+
+---
+
+## Vollpension (Schleifmühlgasse)
+
+**Official**: https://www.vollpension.wien/ (social enterprise café)
+
+**Google Maps**: 4.5/5 (based on multiple platform reviews including Tripadvisor, Restaurant Guru)
+
+**Address**: Schleifmühlgasse 16, 1040 Wien (Wieden district)
+
+**Hours**: Daily 08:00-19:00
+
+**Tripadvisor**: 4.4/5 (1,100+ reviews) - Traveler's Choice
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d5976514-Reviews-Vollpension-Vienna.html
+
+**Restaurant Guru**: 4.5/5
+- https://restaurantguru.com/Vollpension-Vienna
+
+**Reddit sentiment**: 
+- Highly recommended as must-visit café in Vienna
+- Praised for warm inclusive vibe, excellent cakes, unique social business supporting seniors
+- Authentic Viennese experience
+
+**Recurring pros**:
+- Unique social enterprise concept: elderly bakers ("grandmas" and "grandpas") serve homemade Austrian cakes and meals
+- Cozy, nostalgic "grandma's living room" interior
+- Outstanding homemade cakes and traditional Austrian pastries
+- Welcoming, friendly staff
+- Vegetarian, vegan, and gluten-free options available
+- Accepts credit cards
+- Strong community spirit and inclusive atmosphere
+
+**Recurring cons**:
+- Prices slightly above average for Vienna cafés
+- Service can occasionally be inconsistent (mostly positive but some mixed reviews)
+- Can get crowded, especially weekends (reservations recommended)
+- Some portions considered small for the price
+
+**Practical**: 
+- reservation requirement: recommended (especially weekends and larger groups)
+- best time: weekday mornings or off-peak hours
+- closed days: none (open daily)
+- queue: possible during peak times but usually manageable
+- price range: €10-20 per person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (excellent homemade cakes and traditional recipes)
+- Value: 7/10 (slightly higher prices but justified by quality and concept)
+- Convenience: 8/10 (open daily 08:00-19:00, accepts cards, dietary options)
+- Consistency: 7/10 (mostly reliable, some service inconsistency noted)
+- Risk (10 = low risk): 8/10 (high ratings, well-established, predictable experience)
+- **Total: 38/50**
+
+---
+
+## ULRICH
+
+**Official**: https://ulrichwien.at/home_en/
+
+**Google Maps**: 4.5/5 (thousands of reviews)
+- Location: St. Ulrichsplatz 1, 1070 Wien (Neubau district)
+
+**Tripadvisor**: 4.2/5 (1,284+ reviews) - Top 3% of Vienna restaurants
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d5960434-Reviews-ULRICH-Vienna.html
+
+**Restaurant Guru**: 4.2-4.5/5
+- https://restaurantguru.com/ULRICH-Vienna
+
+**The Vienna Review**: Highly recommended for breakfast/brunch
+- https://www.theviennareview.at/food-drink/453/ulrich
+
+**Hours**: 
+- Mon-Fri: 07:30-01:00
+- Sat-Sun: 09:00-01:00
+- Breakfast until 12pm weekdays, until 3pm weekends
+
+**Menu highlights**:
+- Shakshuka, poached eggs, avocado toast, acai bowls
+- Seasonal salads, flatbreads ("Flat Ulrich")
+- Vegan and vegetarian options throughout menu
+- Alt-Wien coffee, homemade lemonades, cocktails
+
+**Recurring pros**:
+- Modern, relaxed urban atmosphere
+- High-quality, creative international brunch menu
+- Friendly, accommodating staff
+- Beautiful terrace seating overlooking square
+- Consistent quality across menu
+- Good for groups and solo travelers
+- Online reservation system (up to 5 hours advance)
+
+**Recurring cons**:
+- Can get very crowded on weekends
+- Some reviews mention portions could be larger
+- Prices perceived as moderate-high for brunch (though typical for area)
+- Service can slow down during peak times
+
+**Practical**:
+- reservation requirement: recommended (book online up to 5 hours advance, call +43 1 961 27 82 for same-day or large groups)
+- best time: weekday mornings for breakfast, or book ahead for weekends
+- closed days: none (open daily)
+- queue: likely on weekend mornings without reservation
+- price range: €10-20 per person (breakfast from €7.50, lunch specials from €12.50)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (creative, high-quality international brunch menu)
+- Value: 7/10 (moderate prices for quality and location)
+- Convenience: 9/10 (excellent location in Neubau, long hours, online booking, open daily)
+- Consistency: 8/10 (highly consistent quality, reliable experience)
+- Risk (10 = low risk): 8/10 (well-established, high ratings, predictable standards)
+- **Total: 40/50**
+
+---
+
+## Meierei im Stadtpark
+
+**Official**: Part of Steirereck group - https://www.steirereck.at/meierei/
+
+**Google Maps**: Not individually rated (part of Steirereck complex)
+
+**Tripadvisor**: 4.0/5 (1,000+ reviews) - Traveler's Choice
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1866206-Reviews-Meierei_im_Stadtpark-Vienna.html
+
+**Falstaff**: 91 points - Outstanding breakfast menu
+- https://www.falstaff.com/en/restaurants/meierei-im-stadtpark-restaurant-steirereck-wien
+
+**Location**: Stadtpark, Am Heumarkt 2A, 1030 Wien (5-minute walk from Hilton Vienna Park hotel)
+
+**Blog reviews**:
+- https://pollybert.com/2023/05/12/breakfast-at-meierei-im-stadtpark-restaurant-review-wien-austria/
+- https://tinyurbankitchen.com/meierei-im-stadtpark-vienna-austria/
+
+**Menu highlights**:
+- Meierei Frühstück: cheesy omelette, herbal curd, trout, cheese trio, gourmet pancakes
+- Steirereck Frühstück: sourdough waffle, char tartar, egg with goose liver, ham, lemon meringue tarte
+- Extensive cheese selection (13 countries represented)
+- Oven-warm strudels, handmade breads
+- Outstanding local produce
+- Creative multi-course breakfast options
+
+**Recurring pros**:
+- Steirereck quality and standards (3-star restaurant sibling)
+- Exceptional dairy and cheese focus (specialty)
+- Beautiful park setting with riverside views
+- Bright, airy interior with large windows
+- Sought-after terrace in summer
+- Elegant ambiance
+- Creative, distinctive breakfast dishes
+
+**Recurring cons**:
+- Prices high (premium pricing even for breakfast/brunch)
+- Service quality mixed (some find it slow or inattentive, others praise it)
+- Some feel portions small for the price
+- Can feel "slightly overpriced" compared to quality received
+
+**Practical**:
+- reservation requirement: highly recommended (popular spot)
+- best time: morning for breakfast, sunny days for terrace
+- closed days: check website for current hours
+- queue: unlikely if reserved
+- price range: €25-40+ per person for breakfast/brunch (premium pricing)
+- proximity: 5-minute walk from Hilton Vienna Park (extremely convenient)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (Steirereck standards, exceptional ingredients, creative dishes)
+- Value: 6/10 (high prices even for breakfast, though quality justifies partially)
+- Convenience: 10/10 (5-min from hotel, beautiful park setting, open for breakfast)
+- Consistency: 7/10 (quality consistent, but service feedback mixed)
+- Risk (10 = low risk): 7/10 (some service inconsistency, high price risk if expectations not met)
+- **Total: 39/50**
+

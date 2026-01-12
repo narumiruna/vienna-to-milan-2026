@@ -34,6 +34,9 @@ Notes:
 | Osteria Santo Spirito | restaurant | Oltrarno | Traditional Tuscan | https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito+Florence | shortlisted | TripAdvisor, Restaurant Guru, InTravel | 廣場餐廳；gnocchi 出名；需預訂；評分 33/50 |
 | Il Pizzaiuolo | restaurant | Sant'Ambrogio | Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Il+Pizzaiuolo+Florence | shortlisted | TripAdvisor, Restaurant Guru, Foursquare, VisitFlorence | 正宗那不勒斯披薩；需預訂；評分 35/50 |
 | Caffè Gilli | cafe | Piazza della Repubblica | Historic cafe | https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Gilli+Florence | rejected | TripAdvisor, BestFreeTour, AFAR | **已排除**：觀光陷阱；價格極高；服務不穩；評分 25/50 |
+| Le Vespe Cafe | cafe | Centro Storico (near Santa Croce) | brunch, Canadian-style | https://www.google.com/maps/search/?api=1&query=Le+Vespe+Cafe+Florence | top | Tripadvisor 4.6/5 (430+ reviews) | 佛羅倫斯最佳早午餐，班尼迪克蛋、捲餅、煎餅；素食/純素可選；€12-20/人；43/50。 |
+| Melaleuca Bakery + Bistrot | cafe | Lungarno delle Grazie (Arno river) | brunch, Australian-American | https://www.google.com/maps/search/?api=1&query=Melaleuca+Bakery+Florence | top | Google 4.7/5 (1,000+ reviews) | 傑出肉桂捲與早午餐，澳式咖啡；僅 walk-in；€8-15/人；43/50。 |
+| Ditta Artigianale | cafe | Multiple locations (4 venues) | brunch, specialty coffee | https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Florence | shortlisted | Google 4.2-4.3/5 | 精品咖啡與現代早午餐，多據點方便；€10-18/人；39/50。 |
 
 ---
 

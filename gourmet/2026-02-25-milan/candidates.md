@@ -19,6 +19,9 @@
 | Pavé | cafe | Zone 2 | 糕點與早餐 | 40/50 | shortlisted | 米蘭最佳可頌與咖啡 |
 | Loste Café | cafe | Zona Buenos Aires | 精品咖啡 | 38/50 | shortlisted | Third wave coffee，北歐風格 |
 | Gelato Giusto | dessert | Corso Buenos Aires | 手工 gelato | 41/50 | shortlisted | 全素gelato，工匠品質 |
+| Pavé (brunch) | cafe | Via Felice Casati, Porta Venezia | brunch, pastries | top | Google 4.4/5, Tripadvisor 4.1/5 | 米蘭糕點傳統，肉桂捲出色；€10-20/人；41/50。 |
+| God Save the Food (GSTF) | cafe | Brera / Tortona | brunch, international | shortlisted | Milanized | 玻璃陽光房；水波蛋、酪梨吐司；週末；€12-22/人；36/50。 |
+| oTTo | cafe | Chinatown (Isola) | brunch, Scandinavian | shortlisted | Milanized | 北歐設計，開放式三明治；€12-20/人；37/50。 |
 
 ---
 

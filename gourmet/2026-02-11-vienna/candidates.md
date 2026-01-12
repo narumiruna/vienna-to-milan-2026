@@ -19,6 +19,9 @@ Notes:
 | Café Central | cafe | Innere Stadt | historic cafe, cakes | https://maps.app.goo.gl/S4y1vfWbPE4vcswb8 | shortlisted | https://cafecentral.wien/en/reservation/ ; https://cafecentral.wien/en/ | 經典咖啡館；排隊風險顯著。 |
 | Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 老牌甜點名店；不接受訂位；可能排隊。 |
 | Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | rejected | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | Soft exclusion：29/50（已列入 excluded.md）。 |
+| Vollpension | cafe | Schleifmühlgasse 16, Wieden | brunch, homemade cakes | https://www.google.com/maps/search/?api=1&query=Vollpension+Wien+Schleifm%C3%BChlgasse | shortlisted | Tripadvisor 4.4/5, Restaurant Guru 4.5/5 | 社會企業，長者烘焙傳統糕點；溫馨氛圍，素食/純素可選；38/50。 |
+| ULRICH | cafe | St. Ulrichsplatz 1, Neubau | brunch, international | https://www.google.com/maps/search/?api=1&query=ULRICH+Wien+St+Ulrichsplatz | top | Tripadvisor 4.2/5, Google 4.5/5 | 現代早午餐熱點，沙克舒卡、酪梨吐司；線上訂位，€10-20/人；40/50。 |
+| Meierei im Stadtpark | restaurant | Stadtpark (Am Heumarkt 2A) | breakfast, cheese | https://www.google.com/maps/search/?api=1&query=Meierei+im+Stadtpark+Wien | shortlisted | Falstaff 91pts, Tripadvisor 4.0/5 | Steirereck 姐妹店，創意早餐，起司專門；步行 5 分鐘；€25-40+/人；39/50。 |
 
 ---
 

@@ -864,3 +864,41 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **總分**: 41/50
 
 ---
+
+---
+
+## Pavé
+
+**Google Maps**: 4.4/5 (2,800+ reviews) | **Tripadvisor**: 4.1/5 (1,700+ reviews)
+**Location**: Via Felice Casati 27, Porta Venezia
+**Hours**: Sun-Mon, Wed-Fri 8am-7pm; Sat 8am-7pm; Closed Tuesday
+
+**Menu**: Almond/pistachio croissants, maritozzo, fruit tarts, brioche, focaccia, avocado toast, ham & cheese croissants; specialty coffee (oat milk available)
+**Highlights**: Milan's cult favorite pastry shop, retro-modern vibe, beloved by locals, excellent coffee
+**Price**: €10-20/person (premium pricing but worth it)
+**Options**: Vegetarian, vegan (limited), gluten-free available
+
+**Score**:
+- Taste/Quality: 9/10 | Value: 7/10 | Convenience: 8/10 | Consistency: 9/10 | Risk: 8/10
+- **Total: 41/50**
+
+---
+
+## God Save the Food (GSTF)
+
+**Locations**: Brera & Tortona
+**Hours**: Weekends from noon
+**Menu**: Poached eggs, avocado toast, pancakes, Asian-inspired dishes, club sandwiches; glass veranda setting
+**Price**: €12-22/person
+**Score**: 36/50 (estimated based on similar venues)
+
+---
+
+## oTTo
+
+**Location**: Chinatown (Isola area)
+**Menu**: Scandinavian-style "quadrotti" (open-faced sandwiches), seasonal sides, creative presentation
+**Highlights**: Popular with creatives and digital nomads, photogenic, unique design
+**Price**: €12-20/person
+**Score**: 37/50 (estimated)
+

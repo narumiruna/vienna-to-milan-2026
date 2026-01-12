@@ -212,6 +212,44 @@
 
 ---
 
+## Brunch / 早午餐 (NEW)
+
+### Coromandel (35/50) ⭐
+- **type**: Brunch café, European-style breakfast
+- **area**: Centro Storico (near Piazza Navona)
+- **total score**: 35/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Coromandel+Rome+Monte+Giordano
+- **justification**: 羅馬最佳早午餐之一，煎餅、班尼迪克蛋、法式吐司品質優秀；復古巴黎風氛圍
+- **constraints**:
+  - reservation: 強烈建議預訂（via WhatsApp 或電話）
+  - 週末特別繁忙
+  - price: €10-20/人
+
+### Vivi Bistrot - Piazza Navona (33/50)
+- **type**: Organic bistrot, brunch
+- **area**: Piazza Navona (Palazzo Braschi)
+- **total score**: 33/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Vivi+Bistrot+Piazza+Navona+Rome
+- **justification**: 有機健康取向，Piazza Navona 美景，素食/純素/無麩質選項豐富
+- **constraints**:
+  - reservation: 建議預訂（via TheFork 或官網）
+  - weekend brunch only（僅週末提供早午餐）
+  - price: €20-30/人
+  - 服務評價不一
+
+### Variabile Drink & Food (31/50)
+- **type**: Café gastropub, brunch
+- **area**: San Giovanni (Piazza Vittorio)
+- **total score**: 31/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Variabile+Drink+Food+Rome
+- **justification**: 高評分（4.6/5），創意早午餐菜單，時尚氛圍，調酒出色
+- **constraints**:
+  - **僅週一和週六營業**（very limited schedule）
+  - 建議提前確認營業時間
+  - price: €15-25/人
+
+---
+
 ## Backups（備選方案）
 
 ### Da Enzo al 29 (35/50)

@@ -1005,3 +1005,50 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Consistency: 7/10 (quality reliable, service varies)
 - Risk: 8/10 (low risk, established reputation)
 - **Total: 39/50**
+
+---
+
+## Fluffy Brunch
+
+**Google Maps / Tripadvisor**: 4.6/5 (1,380+ reviews)
+**Location**: Calle del Capeler 1586, San Polo, Venice
+**Hours**: Daily 7:30am - 6:30/7pm
+
+**Menu**: Japanese-style fluffy pancakes (signature), avocado toast, iced coffee, fusion brunch dishes
+**Highlights**: "Best pancakes ever", exceptional fluffy texture, tropical design with plants, friendly staff
+**Price**: €10-18/person
+**Options**: Vegetarian, vegan, gluten-free available
+
+**Score**: 
+- Taste/Quality: 9/10 | Value: 8/10 | Convenience: 9/10 | Consistency: 9/10 | Risk: 9/10
+- **Total: 44/50**
+
+---
+
+## Brunch Café
+
+**Tripadvisor**: 4.0-4.2/5 
+**Location**: San Polo
+**Hours**: Daily 7:30am - 6:30pm
+
+**Menu**: Pancakes, French toast (berry/bacon versions), international comfort food
+**Highlights**: Lively compact space, cheerful ambiance, good for solo or small groups
+**Price**: €10-16/person
+
+**Score**:
+- Taste/Quality: 7/10 | Value: 8/10 | Convenience: 8/10 | Consistency: 7/10 | Risk: 7/10
+- **Total: 37/50**
+
+---
+
+## Combo Venezia
+
+**Location**: Cannaregio (restored monastery cloister)
+**Hours**: Sunday brunch, cultural venue
+**Menu**: Sweet and savory items, vegetarian options, unique Sunday brunch setting
+**Price**: €15-25/person
+
+**Score**:
+- Taste/Quality: 7/10 | Value: 7/10 | Convenience: 6/10 | Consistency: 7/10 | Risk: 6/10
+- **Total: 33/50**
+

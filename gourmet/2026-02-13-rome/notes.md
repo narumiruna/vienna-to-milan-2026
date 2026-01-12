@@ -992,3 +992,166 @@ Medium priority:
 - [x] Bottega Tredici（creative seasonal - 41.5/50）⭐
 - [x] La Pergola（米其林三星 - 38/50，特殊場合，預算限制）
 
+
+---
+
+## Coromandel
+
+**Official**: No official website found
+
+**Google Maps**: 4.0/5 (based on aggregated platform reviews)
+- Address: Via di Monte Giordano, 60/61, 00186 Roma (near Piazza Navona)
+
+**Tripadvisor**: 4.0-4.1/5 (several hundred reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d3331159-Reviews-Coromandel-Rome_Lazio.html
+
+**Restaurant Guru**: 4.1/5 (3,000+ reviews)
+- https://restaurantguru.com/Coromandel-Rome
+
+**Rome Actually** (local food blog):
+- https://www.romeactually.com/coromandel-restaurant-rome/
+- Described as "one of the best breakfasts in Rome"
+
+**Recurring pros**:
+- Delicious breakfast offerings: pancakes (sweet and savory), eggs Benedict, French toast, avocado toast
+- Freshly squeezed juices and quality coffee (almond milk options)
+- Cozy, vintage decor reminiscent of Parisian cafés
+- Quality and presentation consistently praised
+- Intimate atmosphere in quiet alley near Piazza Navona
+- Both indoor and outdoor seating available
+- Friendly and efficient service
+
+**Recurring cons**:
+- Popular, especially weekends - reservations strongly recommended
+- Some walk-ins struggle to get tables
+- Prices considered moderate-high for Rome (€10-20/person for brunch)
+- Some reviewers find portions small for price
+- Reserved tables sometimes left empty for extended periods
+- Small additional charges (bottled water, automatic tips)
+
+**Practical**:
+- reservation requirement: highly recommended (book via WhatsApp or phone)
+- best time: weekday mornings less crowded
+- closed days: check current schedule (typically open daily 8:30am-2:30/3:30pm)
+- queue: likely without reservation, especially weekends
+- price range: €10-20 per person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (excellent European-style breakfast, quality ingredients)
+- Value: 6/10 (moderate-high prices, some portions small)
+- Convenience: 7/10 (central location near Piazza Navona, reservation needed)
+- Consistency: 7/10 (food quality consistent, service feedback mixed)
+- Risk (10 = low risk): 7/10 (reservation challenges, pricing expectations)
+- **Total: 35/50**
+
+---
+
+## Vivi Bistrot (Piazza Navona)
+
+**Official**: https://vivi.it/store/piazza-navona/
+
+**Google Maps**: 4.0/5 (2,464+ reviews)
+
+**Tripadvisor**: 4.0/5 (568+ reviews) - Top 15% of Rome restaurants
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d6434175-Reviews-Vivi_Bistrot_Piazza_Navona-Rome_Lazio.html
+
+**TheFork**: 
+- https://www.thefork.com/restaurant/vivi-bistrot-piazza-navona-r457669
+
+**Location**: Palazzo Braschi, Piazza Navona
+
+**Hours**: Daily 8:00am - Midnight
+
+**Menu highlights**:
+- Organic Mediterranean cuisine
+- Vegetarian, vegan, and gluten-free options
+- Brunch specialties: pastries, fresh juices, scrambled eggs, smoked salmon
+- Healthy, sustainability-focused menu
+
+**Recurring pros**:
+- Beautiful view over Piazza Navona (elegant Palazzo Braschi setting)
+- Organic and healthy food focus
+- Plenty of dietary options (vegetarian, vegan, gluten-free)
+- Pleasant ambiance for brunch
+- Romantic atmosphere for evening dining
+- Outdoor seating available
+
+**Recurring cons**:
+- Service reviews mixed (friendly but can be slow or confused)
+- Prices higher for location (average €21/person)
+- Some complaints about value for money
+- Weekend brunch only
+
+**Practical**:
+- reservation requirement: recommended (book via TheFork, Tripadvisor, or official site)
+- best time: weekends for brunch (brunch served weekends only)
+- closed days: none (open daily 8:00am-midnight)
+- queue: possible during brunch hours without reservation
+- price range: €20-30 per person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10 (organic, healthy focus, good but not exceptional)
+- Value: 6/10 (prices higher for location and view)
+- Convenience: 8/10 (central Piazza Navona location, open daily, weekend brunch)
+- Consistency: 6/10 (food consistent, service feedback inconsistent)
+- Risk (10 = low risk): 6/10 (service issues, weekend-only brunch, value concerns)
+- **Total: 33/50**
+
+---
+
+## Variabile Drink & Food
+
+**Official**: No official website found
+
+**Google Maps**: 4.6/5 (excellent rating)
+- Location: Piazza Vittorio Emanuele II 136, San Giovanni area
+
+**Tripadvisor**: 4.2-4.6/5 - Top third of Rome restaurants
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d26805355-Reviews-Variabile_Drink_Food-Rome_Lazio.html
+
+**Restaurant Guru**: 
+- https://restaurantguru.com/Variabile-Drink-and-Food-Rome
+
+**Hours**: 
+- Monday: 10:00am - 6:00pm
+- Saturday: 10:00am - 12:00am
+- Closed: Sunday, Tuesday, Wednesday, Thursday, Friday
+(Note: Hours may vary, call ahead to confirm)
+
+**Menu highlights**:
+- Brunch options: cream cheese toast with smoked salmon, smashed avocado, poached eggs
+- Pizza, antipasti platter
+- Creative cocktails
+- Excellent coffee
+
+**Recurring pros**:
+- High Google rating (4.6/5) indicates strong satisfaction
+- Refined yet laid-back atmosphere
+- Friendly, attentive service
+- Well-prepared drinks and creative cocktails
+- Brunch is a standout menu feature
+- Good value for quality provided
+- Ideal for evenings with friends, dates, or casual dining
+- Wheelchair accessible
+- Full bar service (wine, beer, cocktails)
+
+**Recurring cons**:
+- Very limited opening days (only Monday and Saturday)
+- Hours may be unreliable - need to confirm before visiting
+- Less information available online compared to other venues
+
+**Practical**:
+- reservation requirement: recommended (contact via phone or check Google Maps)
+- best time: Monday or Saturday (only open days)
+- closed days: Sunday, Tuesday, Wednesday, Thursday, Friday (very limited schedule)
+- queue: unknown, but high rating suggests demand
+- price range: €15-25 per person ($$-$$$)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (highly rated, creative menu, quality praised)
+- Value: 7/10 (fair pricing for quality)
+- Convenience: 4/10 (very limited opening schedule is major constraint)
+- Consistency: 7/10 (high ratings suggest reliable quality)
+- Risk (10 = low risk): 5/10 (schedule uncertainty, less information available)
+- **Total: 31/50**
+

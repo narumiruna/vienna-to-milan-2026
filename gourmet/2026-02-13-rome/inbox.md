@@ -177,10 +177,64 @@
    - 特色：18世紀傳統咖啡館，granita di caffè 必試
    - 來源：historic coffee tradition
 
+## Brunch / 早午餐選項（新增）
+
+### 熱門 Brunch 餐廳
+1. **Coromandel**
+   - 位置：Centro Storico (near Piazza Navona)
+   - 特色：Pancakes, eggs Benedict, French toast, avocado toast, almond milk iced coffee
+   - 注意：Weekend reservations strongly recommended; €15-20/person
+   - 來源：Hidden Spoon 2025, Eating Europe
+
+2. **Vivi Bistrot**
+   - 位置：Piazza Navona and Villa Pamphili
+   - 特色：Pastry, fresh juices, scrambled eggs, smoked salmon; organic and healthy focus
+   - 注意：Brunch weekends only; outdoor seating
+   - 來源：Eating Europe
+
+3. **Variabile Drink & Food**
+   - 位置：San Giovanni
+   - 特色：Salmon & avocado toast, eggs, cocktails; trendy vibe
+   - 注意：Popular with digital nomads and late risers
+   - 來源：Travel Insighter
+
+4. **Elio @ The Hoxton**
+   - 位置：Parioli
+   - 特色：Avocado toast, pancakes, smoothie bowls, roast beef, quality coffee
+   - 注意：Weekends 11:30am-3pm; chef collaboration
+   - 來源：Romeing 2024
+
+### 高級 Brunch
+5. **Palazzetto Ripetta**
+   - 位置：Ripetta
+   - 特色：Refined Sunday brunch buffet, themed stations, raw fish, desserts
+   - 注意：€60/person; special occasions
+   - 來源：Romeing 2024
+
+### 傳統早餐與咖啡
+6. **Bar San Calisto**
+   - 位置：Trastevere
+   - 特色：Authentic Roman café, maritozzi (cream-filled buns), cornetti with coffee
+   - 注意：Simple, local experience
+   - 來源：Welcome Pickups
+
+7. **Casa Manfredi**
+   - 位置：Aventino
+   - 特色：Italian and French-inspired pastries, coffee, signature croissants
+   - 注意：Perfect for sunlight mornings
+   - 來源：Hidden Spoon 2025
+
+8. **Barnum Café**
+   - 位置：Centro Storico
+   - 特色：French pastries, pistachio croissants, specialty coffee
+   - 注意：Relaxed artisan atmosphere
+   - 來源：Hidden Spoon 2025
+
 ## 研究優先順序
 1. 高優先：Da Enzo al 29, Armando al Pantheon, Roscioli, Bonci Pizzarium
 2. 中優先：Flavio al Velavevodetto, Antico Forno Roscioli, Otaleg, Giolitti
 3. 低優先（特殊場合）：La Pergola
+4. **新增 - Brunch優先**：Coromandel, Vivi Bistrot, Variabile Drink & Food
 
 ## 待確認事項
 - [ ] 各店 Google Maps 評分與評論數

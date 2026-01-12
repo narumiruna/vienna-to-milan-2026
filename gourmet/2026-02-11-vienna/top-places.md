@@ -8,6 +8,11 @@ Top Picks（高信心）
 - Plachutta (Wollzeile) — Tafelspitz（Innere Stadt）— 37/50 — https://maps.app.goo.gl/pL4GNBpio9uod3977 — 經典 Tafelspitz 指標名店，一次到位體驗維也納牛肉鍋。Constraints: reservation recommended; queue possible at peak.
 - Bitzinger Würstelstand (Albertina) — 香腸攤（Innere Stadt）— 36/50 — https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9 — 動線超方便、出餐快，適合當轉場補給。Constraints: reservation none; queue possible but fast turnover.
 
+**Brunch / 早午餐 (NEW)**
+- ULRICH — 早午餐（Neubau, St. Ulrichsplatz）— 40/50 — https://ulrichwien.at/home_en/ — 現代化國際早午餐熱點，沙克舒卡、酪梨吐司、巴西莓碗；線上訂位系統；€10-20/人。Constraints: reservation recommended weekends; crowded peak times.
+- Meierei im Stadtpark — 早餐（Stadtpark）— 39/50 — https://www.steirereck.at/meierei/ — Steirereck 姐妹店，創意早餐菜單，起司專門；飯店步行 5 分鐘；€25-40+/人。Constraints: reservation recommended; premium pricing.
+- Vollpension — 早午餐/咖啡館（Wieden）— 38/50 — https://www.vollpension.wien/ — 社會企業，長者烘焙傳統糕點；溫馨氛圍，素食/純素可選；€10-20/人。Constraints: crowded weekends; reservation recommended.
+
 Backups（好備案）
 
 - Café Landtmann — 歷史咖啡館（Innere Stadt）— 36/50 — https://viennatrips.com/blog/cafe-landtmann-vienna — 正宗維也納咖啡館體驗，曾是佛洛伊德等名人常客，高品質奧地利料理與甜點。Constraints: reservation recommended; higher prices; busy at peak.
@@ -115,7 +120,7 @@ Backups（好備案）
 - [ ] 晚餐: **Steirereck im Stadtpark** (米其林三星，重點餐)
 
 **2026-02-13 (五) 離開日**:
-- [ ] 早午餐: 飯店或 Café Landtmann
+- [ ] 早午餐: **ULRICH** (40/50, 現代早午餐) 或 **Meierei im Stadtpark** (39/50, 近飯店) 或 **Vollpension** (38/50, 社會企業)
 - [ ] 午餐: Figlmüller (Schnitzel) 或 Plachutta (Tafelspitz)
 - [ ] 17:40 飛往 Rome，16:00 前需離開市區
 - [ ] 備用: Bitzinger Würstelstand 機場前快速補給

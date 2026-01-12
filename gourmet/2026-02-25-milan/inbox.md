@@ -290,3 +290,70 @@
    - 特色：實驗性用餐體驗，僅 5 個座位
    - 注意：需提前數月訂位，坐在廚房內
    - 來源：Web search - The Italy Insider
+
+## Brunch / 早午餐選項（新增）
+
+### 高級 Brunch
+1. **Bar Bulgari**
+   - 位置：Bulgari Hotel
+   - 特色：Luxurious garden setting, fresh salads, warm dishes, sweet pastries, excellent drinks
+   - 注意：Impeccable service, calm atmosphere; Sunday or special occasions
+   - 來源：Milanized, FLAWLESS.life
+
+### 熱門 Brunch 餐廳
+2. **Pavé**
+   - 位置：Porta Venezia
+   - 特色：Milanese pastry tradition with cool industrial vibes; seasonal menu, croissants, focaccia sandwiches, eggs, fruit bowls, great coffee
+   - 注意：Cult favorite for locals; ideal for casual or lingering brunches
+   - 來源：Milanized
+
+3. **God Save the Food (GSTF)**
+   - 位置：Brera and Tortona
+   - 特色：Sunny glass veranda; poached eggs, avocado toast, pancakes, Asian-inspired dishes, club sandwiches
+   - 注意：Perfect for groups; open from noon on weekends
+   - 來源：Milanized
+
+4. **oTTo**
+   - 位置：Chinatown
+   - 特色：Scandinavian design with Italian sensibilities; unique "quadrotti" (open-faced sandwiches), seasonal side dishes
+   - 注意：Photogenic; popular among creatives and digital nomads
+   - 來源：Milanized
+
+5. **Boscovich Bistrot**
+   - 位置：Near Central Station
+   - 特色：International brunch staples like Full English Breakfast and Paris Brunch Menu
+   - 注意：Refined yet relaxed atmosphere
+   - 來源：Secret Milano
+
+6. **Hoya**
+   - 位置：Porta Venezia
+   - 特色：Moroccan and French fusion; tajines, sandwiches, mint tea
+   - 注意：Something truly different
+   - 來源：Secret Milano
+
+7. **Officina Milano**
+   - 位置：Central location
+   - 特色：Vintage atmosphere, rich buffet; meat and fish tartare, omelettes, crêpes, vegetarian options, Sacher cake
+   - 注意：Sundays 12-4pm
+   - 來源：FLAWLESS.life
+
+8. **Fuorimano OTP**
+   - 位置：Off-center location
+   - 特色：Retro gem loved for desserts
+   - 注意：Unique Milanese brunch experience
+   - 來源：Restaurant Guru
+
+9. **Crazy Cat Café**
+   - 位置：Central area
+   - 特色：For cat lovers and vegetarians; extensive brunch menu, cozy ambiance
+   - 注意：Unique concept
+   - 來源：Restaurant Guru
+
+10. **Farini Porta Ticinese**
+    - 位置：Navigli
+    - 特色：Trendy mix of pancakes, pizza al taglio, signature cocktails with panoramic views
+    - 注意：Right on the Navigli canals
+    - 來源：Farini 2025
+
+## 研究優先順序更新
+- **新增 - Brunch 優先**：Pavé, God Save the Food (GSTF), oTTo, Bar Bulgari
