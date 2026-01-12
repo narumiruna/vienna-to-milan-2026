@@ -2,6 +2,44 @@
 
 ## 重點推薦 (Top Picks - 35+ 分)
 
+### 新增推薦 (Newly Researched)
+
+#### Rosa Salva - 40/50 ⭐
+- **type**: Pastry, cafe
+- **area**: San Marco 950 (multiple locations)
+- **google_maps_url**: https://rosasalva.it/en/
+- **justification**: 19世紀老店；正宗威尼斯糕點；panettone名店；多據點便利
+- **constraints**: €5-12/人；可能排隊；多為站立用餐
+
+#### Bacareto da Lele - 40/50 ⭐
+- **type**: Panini, wine (local bar)
+- **area**: Santa Croce (Campo dei Tolentini)
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Bacareto+da+Lele+Venezia
+- **justification**: 超值在地小館；panini€1.2起；學生與在地人最愛；真實威尼斯體驗
+- **constraints**: 站立運河邊用餐；尖峰時段排隊；€3-8/人
+
+#### Osteria Alla Staffa - 39/50 ⭐
+- **type**: Traditional Venetian seafood
+- **area**: Castello (Calle del Ospedaleto)
+- **google_maps_url**: https://maps.app.goo.gl/X7yZh5KNJqF4vL6Z9
+- **justification**: Travellers' Choice獎；新鮮海鮮手工義大利麵；在地人與遊客皆推薦
+- **constraints**: 無預約制需排隊；建議18:30前到達；週二休息；€20-35/人
+
+#### Il Ridotto - 39/50 ⭐
+- **type**: Modern Venetian (Michelin Guide)
+- **area**: Castello (Campo SS Filippo e Giacomo)
+- **google_maps_url**: https://www.ilridotto.com
+- **justification**: 米其林指南推薦；創意當代威尼斯料理；小巧精緻氛圍
+- **constraints**: 必須預訂；€50-80/人（品嚐菜單）
+
+#### Cantina Do Mori - 39/50 ⭐
+- **type**: Bacaro, cicchetti
+- **area**: San Polo (near Rialto)
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Venezia
+- **justification**: 傳奇bacaro；"cicchetti之家"；優質house wine；歷史悠久
+- **constraints**: 站立式用餐；近Rialto人流多；€5-15/人
+
+
 ### Brunch / 早午餐 (NEW)
 
 #### Fluffy Brunch - 44/50 ⭐
@@ -147,6 +185,66 @@
 ---
 
 ## 備選方案 (Backups - 30-34 分)
+
+### CoVino - 38/50
+**類型**：Wine bar, small plates  
+**位置**：Castello  
+**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Al+Covino+Venice)
+
+**推薦理由**：14座精品酒吧；創意菜單配酒；溫馨親密氛圍；top 15-23 Venice餐廳。
+
+**注意事項**：
+- 預訂：必須提前預訂（僅14座）
+- 空間狹小，不適合大團體
+- 價格偏高（€40-60/人）
+- 小份量但體驗導向
+
+---
+
+### Gelateria Alaska - 34/50
+**類型**：Artisanal gelato  
+**位置**：Santa Croce  
+**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Gelateria+Alaska+Venezia)
+
+**推薦理由**：創意口味（薑、小豆蔻、火箭葉、羅勒）；手工製作；有特色。
+
+**注意事項**：
+- 評價兩極（愛惡分明）
+- 營業時間不穩定
+- 創意口味不一定適合所有人
+- €3-6/人（標準gelato價格）
+
+---
+
+### Combo Venezia - 33/50
+**類型**：Brunch (monastery setting)  
+**位置**：Cannaregio（修道院）  
+**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Combo+Venezia)
+
+**推薦理由**：獨特修道院環境；週日早午餐。
+
+**注意事項**：
+- 週日限定
+- 便利性較低
+- €15-25/人
+
+---
+
+### Paradiso Perduto - 30/50
+**類型**：Seafood, live jazz  
+**位置**：Cannaregio  
+**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Venezia)
+
+**推薦理由**：熱鬧氛圍；現場爵士樂；大份量海鮮。
+
+**注意事項**：
+- 服務不穩定
+- 價位偏高（€30-50/人）
+- 預訂不可靠
+- 評價兩極（3.8/5, 3,100+ reviews）
+- 建議作為備選而非首選
+
+---
 
 ### Gelateria Nico - 34/50
 **類型**：Gelato  
