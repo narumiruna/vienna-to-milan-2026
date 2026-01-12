@@ -1478,3 +1478,31 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk (10 = low risk): 8/10 (walk-in only adds some uncertainty, but quality reliable)
 - **Total: 43/50**
 
+
+---
+
+## Note on Tiramisù in Florence
+
+**Context**: Florence (Firenze) is not a primary destination for authentic tiramisù research.
+
+**Why Tiramisù is Not a Florence Specialty**:
+
+1. **Regional Origin**: Tiramisù originates from Veneto region (Treviso, near Venice), not Tuscany
+   - Florence's dessert tradition focuses on local specialties like cantucci, schiacciata fiorentina, and gelato
+
+2. **Tuscan Dessert Philosophy vs. Tiramisù Structure**:
+   - Tuscan desserts tend toward rustic, dry textures (biscotti, almond cakes)
+   - Tiramisù requires creamy, moist layering - structurally different from Tuscan tradition
+   - Florence excels at gelato and traditional Tuscan pastries, not mascarpone-based desserts
+
+3. **Restaurant Menus**:
+   - Tiramisù appears on menus but typically not as a signature item
+   - Quality varies widely; often prepared as generic dessert rather than specialty
+   - Local desserts (cantucci with vin santo, panna cotta) are better representatives
+
+4. **Research Approach**:
+   - For tiramisù research: Focus on Venice (origin), Milan (engineered), Rome (variants)
+   - For Florence research: Focus on gelato (Vivoli, Perchè No, Dei Neri), traditional pastries, local specialties
+
+**Conclusion**: 
+When visiting Florence, prioritize its world-class gelato and traditional Tuscan desserts. Save tiramisù tasting for Venice (authentic origin) and Rome/Milan (creative interpretations).

@@ -79,9 +79,36 @@
 
 ---
 
+### Tiramisù 專門店 / 糕點店
+
+#### Pasticceria Martesana - 37/50
+- **type**: Pastry shop (tiramisù specialist)
+- **area**: Via Cardinale Giovanni Cagliero 14 (Zone 2) + other locations
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Pasticceria+Martesana+Cagliero+Milan
+- **justification**: 米蘭公認最佳提拉米蘇；Vincenzo Santoro 大師技術；完美平衡奶油質地；傳統與創新結合
+- **constraints**:
+  - €6-8/片（提拉米蘇）
+  - 無需預訂（糕點店）
+  - 可能排隊（主店）
+  - 服務品質因分店而異
+  - Mercato Centrale 分店評價較低
+
+---
+
 ## Backups（備選，30-34 分）
 
-目前尚未評估此區間的餐廳。待擴展研究後更新。
+### Pasticceria Marchesi 1824 - 33/50
+- **type**: Historic pastry shop
+- **area**: Multiple locations (Galleria, Via Santa Maria alla Porta)
+- **google_maps_url**: https://www.marchesi1824.com
+- **justification**: 1824年歷史名店；Belle Époque 氛圍；Panettone 和巧克力優秀；Prada 集團
+- **constraints**:
+  - 提拉米蘇評價不一（非強項）
+  - 高價位（奢華定位）
+  - Panettone 和巧克力更受推薦
+  - 多據點便利
+
+目前備選區間的餐廳待擴展研究後更新。
 
 ---
 
