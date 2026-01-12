@@ -22,6 +22,10 @@
 | Pavé (brunch) | cafe | Via Felice Casati, Porta Venezia | brunch, pastries | top | Google 4.4/5, Tripadvisor 4.1/5 | 米蘭糕點傳統，肉桂捲出色；€10-20/人；41/50。 |
 | God Save the Food (GSTF) | cafe | Brera / Tortona | brunch, international | shortlisted | Milanized | 玻璃陽光房；水波蛋、酪梨吐司；週末；€12-22/人；36/50。 |
 | oTTo | cafe | Chinatown (Isola) | brunch, Scandinavian | shortlisted | Milanized | 北歐設計，開放式三明治；€12-20/人；37/50。 |
+| Pasticceria Martesana | cafe | Via Cagliero 14 | 頂級糕點與 Tiramisù | inbox | Pasticceria specialist, guides | 米蘭公認最佳提拉米蘇；Vincenzo Santoro 大師技術；完美平衡奶油質地。 |
+| Sant Ambroeus | cafe | Corso Giacomo Matteotti 7 | 歷史糕點店 | inbox | Michelin, guides | 1936年創立；米蘭機構級糕點店；傳統豪華提拉米蘇。 |
+| Cova Montenapoleone | cafe | Via Montenapoleone 8 | 歷史糕點店 | inbox | Historic, guides | 1817年創立；米蘭最古老糕點店之一；精緻經典提拉米蘇。 |
+| Peck | cafe | Centro Storico | 美食殿堂 | inbox | Tripadvisor 4.0/5, guides | 1883年創立；高級美食百貨；傳統提拉米蘇；價位偏高。 |
 
 ---
 

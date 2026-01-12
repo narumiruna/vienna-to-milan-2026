@@ -31,6 +31,8 @@ Notes:
 | Variabile Drink & Food | cafe | San Giovanni (Piazza Vittorio) | brunch | https://www.google.com/maps/search/?api=1&query=Variabile+Drink+Food+Rome | shortlisted | Google 4.6/5, Tripadvisor 4.2-4.6/5 | 時尚氛圍，鮭魚酪梨吐司；僅週一和週六營業；€15-25/人；31/50。 |
 | Pompi | dessert | Centro (Via della Croce) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Pompi+Tiramisu+Rome | researching | Tripadvisor, Google Maps, Reddit, food blogs | "羅馬提拉米蘇之王"；經典+創意口味（開心果、草莓）；多據點；€5/份。 |
 | Mr. 100 Tiramisù | dessert | Centro (Via dei Sediari) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Mr+100+Tiramisu+Rome | researching | Tripadvisor 4.6/5, TheFork 9.4/10, Restaurant Guru | 100種口味變體；近 Piazza Navona；酒吧餐廳；€30/人。 |
+| Two Sizes | dessert | Centro (Via del Governo Vecchio) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Two+Sizes+Tiramisu+Rome | inbox | Tripadvisor, food blogs | 外帶杯裝提拉米蘇；mini/regular 兩種尺寸；經典+創意口味。 |
+| Tiramisù Merisù | dessert | Trastevere | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Tiramisu+Merisu+Trastevere+Rome | inbox | Food blogs, guides | 純提拉米蘇專門店；多種口味；素食/無麩質/低咖啡因選項。 |
 
 ---
 
