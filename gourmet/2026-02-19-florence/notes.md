@@ -1312,3 +1312,169 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Exclusion Reason**: 評分 25/50 遠低於 30 分門檻。多來源警告為觀光陷阱，價格極高但品質與服務不符。歷史價值無法彌補實際用餐體驗的缺陷。若想體驗歷史氛圍，建議僅在吧台點咖啡，避免坐下用餐。
 
+
+---
+
+## Le Vespe Cafe
+
+**Official**: https://levespeflorence.com/ (Facebook presence)
+
+**Google Maps**: Not listed separately, but presence confirmed via reviews
+
+**Tripadvisor**: 4.6/5 (430+ reviews) - Among top cafes in Florence
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d6123447-Reviews-Le_Vespe_Cafe-Florence_Tuscany.html
+
+**Hours**: Daily 10:00am - 3:00pm
+
+**Location**: Near Piazza Santa Croce, Centro Storico
+
+**Menu highlights**:
+- Canadian-style brunch: eggs Benedict, wraps, gourmet sandwiches
+- Pancakes, homemade sweets, soups
+- Vegetarian, vegan, and gluten-free options
+- Quality coffee
+
+**Recurring pros**:
+- Consistently called "best brunch in Florence"
+- High food quality, creative menu
+- Friendly, cheerful staff fluent in English
+- Cozy, welcoming atmosphere
+- Accessible for tourists (English-friendly)
+- Good for international breakfast cravings
+
+**Recurring cons**:
+- Can get crowded during peak brunch hours
+- Reservations accepted but walk-ins common
+- Some portions considered small for price
+
+**Practical**:
+- reservation requirement: accepted via website/phone (+39 055 388 0062)
+- best time: weekdays less crowded
+- closed days: none (open daily)
+- queue: possible on weekends
+- price range: €12-20 per person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (excellent Canadian-style brunch, high quality)
+- Value: 7/10 (fair pricing for quality, good portions)
+- Convenience: 9/10 (central location, open daily, dietary options)
+- Consistency: 9/10 (highly consistent 4.6/5 rating, reliable)
+- Risk (10 = low risk): 9/10 (excellent track record, safe choice)
+- **Total: 43/50**
+
+---
+
+## Ditta Artigianale
+
+**Official**: https://dittaartigianale.com/
+
+**Google Maps**: 4.2-4.3/5 (thousands of reviews across multiple locations)
+
+**Locations in Florence**:
+1. Via dei Neri 32R (Centro Storico, near Uffizi)
+2. Via dello Sprone 5/R (Oltrarno, near Palazzo Pitti)
+3. Via Carducci (Sant'Ambrogio, with garden cloister)
+4. Lungarno Soderini (by the river)
+
+**Tripadvisor**: 
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d6600195-Reviews-Ditta_Artigianale-Florence_Tuscany.html
+
+**Restaurant Guru**:
+- https://restaurantguru.com/Ditta-Artigianale-Florence
+
+**Hours**: Typically 8:00am - 7:00pm (Mon-Fri), 8:00am - 8:00pm (Sat-Sun)
+
+**Menu highlights**:
+- Specialty coffee (high-quality beans, modern preparation)
+- Brunch: avocado toast, pancakes, French toast, scrambled eggs, granola
+- Croissants, brioches
+- Vegetarian/vegan options
+- International brunch style
+
+**Recurring pros**:
+- Excellent specialty coffee (third-wave coffee culture)
+- Multiple convenient locations throughout Florence
+- Stylish, Instagrammable décor
+- Modern, varied brunch menu
+- Popular with both locals and tourists
+- Walk-in friendly (no reservation needed typically)
+
+**Recurring cons**:
+- Can be very busy during peak hours (loud, bustling)
+- Service mixed reviews (friendly but can be slow/chaotic when busy)
+- Prices higher than traditional Italian cafés
+- Sometimes inconsistent service quality
+
+**Practical**:
+- reservation requirement: generally walk-in (call for large groups)
+- best time: off-peak hours to avoid crowds
+- closed days: none (open daily at all locations)
+- queue: likely during peak brunch hours (10am-12pm weekends)
+- price range: €10-18 per person
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (excellent coffee, good brunch quality)
+- Value: 7/10 (higher prices but quality coffee justifies)
+- Convenience: 10/10 (multiple locations, central, open daily, walk-in)
+- Consistency: 7/10 (food consistent, service variable)
+- Risk (10 = low risk): 7/10 (crowds and service inconsistency)
+- **Total: 39/50**
+
+---
+
+## Melaleuca Bakery + Bistrot
+
+**Official**: Social media presence (Instagram-focused)
+
+**Google Maps**: 4.7/5 (1,000+ reviews) - Excellent rating
+
+**Location**: Lungarno delle Grazie 18, 50122 Florence (on the Arno river, near Uffizi)
+
+**Tripadvisor**: 
+- https://www.tripadvisor.com/Restaurant_Review-g187895-d18901276-Reviews-Melaleuca-Florence_Tuscany.html
+
+**Restaurant Guru**:
+- https://restaurantguru.com/Melaleuca-Florence
+
+**Hours**: 
+- Mon-Fri: 7:30am - 4:00pm
+- Sat-Sun: 8:00am - 4:00pm
+- Walk-in only, no reservations
+
+**Menu highlights**:
+- Famous cinnamon rolls
+- Avocado toast with kale pesto
+- Chili 'Nduja eggs on homemade laffa bread
+- Stuffed bagels, pancakes, banana bread
+- Australian-style specialty coffee (oat milk creations)
+- Vegetarian, vegan, and gluten-free options
+
+**Recurring pros**:
+- Called "best breakfast in Florence" by many reviewers
+- Exceptional cinnamon rolls (signature item)
+- Friendly, helpful staff
+- Beautiful riverside location with good atmosphere
+- Australian/American ownership brings unique offerings to Italy
+- Excellent value for portion size and quality
+- Cozy, vibrant, welcoming atmosphere
+
+**Recurring cons**:
+- No reservations (walk-in only)
+- Can get crowded, especially weekends
+- Limited hours (closes at 4pm)
+
+**Practical**:
+- reservation requirement: none accepted (walk-in only)
+- best time: weekday mornings less crowded
+- closed days: none (open daily)
+- queue: likely on weekends, especially 9am-11am
+- price range: €8-15 per person (good value)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (exceptional bakery items, high-quality brunch)
+- Value: 9/10 (excellent value, reasonable prices for quality)
+- Convenience: 8/10 (central riverside location, but no reservations, limited hours)
+- Consistency: 9/10 (4.7/5 rating, very consistent quality)
+- Risk (10 = low risk): 8/10 (walk-in only adds some uncertainty, but quality reliable)
+- **Total: 43/50**
+

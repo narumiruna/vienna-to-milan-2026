@@ -149,6 +149,45 @@
 
 ---
 
+### Brunch / 早午餐 Top Picks (NEW)
+
+#### Le Vespe Cafe (43/50) ⭐
+- **type**: Canadian-style brunch
+- **area**: Centro Storico (near Santa Croce)
+- **total score**: 43/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Le+Vespe+Cafe+Florence
+- **justification**: 佛羅倫斯最佳早午餐，班尼迪克蛋、捲餅、煎餅；友善服務，素食/純素可選
+- **constraints**:
+  - reservation: accepted (+39 055 388 0062)
+  - hours: daily 10:00am-3:00pm
+  - price: €12-20/person
+
+#### Melaleuca Bakery + Bistrot (43/50) ⭐
+- **type**: Australian-American brunch & bakery
+- **area**: Lungarno delle Grazie (riverside, near Uffizi)
+- **total score**: 43/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Melaleuca+Bakery+Florence
+- **justification**: 傑出肉桂捲（signature），澳式咖啡，riverside 位置美好；4.7/5 高評分
+- **constraints**:
+  - reservation: **none accepted** (walk-in only)
+  - hours: Mon-Fri 7:30am-4pm, Sat-Sun 8am-4pm
+  - price: €8-15/person (excellent value)
+  - queue likely on weekends 9-11am
+
+#### Ditta Artigianale (39/50)
+- **type**: Specialty coffee & modern brunch
+- **area**: Multiple locations (Via dei Neri, Via dello Sprone, etc.)
+- **total score**: 39/50
+- **google maps**: https://dittaartigianale.com/en/pages/punti-vendita
+- **justification**: 精品咖啡文化，4 個據點方便；酪梨吐司、煎餅、法式吐司
+- **constraints**:
+  - reservation: generally walk-in (call for large groups)
+  - hours: daily 8am-7pm (varies by location)
+  - price: €10-18/person
+  - crowded during peak brunch hours
+
+---
+
 ## 💼 Backups（優質備選，按分數排序）
 
 ### 餐廳 Backups
