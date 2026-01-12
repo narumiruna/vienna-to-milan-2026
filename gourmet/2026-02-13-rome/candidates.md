@@ -29,6 +29,8 @@ Notes:
 | Coromandel | cafe | Centro Storico (near Piazza Navona) | brunch | https://www.google.com/maps/search/?api=1&query=Coromandel+Rome+Monte+Giordano | top | Google 4.0/5, Tripadvisor 4.0/5, Restaurant Guru 4.1/5 | 熱門早午餐，煎餅、班尼迪克蛋、法式吐司；復古巴黎風，強烈建議預訂；€10-20/人；35/50。 |
 | Vivi Bistrot | cafe | Piazza Navona (Palazzo Braschi) | brunch | https://www.google.com/maps/search/?api=1&query=Vivi+Bistrot+Piazza+Navona+Rome | shortlisted | Google 4.0/5, Tripadvisor 4.0/5 | 有機健康取向，炒蛋、煙燻鮭魚；週末早午餐，戶外座位；€20-30/人；33/50。 |
 | Variabile Drink & Food | cafe | San Giovanni (Piazza Vittorio) | brunch | https://www.google.com/maps/search/?api=1&query=Variabile+Drink+Food+Rome | shortlisted | Google 4.6/5, Tripadvisor 4.2-4.6/5 | 時尚氛圍，鮭魚酪梨吐司；僅週一和週六營業；€15-25/人；31/50。 |
+| Pompi | dessert | Centro (Via della Croce) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Pompi+Tiramisu+Rome | researching | Tripadvisor, Google Maps, Reddit, food blogs | "羅馬提拉米蘇之王"；經典+創意口味（開心果、草莓）；多據點；€5/份。 |
+| Mr. 100 Tiramisù | dessert | Centro (Via dei Sediari) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Mr+100+Tiramisu+Rome | researching | Tripadvisor 4.6/5, TheFork 9.4/10, Restaurant Guru | 100種口味變體；近 Piazza Navona；酒吧餐廳；€30/人。 |
 
 ---
 

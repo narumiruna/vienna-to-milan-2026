@@ -29,6 +29,7 @@ Notes:
 | Fluffy Brunch | cafe | San Polo (Calle del Capeler) | brunch, Japanese pancakes | https://www.google.com/maps/search/?api=1&query=Fluffy+Brunch+Venice | top | Google/Tripadvisor 4.6/5 (1,380+ reviews) | 日式鬆餅威尼斯最佳；每日 7:30am-7pm；€10-18/人；44/50。 |
 | Brunch Café | cafe | San Polo | brunch | https://www.google.com/maps/search/?api=1&query=Brunch+Caf%C3%A9+Venice | shortlisted | Tripadvisor 4.0-4.2/5 | 煎餅與法式吐司；每日 7:30am-6:30pm；€10-16/人；37/50。 |
 | Combo Venezia | cafe | Cannaregio (monastery) | brunch | https://www.google.com/maps/search/?api=1&query=Combo+Venezia | shortlisted | Local guides | 週日早午餐，修道院環境；€15-25/人；33/50。 |
+| I Tre Mercanti | dessert | Castello | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=I+Tre+Mercanti+Venice | researching | Tripadvisor, TasteAtlas, official site | Tiramisù 專賣店；每小時新鮮製作；25+ 口味；威尼斯最佳提拉米蘇之一。 |
 
 ---
 
