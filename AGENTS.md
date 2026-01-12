@@ -1,6 +1,7 @@
 # Instructions for Agents
 
----   DO NOT EDIT  ---
+## Main Purpose (Immutable)
+
 - The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
 - All flights, trains, and accommodations have already been booked and are FINAL.
 
@@ -9,7 +10,7 @@ Agents MUST NOT:
 - Suggest alternative hotels or rebooking transport
 - Reorder cities or modify the travel route
 
-## Flight Itinerary (Immutable)
+### Flight Itinerary (Immutable)
 - TPE→VIE BR61
   - 2/10 22:30 TPE
   - 2/11 08:25 VIE
@@ -20,19 +21,17 @@ Agents MUST NOT:
   - 2/27 11:00 MXP
   - 2/28 05:55 TPE
 
-## Train Itinerary (Immutable)
+### Train Itinerary (Immutable)
 - 2/19 Roma Tiburtina → Firenze S. M. Novella
 - 2/22 Firenze S. M. Novella → Venezia Mestre
 - 2/25 Venezia Mestre → Milano Centrale
 
-## Accommodation (Immutable)
+### Accommodation (Immutable)
 - Vienna: Hilton Vienna Park
 - Rome: Mercure Roma Piazza Bologna
 - Firenze: Hotel Delle Nazioni
 - Venice: Hotel Plaza Venice
 - Milano: Hotel ibis Milano Centro
-
---- END DO NOT EDIT---
 
 ## Agent Mission
 
