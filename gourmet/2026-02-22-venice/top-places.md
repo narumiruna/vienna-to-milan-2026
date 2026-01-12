@@ -14,7 +14,7 @@
 #### Bacareto da Lele - 40/50 ⭐
 - **type**: Panini, wine (local bar)
 - **area**: Santa Croce (Campo dei Tolentini)
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Bacareto+da+Lele+Venezia
+- **google_maps_url**: https://www.google.com/maps/place/Bacareto+da+Lele+Venezia
 - **justification**: 超值在地小館；panini€1.2起；學生與在地人最愛；真實威尼斯體驗
 - **constraints**: 站立運河邊用餐；尖峰時段排隊；€3-8/人
 
@@ -35,7 +35,7 @@
 #### Cantina Do Mori - 39/50 ⭐
 - **type**: Bacaro, cicchetti
 - **area**: San Polo (near Rialto)
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Venezia
+- **google_maps_url**: https://www.google.com/maps/place/Cantina+Do+Mori+Venezia
 - **justification**: 傳奇bacaro；"cicchetti之家"；優質house wine；歷史悠久
 - **constraints**: 站立式用餐；近Rialto人流多；€5-15/人
 
@@ -45,14 +45,14 @@
 #### Fluffy Brunch - 44/50 ⭐
 - **type**: Japanese-style fluffy pancakes, brunch
 - **area**: San Polo (Calle del Capeler 1586)
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Fluffy+Brunch+Venice
+- **google_maps_url**: https://www.google.com/maps/place/Fluffy+Brunch+Venice
 - **justification**: 威尼斯最佳煎餅；4.6/5 (1,380+ reviews)；每日營業
 - **constraints**: €10-18/人；可能排隊
 
 #### Brunch Café - 37/50
 - **type**: International brunch
 - **area**: San Polo
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Brunch+Cafe+Venice
+- **google_maps_url**: https://www.google.com/maps/place/Brunch+Cafe+Venice
 - **justification**: 煎餅與法式吐司；活潑氛圍
 - **constraints**: €10-16/人
 
@@ -199,7 +199,7 @@
 ### CoVino - 38/50
 **類型**：Wine bar, small plates  
 **位置**：Castello  
-**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Al+Covino+Venice)
+**Google Maps**: [查看地圖](https://www.google.com/maps/place/Al+Covino+Venice)
 
 **推薦理由**：14座精品酒吧；創意菜單配酒；溫馨親密氛圍；top 15-23 Venice餐廳。
 
@@ -214,7 +214,7 @@
 ### Gelateria Alaska - 34/50
 **類型**：Artisanal gelato  
 **位置**：Santa Croce  
-**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Gelateria+Alaska+Venezia)
+**Google Maps**: [查看地圖](https://www.google.com/maps/place/Gelateria+Alaska+Venezia)
 
 **推薦理由**：創意口味（薑、小豆蔻、火箭葉、羅勒）；手工製作；有特色。
 
@@ -229,7 +229,7 @@
 ### Combo Venezia - 33/50
 **類型**：Brunch (monastery setting)  
 **位置**：Cannaregio（修道院）  
-**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Combo+Venezia)
+**Google Maps**: [查看地圖](https://www.google.com/maps/place/Combo+Venezia)
 
 **推薦理由**：獨特修道院環境；週日早午餐。
 
@@ -243,7 +243,7 @@
 ### Paradiso Perduto - 30/50
 **類型**：Seafood, live jazz  
 **位置**：Cannaregio  
-**Google Maps**: [查看地圖](https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Venezia)
+**Google Maps**: [查看地圖](https://www.google.com/maps/place/Paradiso+Perduto+Venezia)
 
 **推薦理由**：熱鬧氛圍；現場爵士樂；大份量海鮮。
 

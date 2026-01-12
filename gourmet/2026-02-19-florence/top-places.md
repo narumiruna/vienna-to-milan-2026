@@ -14,7 +14,7 @@
 - **type**: 3-Michelin star fine dining
 - **area**: Centro Storico
 - **total score**: 48/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Enoteca+Pinchiorri+Florence
+- **google maps**: https://www.google.com/maps/place/Enoteca+Pinchiorri+Florence
 - **justification**: 佛羅倫斯唯一 3 星米其林餐廳，創意托斯卡納 + 法式融合，世界級紅酒窖藏（80,000+ bottles）
 - **constraints**: 
   - reservation: **required**（OpenTable，提前 3-4 週）
@@ -26,7 +26,7 @@
 - **type**: Traditional seasonal Tuscan
 - **area**: Centro Storico
 - **total score**: 48/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Osteria+Vini+e+Vecchi+Sapori+Florence
+- **google maps**: https://www.google.com/maps/place/Osteria+Vini+e+Vecchi+Sapori+Florence
 - **justification**: 極小親密空間（5-8 張桌），完美季節菜單執行，老闆 Tommaso 親自服務，真實家庭式料理
 - **constraints**: 
   - reservation: **required**（**僅在 19:30 後致電** +39 055 293894）
@@ -38,7 +38,7 @@
 - **type**: 2-Michelin star seafood
 - **area**: Centro Storico
 - **total score**: 47/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Santa+Elisabetta+Florence
+- **google maps**: https://www.google.com/maps/place/Santa+Elisabetta+Florence
 - **justification**: 2 星米其林精緻海鮮料理，親密小空間（約 20 席），服務細膩用心
 - **constraints**: 
   - reservation: **required**（OpenTable 或電話，提前 2-3 週）
@@ -49,7 +49,7 @@
 - **type**: Traditional Italian with tableside service
 - **area**: Centro Storico
 - **total score**: 47/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=La+Buchetta+Florence
+- **google maps**: https://www.google.com/maps/place/La+Buchetta+Florence
 - **justification**: 特殊 table-side 起司輪麵表演，傳統義大利料理，溫暖家庭氛圍
 - **constraints**: 
   - reservation: **required**（電話或網站）
@@ -60,7 +60,7 @@
 - **type**: Traditional Tuscan trattoria
 - **area**: Centro
 - **total score**: 46/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Sergio+Gozzi+Florence
+- **google maps**: https://www.google.com/maps/place/Trattoria+Sergio+Gozzi+Florence
 - **justification**: 傳奇 Peposo（胡椒牛肉燉）和手工麵，價格極親民（€10-15/person），真實在地 trattoria 氛圍
 - **constraints**: 
   - **CRITICAL**: 僅中午 12:00-15:00 營業（無晚餐）
@@ -72,7 +72,7 @@
 - **type**: Traditional Tuscan
 - **area**: Centro
 - **total score**: 46/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=L+Osteria+di+Giovanni+Florence
+- **google maps**: https://www.google.com/maps/place/L+Osteria+di+Giovanni+Florence
 - **justification**: 家族經營，優質 Bistecca alla Fiorentina，溫暖服務，可 walk-in
 - **constraints**: 
   - reservation: optional（建議訂位但可 walk-in）
@@ -83,7 +83,7 @@
 - **type**: Traditional Tuscan bistrot
 - **area**: Oltrarno (Borgo San Frediano)
 - **total score**: 47/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Bistrot+3+Tavoli+Florence
+- **google maps**: https://www.google.com/maps/place/Bistrot+3+Tavoli+Florence
 - **official**: https://bistrot3tavoli.com/
 - **justification**: 極小親密空間（3-4 張桌），道地托斯卡納料理，溫暖親切服務，被稱為 "hidden gem"，非觀光陷阱
 - **constraints**: 
@@ -102,7 +102,7 @@
 - **type**: Specialty coffee
 - **area**: Oltrarno (Via dello Sprone 旗艦店)
 - **total score**: 44/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Via+dello+Sprone+Florence
+- **google maps**: https://www.google.com/maps/place/Ditta+Artigianale+Via+dello+Sprone+Florence
 - **justification**: 佛羅倫斯最佳精品咖啡，latte art 精湛，多種沖煮方式
 - **constraints**: 
   - reservation: none（先到先服務）
@@ -117,7 +117,7 @@
 - **type**: Gelato
 - **area**: Centro Storico
 - **total score**: 46/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Vivoli+Florence
+- **google maps**: https://www.google.com/maps/place/Vivoli+Florence
 - **justification**: 1930 年創立，經典佛羅倫斯 gelato，品質穩定，歷史悠久
 - **constraints**: 
   - queue: 25-45 分鐘（尖峰時段）
@@ -129,7 +129,7 @@
 - **type**: Gelato
 - **area**: Centro
 - **total score**: 45/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Gelateria+Perche+No+Florence
+- **google maps**: https://www.google.com/maps/place/Gelateria+Perche+No+Florence
 - **justification**: 1939 年創立，歷史悠久，品質穩定，合理價格
 - **constraints**: 
   - queue: 15-30 分鐘
@@ -140,7 +140,7 @@
 - **type**: Gelato (Master Gelatiere)
 - **area**: Centro Storico
 - **total score**: 44/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=I+Gelati+del+Bondi+Florence
+- **google maps**: https://www.google.com/maps/place/I+Gelati+del+Bondi+Florence
 - **justification**: Master Gelatiere Vetulio Bondi，工藝精湛，創意口味，小店面品質優先
 - **constraints**: 
   - queue: 10-20 分鐘
@@ -155,7 +155,7 @@
 - **type**: Canadian-style brunch
 - **area**: Centro Storico (near Santa Croce)
 - **total score**: 43/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Le+Vespe+Cafe+Florence
+- **google maps**: https://www.google.com/maps/place/Le+Vespe+Cafe+Florence
 - **justification**: 佛羅倫斯最佳早午餐，班尼迪克蛋、捲餅、煎餅；友善服務，素食/純素可選
 - **constraints**:
   - reservation: accepted (+39 055 388 0062)
@@ -166,7 +166,7 @@
 - **type**: Australian-American brunch & bakery
 - **area**: Lungarno delle Grazie (riverside, near Uffizi)
 - **total score**: 43/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Melaleuca+Bakery+Florence
+- **google maps**: https://www.google.com/maps/place/Melaleuca+Bakery+Florence
 - **justification**: 傑出肉桂捲（signature），澳式咖啡，riverside 位置美好；4.7/5 高評分
 - **constraints**:
   - reservation: **none accepted** (walk-in only)
@@ -196,7 +196,7 @@
 - **type**: Modern Italian
 - **area**: Centro Storico
 - **total score**: 45/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Il+Vezzo+Florence
+- **google maps**: https://www.google.com/maps/place/Il+Vezzo+Florence
 - **justification**: 現代義大利料理，細節用心，擺盤精緻，適合浪漫晚餐
 - **constraints**: 
   - reservation: recommended（1 週前電話）
@@ -206,7 +206,7 @@
 - **type**: Traditional Tuscan trattoria
 - **area**: Oltrarno
 - **total score**: 43/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Alla+Vecchia+Bettola+Florence
+- **google maps**: https://www.google.com/maps/place/Alla+Vecchia+Bettola+Florence
 - **justification**: 在地人最愛，真實 trattoria 氛圍，價格親民，Bistecca 品質佳
 - **constraints**: 
   - reservation: recommended
@@ -218,7 +218,7 @@
 - **type**: Neapolitan pizza
 - **area**: Centro
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Ciro+and+Sons+Florence
+- **google maps**: https://www.google.com/maps/place/Ciro+and+Sons+Florence
 - **justification**: 那不勒斯式披薩，家族經營，價格合理，適合休閒用餐
 - **constraints**: 
   - reservation: optional
@@ -228,7 +228,7 @@
 - **type**: Neapolitan pizza
 - **area**: Oltrarno
 - **total score**: 38/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Gustapizza+Florence
+- **google maps**: https://www.google.com/maps/place/Gustapizza+Florence
 - **justification**: 佛羅倫斯最佳披薩之一，Reddit 與在地人強力推薦，軟Q 那不勒斯麵團，新鮮食材，性價比極高
 - **constraints**: 
   - reservation: none（不接受預訂，僅 walk-in）
@@ -241,7 +241,7 @@
 - **type**: Michelin 1-star contemporary Tuscan
 - **area**: Centro
 - **total score**: 37/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Ora+d%27Aria+Florence
+- **google maps**: https://www.google.com/maps/place/Ora+d%27Aria+Florence
 - **official**: https://www.oradariaristorante.com/en/home.html
 - **justification**: 米其林一星，現代托斯卡納料理，開放式廚房，創意 tasting menu，適合不想選 3 星但想體驗米其林的旅客
 - **constraints**: 
@@ -254,7 +254,7 @@
 - **type**: Gelato
 - **area**: Centro (near Arno River)
 - **total score**: 36/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Gelateria+dei+Neri+Florence
+- **google maps**: https://www.google.com/maps/place/Gelateria+dei+Neri+Florence
 - **justification**: 被譽為佛羅倫斯最佳 gelato 之一，真實濃郁口味，Reddit 高度推薦，性價比優
 - **constraints**: 
   - queue: 會排隊但移動快
@@ -266,7 +266,7 @@
 - **area**: Sant'Ambrogio
 - **total score**: 35/50
 - **official**: https://ilpizzaiuolo.it/en/
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Il+Pizzaiuolo+Florence
+- **google maps**: https://www.google.com/maps/place/Il+Pizzaiuolo+Florence
 - **justification**: 正宗那不勒斯披薩，木燒爐，高品質食材（Mozzarella di Bufala），在地人推薦，Travelers' Choice
 - **constraints**: 
   - reservation: required（強烈建議，尤其晚餐與週末）
@@ -279,7 +279,7 @@
 - **type**: Traditional Tuscan trattoria
 - **area**: San Lorenzo (near market)
 - **total score**: 35/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence
+- **google maps**: https://www.google.com/maps/place/Trattoria+Mario+Florence
 - **justification**: 標誌性家族經營 trattoria，道地托斯卡納菜，性價比極高，Reddit 強推，特別體驗
 - **constraints**: 
   - **CRITICAL**: 僅午餐（12:00-15:00，週一至週三）
@@ -296,7 +296,7 @@
 - **area**: Centro（多分店：Via Luigi Alamanni 近車站 / Borgo San Lorenzo 近主教堂）
 - **total score**: 35/50
 - **official**: https://trattoriadalloste.com/en/
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Dall%27Oste+Florence
+- **google maps**: https://www.google.com/maps/place/Trattoria+Dall%27Oste+Florence
 - **justification**: 優質 Bistecca alla Fiorentina，多分店位置便利，適合想吃牛排的旅客
 - **constraints**: 
   - reservation: **required**（TripAdvisor, TheFork, 或電話）
@@ -311,7 +311,7 @@
 - **type**: Traditional Tuscan
 - **area**: Oltrarno (Santo Spirito square)
 - **total score**: 33/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Osteria+Santo+Spirito+Florence
+- **google maps**: https://www.google.com/maps/place/Osteria+Santo+Spirito+Florence
 - **justification**: 廣場餐廳，gnocchi gratinati 特別出名（尤其加 truffle），份量大，價格合理，適合團體
 - **constraints**: 
   - reservation: recommended（強烈建議，尤其晚餐與週末）
@@ -326,7 +326,7 @@
 - **type**: Specialty coffee
 - **area**: Centro
 - **total score**: 42/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Coffee+Mantra+Florence
+- **google maps**: https://www.google.com/maps/place/Coffee+Mantra+Florence
 - **justification**: Specialty coffee，咖啡愛好者推薦
 - **constraints**: 
   - 座位有限

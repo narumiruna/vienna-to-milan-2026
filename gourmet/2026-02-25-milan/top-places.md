@@ -7,14 +7,14 @@
 #### Pavé - 41/50 ⭐
 - **type**: Pastry shop & brunch
 - **area**: Porta Venezia (Via Felice Casati 27)
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Pave+Milan
+- **google_maps_url**: https://www.google.com/maps/place/Pave+Milan
 - **justification**: 米蘭最愛糕點店；4.4/5 (2,800+ reviews)；肉桂捲、可頌出色
 - **constraints**: €10-20/人；週二休息；可能排隊
 
 #### oTTo - 37/50
 - **type**: Scandinavian-style brunch
 - **area**: Chinatown (Isola)
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=oTTo+Milan
+- **google_maps_url**: https://www.google.com/maps/place/oTTo+Milan
 - **justification**: 北歐設計；開放式三明治 (quadrotti)
 - **constraints**: €12-20/人
 
@@ -22,7 +22,7 @@
 ### 1. **Enrico Bartolini al Mudec** - 42/50 ⭐⭐⭐
 - **類型**: 米其林三星餐廳
 - **區域**: MUDEC Museum (Zone 6)
-- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Enrico+Bartolini+al+Mudec+Milan)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/place/Enrico+Bartolini+al+Mudec+Milan)
 - **推薦理由**: 米蘭唯一三星，創意當代義大利料理，卓越服務與氛圍
 - **約束條件**:
   - 預訂: **必須**（提前數週至一個月）
@@ -33,7 +33,7 @@
 ### 2. **Trattoria Masuelli San Marco** - 38/50
 - **類型**: 傳統米蘭餐廳
 - **區域**: Zone 4 (Viale Umbria)
-- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Trattoria+Masuelli+San+Marco+Milan)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/place/Trattoria+Masuelli+San+Marco+Milan)
 - **推薦理由**: 1921 年創立，完美 Cotoletta 與 Risotto，真實氛圍，價格合理
 - **約束條件**:
   - 預訂: **建議**（尤其晚餐）
@@ -45,7 +45,7 @@
 ### 3. **Pasticceria Marchesi 1824** - 38/50
 - **類型**: 頂級糕點咖啡館
 - **區域**: Multiple（Galleria, Monte Napoleone, Via Santa Maria）
-- **Google Maps**: [搜尋 Galleria 分店](https://www.google.com/maps/search/?api=1&query=Marchesi+1824+Galleria+Milan)
+- **Google Maps**: [搜尋 Galleria 分店](https://www.google.com/maps/place/Marchesi+1824+Galleria+Milan)
 - **推薦理由**: 1824 年創立，米蘭最佳 Panettone 之一，精美糕點與咖啡
 - **約束條件**:
   - 預訂: Optional（Galleria 可預訂座位）
@@ -56,7 +56,7 @@
 ### 4. **Trattoria Milanese** - 37/50
 - **類型**: 傳統米蘭餐廳
 - **區域**: Cinque Vie (市中心)
-- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Trattoria+Milanese+Milan)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/place/Trattoria+Milanese+Milan)
 - **推薦理由**: 1933 年創立，經典 Risotto, Cotoletta, Ossobuco，歷史氛圍
 - **約束條件**:
   - 預訂: **強烈建議**（尤其晚餐與週末）
@@ -68,7 +68,7 @@
 ### 5. **Bar Basso** - 36/50
 - **類型**: 開胃酒吧
 - **區域**: Città Studi
-- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Bar+Basso+Milan)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/place/Bar+Basso+Milan)
 - **推薦理由**: 1947 年創立，Negroni Sbagliato 發源地，真實米蘭開胃酒體驗
 - **約束條件**:
   - 預訂: 不需要（walk-in）
@@ -84,7 +84,7 @@
 #### Pasticceria Martesana - 37/50
 - **type**: Pastry shop (tiramisù specialist)
 - **area**: Via Cardinale Giovanni Cagliero 14 (Zone 2) + other locations
-- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Pasticceria+Martesana+Cagliero+Milan
+- **google_maps_url**: https://www.google.com/maps/place/Pasticceria+Martesana+Cagliero+Milan
 - **justification**: 米蘭公認最佳提拉米蘇；Vincenzo Santoro 大師技術；完美平衡奶油質地；傳統與創新結合
 - **constraints**:
   - €6-8/片（提拉米蘇）

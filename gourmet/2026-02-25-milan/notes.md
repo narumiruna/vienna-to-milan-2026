@@ -11,7 +11,7 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **官網**: unknown
 
 **Google Maps**: 4.2/5 (約 900+ 評論)
-- [Google Maps 連結](https://www.google.com/maps/search/?api=1&query=Trattoria+Milanese+Milan)
+- [Google Maps 連結](https://www.google.com/maps/place/Trattoria+Milanese+Milan)
 
 **Tripadvisor**: 3.8-4.0/5 (1,361 評論)
 - https://www.tripadvisor.com/Restaurant_Review-g187849-d4409934-Reviews-Trattoria_Milanese_Dal_1933-Milan_Lombardy.html
@@ -252,7 +252,7 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **官網**: http://www.anticatrattoriadellapesa.com/
 
 **Google Maps**: 4.2/5 (1,600+ 評論)
-- [Google Maps 連結](https://www.google.com/maps/search/?api=1&query=Antica+Trattoria+della+Pesa+Milan)
+- [Google Maps 連結](https://www.google.com/maps/place/Antica+Trattoria+della+Pesa+Milan)
 
 **Tripadvisor**: 3.7/5 (1,100+ 評論)
 - https://www.tripadvisor.com/Restaurant_Review-g187849-d1065415-Reviews-Antica_Trattoria_della_Pesa-Milan_Lombardy.html
@@ -304,7 +304,7 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **官網**: https://www.osteriaconchetta.it/
 
 **Google Maps**: 4.4/5
-- [Google Maps 連結](https://www.google.com/maps/search/?api=1&query=Osteria+Conchetta+Milan)
+- [Google Maps 連結](https://www.google.com/maps/place/Osteria+Conchetta+Milan)
 
 **Tripadvisor**: 4.4/5 (1,800+ 評論)
 - https://www.tripadvisor.com/Restaurant_Review-g187849-d2015838-Reviews-Osteria_Conchetta-Milan_Lombardy.html
@@ -555,7 +555,7 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **官網**: https://www.camparino.com/
 
 **Google Maps**: 3.9/5
-- [Google Maps 連結](https://www.google.com/maps/search/?api=1&query=Camparino+in+Galleria+Milan)
+- [Google Maps 連結](https://www.google.com/maps/place/Camparino+in+Galleria+Milan)
 
 **Tripadvisor**: 3.9/5
 - https://www.tripadvisor.com/Restaurant_Review-g187849-d2173601-Reviews-Camparino_in_Galleria-Milan_Lombardy.html

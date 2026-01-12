@@ -14,7 +14,7 @@
 - **type**: Pizza al taglio, bakery
 - **area**: Centro Storico (Campo de' Fiori)
 - **total score**: 45/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome
+- **google maps**: https://www.google.com/maps/place/Antico+Forno+Roscioli+Rome
 - **justification**: 歷史麵包店，Pizza bianca 羅馬經典，每日營業，價格合理，品質極穩定
 - **constraints**: 
   - reservation: none（外帶麵包店）
@@ -26,7 +26,7 @@
 - **type**: Gelato, artisanal
 - **area**: Trastevere
 - **total score**: 43/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Otaleg+Rome
+- **google maps**: https://www.google.com/maps/place/Otaleg+Rome
 - **justification**: Pistachio 被譽為羅馬最佳，水果風味濃郁天然如 sorbet，季節性創意口味
 - **constraints**: 
   - 位於 Trastevere，需特地前往
@@ -36,7 +36,7 @@
 - **type**: Traditional Roman trattoria
 - **area**: Trastevere
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=La+Tavernaccia+Da+Bruno+Rome
+- **google maps**: https://www.google.com/maps/place/La+Tavernaccia+Da+Bruno+Rome
 - **justification**: 在地秘寶，「從不失望」，真正的在地餐廳非觀光化
 - **constraints**: 
   - reservation: recommended（建議訂位）
@@ -47,7 +47,7 @@
 - **type**: Traditional Roman cuisine
 - **area**: Centro Storico (Pantheon)
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Armando+al+Pantheon+Rome
+- **google maps**: https://www.google.com/maps/place/Armando+al+Pantheon+Rome
 - **justification**: 1961年家族經營，carbonara 被譽為最佳之一，Michelin 認可，真實 trattoria 氛圍
 - **constraints**: 
   - reservation: required（必須提前訂位，訂位困難）
@@ -59,7 +59,7 @@
 - **type**: Creative seasonal Italian
 - **area**: Trastevere/Campo de' Fiori
 - **total score**: 41.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Ditirambo+Rome
+- **google maps**: https://www.google.com/maps/place/Ditirambo+Rome
 - **justification**: 創意季節料理，TheFork 9.3/10，素食友善，溫馨氛圍
 - **constraints**: 
   - reservation: recommended（強烈建議訂位，尤其晚餐週末）
@@ -70,7 +70,7 @@
 - **type**: Creative seasonal Italian
 - **area**: Ghetto/Centro Storico
 - **total score**: 41.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Bottega+Tredici+Rome
+- **google maps**: https://www.google.com/maps/place/Bottega+Tredici+Rome
 - **justification**: 現代創意義大利料理，TheFork 9.2/10，Travelers' Choice Top 10%
 - **constraints**: 
   - reservation: recommended（建議訂位）
@@ -81,7 +81,7 @@
 - **type**: Traditional Roman trattoria
 - **area**: Monteverde
 - **total score**: 40.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Cesare+Al+Casaletto+Rome
+- **google maps**: https://www.google.com/maps/place/Cesare+Al+Casaletto+Rome
 - **justification**: 道地羅馬，美食家最愛，Katie Parla 大力推薦，非觀光化
 - **constraints**: 
   - reservation: required（必須電話訂位，提前 7+ 天）
@@ -92,7 +92,7 @@
 - **type**: Carbonara specialist
 - **area**: Centro Storico (Campo de' Fiori)
 - **total score**: 40.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Luciano+Cucina+Italiana+Rome
+- **google maps**: https://www.google.com/maps/place/Luciano+Cucina+Italiana+Rome
 - **justification**: "Carbonara 之王" Chef Luciano Monosilio，專注完美 carbonara，Reddit 多次點名
 - **constraints**: 
   - reservation: required（必須訂位）
@@ -103,7 +103,7 @@
 - **type**: Le Marche regional cuisine
 - **area**: Esquilino
 - **total score**: 39.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Trattoria+Monti+Rome
+- **google maps**: https://www.google.com/maps/place/Trattoria+Monti+Rome
 - **justification**: 米其林推薦，距飯店僅 8 分鐘步行，Le Marche 區域料理（非典型羅馬菜）
 - **constraints**: 
   - reservation: recommended（建議訂位）
@@ -114,7 +114,7 @@
 - **type**: Roman pasta, deli, wine bar
 - **area**: Regola (Campo de' Fiori)
 - **total score**: 39/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Roscioli+Salumeria+con+Cucina+Rome
+- **google maps**: https://www.google.com/maps/place/Roscioli+Salumeria+con+Cucina+Rome
 - **justification**: 羅馬最佳 carbonara 候選之一，頂級食材與製作工藝，Michelin 認可
 - **constraints**: 
   - reservation: required（幾乎必須提前訂位）
@@ -125,7 +125,7 @@
 - **type**: Traditional Roman trattoria
 - **area**: Testaccio
 - **total score**: 39/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome
+- **google maps**: https://www.google.com/maps/place/Flavio+al+Velavevodetto+Rome
 - **justification**: Testaccio 在地人最愛，carbonara/amatriciana 高評價，性價比好，建在古羅馬遺址內
 - **constraints**: 
   - reservation: recommended（建議訂位，尤其週末）
@@ -138,7 +138,7 @@
 - **type**: Gelato, artisanal
 - **area**: Trastevere
 - **total score**: 43/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Otaleg+Rome
+- **google maps**: https://www.google.com/maps/place/Otaleg+Rome
 - **justification**: Pistachio 被譽為羅馬最佳，水果風味濃郁天然如 sorbet，季節性創意口味
 - **constraints**: 
   - 位於 Trastevere
@@ -148,7 +148,7 @@
 - **type**: Gelato
 - **area**: Piazza Navona
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Frigidarium+Rome
+- **google maps**: https://www.google.com/maps/place/Frigidarium+Rome
 - **justification**: 部落客 #1 首選，可沾黑或白巧克力，品質穩定
 - **constraints**: 
   - 中央位置，遊客眾多
@@ -158,7 +158,7 @@
 - **type**: Gelato, artisanal
 - **area**: Near Piazza Navona
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Gelateria+del+Teatro+Rome
+- **google maps**: https://www.google.com/maps/place/Gelateria+del+Teatro+Rome
 - **justification**: 手工創意風味，開放式廚房，獨特口味組合
 - **constraints**: 
   - 價格偏高
@@ -168,7 +168,7 @@
 - **type**: Gelato, historic
 - **area**: Pantheon
 - **total score**: 41/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Giolitti+Rome
+- **google maps**: https://www.google.com/maps/place/Giolitti+Rome
 - **justification**: 1900年開業，125年歷史，Pantheon 旁絕佳位置，經典羅馬 gelato 文化體驗
 - **constraints**: 
   - 尖峰時段排隊長
@@ -179,7 +179,7 @@
 - **type**: Gelato, creamy
 - **area**: Esquilino
 - **total score**: 39.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Come+il+Latte+Rome
+- **google maps**: https://www.google.com/maps/place/Come+il+Latte+Rome
 - **justification**: 高級奶油冰淇淋，60-70%牛奶，濃郁質地
 - **constraints**: 
   - 距飯店 12 分鐘步行 ⭐
@@ -192,7 +192,7 @@
 - **type**: Pizza al taglio, bakery
 - **area**: Centro Storico (Campo de' Fiori)
 - **total score**: 45/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome
+- **google maps**: https://www.google.com/maps/place/Antico+Forno+Roscioli+Rome
 - **justification**: 歷史麵包店，Pizza bianca 羅馬經典，每日營業 7:30-20:00，價格合理
 - **constraints**: 
   - 主要外帶，座位有限
@@ -203,7 +203,7 @@
 - **type**: Pastry, maritozzo
 - **area**: Esquilino
 - **total score**: 40.5/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Regoli+Rome
+- **google maps**: https://www.google.com/maps/place/Regoli+Rome
 - **justification**: 100年老店，羅馬最佳 maritozzo，距飯店僅 5 分鐘步行
 - **constraints**: 
   - **距 Mercure Roma Piazza Bologna 飯店 5 分鐘步行** ⭐⭐⭐
@@ -218,7 +218,7 @@
 - **type**: Brunch café, European-style breakfast
 - **area**: Centro Storico (near Piazza Navona)
 - **total score**: 35/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Coromandel+Rome+Monte+Giordano
+- **google maps**: https://www.google.com/maps/place/Coromandel+Rome+Monte+Giordano
 - **justification**: 羅馬最佳早午餐之一，煎餅、班尼迪克蛋、法式吐司品質優秀；復古巴黎風氛圍
 - **constraints**:
   - reservation: 強烈建議預訂（via WhatsApp 或電話）
@@ -229,7 +229,7 @@
 - **type**: Organic bistrot, brunch
 - **area**: Piazza Navona (Palazzo Braschi)
 - **total score**: 33/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Vivi+Bistrot+Piazza+Navona+Rome
+- **google maps**: https://www.google.com/maps/place/Vivi+Bistrot+Piazza+Navona+Rome
 - **justification**: 有機健康取向，Piazza Navona 美景，素食/純素/無麩質選項豐富
 - **constraints**:
   - reservation: 建議預訂（via TheFork 或官網）
@@ -241,7 +241,7 @@
 - **type**: Café gastropub, brunch
 - **area**: San Giovanni (Piazza Vittorio)
 - **total score**: 31/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Variabile+Drink+Food+Rome
+- **google maps**: https://www.google.com/maps/place/Variabile+Drink+Food+Rome
 - **justification**: 高評分（4.6/5），創意早午餐菜單，時尚氛圍，調酒出色
 - **constraints**:
   - **僅週一和週六營業**（very limited schedule）
@@ -256,7 +256,7 @@
 - **type**: Tiramisù specialist (dessert shop/gelateria)
 - **area**: Centro (Via della Croce 88 - Spanish Steps, plus other locations)
 - **total score**: 45/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Pompi+Tiramisu+Rome
+- **google maps**: https://www.google.com/maps/place/Pompi+Tiramisu+Rome
 - **justification**: 羅馬「提拉米蘇之王」；豐富口味（經典、開心果、草莓、香蕉巧克力）；慷慨份量；4.3-4.4/5 高評價；多據點便利
 - **constraints**:
   - €5/份
@@ -274,7 +274,7 @@
 - **type**: Tiramisù specialist (wine bar/restaurant)
 - **area**: Centro (Via dei Sediari 11/12, near Piazza Navona)
 - **total score**: 38/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Mr+100+Tiramisu+Rome
+- **google maps**: https://www.google.com/maps/place/Mr+100+Tiramisu+Rome
 - **justification**: 100種創意提拉米蘇口味；溫馨酒吧氛圍；4.6/5 Tripadvisor，9.4/10 TheFork；創意組合（Kinder Bueno、Baklava、Snickers）
 - **constraints**:
   - €30/人（完整用餐）
@@ -288,7 +288,7 @@
 - **type**: Traditional Roman trattoria
 - **area**: Trastevere
 - **total score**: 35/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Da+Enzo+al+29+Rome
+- **google maps**: https://www.google.com/maps/place/Da+Enzo+al+29+Rome
 - **justification**: 正宗羅馬風味，carbonara/cacio e pepe/artichokes 高評價，在地人與遊客皆推
 - **constraints**: 
   - reservation: none（不接受訂位）
@@ -299,7 +299,7 @@
 - **type**: Pizza al taglio
 - **area**: Trionfale (Vatican)
 - **total score**: 32/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Bonci+Pizzarium+Rome
+- **google maps**: https://www.google.com/maps/place/Bonci+Pizzarium+Rome
 - **justification**: "Pizza al taglio 之王"，有機食材與創意口味，Anthony Bourdain 推薦
 - **constraints**:
   - reservation: none
@@ -314,7 +314,7 @@
 - **type**: Fine dining, Michelin 3-star
 - **area**: Monte Mario (Rome Cavalieri Hotel)
 - **total score**: 38/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=La+Pergola+Rome+Cavalieri
+- **google maps**: https://www.google.com/maps/place/La+Pergola+Rome+Cavalieri
 - **justification**: 羅馬唯一米其林三星，Chef Heinz Beck，壯觀城市全景，傳奇葡萄酒窖
 - **constraints**: 
   - **價格極高**：Tasting menu from €250+ per person（不含酒）
