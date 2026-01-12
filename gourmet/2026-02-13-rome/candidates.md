@@ -26,6 +26,9 @@ Notes:
 | Giolitti | dessert | Pantheon area | Gelato | https://www.google.com/maps/search/?api=1&query=Giolitti+Rome | shortlisted | TripAdvisor, historic since 1900 | 1900年開業，經典羅馬 gelato 文化；12,000+ TripAdvisor 評論。 |
 | La Pergola | restaurant | Monte Mario (Rome Cavalieri) | Fine dining, Michelin 3-star | https://www.google.com/maps/search/?api=1&query=La+Pergola+Rome+Cavalieri | researching | Michelin Guide, TripAdvisor, Restaurant Guru | 羅馬唯一米其林三星，Chef Heinz Beck；預算 €250+ per person。 |
 | Ai Marmi | restaurant | Trastevere | Pizza | https://www.google.com/maps/search/?api=1&query=Ai+Marmi+Rome | rejected | TripAdvisor, Reddit, Yelp | **已排除**：帳單詐欺風險、服務差、排隊長、品質不穩。評分 19.5/50。詳見 excluded.md |
+| Coromandel | cafe | Centro Storico (Piazza Navona) | brunch | https://www.google.com/maps/search/?api=1&query=Coromandel+Rome | inbox | Google, Tripadvisor, Restaurant Guru | 熱門早午餐，煎餅、班尼迪克蛋、法式吐司；復古巴黎風，建議預訂。€10-20/人。 |
+| Vivi Bistrot | cafe | Piazza Navona / Villa Pamphili | brunch | https://www.google.com/maps/search/?api=1&query=Vivi+Bistrot+Rome | inbox | Eating Europe | 有機健康取向，炒蛋、煙燻鮭魚、鮮榨果汁；僅週末早午餐，戶外座位。 |
+| Variabile Drink & Food | cafe | San Giovanni | brunch | https://www.google.com/maps/search/?api=1&query=Variabile+Drink+Food+Rome | inbox | Travel Insighter | 時尚氛圍，鮭魚酪梨吐司、雞蛋料理、調酒；數位遊牧族與晚起者喜愛。 |
 
 ---
 

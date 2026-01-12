@@ -19,6 +19,9 @@ Notes:
 | Café Central | cafe | Innere Stadt | historic cafe, cakes | https://maps.app.goo.gl/S4y1vfWbPE4vcswb8 | shortlisted | https://cafecentral.wien/en/reservation/ ; https://cafecentral.wien/en/ | 經典咖啡館；排隊風險顯著。 |
 | Demel | dessert | Innere Stadt | pastry, cakes | https://maps.app.goo.gl/oVTuA6dMfcAKwf156 | shortlisted | https://www.demel.com/en/pages/cafe | 老牌甜點名店；不接受訂位；可能排隊。 |
 | Café Sacher Wien | cafe | Innere Stadt | Sacher-Torte | https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Sacher+Wien | rejected | https://www.sacher.com/en/restaurants/cafe-sacher-wien/ | Soft exclusion：29/50（已列入 excluded.md）。 |
+| Vollpension | cafe | Multiple locations | brunch, homemade cakes | https://www.google.com/maps/search/?api=1&query=Vollpension+Wien | inbox | Tripadvisor, Reddit | 獨特社會企業概念，退休長者製作傳統奧地利糕點；溫馨氛圍，素食/純素可選。 |
+| ULRICH | cafe | Neubau | brunch, international | https://www.google.com/maps/search/?api=1&query=ULRICH+Wien | inbox | Tripadvisor, Restaurant Guru | 現代化早午餐熱點，沙克舒卡、酪梨吐司、巴西莓碗；週末人潮建議預訂。 |
+| Meierei im Stadtpark | restaurant | Stadtpark | breakfast, cheese | https://www.google.com/maps/search/?api=1&query=Meierei+im+Stadtpark | inbox | Falstaff, Tripadvisor | Steirereck 姐妹店，創意早餐菜單，優質乳製品與起司；公園景觀，步行 5 分鐘。 |
 
 ---
 

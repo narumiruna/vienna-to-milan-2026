@@ -26,6 +26,9 @@ Notes:
 | Caffè Florian | cafe | San Marco | historic cafe | https://www.google.com/maps/search/?api=1&query=Caff%C3%A8+Florian+Venezia | inbox | unknown | 觀光價位高但地標性強；先放候選，後續再決定要不要排。 |
 | Gelateria Alaska | dessert | San Marco | gelato | https://www.google.com/maps/search/?api=1&query=Gelateria+Alaska+Venezia | inbox | unknown | 常見推薦；需補來源與風險評估。 |
 | Rosa Salva | dessert | unknown | pastry, cafe | https://www.google.com/maps/search/?api=1&query=Rosa+Salva+Venezia | inbox | - | https://rosasalva.it/en/rosa-salva-venues | 多據點；之後要挑最順路的一家。 |
+| Fluffy Brunch | cafe | San Polo (near Rialto) | brunch, Japanese-style pancakes | https://www.google.com/maps/search/?api=1&query=Fluffy+Brunch+Venice | inbox | Eating Europe, Tripadvisor 2026 | 日式鬆餅（抹茶/提拉米蘇），純素/素食可選；每日 7:30am-7pm；IG 打卡熱點。 |
+| Brunch Café | cafe | San Polo | brunch | https://www.google.com/maps/search/?api=1&query=Brunch+Caf%C3%A9+Venice | inbox | Eating Europe, Tripadvisor 2026 | 煎餅與法式吐司（莓果/培根版），國際料理；每日 7:30am-6:30pm；活潑氛圍。 |
+| Combo Venezia | cafe | Cannaregio (monastery cloister) | brunch | https://www.google.com/maps/search/?api=1&query=Combo+Venezia | inbox | Venezia Photography 2025 | 週日早午餐，修道院迴廊環境，甜鹹選項、素食可選；獨特文化氛圍。 |
 
 ---
 
