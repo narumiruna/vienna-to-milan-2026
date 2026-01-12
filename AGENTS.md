@@ -60,30 +60,25 @@ All recommendations must be:
    - ✅ "Research and score Pompi tiramisu" (specific, achievable)
    - ❌ "Research all tiramisu in Italy" (too broad, likely to stop mid-way)
 
-2. **Use explicit continuation commands**
-   - When agent stops: Simply say "繼續" or "continue"
-   - Agent will resume from where it stopped
-
-3. **Set clear completion criteria in instructions**
+2. **Set clear completion criteria in instructions**
    - Define what "done" means (e.g., "score must be in candidates.md AND notes.md")
    - Agent will work toward the defined end state
 
-4. **Use progress tracking tools**
+3. **Use progress tracking tools**
    - Agent should call `report_progress` after each meaningful unit of work
    - This creates checkpoints and shows what's left
 
-5. **Provide task checklists**
+4. **Provide task checklists**
    - Include a checklist in your request (e.g., "Research 3 restaurants: A, B, C")
    - Agent can track progress and know when complete
 
-6. **Avoid ambiguous scope**
+5. **Avoid ambiguous scope**
    - ✅ "Add top 3 tiramisu places to Rome candidates" (clear boundary)
    - ❌ "Research tiramisu" (unclear when to stop)
 
 ### When Agent Stops Unexpectedly
 
 **If agent stops mid-research**:
-- Say "繼續" to resume
 - Check the last commit to see what was completed
 - Verify files in git status to confirm progress
 
