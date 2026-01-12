@@ -1520,3 +1520,67 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk: 8/10 (low risk, proven track record)
 - **Total: 40/50**
 
+
+---
+
+## I Tre Mercanti
+
+**Official**: http://www.itremercanti.it/
+
+**Google Maps**: 4.6/5 (1,300+ reviews)
+- Calle al Ponte della Guerra 5364, Castello, 30122 Venice
+- +39 041 522 2901
+- https://goo.gl/maps/BVwJsRSv4s32
+
+**Tripadvisor**: 4.6/5 (1,300+ reviews)
+- #12 out of 110 dessert spots in Venice (2025)
+- https://www.tripadvisor.com/Restaurant_Review-g187870-d6179532-Reviews-Tiramisu_I_Tre_Mercanti-Venice_Veneto.html
+
+**TasteAtlas**: Listed as recommended authentic tiramisu restaurant
+- https://www.tasteatlas.com/itremercanti
+
+**Guide sources**:
+- Featured in multiple "best tiramisu in Venice" guides
+- Near St. Mark's Square in Castello district
+- Known for making tiramisu fresh every hour in the shop window
+- Offers 20-30 flavors: classic, pistachio, almond, lemon, mango, matcha, Aperol "Spritzamisu"
+
+**Reddit sentiment**:
+- Consistently recommended as "must-visit" for tiramisu
+- "Best tiramisu in Venice" frequently mentioned
+- Some prefer classic flavor, others love fusion options
+- Watch-the-prep experience adds to appeal
+
+**Recurring pros**:
+- Fresh tiramisu made hourly (visible prep)
+- "Impossibly light, velvety delicious" texture
+- Balanced mascarpone and ladyfingers ratio
+- Wide flavor variety (25+ options)
+- Convenient takeaway cups
+- Quick, friendly service
+- Perfect coffee/chocolate balance in classic
+- Located near major sights
+
+**Recurring cons**:
+- Some wish ladyfingers were more soaked
+- Creative flavors may not appeal to purists
+- Can be crowded (popular spot)
+- Some find it slightly expensive for portion size
+- Fusion flavors vary in quality
+
+**Practical**:
+- reservation requirement: none (gourmet shop, takeaway)
+- best visiting time: any time 11:00 AM - 6:30 PM
+- closed days: open daily including Sundays/holidays
+- queue: efficient service even when busy
+- price: €3.50-€4.50 per cup
+- accepts: credit cards (Amex, Mastercard, Visa)
+- dietary: suitable for vegetarians
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (exceptional fresh tiramisu, balanced flavors, variety)
+- Value: 8/10 (€3.50-4.50 for artisan quality is reasonable)
+- Convenience: 9/10 (central location, daily hours 11-6:30, no reservation needed)
+- Consistency: 9/10 (hourly fresh prep ensures consistency, 4.6/5 rating)
+- Risk: 9/10 (very low risk - highly rated, efficient service, reliable)
+- **Total: 44/50**

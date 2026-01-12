@@ -17,6 +17,7 @@
 4. **Fegato alla veneziana**：威尼斯式煎肝
 5. **Risotto**：威尼斯燉飯，特別是墨魚燉飯（Risotto al nero di seppia）
 6. **Spritz**：威尼斯經典開胃酒
+7. **Tiramisù**：威尼托（Veneto）是 Tiramisù 的起源地（Treviso，距威尼斯 40 分鐘），威尼斯有多家堅持傳統配方的名店
 
 ## 研究策略
 
