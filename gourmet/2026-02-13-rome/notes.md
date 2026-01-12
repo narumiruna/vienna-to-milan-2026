@@ -1155,3 +1155,127 @@ Medium priority:
 - Risk (10 = low risk): 5/10 (schedule uncertainty, less information available)
 - **Total: 31/50**
 
+
+---
+
+## Pompi
+
+**Official**: Multiple locations in Rome
+
+**Google Maps**: 4.3/5 (thousands of reviews across locations)
+- Main branch: Via della Croce 88 (near Spanish Steps)
+- Other locations: Via Albalonga 7 (San Giovanni), Piazza Re di Roma, Via di Santa Maria in Via 17
+
+**Tripadvisor**: 4.3-4.4/5 (thousands of reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d11801513-Reviews-Pompi-Rome_Lazio.html
+
+**Restaurant Guru**: 4.3/5
+- https://restaurantguru.com/Pompi-Il-Regno-del-Tiramisu-Rome
+
+**Guide sources**:
+- Consistently ranked as "best tiramisu in Rome"
+- Featured in Italy With An Italian, Rome Hacks, Eating Europe, Rome List
+- Known as "Il Regno del Tiramisù" (The Kingdom of Tiramisu)
+- Multiple branches across Rome
+
+**Reddit sentiment**:
+- "Pompi is the essential tiramisu spot" - frequently mentioned
+- Some note it's "slightly commercial" but almost all agree it's reliably delicious
+- Practical takeout containers perfect for tourists
+- Compared favorably with Two Sizes and Merisu
+
+**Recurring pros**:
+- "King of Tiramisù" reputation - Rome's most famous
+- Rich flavor, creamy texture
+- Inventive variations: pistachio, strawberry, banana chocolate, hazelnut
+- Classic tiramisu is "worth 5 euros"
+- Generous portions compared to competitors
+- Gluten-free and lactose-free options available
+- Convenient location (Spanish Steps main branch)
+- Fast, friendly, efficient service
+- Sturdy takeout containers
+- Open daily 10am-10pm (most locations)
+- Consistent quality across branches
+
+**Recurring cons**:
+- Some find it "commercial" or touristy
+- Less intimate than smaller shops
+- Prices slightly higher near Spanish Steps
+- Can be crowded during peak times
+
+**Practical**:
+- reservation requirement: none (dessert shop/gelateria)
+- best visiting time: off-peak hours to avoid crowds
+- closed days: open daily (most locations)
+- queue: fast service even with queues
+- price: €5 per tiramisu (classic)
+- takeaway: yes, sturdy containers provided
+- dietary options: gluten-free, lactose-free available
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (rich, creamy, inventive flavors, consistent quality)
+- Value: 8/10 (€5 for generous portion, quality ingredients)
+- Convenience: 10/10 (multiple locations, daily 10am-10pm, no reservation, takeaway)
+- Consistency: 9/10 (4.3-4.4/5 across thousands of reviews, multiple branches)
+- Risk: 9/10 (very low risk - proven reputation, efficient service, dietary options)
+- **Total: 45/50**
+
+---
+
+## Mr. 100 Tiramisù
+
+**Official**: Wine bar and restaurant with tiramisu specialty
+
+**Google Maps**: Location near Piazza Navona
+- Address: Via dei Sediari 11/12, 00186 Rome
+- 100 meters from Piazza Navona
+
+**Tripadvisor**: 4.6/5 (2,000+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d13223918-Reviews-Mr_100_Tiramisu-Rome_Lazio.html
+
+**TheFork**: 9.4/10
+- https://www.thefork.com/restaurant/mr-100-tiramisu-r622443
+
+**Restaurant Guru**: 4.2/5
+
+**Guide sources**:
+- Featured in Rome food guides for creative tiramisu
+- Known for unprecedented 100 flavors
+- Cozy wine bar atmosphere
+- Mediterranean cuisine also available
+
+**Recurring pros**:
+- 100 unique tiramisu flavors (unprecedented variety)
+- Creative combinations: dark chocolate & orange, dulce de leche with Brazil nuts, Snickers, Baklava, Kinder Bueno, blueberry, banana
+- Fresh, creamy, light, balanced tiramisu
+- Friendly, attentive service
+- Cozy, inviting atmosphere
+- Central location (near Piazza Navona)
+- Mediterranean menu (salumi €12, cheese boards €14, bruschetta, burrata)
+- Accommodates dietary restrictions (lactose intolerance, nut allergies)
+- Can make reservations via TheFork/Tripadvisor
+- Accepts credit cards and digital payments
+
+**Recurring cons**:
+- Challenge choosing from 100 flavors (can take 15 minutes to decide)
+- Occasional reports of bland base
+- Service can vary during busy times
+- Slightly higher prices for drinks and platters
+- Not available for dessert-only reservations (lunch/dinner reservations only)
+
+**Practical**:
+- reservation requirement: encouraged for lunch/dinner (not for dessert-only)
+- best visiting time: lunch or dinner service
+- closed days: check current hours
+- queue: possible during peak times
+- price: €30 per person for full meal (tiramisu reasonably priced individually)
+- reservations: TheFork, Tripadvisor
+- dietary: lactose-free, nut allergy accommodations
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (fresh, creative, generally well-balanced, occasional bland reports)
+- Value: 7/10 (€30/person for meal is mid-range, individual tiramisu reasonably priced)
+- Convenience: 8/10 (central location, reservations available, varied menu)
+- Consistency: 8/10 (4.6/5 Tripadvisor, 9.4/10 TheFork, mostly positive)
+- Risk: 7/10 (flavor choice complexity, occasional quality variation, service varies)
+- **Total: 38/50**

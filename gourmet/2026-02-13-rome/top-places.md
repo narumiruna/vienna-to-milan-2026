@@ -250,7 +250,39 @@
 
 ---
 
+### 新增推薦：Tiramisù 專門店
+
+#### Pompi - 45/50 ⭐
+- **type**: Tiramisù specialist (dessert shop/gelateria)
+- **area**: Centro (Via della Croce 88 - Spanish Steps, plus other locations)
+- **total score**: 45/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pompi+Tiramisu+Rome
+- **justification**: 羅馬「提拉米蘇之王」；豐富口味（經典、開心果、草莓、香蕉巧克力）；慷慨份量；4.3-4.4/5 高評價；多據點便利
+- **constraints**:
+  - €5/份
+  - 每日 10am-10pm
+  - 無需預訂
+  - 提供外帶
+  - 有無麩質/無乳糖選項
+  - 尖峰時段可能擁擠
+
+---
+
 ## Backups（備選方案）
+
+### Mr. 100 Tiramisù (38/50)
+- **type**: Tiramisù specialist (wine bar/restaurant)
+- **area**: Centro (Via dei Sediari 11/12, near Piazza Navona)
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Mr+100+Tiramisu+Rome
+- **justification**: 100種創意提拉米蘇口味；溫馨酒吧氛圍；4.6/5 Tripadvisor，9.4/10 TheFork；創意組合（Kinder Bueno、Baklava、Snickers）
+- **constraints**:
+  - €30/人（完整用餐）
+  - 建議預訂（午餐/晚餐）
+  - 純甜點不可訂位
+  - 可能需時間選擇口味
+
+---
 
 ### Da Enzo al 29 (35/50)
 - **type**: Traditional Roman trattoria
