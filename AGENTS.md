@@ -127,7 +127,7 @@ excluded.md       ← REJECTED: What was considered and why it was excluded
 #### Within-Document Disclosure
 
 **In candidates.md**:
-1. **Summary table only** (name, category, area, type, google_maps_url, status, sources, notes; optionally score) → quick scan
+1. **Summary table only** (see "Discovery — Candidate Collection" section for complete field list) → quick scan
 2. **No detailed sections** - these belong in notes.md
 3. **Brief notes column** - one-line summary per place (Traditional Chinese)
 4. **English headers required** - table column names must be in English (e.g., "name", "status", "notes") even though content is in Traditional Chinese
@@ -273,8 +273,6 @@ When starting research for a new city:
 
 **Optional fields:**
 - score (e.g., "39/50" or "TBD") - can be included for quick reference, though detailed scoring should always be in notes.md
-
-**Note**: All table headers MUST use English field names, even though notes content is in Traditional Chinese.
 
 **Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
 
