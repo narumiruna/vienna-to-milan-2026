@@ -610,8 +610,8 @@ For a new city:
 
 ### Top-places.md Strategy
 
-- **Aim for 4-6 top picks** per city (enough variety, not overwhelming)
-- **Include 2-3 backups** (alternatives if top picks unavailable)
+- **Aim for 5-10 top picks** per city (enough variety, not overwhelming)
+- **Include 3-5 backups** (alternatives if top picks unavailable)
 - **Balance categories**: At least one casual option, one special occasion, one dessert/gelato
 - **Geographic spread**: Cover different neighborhoods to match daily itinerary
 
