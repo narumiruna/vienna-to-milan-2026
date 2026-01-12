@@ -154,3 +154,52 @@
 - 特色：佛羅倫斯中央市場，多樣美食攤位
 - 注意：適合午餐輕食，體驗在地市場文化
 - 來源：一般旅遊指南
+
+## Brunch / 早午餐選項（新增）
+
+### 熱門 Brunch 餐廳
+1. **Le Vespe Cafe**
+   - 位置：Local favorite
+   - 特色：North American comfort food, vegan/vegetarian/gluten-free options, smoothies, eggs, avocado toast
+   - 注意：Often has lines; worth the wait for inventive menu
+   - 來源：多個指南推薦為 brunch 熱點
+
+2. **Melaleuca Bakery + Bistrot**
+   - 位置：市中心
+   - 特色：Australian-American brunch, cinnamon rolls, seasonal dishes, gluten-free/vegan options, great coffee
+   - 注意：Cozy, student-friendly, laid-back
+   - 來源：多個指南推薦
+
+3. **Ditta Artigianale**
+   - 位置：Multiple locations
+   - 特色：Specialty coffee, smoked salmon bagels, poached eggs, avocado toast; famous espresso, negronis, spritzes
+   - 注意：Hipster haven; accessible for groups and solo travelers
+   - 來源：Culture Trip, Wanderly
+
+4. **Floret Artisan Kitchen & Bar**
+   - 位置：Central Florence
+   - 特色：Californian-inspired healthy dishes, salads, chia bowls, cold-pressed juices, avocado breads; botanical greenhouse-style setting
+   - 注意：Above designer shop; perfect for people-watching
+   - 來源：Culture Trip, Wanderly
+
+5. **Rooster Cafe Firenze**
+   - 位置：市中心
+   - 特色：Hearty pancakes (Grandma-Style), omelets, bagels, smoothies; trendy patio
+   - 注意：Cool vibe; popular brunch spot
+   - 來源：Eating Europe
+
+### 高級 Brunch
+6. **Four Seasons Hotel Firenze – Il Palagio**
+   - 位置：Four Seasons Hotel
+   - 特色：Luxurious Sunday brunch, risotto, fresh pasta, Piedmontese boiled meat, porchetta, raw fish, desserts
+   - 注意：€135/person; elegantly decorated; live culinary stations
+   - 來源：Firenze Made in Tuscany
+
+7. **Collegio alla Querce – La Gamella**
+   - 位置：Auberge Collection
+   - 特色：Sunday brunch with fresh pasta to order, family-style mains, Tuscan wine pairings
+   - 注意：€160/person; collaboration with top winemakers
+   - 來源：Firenze Made in Tuscany
+
+## 研究優先順序更新
+- **新增 - Brunch 優先**：Le Vespe Cafe, Melaleuca Bakery, Ditta Artigianale, Floret Artisan Kitchen
