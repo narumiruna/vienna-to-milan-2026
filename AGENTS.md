@@ -523,7 +523,7 @@ For a new city:
 
 ## Documentation & Naming Rules
 
-- `AGENTS.md` is written in English.
+- `AGENTS.md` and `PROGRESS.md` MUST be written in English.
 - Other documents in this repo MUST be primarily in Traditional Chinese (Taiwan).
 - Use English for structured fields and keys
 - Dates must follow ISO format (YYYY-MM-DD)
