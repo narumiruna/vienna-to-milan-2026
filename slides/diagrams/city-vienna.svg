@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Vienna city card">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #16324f; stroke-width: 3; }
+      .title { font: 800 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .meta { font: 600 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .chip { fill: #16324f; opacity: 0.08; }
+      .chipText { font: 700 16px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .ring { fill: #fbf7ef; stroke: #c49a3a; stroke-width: 4; }
+      .ico { fill: none; stroke: #1b2430; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .label { font: 700 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+    </style>
+  </defs>
+
+  <rect x="40" y="40" width="820" height="520" rx="28" class="bg"/>
+
+  <text x="90" y="120" class="title">Vienna</text>
+  <text x="90" y="155" class="meta">2026-02-11 → 2026-02-13 · Coffeehouse culture + Austrian classics</text>
+
+  <rect x="90" y="190" width="720" height="44" rx="22" class="chip"/>
+  <text x="110" y="219" class="chipText">關鍵字：Schnitzel · Tafelspitz · Strudel · Kaffeehaus</text>
+
+  <!-- Icon circles -->
+  <g transform="translate(120, 300)">
+    <!-- Schnitzel plate -->
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-34 10 C-10 34, 10 34, 34 10" class="ico"/>
+    <path d="M-40 -8 C-18 -28, 18 -28, 40 -8" class="ico"/>
+    <circle cx="-18" cy="2" r="6" fill="#c49a3a"/>
+    <circle cx="0" cy="10" r="6" fill="#c49a3a"/>
+    <circle cx="18" cy="2" r="6" fill="#c49a3a"/>
+    <text x="-44" y="110" class="label">Schnitzel</text>
+  </g>
+
+  <g transform="translate(450, 300)">
+    <!-- Coffee cup -->
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-26 -8 h44 v36 a16 16 0 0 1 -16 16 h-12 a16 16 0 0 1 -16 -16z" class="ico"/>
+    <path d="M18 -2 h10 a12 12 0 0 1 0 24 h-10" class="ico"/>
+    <path d="M-10 -32 c-10 -14 10 -14 0 -28" class="ico"/>
+    <path d="M10 -32 c-10 -14 10 -14 0 -28" class="ico"/>
+    <text x="-36" y="110" class="label">Kaffee</text>
+  </g>
+
+  <g transform="translate(780, 300)">
+    <!-- Strudel slice -->
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-34 36 L34 36 L18 -30 L-18 -30 Z" class="ico"/>
+    <path d="M-18 -12 C-6 -20, 6 -20, 18 -12" class="ico"/>
+    <path d="M-20 6 C-6 -4, 6 -4, 20 6" class="ico"/>
+    <text x="-34" y="110" class="label">Strudel</text>
+  </g>
+</svg>
+

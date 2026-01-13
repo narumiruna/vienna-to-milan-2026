@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Repository structure per city">
+  <defs>
+    <style>
+      .title { font: 700 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .sub { font: 500 22px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .label { font: 700 22px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .desc { font: 500 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .box { fill: #ffffff; stroke: #16324f; stroke-width: 3; }
+      .accent { fill: #c49a3a; }
+      .arrow { stroke: #c49a3a; stroke-width: 6; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <text x="80" y="110" class="title">每個城市的 6 檔案（漸進式揭露）</text>
+  <text x="80" y="150" class="sub">從「快速決策」到「可審計證據」：越往下越詳細</text>
+
+  <!-- Stack -->
+  <g transform="translate(120, 200)">
+    <!-- box geometry -->
+    <g>
+      <rect x="0" y="0" width="1040" height="64" rx="16" class="box"/>
+      <rect x="0" y="84" width="1040" height="64" rx="16" class="box"/>
+      <rect x="0" y="168" width="1040" height="64" rx="16" class="box"/>
+      <rect x="0" y="252" width="1040" height="64" rx="16" class="box"/>
+      <rect x="0" y="336" width="1040" height="64" rx="16" class="box"/>
+      <rect x="0" y="420" width="1040" height="64" rx="16" class="box"/>
+    </g>
+
+    <!-- left accent ticks -->
+    <g class="accent">
+      <rect x="0" y="0" width="16" height="64" rx="16"/>
+      <rect x="0" y="84" width="16" height="64" rx="16"/>
+      <rect x="0" y="168" width="16" height="64" rx="16"/>
+      <rect x="0" y="252" width="16" height="64" rx="16"/>
+      <rect x="0" y="336" width="16" height="64" rx="16"/>
+      <rect x="0" y="420" width="16" height="64" rx="16"/>
+    </g>
+
+    <!-- text -->
+    <g>
+      <text x="36" y="40" class="label">overview.md</text>
+      <text x="210" y="40" class="desc">（5min）城市脈絡／策略／提醒</text>
+
+      <text x="36" y="124" class="label">top-places.md</text>
+      <text x="230" y="124" class="desc">（10min）最終推薦：Top Picks + Backups + Strategy</text>
+
+      <text x="36" y="208" class="label">candidates.md</text>
+      <text x="250" y="208" class="desc">（5min）所有候選一覽（可掃描比較）</text>
+
+      <text x="36" y="292" class="label">notes.md</text>
+      <text x="190" y="292" class="desc">（30min）證據：來源連結／優缺點／實用資訊／評分理由</text>
+
+      <text x="36" y="376" class="label">excluded.md</text>
+      <text x="220" y="376" class="desc">（5min）排除清單與原因（保留審計軌跡）</text>
+
+      <text x="36" y="460" class="label">inbox.md</text>
+      <text x="200" y="460" class="desc">（work）探索中的原始筆記（可清理）</text>
+    </g>
+
+    <!-- arrows (flow) -->
+    <g transform="translate(1000, 12)">
+      <path d="M0 52 L0 74" class="arrow"/>
+      <path d="M0 136 L0 158" class="arrow"/>
+      <path d="M0 220 L0 242" class="arrow"/>
+      <path d="M0 304 L0 326" class="arrow"/>
+      <path d="M0 388 L0 410" class="arrow"/>
+      <path d="M-10 74 L0 84 L10 74" fill="none" stroke="#c49a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-10 158 L0 168 L10 158" fill="none" stroke="#c49a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-10 242 L0 252 L10 242" fill="none" stroke="#c49a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-10 326 L0 336 L10 326" fill="none" stroke="#c49a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-10 410 L0 420 L10 410" fill="none" stroke="#c49a3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
+

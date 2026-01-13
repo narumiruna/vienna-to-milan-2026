@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Venice city card">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #16324f; stroke-width: 3; }
+      .title { font: 800 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .meta { font: 600 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .chip { fill: #16324f; opacity: 0.08; }
+      .chipText { font: 700 16px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .ring { fill: #fbf7ef; stroke: #c49a3a; stroke-width: 4; }
+      .ico { fill: none; stroke: #1b2430; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .label { font: 700 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+    </style>
+  </defs>
+
+  <rect x="40" y="40" width="820" height="520" rx="28" class="bg"/>
+
+  <text x="90" y="120" class="title">Venice</text>
+  <text x="90" y="155" class="meta">2026-02-22 → 2026-02-25 · Bacaro hopping + seafood + tiramisù</text>
+
+  <rect x="90" y="190" width="720" height="44" rx="22" class="chip"/>
+  <text x="110" y="219" class="chipText">關鍵字：Cicchetti · Spritz · Seafood · Tiramisù</text>
+
+  <!-- Cicchetti (small bites) -->
+  <g transform="translate(120, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-34 10 C-10 34, 10 34, 34 10" class="ico"/>
+    <path d="M-30 -6 C-10 -24, 10 -24, 30 -6" class="ico"/>
+    <circle cx="-12" cy="6" r="6" fill="#c49a3a"/>
+    <circle cx="12" cy="6" r="6" fill="#c49a3a"/>
+    <text x="-40" y="110" class="label">Cicchetti</text>
+  </g>
+
+  <!-- Spritz -->
+  <g transform="translate(450, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-20 -30 H20" class="ico"/>
+    <path d="M-14 -30 L-6 40 H6 L14 -30" class="ico"/>
+    <path d="M-12 6 H12" class="ico"/>
+    <path d="M-8 24 H8" class="ico"/>
+    <path d="M24 -18 L40 -34" class="ico"/>
+    <path d="M24 0 L44 -6" class="ico"/>
+    <text x="-26" y="110" class="label">Spritz</text>
+  </g>
+
+  <!-- Tiramisù -->
+  <g transform="translate(780, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <rect x="-26" y="-8" width="52" height="40" rx="10" class="ico"/>
+    <path d="M-20 -10 H20" class="ico"/>
+    <path d="M-16 -22 H16" class="ico"/>
+    <circle cx="0" cy="-22" r="6" fill="#c49a3a"/>
+    <text x="-34" y="110" class="label">Tiramisù</text>
+  </g>
+</svg>
+

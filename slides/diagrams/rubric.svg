@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="50-point scoring rubric">
+  <defs>
+    <style>
+      .title { font: 700 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .sub { font: 500 20px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .label { font: 700 22px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .hint { font: 500 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .seg { fill: #ffffff; stroke: #cbd5e1; stroke-width: 2; }
+      .fill { fill: #c49a3a; }
+      .rule { fill: #16324f; opacity: 0.08; }
+      .k { font: 700 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+    </style>
+  </defs>
+
+  <text x="80" y="110" class="title">50 分評分（每項 0–10）</text>
+  <text x="80" y="150" class="sub">Taste / Value / Convenience / Consistency / Risk（Risk: 10 = 低風險）</text>
+
+  <rect x="80" y="182" width="1120" height="460" rx="28" class="rule"/>
+
+  <!-- rows -->
+  <g transform="translate(120, 230)">
+    <!-- helper for segments: 10 × 56px + 9 × 10px = 650 -->
+    <!-- Taste -->
+    <text x="0" y="32" class="label">Taste / Quality</text>
+    <text x="220" y="32" class="hint">食物品質、執行力、口味一致性</text>
+    <g transform="translate(0, 50)">
+      <rect x="0" y="0" width="650" height="22" rx="11" fill="#ffffff" opacity="0.55"/>
+      <!-- segments -->
+      <g transform="translate(460, -32)"><text class="k">10</text></g>
+      <g>
+        <rect class="seg" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="264" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="330" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="396" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="462" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="528" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="594" y="0" width="56" height="22" rx="10"/>
+      </g>
+      <g>
+        <rect class="fill" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="264" y="0" width="56" height="22" rx="10"/>
+      </g>
+    </g>
+
+    <!-- Value -->
+    <text x="0" y="122" class="label">Value</text>
+    <text x="220" y="122" class="hint">價格 vs 品質、份量、性價比</text>
+    <g transform="translate(0, 140)">
+      <g>
+        <rect class="seg" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="264" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="330" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="396" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="462" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="528" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="594" y="0" width="56" height="22" rx="10"/>
+      </g>
+      <g>
+        <rect class="fill" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="198" y="0" width="56" height="22" rx="10"/>
+      </g>
+    </g>
+
+    <!-- Convenience -->
+    <text x="0" y="212" class="label">Convenience</text>
+    <text x="220" y="212" class="hint">動線、訂位難度、營業時間、可達性</text>
+    <g transform="translate(0, 230)">
+      <g>
+        <rect class="seg" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="264" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="330" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="396" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="462" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="528" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="594" y="0" width="56" height="22" rx="10"/>
+      </g>
+      <g>
+        <rect class="fill" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="264" y="0" width="56" height="22" rx="10"/>
+      </g>
+    </g>
+
+    <!-- Consistency -->
+    <text x="0" y="302" class="label">Consistency</text>
+    <text x="220" y="302" class="hint">評論一致性、品質波動、服務穩定度</text>
+    <g transform="translate(0, 320)">
+      <g>
+        <rect class="seg" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="264" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="330" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="396" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="462" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="528" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="594" y="0" width="56" height="22" rx="10"/>
+      </g>
+      <g>
+        <rect class="fill" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="198" y="0" width="56" height="22" rx="10"/>
+      </g>
+    </g>
+
+    <!-- Risk -->
+    <text x="0" y="392" class="label">Risk</text>
+    <text x="220" y="392" class="hint">10 = 低風險（排隊/踩雷/休店/觀光陷阱）</text>
+    <g transform="translate(0, 410)">
+      <g>
+        <rect class="seg" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="264" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="330" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="396" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="462" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="528" y="0" width="56" height="22" rx="10"/>
+        <rect class="seg" x="594" y="0" width="56" height="22" rx="10"/>
+      </g>
+      <g>
+        <rect class="fill" x="0" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="66" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="132" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="198" y="0" width="56" height="22" rx="10"/>
+        <rect class="fill" x="264" y="0" width="56" height="22" rx="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
+
