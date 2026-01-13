@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Vienna to Milan itinerary route">
+  <defs>
+    <style>
+      .title { font: 700 52px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .sub { font: 500 22px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .city { font: 700 26px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .date { font: 500 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .line { stroke: #16324f; stroke-width: 6; stroke-linecap: round; opacity: 0.35; }
+      .node { fill: #fbf7ef; stroke: #c49a3a; stroke-width: 6; }
+      .dot { fill: #c49a3a; }
+      .pill { fill: #16324f; opacity: 0.08; }
+      .note { font: 500 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #334155; }
+    </style>
+  </defs>
+
+  <text x="80" y="110" class="title">行程路線（固定）</text>
+  <text x="80" y="150" class="sub">TPE → Vienna → Rome → Florence → Venice → Milan → TPE（航班/火車/住宿已訂）</text>
+
+  <rect x="80" y="190" width="1120" height="380" rx="28" class="pill"/>
+
+  <path d="M160 380 L1120 380" class="line"/>
+
+  <!-- Vienna -->
+  <circle cx="160" cy="380" r="34" class="node"/>
+  <circle cx="160" cy="380" r="10" class="dot"/>
+  <text x="120" y="450" class="city">Vienna</text>
+  <text x="85" y="478" class="date">02/11 → 02/13</text>
+
+  <!-- Rome -->
+  <circle cx="400" cy="380" r="34" class="node"/>
+  <circle cx="400" cy="380" r="10" class="dot"/>
+  <text x="370" y="450" class="city">Rome</text>
+  <text x="330" y="478" class="date">02/13 → 02/19</text>
+
+  <!-- Florence -->
+  <circle cx="640" cy="380" r="34" class="node"/>
+  <circle cx="640" cy="380" r="10" class="dot"/>
+  <text x="590" y="450" class="city">Florence</text>
+  <text x="560" y="478" class="date">02/19 → 02/22</text>
+
+  <!-- Venice -->
+  <circle cx="880" cy="380" r="34" class="node"/>
+  <circle cx="880" cy="380" r="10" class="dot"/>
+  <text x="840" y="450" class="city">Venice</text>
+  <text x="805" y="478" class="date">02/22 → 02/25</text>
+
+  <!-- Milan -->
+  <circle cx="1120" cy="380" r="34" class="node"/>
+  <circle cx="1120" cy="380" r="10" class="dot"/>
+  <text x="1085" y="450" class="city">Milan</text>
+  <text x="1045" y="478" class="date">02/25 → 02/27</text>
+
+  <text x="80" y="630" class="note">每城核心輸出：Top Picks（35+）與 Backups（30–34），並附上來源連結與風險提醒。</text>
+</svg>
+

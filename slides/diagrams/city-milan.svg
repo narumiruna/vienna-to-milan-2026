@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Milan city card">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; stroke: #16324f; stroke-width: 3; }
+      .title { font: 800 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .meta { font: 600 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .chip { fill: #16324f; opacity: 0.08; }
+      .chipText { font: 700 16px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .ring { fill: #fbf7ef; stroke: #c49a3a; stroke-width: 4; }
+      .ico { fill: none; stroke: #1b2430; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .label { font: 700 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+    </style>
+  </defs>
+
+  <rect x="40" y="40" width="820" height="520" rx="28" class="bg"/>
+
+  <text x="90" y="120" class="title">Milan</text>
+  <text x="90" y="155" class="meta">2026-02-25 → 2026-02-27 · Risotto/Cotoletta + aperitivo + pastry</text>
+
+  <rect x="90" y="190" width="720" height="44" rx="22" class="chip"/>
+  <text x="110" y="219" class="chipText">關鍵字：Risotto · Cotoletta · Aperitivo · Pasticceria</text>
+
+  <!-- Risotto bowl -->
+  <g transform="translate(120, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-34 14 C-18 38, 18 38, 34 14" class="ico"/>
+    <path d="M-38 6 C-18 -14, 18 -14, 38 6" class="ico"/>
+    <circle cx="-10" cy="10" r="6" fill="#c49a3a"/>
+    <circle cx="10" cy="10" r="6" fill="#c49a3a"/>
+    <text x="-32" y="110" class="label">Risotto</text>
+  </g>
+
+  <!-- Cotoletta -->
+  <g transform="translate(450, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-10 -28 C-34 -22, -34 10, -10 16 C14 22, 34 2, 26 -18 C20 -32, 6 -34, -10 -28 Z" class="ico"/>
+    <path d="M18 -22 L36 -40" class="ico"/>
+    <text x="-44" y="110" class="label">Cotoletta</text>
+  </g>
+
+  <!-- Aperitivo glass -->
+  <g transform="translate(780, 300)">
+    <circle cx="0" cy="0" r="64" class="ring"/>
+    <path d="M-24 -26 H24" class="ico"/>
+    <path d="M-18 -26 L-6 18 H6 L18 -26" class="ico"/>
+    <path d="M0 18 V40" class="ico"/>
+    <path d="M-16 40 H16" class="ico"/>
+    <text x="-42" y="110" class="label">Aperitivo</text>
+  </g>
+</svg>
+

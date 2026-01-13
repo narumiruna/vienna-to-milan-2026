@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Pre-trip checklist">
+  <defs>
+    <style>
+      .title { font: 800 44px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #16324f; }
+      .sub { font: 500 20px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .box { fill: #ffffff; stroke: #16324f; stroke-width: 3; }
+      .row { fill: #fbf7ef; stroke: #cbd5e1; stroke-width: 2; }
+      .n { fill: #c49a3a; }
+      .nText { font: 800 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .t { font: 700 22px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #1b2430; }
+      .d { font: 500 18px system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans"; fill: #475569; }
+      .check { fill: none; stroke: #2f855a; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <text x="80" y="110" class="title">出發前待辦（建議照順序）</text>
+  <text x="80" y="150" class="sub">把「高價值、不可臨時補救」的風險先處理掉</text>
+
+  <rect x="80" y="190" width="1120" height="460" rx="28" class="box"/>
+
+  <g transform="translate(120, 230)">
+    <!-- Row 1 -->
+    <rect x="0" y="0" width="1040" height="72" rx="18" class="row"/>
+    <circle cx="36" cy="36" r="18" class="n"/>
+    <text x="30" y="42" class="nText">1</text>
+    <text x="80" y="40" class="t">先訂位：米其林 / 熱門小店（訂位＝成敗關鍵）</text>
+    <text x="80" y="62" class="d">把需要提前 1–4 週的店先鎖定；其餘再排</text>
+    <path d="M980 34 L994 48 L1020 20" class="check"/>
+
+    <!-- Row 2 -->
+    <rect x="0" y="92" width="1040" height="72" rx="18" class="row"/>
+    <circle cx="36" cy="128" r="18" class="n"/>
+    <text x="30" y="134" class="nText">2</text>
+    <text x="80" y="132" class="t">出發前 7 天確認營業日/休假（2 月淡季變動風險）</text>
+    <text x="80" y="154" class="d">Google Maps + 官網再次核對（必要時電話/IG）</text>
+    <path d="M980 126 L994 140 L1020 112" class="check"/>
+
+    <!-- Row 3 -->
+    <rect x="0" y="184" width="1040" height="72" rx="18" class="row"/>
+    <circle cx="36" cy="220" r="18" class="n"/>
+    <text x="30" y="226" class="nText">3</text>
+    <text x="80" y="224" class="t">每城準備 1–2 個備案（Backup 30–34 分）</text>
+    <text x="80" y="246" class="d">用「同區域/同餐別」做替補：午餐 / 下午茶 / 宵夜</text>
+    <path d="M980 218 L994 232 L1020 204" class="check"/>
+
+    <!-- Row 4 -->
+    <rect x="0" y="276" width="1040" height="72" rx="18" class="row"/>
+    <circle cx="36" cy="312" r="18" class="n"/>
+    <text x="30" y="318" class="nText">4</text>
+    <text x="80" y="316" class="t">建立 Google Maps 清單 + 下載離線地圖</text>
+    <text x="80" y="338" class="d">把 Top Picks/Backups 存起來，現場決策更快</text>
+    <path d="M980 310 L994 324 L1020 296" class="check"/>
+
+    <!-- Row 5 -->
+    <rect x="0" y="368" width="1040" height="72" rx="18" class="row"/>
+    <circle cx="36" cy="404" r="18" class="n"/>
+    <text x="30" y="410" class="nText">5</text>
+    <text x="80" y="408" class="t">準備現金（特別是 Venice）＋確認刷卡政策</text>
+    <text x="80" y="430" class="d">小店/酒吧可能只收現金或最低刷卡額度</text>
+    <path d="M980 402 L994 416 L1020 388" class="check"/>
+  </g>
+</svg>
+
