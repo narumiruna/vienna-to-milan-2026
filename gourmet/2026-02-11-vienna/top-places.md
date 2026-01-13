@@ -100,11 +100,19 @@
 
 ---
 
-## Backups（優質備選，按分數排序）
+### 咖啡館 & 甜點 Top Picks
 
-### 咖啡館 & 甜點 Backups
+#### 1. Jonas Reindl Coffee Roasters (Landstraße) (37/50)
+- **type**: Specialty coffee, pastries
+- **area**: Landstraße
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/place/Jonas+Reindl+Coffee+Roasters/@48.2045929,16.3884676,17z/data=!4m6!3m5!1s0x476d070012bd56c1:0x2d785aa960486fbd!8m2!3d48.2045929!4d16.3884676!16s%2Fg%2F11yr_2pjlr?entry=ttu
+- **justification**: 第三波咖啡優先選；好喝、外帶友善，行程縫隙也能塞得進去
+- **constraints**:
+  - reservation: none
+  - seating: `unknown`（尖峰可能需要等）
 
-#### 1. Café Landtmann (36/50)
+#### 2. Café Landtmann (36/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 36/50
@@ -115,7 +123,7 @@
   - price: higher prices
   - busy at peak times
 
-#### 2. Café Prückel (35/50)
+#### 3. Café Prückel (35/50)
 - **type**: Classic café
 - **area**: Innere Stadt
 - **total score**: 35/50
@@ -125,7 +133,13 @@
   - reservation: recommended at peak
   - service: inconsistent
 
-#### 3. Zum Schwarzen Kameel (35/50)
+---
+
+## Backups（優質備選，按分數排序）
+
+### 咖啡館 & 甜點 Backups
+
+#### 1. Zum Schwarzen Kameel (35/50)
 - **type**: Open-faced sandwiches
 - **area**: Innere Stadt
 - **total score**: 35/50
@@ -135,6 +149,25 @@
   - reservation: recommended
   - price: higher prices
   - queue: at lunch/weekend
+
+#### 2. Kaffee Alt Wien (34/50)
+- **type**: Classic café (late hours)
+- **area**: Innere Stadt
+- **total score**: 34/50
+- **google maps**: https://www.google.com/maps/place/Kaffee+Alt+Wien/@48.2091907,16.376213,17z/data=!4m6!3m5!1s0x476d079f85107135:0x5d61ea5f6b50d518!8m2!3d48.2091907!4d16.376213!16zL20vMGJ5aGQz?entry=ttu
+- **justification**: 相對在地、氛圍更隨性；適合坐下來喝咖啡配甜點
+- **constraints**:
+  - reservation: unknown (likely walk-in)
+  - payment: `unknown`（部分評論摘要提到只收現金，需現場確認）
+
+#### 3. Gerstner K. u. K. Hofzuckerbäcker (34/50)
+- **type**: Pastry shop & café
+- **area**: Innere Stadt
+- **total score**: 34/50
+- **google maps**: https://www.google.com/maps/place/Gerstner+K.+u.+K.+Hofzuckerb%C3%A4cker/@48.203383,16.3704336,17z/data=!4m6!3m5!1s0x476d079c5c4ce2eb:0x42c2403faf2a656e!8m2!3d48.203383!4d16.3704336!16s%2Fg%2F11b77cnsbs?entry=ttu
+- **justification**: 皇室感甜點體驗值高、地點好（歌劇院附近）；但價位偏高
+- **constraints**:
+  - queue: `unknown`（尖峰可能需要等）
 
 #### 4. Café Sperl (33/50)
 - **type**: Classic café
@@ -175,6 +208,16 @@
 - **constraints**: 
   - reservation: none (official policy)
   - queue: possible
+
+#### 8. Café Hawelka (32/50)
+- **type**: Historic café
+- **area**: Innere Stadt
+- **total score**: 32/50
+- **google maps**: https://www.google.com/maps/place/%E5%93%88%E7%B6%AD%E5%8D%A1%E5%92%96%E5%95%A1%E9%A4%A8/@48.2079316,16.3697835,17z/data=!4m6!3m5!1s0x476d07992145fee5:0xf04c05a748ab1574!8m2!3d48.2079316!4d16.3697835!16zL20vMDh4XzRi?entry=ttu
+- **justification**: 經典老咖啡館氛圍；但觀光化與排隊/性價比風險較高
+- **constraints**:
+  - queue: possible
+  - payment: `unknown`（部分評論摘要提到只收現金，需現場確認）
 
 ---
 
@@ -316,9 +359,10 @@
 
 ## 總結
 
-**維也納美食研究已完成**，共 13 個推薦地點：
+**維也納美食研究已完成**，共 19 個推薦地點：
 - **餐廳 Top Picks**: 5 間（包含 2 間米其林、傳統小酒館、Tafelspitz、香腸攤）
 - **早午餐 Top Picks**: 3 間（現代早午餐、創意早餐、社會企業咖啡館）
-- **備選方案**: 7 間（咖啡館與甜點店）
+- **咖啡館 & 甜點 Top Picks**: 3 間（第三波咖啡 + 經典咖啡館）
+- **Backups**: 8 間（以咖啡館/甜點為主，含少量餐廳備選）
 
 所有地點已完成詳細研究、評分與來源驗證，重點推薦 Steirereck im Stadtpark（米其林三星）作為特色餐，飯店位置優越，步行即達多數景點與餐廳。

@@ -588,3 +588,128 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk (10 = low risk): 7/10 (some service inconsistency, high price risk if expectations not met)
 - **Total: 39/50**
 
+---
+
+## Café Hawelka
+
+**Official**: https://hawelka.at/
+
+**Vienna guide (wien.info)**: https://www.wien.info/en/caf%C3%A9-hawelka-131894
+
+**Google Maps** (captured via Playwright; review count `unknown` due to limited view): 4.0 — https://www.google.com/maps/place/%E5%93%88%E7%B6%AD%E5%8D%A1%E5%92%96%E5%95%A1%E9%A4%A8/@48.2079316,16.3697835,17z/data=!4m6!3m5!1s0x476d07992145fee5:0xf04c05a748ab1574!8m2!3d48.2079316!4d16.3697835!16zL20vMDh4XzRi?entry=ttu
+
+**Aggregator (Restaurant Guru)**: 3.9/5 (12,096 reviews) — https://restaurantguru.com/Cafe-Hawelka-Vienna
+
+**Local sentiment note**: 本環境對 Reddit/Tripadvisor 等站點容易觸發驗證碼，因此本次先用 wien.info + Restaurant Guru 的高樣本數評論摘要做替代；仍建議出發前再補一個社群來源做交叉驗證。
+
+**Recurring pros** (from wien.info + Restaurant Guru summary): 維也納「傳統咖啡館文化」代表之一；以經典甜點（如 Buchteln/Strudel 類）與老派氛圍著名
+
+**Recurring cons**: 觀光化、尖峰排隊與體驗不確定性；性價比爭議（同價位可能有更穩的咖啡/甜點）
+
+**Practical**:
+- reservation: unknown（建議離峰直接去）
+- queue: possible
+- cash only: Restaurant Guru 描述提到只收現金（到現場再確認）
+- best time: 平日開門後或下午離峰
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10
+- Value: 5/10
+- Convenience: 8/10 (市中心、動線容易)
+- Consistency: 6/10
+- Risk (10 = low risk): 6/10
+- **Total: 32/50**
+
+---
+
+## Kaffee Alt Wien
+
+**Official**: https://kaffeealtwien.com/
+
+**Vienna guide (context)**: https://www.wien.info/en/dine-drink/coffeehouses/in-the-old-city-348958
+
+**Google Maps** (captured via Playwright; review count `unknown` due to limited view): 4.3 — https://www.google.com/maps/place/Kaffee+Alt+Wien/@48.2091907,16.376213,17z/data=!4m6!3m5!1s0x476d079f85107135:0x5d61ea5f6b50d518!8m2!3d48.2091907!4d16.376213!16zL20vMGJ5aGQz?entry=ttu
+
+**Aggregator (Restaurant Guru)**: 4.2/5 (6,593 reviews) — https://restaurantguru.com/Kaffee-Alt-Wien-Vienna
+
+**Local sentiment note**: 同上（Reddit/Tripadvisor 在此環境容易被擋），先以 Restaurant Guru 的高樣本摘要替代。
+
+**Recurring pros** (from Restaurant Guru summary): 氛圍較「隨性在地」、可坐比較久；常被提到經典奧地利家常菜與甜點（如 Apple Strudel、Kaiserschmarrn 等）
+
+**Recurring cons**: 尖峰可能吵/擁擠；（Restaurant Guru 摘要提到）可能只收現金 → 需現場再確認
+
+**Practical**:
+- reservation: unknown（偏 walk-in）
+- opening: Google Maps 顯示營業到深夜（以出發前再確認為準）
+- cash only: Restaurant Guru 摘要提到只收現金（到現場再確認）
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10
+- Value: 7/10
+- Convenience: 8/10
+- Consistency: 6/10
+- Risk (10 = low risk): 6/10
+- **Total: 34/50**
+
+---
+
+## Jonas Reindl Coffee Roasters
+
+**Official**: http://jonasreindl.at/
+
+**Vienna guide**:
+- https://www.wien.info/en/jonas-reindl-coffee-roasters-129102 (Westbahnstraße)
+- https://www.wien.info/en/jonas-reindl-coffee-roasters-446364 (Währingerstraße)
+
+**Google Maps** (captured via Playwright; review count `unknown` due to limited view): 4.7 — https://www.google.com/maps/place/Jonas+Reindl+Coffee+Roasters/@48.2045929,16.3884676,17z/data=!4m6!3m5!1s0x476d070012bd56c1:0x2d785aa960486fbd!8m2!3d48.2045929!4d16.3884676!16s%2Fg%2F11yr_2pjlr?entry=ttu
+
+**Aggregator (Restaurant Guru)**: 4.6/5 (700 reviews) — https://restaurantguru.com/Jonas-Reindl-Coffee-Roasters-Vienna
+
+**Local sentiment note**: 同上（Reddit/Tripadvisor 在此環境容易被擋）；若要補社群口碑，建議出發前用 Reddit/在地論壇再驗證一次。
+
+**Recurring pros** (from wien.info context + Restaurant Guru summary): 偏第三波咖啡（更重視萃取與豆子風味）；外帶/短停友善，適合把「喝好咖啡」塞進行程縫隙
+
+**Recurring cons**: 座位與尖峰狀況 `unknown`（需現場觀察）；分店多，體驗可能略有差異
+
+**Practical**:
+- reservation: none
+- best time: 早上開門後或下午離峰
+- strategy: 若住 Stadtpark 一帶，可優先選 Landstraße/內城動線順路的分店
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10
+- Value: 7/10
+- Convenience: 9/10 (分店多、彈性高)
+- Consistency: 7/10
+- Risk (10 = low risk): 5/10 (分店差異/尖峰座位不確定)
+- **Total: 37/50**
+
+---
+
+## Gerstner K. u. K. Hofzuckerbäcker
+
+**Official**: https://www.gerstner.at/palaistodesco/
+
+**Vienna guide (wien.info)**: https://www.wien.info/en/see-do/shopping/old-city/gerstner-hofzuckerbaecker-346884
+
+**Google Maps** (captured via Playwright; review count `unknown` due to limited view): 4.3 — https://www.google.com/maps/place/Gerstner+K.+u.+K.+Hofzuckerb%C3%A4cker/@48.203383,16.3704336,17z/data=!4m6!3m5!1s0x476d079c5c4ce2eb:0x42c2403faf2a656e!8m2!3d48.203383!4d16.3704336!16s%2Fg%2F11b77cnsbs?entry=ttu
+
+**Aggregator (Restaurant Guru)**: 4.3/5 (5,944 reviews) — https://restaurantguru.com/Gerstner-KandK-Hofzuckerbackerei-Vienna
+
+**Local sentiment note**: 同上（Reddit/Tripadvisor 在此環境容易被擋）。
+
+**Recurring pros** (from wien.info + Restaurant Guru summary): 地點極佳（歌劇院附近）；甜點與空間的「皇室/宮廷感」體驗值高，適合當作下午茶行程的「儀式感一站」
+
+**Recurring cons**: 價位偏高（value 風險）；尖峰人潮 `unknown`
+
+**Practical**:
+- reservation: unknown（可先以外帶/快閃方式降低排隊風險）
+- best time: 平日離峰
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10
+- Value: 5/10
+- Convenience: 9/10
+- Consistency: 6/10
+- Risk (10 = low risk): 6/10
+- **Total: 34/50**
