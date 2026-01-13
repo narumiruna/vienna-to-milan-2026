@@ -41,6 +41,7 @@ Build **evidence-based food recommendations** (restaurants, cafes, desserts) for
 - ✈️ Flights, trains, and hotels are **already booked** - do NOT suggest changes
 - 🗓️ Cities and dates are **fixed** - see [Main Purpose](#main-purpose-immutable) for full itinerary
 - 🍽️ Focus **only on food** - not accommodations, transport, or attractions
+- 🚫 **No alcoholic beverages** - exclude wine bars, cocktail bars, and alcohol-focused venues
 
 ### File Structure (Per City)
 ```
@@ -131,6 +132,7 @@ Agents MUST NOT:
 - Suggest changing flights, trains, accommodations, or travel dates
 - Suggest alternative hotels or rebooking transport
 - Reorder cities or modify the travel route
+- Recommend alcoholic beverages or alcohol-focused venues (wine bars, cocktail bars, etc.)
 
 ### Flight Itinerary (Immutable)
 - TPE→VIE BR61
@@ -163,6 +165,10 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - 🍽️ Restaurants
 - ☕ Cafes
 - 🍰 Dessert shops
+
+**Exclusions:**
+- 🚫 No alcoholic beverages (wine, beer, cocktails)
+- 🚫 No alcohol-focused venues (wine bars, cocktail bars, breweries)
 
 **Quality Standards - All recommendations must be:**
 - ✅ **Traceable**: Sources linked with URLs
@@ -205,6 +211,7 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - Non-food activities or tourist attractions
 - Shopping (unless food-related like markets)
 - Nightlife (bars, clubs) unless food-focused
+- **Alcoholic beverages and alcohol-focused venues** (wine bars, cocktail bars, breweries, wine tastings)
 - Cities outside the five target cities
 
 **Fixed Constraints** (not modifiable by research):
@@ -212,6 +219,7 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - Flight itinerary (TPE→VIE, VIE→FCO, MXP→TPE)
 - Train itinerary (Roma→Firenze, Firenze→Venezia, Venezia→Milano)
 - Hotel locations (see Main Purpose for details)
+- No alcoholic beverages preference
 
 **Scope Management**:
 - Research must stay focused on food recommendations
