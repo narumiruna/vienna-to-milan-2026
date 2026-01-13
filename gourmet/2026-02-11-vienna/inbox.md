@@ -105,3 +105,40 @@
 - Top Picks (35+ 分) 與 Backups (30-34 分)
 - 用餐策略（時間規劃、訂位策略、預算分配、交通資訊）
 - 待辦事項（訂位清單、每日行程建議）
+
+---
+
+## 咖啡與甜點擴展候選（新增，待後續挑選深入研究）
+
+說明：以下先用 Google Maps 搜尋連結做快速收集（20+）。真正要放進 `candidates.md` 前，會再補齊多來源證據與評分。
+
+### 經典咖啡館（偏氛圍/傳統）
+1. Café Hawelka（老派咖啡館氛圍）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Hawelka%20Wien
+2. Kaffee Alt Wien（更在地、夜晚也能坐）- https://www.google.com/maps/search/?api=1&query=Kaffee%20Alt%20Wien
+3. Café Schwarzenberg（老牌、靠近 Ring）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Schwarzenberg%20Wien
+4. Café Frauenhuber（老牌傳統咖啡館）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Frauenhuber%20Wien
+5. Café Jelinek（相對不那麼觀光）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Jelinek%20Wien
+6. Café Museum（經典咖啡館）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Museum%20Wien
+7. Café Korb（老派咖啡館）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Korb%20Wien
+8. Café Diglas（多分店）- https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Diglas%20Wien
+
+### Specialty Coffee（手沖/烘焙/第三波）
+9. Jonas Reindl Coffee Roasters（多分店）- https://www.google.com/maps/search/?api=1&query=Jonas%20Reindl%20Coffee%20Roasters%20Wien
+10. Coffee Pirates（烘焙、咖啡口碑）- https://www.google.com/maps/search/?api=1&query=Coffee%20Pirates%20Wien
+11. The Good Coffee Society（咖啡專門）- https://www.google.com/maps/search/?api=1&query=The%20Good%20Coffee%20Society%20Wien
+12. Kaffeefabrik（第三波咖啡）- https://www.google.com/maps/search/?api=1&query=Kaffeefabrik%20Wien
+13. Fenster Café（窗口咖啡、外帶）- https://www.google.com/maps/search/?api=1&query=Fenster%20Caf%C3%A9%20Wien
+14. GOTA Coffee Experts（咖啡專門）- https://www.google.com/maps/search/?api=1&query=GOTA%20Coffee%20Experts%20Wien
+
+### 甜點/糕點/巧克力（可外帶）
+15. Gerstner K. u. K. Hofzuckerbäcker（皇室御用系甜點）- https://www.google.com/maps/search/?api=1&query=Gerstner%20K.%20u.%20K.%20Hofzuckerb%C3%A4cker%20Wien
+16. Aida（粉紅系連鎖甜點店）- https://www.google.com/maps/search/?api=1&query=Aida%20Konditorei%20Wien
+17. Sluka（老牌甜點）- https://www.google.com/maps/search/?api=1&query=Konditorei%20Sluka%20Wien
+18. Altmann & Kühne（巧克力/糖果）- https://www.google.com/maps/search/?api=1&query=Altmann%20%26%20K%C3%BChne%20Wien
+19. Heindl Confiserie（巧克力）- https://www.google.com/maps/search/?api=1&query=Heindl%20Confiserie%20Wien
+20. Manner Shop（威化餅伴手禮）- https://www.google.com/maps/search/?api=1&query=Manner%20Shop%20Wien
+21. L. Heiner（咖啡/甜點，多分店）- https://www.google.com/maps/search/?api=1&query=L.%20Heiner%20Wien
+22. Kurkonditorei Oberlaa（甜點連鎖，多分店）- https://www.google.com/maps/search/?api=1&query=Kurkonditorei%20Oberlaa%20Wien
+
+### 冰淇淋/甜品（視季節）
+23. Eis-Greissler（冰淇淋）- https://www.google.com/maps/search/?api=1&query=Eis-Greissler%20Wien

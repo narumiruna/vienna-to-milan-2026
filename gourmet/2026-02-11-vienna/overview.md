@@ -31,7 +31,7 @@
 - [x] 收集候選餐廳 (12 個候選)
 - [x] 詳細研究米其林餐廳 (2 個: Steirereck 41/50, Mraz & Sohn 39/50)
 - [x] 詳細研究傳統餐廳 (4 個: Gasthaus Pöschl 39/50, Plachutta 37/50, Figlmüller 33/50, Zum Schwarzen Kameel 35/50)
-- [x] 詳細研究咖啡館 (5 個: Café Landtmann 36/50, Café Prückel 35/50, Café Sperl 33/50, Café Central 32/50, Demel 32/50)
+- [x] 詳細研究咖啡館與甜點 (9 個: Jonas Reindl 37/50, Café Landtmann 36/50, Café Prückel 35/50, Kaffee Alt Wien 34/50, Gerstner 34/50, Café Sperl 33/50, Café Hawelka 32/50, Café Central 32/50, Demel 32/50)
 - [x] 詳細研究快速補給 (1 個: Bitzinger Würstelstand 36/50)
 - [x] 評分與排序所有候選
 - [x] 記錄排除地點 (Café Sacher Wien 29/50)
@@ -75,13 +75,17 @@
 - Gasthaus Pöschl (39/50) - 正宗小酒館
 - Plachutta (37/50) - Tafelspitz 名店
 - Bitzinger Würstelstand (36/50) - 香腸攤
+- Jonas Reindl Coffee Roasters (37/50) - 第三波咖啡
 - Café Landtmann (36/50) - 歷史咖啡館
 - Café Prückel (35/50) - 1950s 復古咖啡館
 - Zum Schwarzen Kameel (35/50) - 開放式三明治
 
 **Backups (30-34 分)**:
+- Kaffee Alt Wien (34/50)
+- Gerstner K. u. K. Hofzuckerbäcker (34/50)
 - Café Sperl (33/50)
 - Figlmüller (33/50)
+- Café Hawelka (32/50)
 - Café Central (32/50)
 - Demel (32/50)
 
