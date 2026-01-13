@@ -7,8 +7,9 @@
 3. [Working with Agents: Ensuring Task Completion](#working-with-agents-ensuring-task-completion)
 4. [Research Completion Standard](#research-completion-standard)
 5. [Required Repository Structure (Per City)](#required-repository-structure-per-city)
-6. [Progressive Disclosure Principle](#progressive-disclosure-principle)
-7. [Workflow (Must Follow)](#workflow-must-follow)
+6. [Documentation Templates](#documentation-templates)
+7. [Progressive Disclosure Principle](#progressive-disclosure-principle)
+8. [Workflow (Must Follow)](#workflow-must-follow)
    - [0. Initialize City Research](#0-initialize-city-research)
    - [1. Discovery — Candidate Collection](#1-discovery--candidate-collection)
    - [2. Evidence Collection — Per Place](#2-evidence-collection--per-place)
@@ -16,12 +17,12 @@
    - [4. Triage — Exclusion with Reasons](#4-triage--exclusion-with-reasons)
    - [5. Final Output — Top Picks](#5-final-output--top-picks)
    - [6. Post-Research Updates — Documentation Maintenance](#6-post-research-updates--documentation-maintenance)
-8. [Process Improvements (Lessons Learned)](#process-improvements-lessons-learned)
-9. [Documentation & Naming Rules](#documentation--naming-rules)
-10. [Quality Bar](#quality-bar)
-11. [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
-12. [Research Questions Checklist](#research-questions-checklist)
-13. [Quick Reference](#quick-reference) ⭐
+9. [Process Improvements (Lessons Learned)](#process-improvements-lessons-learned)
+10. [Documentation & Naming Rules](#documentation--naming-rules)
+11. [Quality Bar](#quality-bar)
+12. [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
+13. [Research Questions Checklist](#research-questions-checklist)
+14. [Quick Reference](#quick-reference) ⭐
 
 ---
 
@@ -146,6 +147,51 @@ Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO
 Agents MUST respect this structure and naming.
 
 **All documentation must follow the Progressive Disclosure Principle** (see dedicated section below for details).
+
+---
+
+## Documentation Templates
+
+**Location**: `/templates/` directory at repository root
+
+The project provides standardized templates for all 6 required documentation files to ensure consistency across cities.
+
+### Available Templates
+
+1. **overview.md** - Travel info, food highlights, research strategy, progress tracking
+2. **candidates.md** - Structured table with required fields (name, category, area, type, google_maps_url, status, sources, notes)
+3. **notes.md** - Detailed evidence sections with 50-point scoring rubric
+4. **top-places.md** - Final recommendations (Top Picks 35+, Backups 30-34), dining strategy, to-do lists
+5. **inbox.md** - Quick capture workspace for initial discovery
+6. **excluded.md** - Audit trail of rejected places with documented reasons
+
+### Usage
+
+When starting research for a new city:
+
+```bash
+# Copy all templates to the new city directory
+cp templates/*.md gourmet/YYYY-MM-DD-cityname/
+```
+
+Then customize each file following the workflow steps (0-6) and guidelines in this document.
+
+### Template Features
+
+- **Pre-structured sections**: All required sections with placeholder text
+- **Field requirements**: Clear specifications for required and optional fields
+- **Bilingual support**: English structured fields, Traditional Chinese content areas
+- **Scoring rubric**: Built-in 50-point system (Taste/Quality + Value + Convenience + Consistency + Risk)
+- **Research standards**: Minimum 4 sources requirement, Google Maps link formats, practical information checklist
+
+### Complete Documentation
+
+For detailed usage instructions, workflow guidance, and examples, see:
+- **templates/README.md** - Comprehensive usage guide (295 lines)
+  - Per-file purposes and structures
+  - Research workflow (Steps 0-6)
+  - Completion criteria
+  - Quality standards and common pitfalls
 
 ---
 
