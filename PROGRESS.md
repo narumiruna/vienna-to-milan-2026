@@ -20,6 +20,17 @@
 - [ ] 確認需預訂的餐廳並完成預訂
 - [ ] 規劃每日用餐時間與路線
 
+### 🔬 技術研究成果
+
+#### Google Maps 評價查詢研究 (2026-01-13)
+- ✅ 完成 Google Maps API 最低分評價查詢能力研究
+- 研究文件：[docs/google-maps-lowest-rating-research.md](docs/google-maps-lowest-rating-research.md)
+- **關鍵發現**：
+  - Google 官方 API 功能受限（最多5則評價，無篩選參數）
+  - 第三方 API（SerpApi, Outscraper）可查詢完整評價並篩選
+  - 法律風險：直接抓取違反 Google ToS，需謹慎使用
+- **建議**：當前專案規模適合手動查看評價，無需使用 API
+
 ---
 
 ## 📁 文件結構方法

@@ -65,6 +65,10 @@
 - **[itinerary.md](itinerary.md)** - 完整旅程行程表
 - **[AGENTS.md](AGENTS.md)** - AI 代理人作業指南（英文）
 
+### 技術研究文件
+
+- **[Google Maps 最低分評價查詢研究](docs/google-maps-lowest-rating-research.md)** - Google Maps API 評價查詢能力研究（2026-01-13）
+
 ### 各城市研究結構
 
 每個城市的研究遵循**漸進式揭露原則**，由淺入深：
