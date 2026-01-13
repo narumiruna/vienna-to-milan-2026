@@ -117,6 +117,16 @@ gourmet/YYYY-MM-DD-<city>/
 - `overview.md` 中的進度檢查清單所有項目標記為 `[x]`
 - 若仍有 `[ ]` 項目，該城市**尚未完成**
 
+### 5. inbox.md 已清理
+
+- `inbox.md` 不得包含未處理的候選地點
+- 所有候選必須：
+  - 已轉移到 `candidates.md` (任何 status)
+  - **或**已明確移至 `excluded.md` 並註明原因
+- `inbox.md` 應該：
+  - 選項A：清空並在頂部註明「已轉移至 candidates.md (YYYY-MM-DD)」
+  - 選項B：保留作為歷史記錄，在頂部註明「歷史記錄（已轉移至 candidates.md, YYYY-MM-DD）」
+
 ### 完成標準說明
 
 **不需要**：
@@ -143,7 +153,7 @@ gourmet/YYYY-MM-DD-<city>/
 | ⏳ **未開始** | Not Started | 尚未建立 `overview.md` |
 | 📝 **研究中** | In Progress | 正在積極研究候選地點 |
 | 🔄 **待完成** | Needs Finalization | 核心研究已完成，但尚未滿足完成標準 |
-| ✅ **已完成** | Completed | 滿足上述所有四項完成標準 |
+| ✅ **已完成** | Completed | 滿足上述所有**五項**完成標準 |
 
 ---
 
@@ -174,12 +184,19 @@ grep "\[ \]" overview.md | wc -l
 # 驗證 top-places.md 存在且有內容
 ls -la top-places.md && wc -l top-places.md
 # → 檔案應存在且有實質內容（通常 >50 行）
+
+# 檢查 inbox.md 是否已清理
+# 手動檢查 inbox.md 頂部是否有「已轉移」或「歷史記錄」標記
+head -5 inbox.md
+# → 應該看到「已轉移至 candidates.md」或「歷史記錄（已轉移）」
+# → 或者檔案內容為空/僅含標記說明
 ```
 
 **驗證注意事項**：
 - `candidates.md` 使用 markdown 表格格式：`| inbox |`（狀態周圍有空格）
 - 備用模式 `status: inbox` 處理表格格式略有變化的情況
 - `excluded.md` 模式專門針對段落標題（`^#`）以避免正文中的誤判
+- `inbox.md` 清理需手動驗證（確認頂部有標記說明，或內容已清空）
 
 ---
 
@@ -192,6 +209,7 @@ ls -la top-places.md && wc -l top-places.md
    - ✅ `excluded.md` 無待決定項目
    - ✅ `top-places.md` 已定案，包含 Top Picks 與用餐策略
    - ✅ `overview.md` 檢查清單全部標記 `[x]`
+   - ✅ `inbox.md` 已清理（頂部有標記或內容已清空）
    - 執行完成標準檢查清單中的驗證指令
 
 2. **更新 PROGRESS.md 進度**（本文件）：
