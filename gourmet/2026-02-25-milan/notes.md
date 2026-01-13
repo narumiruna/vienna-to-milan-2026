@@ -1110,3 +1110,89 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 不適合：預算有限、尋求傳統平價 pizzeria、對環境安靜度有要求
 
 ---
+
+## Pasticceria Cucchi (Pan Meino)
+
+**Official**: No official website
+
+**Google Maps**: 4.3/5 (600+ reviews)
+- Location: Corso Genova 1, Milan
+
+**Guide sources**:
+- Pan Meino Cookies Bakeries in Milan - A Signorina in Milan
+  - https://asignorinainmilan.com/pan-meino-milan/
+- 15 Pastry Shops Where to have Breakfast in Milan - FLAWLESS.life
+  - https://flawless.life/en/italy/milan/15-pastry-shops-milano
+- Wikipedia: Pan meino - https://en.wikipedia.org/wiki/Pan_meino
+
+**Reddit sentiment**:
+- 米蘭歷史糕點店推薦
+- 傳統倫巴第甜點體驗
+- St. George's Day (4月23日) 特色但全年供應
+
+**Recurring pros**:
+- 1936年創立的歷史糕點店
+- Pan Meino（Pan de Mej）專家：玉米粉 + 接骨木花風味
+- 傳統倫巴第特色甜麵包/餅乾
+- 聖喬治日（4月23日）傳統甜點但全年供應
+- 撒糖粉，搭配奶油或甜酒
+- 正宗米蘭糕點店氛圍
+- 價格合理
+
+**Recurring cons**:
+- Pan Meino 不是每天都有貨（需詢問）
+- 地方性特色，較少遊客知道
+- 4月聖喬治日期間最易找到
+
+**Practical**:
+- reservation requirement: none (walk-in bakery)
+- best visiting time: 早上，聖喬治日前後（4月）供應最穩定
+- closed days: 需確認
+- seasonal note: 全年供應但4月特別推廣
+- price: €5-10 per serving
+- location: Corso Genova 1 (convenient central location)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (獨特接骨木花風味，傳統倫巴第配方)
+- Value: 8/10 (價格合理，地方特色體驗)
+- Convenience: 6/10 (市中心位置佳，但 Pan Meino 供應不定期)
+- Consistency: 7/10 (4.3/5 Google, 歷史店鋪穩定)
+- Risk: 7/10 (可能缺貨，2月非主要季節)
+- **Total: 36/50**
+
+**文化背景**: 
+Pan Meino（倫巴第語：pan de mej）是米蘭和倫巴第地區的傳統甜麵包/餅乾，使用玉米粉、雞蛋、牛奶、奶油、糖和接骨木花製作，形狀為扁平圓餅。特別與聖喬治日（4月23日）相關，但許多傳統糕點店全年供應。搭配鮮奶油或甜酒享用最佳。
+
+---
+
+## Pavé - Michetta Supplement
+
+**Michetta (Rosetta) 專項補充**:
+
+Pavé is widely recognized as one of Milan's best artisan bakeries, and their Michetta (Milan's quintessential white bread roll, also known as Rosetta) is considered among the best in the city.
+
+**Michetta characteristics**:
+- Rose-like, bulged shape with distinctive appearance
+- Airy, nearly hollow interior
+- Crisp, delicate crust
+- Best enjoyed fresh (delicate texture doesn't keep long)
+- Perfect for sandwiches with high-quality cold cuts, cheese, or spreads
+
+**Why Pavé's Michetta stands out**:
+- Traditional recipe with high-quality ingredients
+- Daily fresh baking
+- Authentic Milanese technique
+- Often used in their outstanding sandwiches
+- Recommended by locals and food writers
+
+**How to enjoy**:
+- Purchase fresh Michetta for breakfast
+- Try with Italian cold cuts, mozzarella, or simple spreads
+- Pair with quality coffee (Pavé's specialty coffee is excellent)
+- Experience the traditional Milanese bread culture
+
+**Practical note**: 
+Visit Pavé early in the morning for the freshest Michetta. The bakery opens at 8am (closed Tuesdays). Their Michetta represents authentic Milanese baking tradition and is a must-try for experiencing local bread culture.
+
+**Cultural context**: 
+Michetta's history traces back to Austrian influences (Kaiser roll adaptation), and its recipe was adapted to Milan's climate to achieve its singular airy texture. It's a symbol of Milanese breakfast and snacking culture.

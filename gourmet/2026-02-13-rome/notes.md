@@ -1279,3 +1279,65 @@ Medium priority:
 - Consistency: 8/10 (4.6/5 Tripadvisor, 9.4/10 TheFork, mostly positive)
 - Risk: 7/10 (flavor choice complexity, occasional quality variation, service varies)
 - **Total: 38/50**
+
+---
+
+## Pasticceria Boccione (Pizza dolce di Beridde)
+
+**Official**: 無官方網站
+
+**Google Maps**: 4.4/5 (1,100+ reviews)
+
+**Tripadvisor**: 4.0/5 (270+ reviews)
+- https://www.tripadvisor.com/Attraction_Review-g187791-d2358692-Reviews-Pasticceria_Boccione-Rome_Lazio.html
+
+**Guide sources**:
+- Atlas Obscura: Rome's Sweet 'Pizza' Is a Symbol of Jewish Perseverance
+  - https://www.atlasobscura.com/articles/rome-pizza-di-beridde
+- An American in Rome: Boccione: Forno in Rome's Jewish Ghetto
+  - https://anamericaninrome.com/2018/05/boccione-forno-in-romes-jewish-ghetto/
+- Spotted by Locals: Pasticceria Boccione Rome - Historic Jewish bakery
+  - https://www.spottedbylocals.com/rome/pasticceria-boccione/
+- Wikipedia: Pizza dolce di Beridde
+  - https://en.wikipedia.org/wiki/Pizza_dolce_di_Beridde
+
+**Reddit sentiment**:
+- 羅馬猶太區必訪的歷史糕點店
+- Pizza di Beridde 是獨特體驗，外觀看起來燒焦但這是特色
+- 建議早上去，熱門商品會賣完
+- 店面老舊但這就是它的魅力所在
+
+**Recurring pros**:
+- 210+ 年歷史，羅馬最古老的猶太糕點店
+- Pizza dolce di Beridde (pizza ebraica) 是獨家配方，無法在其他地方買到
+- 純素配方（無蛋無奶），使用杏仁粉、堅果、蜜餞、葡萄乾、橄欖油、溫酒
+- 獨特的「燒焦」外觀是傳統特色，增添焦糖風味
+- 其他特色商品：ricotta 與酸櫻桃塔、烤南瓜籽
+- 真實、未經現代化的傳統猶太區體驗
+- 價格合理
+
+**Recurring cons**:
+- 熱門商品常在下午前售罄
+- 店面老舊、簡陋（但這是特色）
+- 週六休息（安息日）
+- 無法運送或線上訂購
+- 排隊人潮可能很長
+
+**Practical**:
+- reservation requirement: none (walk-in only)
+- best visiting time: 早上開門後盡快前往（售完為止）
+- closed days: 週六（Shabbat）；週五下午 3 點關門
+- queue: 熱門時段排隊常見
+- price: 合理價位（約 €5-10 per item）
+- location: Via del Portico d'Ottavia 1, Jewish Ghetto
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (獨特傳統配方，210年歷史認證，真實猶太糕點)
+- Value: 9/10 (價格合理，獨特體驗，無法在其他地方購得)
+- Convenience: 6/10 (週六休息，熱門商品售罄快，無預訂，但位置在猶太區中心)
+- Consistency: 8/10 (4.4/5 Google, 4.0/5 Tripadvisor, 家族秘方穩定)
+- Risk: 8/10 (可能售罄，外觀可能讓人困惑但這是特色)
+- **Total: 40/50**
+
+**特殊文化意義**:
+Pizza dolce di Beridde 代表羅馬猶太社群的堅韌與傳承。名稱中的 "pizza" 源自拉丁語的麵餅，與現代披薩無關。這款甜麵包在猶太節慶、婚禮、割禮等儀式中扮演重要角色，是羅馬猶太文化的象徵。
