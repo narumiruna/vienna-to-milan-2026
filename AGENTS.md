@@ -333,6 +333,39 @@ When starting research for a new city:
    - 來源：source type
 ```
 
+**inbox.md lifecycle**:
+
+inbox.md is the initial exploration workspace with a clear lifecycle:
+
+1. **Exploration Phase** (Research Start → Collection Complete)
+   - Quickly record web_search results
+   - Freely organize by categories (Traditional restaurants, Pizza, Desserts, etc.)
+   - Include brief notes (location, features, constraints, sources)
+   - No need for immediate structuring
+
+2. **Transfer Phase** (Collection Complete → Research In Progress)
+   - Transfer priority candidates (top 3-5) to candidates.md
+   - Set `status: inbox` in candidates.md
+   - Keep other candidates in inbox.md as "pending evaluation list"
+
+3. **Cleanup Phase** (Research Complete → Before Marking Complete)
+   - Confirm all relevant candidates transferred to:
+     - candidates.md (researched or pending research)
+     - excluded.md (explicitly excluded)
+   - Option A: Clear inbox.md, add note at top: "已轉移至 candidates.md"
+   - Option B: Keep inbox.md as historical record, add note at top: "歷史記錄（已轉移）"
+   - **NOT acceptable**: Leaving unprocessed candidates in inbox.md
+
+**inbox.md vs candidates.md**:
+
+| Feature | inbox.md | candidates.md |
+|---------|----------|---------------|
+| Format | Free-form notes | Structured table |
+| Purpose | Initial exploration & collection | Candidate summary & status tracking |
+| Timing | Research beginning | Throughout research |
+| State | Temporary | Permanent |
+| When complete | Clear or mark as historical | Keep all records |
+
 **Required fields per candidate in candidates.md table:**
 - name
 - category (restaurant | cafe | dessert)
@@ -557,6 +590,7 @@ Each entry MUST include:
    - ✅ No pending decisions in excluded.md
    - ✅ top-places.md finalized with Top Picks and Dining Strategy
    - ✅ overview.md checklist fully marked `[x]`
+   - ✅ inbox.md cleaned up (see step 4 below)
    - Run the verification commands from PROGRESS.md
 
 2. **Update progress tracking**:
@@ -572,6 +606,13 @@ Each entry MUST include:
    - If you discovered a more efficient research method, document it in "Process Improvements (Lessons Learned)"
    - If you found common patterns or pitfalls, add them to relevant sections
    - Keep the workflow documentation current with actual practices
+
+4. **Clean up inbox.md**:
+   - Confirm all candidates transferred to candidates.md or excluded.md
+   - Choose one approach:
+     - Option A: Clear inbox.md content, add note at top: "已轉移至 candidates.md (YYYY-MM-DD)"
+     - Option B: Keep as historical record, add note at top: "歷史記錄（已轉移至 candidates.md, YYYY-MM-DD）"
+   - Mark this task complete in overview.md checklist
 
 **Why this matters**:
 - PROGRESS.md serves as the project progress dashboard - it must reflect current reality
