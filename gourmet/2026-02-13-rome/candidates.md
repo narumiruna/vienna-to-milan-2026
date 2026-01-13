@@ -33,6 +33,7 @@ Notes:
 | Mr. 100 Tiramisù | dessert | Centro (Via dei Sediari) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Mr+100+Tiramisu+Rome | shortlisted | 38/50 | Tripadvisor 4.6/5, TheFork 9.4/10, Restaurant Guru | 100種口味變體；近 Piazza Navona；酒吧餐廳；€30/人；創意組合。 |
 | Two Sizes | dessert | Centro (Via del Governo Vecchio) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Two+Sizes+Tiramisu+Rome | inbox | Tripadvisor, food blogs | 外帶杯裝提拉米蘇；mini/regular 兩種尺寸；經典+創意口味。 |
 | Tiramisù Merisù | dessert | Trastevere | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Tiramisu+Merisu+Trastevere+Rome | inbox | Food blogs, guides | 純提拉米蘇專門店；多種口味；素食/無麩質/低咖啡因選項。 |
+| Pasticceria Boccione | dessert | Jewish Ghetto | Jewish pastries, pizza ebraica | https://www.google.com/maps/search/?api=1&query=Pasticceria+Boccione+Rome | shortlisted | 40/50 | Atlas Obscura, Tripadvisor, Spotted by Locals | 210年老店，Pizza dolce di Beridde專家；羅馬猶太區傳統糕點；週六休息。 |
 
 ---
 

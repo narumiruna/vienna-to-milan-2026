@@ -26,6 +26,7 @@
 | Sant Ambroeus | cafe | Corso Giacomo Matteotti 7 | 歷史糕點店 | inbox | Michelin, guides | 1936年創立；米蘭機構級糕點店；傳統豪華提拉米蘇。 |
 | Cova Montenapoleone | cafe | Via Montenapoleone 8 | 歷史糕點店 | inbox | Historic, guides | 1817年創立；米蘭最古老糕點店之一；精緻經典提拉米蘇。 |
 | Peck | cafe | Centro Storico | 美食殿堂 | inbox | Tripadvisor 4.0/5, guides | 1883年創立；高級美食百貨；傳統提拉米蘇；價位偏高。 |
+| Pasticceria Cucchi | dessert | Corso Genova 1 | Traditional Milanese pastries | shortlisted | 38/50 | Historic guides, local blogs | 1936年創立；傳統米蘭糕點；Pan Meino（接骨木花甜麵包）專家；聖喬治日特色。 |
 | Confine - Pizza e Cantina | restaurant | Piazza Guglielmo Massaia | 創意披薩與酒吧 | 35/50 | shortlisted | 現代風格創意披薩，品質優異但價格偏高，環境擁擠；Google 4.4/5, Tripadvisor 3.3/5。 |
 
 ---

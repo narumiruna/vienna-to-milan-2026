@@ -1506,3 +1506,105 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Conclusion**: 
 When visiting Florence, prioritize its world-class gelato and traditional Tuscan desserts. Save tiramisù tasting for Venice (authentic origin) and Rome/Milan (creative interpretations).
+
+---
+
+## Pasticceria Cucciolo (Bomboloni)
+
+**Official**: No official website
+
+**Google Maps**: 4.2/5 (800+ reviews)
+
+**TripAdvisor**: 4.0/5 (200+ reviews)
+
+**TasteAtlas**: Featured as Florence's best spot for bomboloni
+- https://www.tasteatlas.com/pasticceria-cucciolo/bomboloni
+
+**Guide sources**:
+- Florence's Finest Pastry Shops - Best Free Tour
+- The best pastry shops in Florence - Firenze Made in Tuscany
+- Where to Find the Best Pastries in Florence - Devour Tours
+- The Best Bakeries in Florence - Hotel Brunelleschi
+
+**Reddit sentiment**:
+- 佛羅倫斯當地人推薦的 bomboloni 首選
+- 新鮮出爐，從廚房直接滑下來
+- 價格合理，品質穩定
+
+**Recurring pros**:
+- 佛羅倫斯最著名的 bomboloni 專家
+- 每日新鮮製作，從廚房「滑下」到櫃檯（佛羅倫斯傳說）
+- 多種內餡：巧克力、香草卡士達、果醬
+- 價格實惠（€1-2 per bombolone）
+- 總是新鮮、溫熱
+- 位置便利（Via del Corso, 25R）
+
+**Recurring cons**:
+- 熱門時段排隊
+- 座位有限，多為外帶
+- 可能在下午售罄
+
+**Practical**:
+- reservation requirement: none (walk-in only)
+- best visiting time: 早上 8-11am 最新鮮
+- closed days: check current schedule
+- queue: 熱門時段常見
+- price: €1-2 per bombolone
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (新鮮出爐，經典義式炸甜甜圈，品質穩定)
+- Value: 9/10 (價格實惠，€1-2/個，性價比高)
+- Convenience: 7/10 (市中心位置佳，但可能排隊或售罄)
+- Consistency: 8/10 (4.2/5 Google, 多年口碑穩定)
+- Risk: 6/10 (售罄風險，排隊時間不定)
+- **Total: 38/50**
+
+---
+
+## Antico Forno Pugi (Schiacciata con l'uva)
+
+**Official**: No official website
+
+**Google Maps**: 4.5/5 (1,500+ reviews)
+
+**Guide sources**:
+- Schiacciata con l'uva: 10 places where to find the best in Florence - Firenze Made in Tuscany
+  - https://www.firenzemadeintuscany.com/en/article/la-schiacciata-con-luva-10-places-find-best-florence/
+- Top 10 Artisan Bakeries in Florence
+- Local Florence food guides
+
+**Reddit sentiment**:
+- 佛羅倫斯最有名的麵包店之一
+- Schiacciata 是招牌，尤其是鹽味版本
+- 9月葡萄季必訪
+
+**Recurring pros**:
+- 佛羅倫斯最著名的 schiacciata 專家
+- 9-10月葡萄收成季有 schiacciata con l'uva（葡萄甜 focaccia）
+- 使用當季新鮮 Sangiovese 或 Canaiolo 葡萄
+- 傳統配方：麵糰、葡萄、橄欖油、糖
+- 多個分店位置便利（Piazza San Marco 等）
+- 全年供應經典鹹味 schiacciata
+
+**Recurring cons**:
+- Schiacciata con l'uva 僅限 9-10月（季節性）
+- 訪問時間為 2月，無法品嚐葡萄版本
+- 熱門商品可能售罄
+
+**Practical**:
+- reservation requirement: none (walk-in only)
+- best visiting time: 早上新鮮出爐時
+- closed days: check current schedule
+- queue: 熱門時段常見
+- seasonal availability: schiacciata con l'uva 僅 9-10月
+- price: €3-5 per portion
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (優質傳統麵包，但季節限定品項不可得)
+- Value: 8/10 (價格合理，份量足)
+- Convenience: 6/10 (多據點便利，但季節限制，2月訪問無法體驗招牌葡萄版)
+- Consistency: 8/10 (4.5/5 Google, 長期口碑)
+- Risk: 6/10 (季節限制是主要問題)
+- **Total: 36/50**
+
+**重要注意**: Schiacciata con l'uva 是托斯卡尼葡萄收成季節（9-10月）的特色甜點，2月訪問無法品嚐。但 Pugi 的經典鹹味 schiacciata 全年供應，仍值得一試。

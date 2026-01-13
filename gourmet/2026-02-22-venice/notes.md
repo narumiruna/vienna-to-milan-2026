@@ -506,27 +506,37 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Popular with locals (authenticity indicator)
 - Handcrafted products (items sell out = freshness)
 - Reasonable prices
+- **Frittelle/Fritole specialist during Carnival season** (late Jan - early March)
+- Exceptionally soft texture for frittelle (classic with raisins)
+- Sublime zabaione and chantilly cream filled versions
+- Always fresh, aromatic, not overly greasy
 
 **Recurring cons**:
 - Popular items may sell out quickly
 - Can be crowded during peak hours
 - Limited seating (mostly standing)
+- Long queues during Carnival season for frittelle
 
 **Practical**:
 - reservation requirement: none (bakery/café)
-- best visiting time: morning for best selection
+- best visiting time: morning for best selection; during Carnival for frittelle
 - closed days: unknown (需確認)
-- queue: expect crowds, especially mornings
-- price: € (affordable)
+- queue: expect crowds, especially mornings and Carnival season
+- price: € (affordable); frittelle €1.30-2.50 each
 - accepts: cash and cards
+- location: Calle de San Pantalon, Dorsoduro district, near Campo Santa Margherita
+- **Frittelle season**: Usually mid-January through early March (Carnival)
 
 **Score (50-point rubric)**:
-- Taste/Quality: 9/10 (exceptional traditional pastries)
+- Taste/Quality: 9/10 (exceptional traditional pastries, sublime frittelle)
 - Value: 9/10 (excellent quality for price)
-- Convenience: 8/10 (good location, sells out early)
+- Convenience: 8/10 (good location, sells out early, queues during Carnival)
 - Consistency: 9/10 (very reliable, authentic)
 - Risk: 9/10 (very low risk, highly recommended)
 - **Total: 44/50**
+
+**Carnival Specialty Note**: 
+Tonolo is a beloved Venetian institution, especially renowned during Carnival for their frittelle. Locals and visitors often queue outside for their exceptionally soft-textured frittelle (classic with raisins) and sublime filled versions with zabaione and chantilly cream. The frittelle are always fresh, aromatic, and perfectly fried without excessive greasiness. **February visit timing is excellent for experiencing these traditional Carnival treats.**
 
 ---
 
@@ -1498,27 +1508,35 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Central location (near San Marco)
 - Multiple convenient locations
 - Vegetarian/vegan options available
+- **Frittelle/Fritole specialist during Carnival season** (late Jan - early March)
+- Classic frìtola col buso (frittelle "with a hole") - heirloom recipe
+- Multiple frittelle versions: raisin-pine nut, Chantilly cream, zabaione filling
 
 **Recurring cons**:
 - Can get crowded (popular spot)
 - Limited seating (mostly standing)
 - Occasional service inconsistencies
 - Prices reflect central location
+- Frittelle only available during Carnival season
 
 **Practical**:
 - reservation requirement: none (casual cafe)
-- best visiting time: breakfast or mid-afternoon
+- best visiting time: breakfast or mid-afternoon; during Carnival for frittelle
 - closed days: rarely closed (check specific location)
-- queue: possible during peak times
-- price: €5-12/person (cafe pricing)
+- queue: possible during peak times, especially Carnival
+- price: €5-12/person (cafe pricing); frittelle €1.30-2.50 each
+- **Frittelle season**: Usually mid-January through early March (Carnival)
 
 **Score (50-point rubric)**:
-- Taste/Quality: 8/10 (excellent authentic pastries)
+- Taste/Quality: 8/10 (excellent authentic pastries, traditional frittelle)
 - Value: 7/10 (good quality, central pricing)
 - Convenience: 9/10 (multiple locations, near San Marco)
 - Consistency: 8/10 (reliable quality, established reputation)
 - Risk: 8/10 (low risk, proven track record)
 - **Total: 40/50**
+
+**Carnival Specialty Note**: 
+Rosa Salva is one of Venice's oldest and most traditional pastry shops, particularly famous for frittelle (fritole) during Carnival. Their unique frìtola col buso ("frittelle with a hole") is an heirloom recipe. The dough is perfectly airy, available in classic raisin-pine nut version and filled with Chantilly or zabaione cream. **February visit timing is perfect for experiencing these traditional Carnival pastries.**
 
 
 ---

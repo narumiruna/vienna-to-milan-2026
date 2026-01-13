@@ -37,6 +37,8 @@ Notes:
 | Le Vespe Cafe | cafe | Centro Storico (near Santa Croce) | brunch, Canadian-style | https://www.google.com/maps/search/?api=1&query=Le+Vespe+Cafe+Florence | top | Tripadvisor 4.6/5 (430+ reviews) | 佛羅倫斯最佳早午餐，班尼迪克蛋、捲餅、煎餅；素食/純素可選；€12-20/人；43/50。 |
 | Melaleuca Bakery + Bistrot | cafe | Lungarno delle Grazie (Arno river) | brunch, Australian-American | https://www.google.com/maps/search/?api=1&query=Melaleuca+Bakery+Florence | top | Google 4.7/5 (1,000+ reviews) | 傑出肉桂捲與早午餐，澳式咖啡；僅 walk-in；€8-15/人；43/50。 |
 | Ditta Artigianale | cafe | Multiple locations (4 venues) | brunch, specialty coffee | https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Florence | shortlisted | Google 4.2-4.3/5 | 精品咖啡與現代早午餐，多據點方便；€10-18/人；39/50。 |
+| Pasticceria Cucciolo | dessert | Centro (Via del Corso) | bomboloni, pastries | https://www.google.com/maps/search/?api=1&query=Pasticceria+Cucciolo+Florence | shortlisted | 38/50 | TasteAtlas, food blogs, TripAdvisor | 佛羅倫斯最佳 bomboloni；新鮮出爐；經典奶油/果醬內餡；€1-2/個。 |
+| Antico Forno Pugi | dessert | Multiple locations | schiacciata, breads | https://www.google.com/maps/search/?api=1&query=Forno+Pugi+Florence | shortlisted | 36/50 | Local guides, Firenze Made in Tuscany | 佛羅倫斯最著名麵包店；schiacciata 專家；9月有 schiacciata con l'uva。 |
 
 ---
 
