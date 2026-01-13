@@ -1,30 +1,124 @@
 # Instructions for Agents
 
+> **New to this project?** Start with the [Quick Reference](#quick-reference-) below for essential information, then explore detailed sections as needed.
+
 ## Table of Contents
 
-1. [Main Purpose (Immutable)](#main-purpose-immutable)
-2. [Agent Mission](#agent-mission)
-3. [Project Scope](#project-scope)
-4. [Working with Agents: Ensuring Task Completion](#working-with-agents-ensuring-task-completion)
-5. [Research Completion Standard](#research-completion-standard)
-6. [Required Repository Structure (Per City)](#required-repository-structure-per-city)
-7. [Documentation Templates](#documentation-templates)
-8. [Progressive Disclosure Principle](#progressive-disclosure-principle)
-9. [Workflow (Must Follow)](#workflow-must-follow)
-   - [0. Initialize City Research](#0-initialize-city-research)
-   - [1. Discovery — Candidate Collection](#1-discovery--candidate-collection)
-   - [2. Evidence Collection — Per Place](#2-evidence-collection--per-place)
-   - [3. Scoring — Standard Rubric](#3-scoring--standard-rubric)
-   - [4. Decision Rules](#4-decision-rules)
-   - [5. Triage — Exclusion with Reasons](#5-triage--exclusion-with-reasons)
-   - [6. Final Output — Top Picks](#6-final-output--top-picks)
-   - [7. Post-Research Updates — Documentation Maintenance](#7-post-research-updates--documentation-maintenance)
-10. [Process Improvements (Lessons Learned)](#process-improvements-lessons-learned)
-11. [Documentation & Naming Rules](#documentation--naming-rules)
-12. [Quality Bar](#quality-bar)
-13. [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
-14. [Research Questions Checklist](#research-questions-checklist)
-15. [Quick Reference](#quick-reference) ⭐
+### Essential (Start Here)
+- [Quick Reference](#quick-reference-) ⭐ **START HERE**
+- [Main Purpose (Immutable)](#main-purpose-immutable)
+- [Agent Mission](#agent-mission)
+- [Getting Started](#getting-started) 🚀
+
+### Core Documentation
+- [Project Scope](#project-scope)
+- [Required Repository Structure](#required-repository-structure-per-city)
+- [Documentation Templates](#documentation-templates)
+- [Workflow (Must Follow)](#workflow-must-follow)
+
+### Guidelines & Standards
+- [Progressive Disclosure Principle](#progressive-disclosure-principle)
+- [Quality Bar](#quality-bar)
+- [Research Completion Standard](#research-completion-standard)
+
+### Reference & Troubleshooting
+- [Working with Agents](#working-with-agents-ensuring-task-completion)
+- [Process Improvements](#process-improvements-lessons-learned)
+- [Common Pitfalls](#common-pitfalls-to-avoid)
+- [Documentation & Naming Rules](#documentation--naming-rules)
+- [Research Questions Checklist](#research-questions-checklist)
+
+---
+
+## Quick Reference ⭐
+
+**Read this first.** Everything you need for 80% of tasks.
+
+### Mission
+Build **evidence-based food recommendations** (restaurants, cafes, desserts) for a 2026-02-10 to 2026-02-28 trip across 5 cities in Austria and Italy.
+
+### Key Constraints (IMMUTABLE)
+- ✈️ Flights, trains, and hotels are **already booked** - do NOT suggest changes
+- 🗓️ Cities and dates are **fixed** - see [Main Purpose](#main-purpose-immutable) for full itinerary
+- 🍽️ Focus **only on food** - not accommodations, transport, or attractions
+
+### File Structure (Per City)
+```
+gourmet/YYYY-MM-DD-city/
+├── overview.md       (5min)  - Context & strategy → START HERE for new city
+├── top-places.md     (10min) - Final picks → For users planning their trip
+├── candidates.md     (5min)  - Summary table → Quick scan of all options
+├── notes.md          (30min) - Evidence → Full research details
+├── inbox.md          (work)  - Raw notes → Temporary workspace
+└── excluded.md       (5min)  - Rejected → Audit trail
+```
+
+### Research Workflow (7 Steps)
+0. **Initialize**: Create overview.md → Use web_search for 20+ candidates
+1. **Discover**: Add top 3-5 to candidates.md table
+2. **Research**: Document evidence in notes.md (4+ sources minimum)
+3. **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
+4. **Decide**: Promote (35+) or exclude (<30) based on thresholds
+5. **Triage**: Mark rejected, document reasons in excluded.md
+6. **Finalize**: Update top-places.md with Top Picks and Dining Strategy
+7. **Verify**: Run completion checks, update PROGRESS.md
+
+### Scoring System (50 points)
+- **40+**: Excellent, highly recommended (Top Pick)
+- **35-39**: Very good, solid choice (Top Pick)
+- **30-34**: Good, acceptable (Backup)
+- **<30**: Consider exclusion
+
+Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10) + Risk (10)
+
+### Required Sources (Minimum 4)
+1. Google Maps (rating + review count)
+2. Tripadvisor or similar aggregator
+3. Reddit (local sentiment)
+4. Food/travel guide (Michelin, TimeOut, blogs)
+
+### Completion Criteria (All Required)
+✅ No `status: inbox` in candidates.md  
+✅ No pending decisions in excluded.md  
+✅ top-places.md has: Top Picks + Backups + Dining Strategy + To-Do  
+✅ overview.md checklist fully checked `[x]`  
+
+### When You Need More Detail
+- **Workflow details** → See [Workflow](#workflow-must-follow) section
+- **Scoring guidance** → See [Section 3: Scoring](#3-scoring--standard-rubric)
+- **Quality standards** → See [Quality Bar](#quality-bar)
+- **Template usage** → See [Documentation Templates](#documentation-templates)
+- **Troubleshooting** → See [Working with Agents](#working-with-agents-ensuring-task-completion)
+
+---
+
+## Getting Started 🚀
+
+**First time working on a city? Follow this minimal path:**
+
+### Step 1: Understand Context (5 minutes)
+1. Read [Main Purpose](#main-purpose-immutable) - Know what's fixed
+2. Check [Project Scope](#project-scope) - Know what's in/out of scope
+3. Review city dates and hotel in PROGRESS.md
+
+### Step 2: Initialize City (30 minutes)
+1. Create `overview.md` first (see [Step 0](#0-initialize-city-research))
+2. Run 3-4 web searches to collect 20+ candidates
+3. Add candidates to `inbox.md` (fast capture)
+
+### Step 3: Research Top Priorities (2-3 hours)
+1. Pick top 3-5 candidates from inbox
+2. Add to `candidates.md` table with `status: inbox`
+3. Research each thoroughly (see [Step 2](#2-evidence-collection--per-place))
+4. Score using 50-point rubric (see [Step 3](#3-scoring--standard-rubric))
+5. Promote to `top-places.md` if score ≥35
+
+### Step 4: Report Progress
+- Use `report_progress` tool after completing each city section
+- Update PROGRESS.md status when city research complete
+
+### What's Next?
+Continue researching additional candidates or move to [Workflow](#workflow-must-follow) for complete details.
 
 ---
 
@@ -247,685 +341,265 @@ For detailed usage instructions, workflow guidance, and examples, see:
 
 ## Progressive Disclosure Principle
 
-**Progressive disclosure** is a design principle where information is revealed gradually, showing only what's necessary at each stage while providing paths to deeper detail when needed.
+**Core Idea**: Reveal information gradually - show only what's needed at each stage, with clear paths to deeper detail.
 
-### Why This Matters
+### The Problem We're Solving
 
-In this project:
-- **Travelers need quick answers** (e.g., "What are the top 3 places for dinner?")
-- **But decisions require justification** (e.g., "Why did you exclude Restaurant X?")
-- **Research depth varies** (quick scan → detailed investigation → deep dive)
+Users have different needs at different times:
+- 🏃 **Quick decisions**: "Where should I eat tonight?" → Need: top-places.md (1 min)
+- 🔍 **Research validation**: "Why this restaurant?" → Need: notes.md evidence (5 min)
+- 📋 **Overview scan**: "What are all my options?" → Need: candidates.md table (2 min)
+- ❓ **Audit trail**: "Why was X excluded?" → Need: excluded.md (30 sec)
 
-Progressive disclosure prevents:
-- ❌ Overwhelming users with all details upfront
-- ❌ Hiding critical information too deeply
-- ❌ Making quick decisions difficult
-- ❌ Losing traceability of research rationale
+**Progressive disclosure prevents information overload while maintaining traceability.**
 
-### How We Apply It
+### Our 6-File Layered Architecture
 
-#### File Structure (Layered Information)
+Each file = a distinct information layer. Users enter at the layer they need:
 
-```
-overview.md       ← START HERE: Context, strategy, progress (5 min read)
-    ↓
-top-places.md     ← ACTIONABLE: Final recommendations (10 min read)
-    ↓
-candidates.md     ← SUMMARY: Quick scan table (5-10 min read)
-    ↓
-notes.md          ← EVIDENCE: Detailed research (30+ min read)
-    ↓
-inbox.md          ← RAW DATA: Working notes (exploratory)
-    ↓
-excluded.md       ← REJECTED: What was excluded and why (5 min read)
-```
+| File | Purpose | Read Time | When to Use |
+|------|---------|-----------|-------------|
+| **overview.md** | Context & strategy | 5 min | Starting research on new city |
+| **top-places.md** | Final recommendations | 10 min | Planning actual trip, making reservations |
+| **candidates.md** | Summary table | 5 min | Quick scan of all options |
+| **notes.md** | Full evidence | 30+ min | Validating scores, deep research |
+| **inbox.md** | Working notes | N/A | During initial discovery phase |
+| **excluded.md** | Rejection reasons | 5 min | Understanding what was filtered out |
 
-**Each file serves a distinct purpose**:
-- **overview.md**: Quick orientation (5-minute read)
-- **top-places.md**: Decision-making (10-minute read, includes dining strategy)
-- **candidates.md**: Summary table (quick scan, 5-10 minutes, shows all candidates with scores and status)
-- **notes.md**: Detailed evidence (deep dive, 30+ minutes, full research trail for each place)
-- **inbox.md**: Working space (exploratory, always in flux)
-- **excluded.md**: Audit trail (transparency, prevents re-research)
+**Information flow**: overview → top-places → candidates → notes → excluded
 
-#### Within-Document Disclosure
+### Key Rules for Agents
 
-**In candidates.md**:
-1. **Summary table only** (see "Discovery — Candidate Collection" section for complete field list) → quick scan
-2. **No detailed sections** - these belong in notes.md
-3. **Brief notes column** - one-line summary per place (Traditional Chinese)
-4. **English headers required** - table column names must be in English (e.g., "name", "status", "notes") even though content is in Traditional Chinese
+**✅ DO:**
+- Start with conclusions, then provide evidence (inverted pyramid style)
+- Use summaries in higher layers (top-places.md, candidates.md)
+- Keep full details in lower layers (notes.md)
+- Link between layers: "See notes.md for full evidence"
+- Maintain traceability: every decision documented somewhere
 
-**In notes.md**:
-1. **Detailed evidence sections** per place → deep research trail
-2. **Source citations** with URLs → full traceability
-3. **Scoring rationale** → justification for each score component
-4. **Practical information** → reservation, queues, closed days, etc.
+**❌ DON'T:**
+- Duplicate information across files
+- Mix abstraction levels (summaries with detailed evidence)
+- Hide critical information too deep
+- Create files beyond the required 6
 
-**In top-places.md**:
-1. **Top Picks** first (35+ scores) → immediate action
-2. **Backups** second (30-34 scores) → alternatives if needed
-3. **Dining Strategy** → logistics and planning
-4. **To-Do items** → execution checklist
+### Examples
 
-**In overview.md**:
-1. **Travel info** → immediate context
-2. **Food highlights** → city-specific focus
-3. **Strategy** → research approach
-4. **Progress checklist** → current status
+**Good** - Progressive disclosure:
+```markdown
+## top-places.md
+**Trattoria Da Enzo** (38/50) - Authentic Roman cuisine, excellent cacio e pepe
+- Location: Trastevere
+- Reservation: Required, book 1 week ahead
+- See notes.md for detailed scoring rationale
 
-### Guidelines for Agents
-
-When creating or updating documentation:
-
-1. **Start with the answer, then justify**
-   - ✅ "Top Pick: Restaurant X (42/50) - Exceptional pasta, reliable service"
-   - ❌ "After reviewing 15 sources and analyzing 200 reviews... Restaurant X"
-
-2. **Use visual hierarchy**
-   - Headers, scores, and key facts should stand out
-   - Details should be scannable (bullets, short paragraphs)
-   - Full evidence goes in expandable sections or separate files
-
-3. **Link, don't duplicate**
-   - overview.md references top-places.md
-   - top-places.md links to candidates.md for quick scan
-   - candidates.md table rows can reference notes.md for detailed evidence
-   - Avoid copying the same information into multiple files
-
-4. **Respect the reader's journey**
-   - Someone planning their day → starts at top-places.md
-   - Someone wanting a quick overview → checks candidates.md table
-   - Someone questioning a score → digs into notes.md for evidence
-   - Someone auditing research → checks excluded.md
-
-5. **Maintain traceability without overwhelming**
-   - Every score must be justifiable (in notes.md)
-   - Every top pick must have evidence (sources in notes.md)
-   - But candidates.md and top-places.md stay concise with summary info only
-
-### Anti-Patterns to Avoid
-
-- ❌ Putting all research in one massive file
-- ❌ Mixing summary tables with detailed evidence in candidates.md
-- ❌ Hiding final recommendations deep in notes
-- ❌ Forcing readers to read everything to find actionable info
-- ❌ Removing audit trails (deleted places, score changes)
-- ❌ Creating too many layers (more than 6 files per city)
-
-### Example Flow
-
-**Quick Trip Planning (5 minutes)**:
-```
-README.md → [select city] → top-places.md → Done
+## notes.md - Trattoria Da Enzo
+[Full research: sources, scoring breakdown, pros/cons]
 ```
 
-**Quick Candidate Scan (10 minutes)**:
-```
-candidates.md → Scan table with scores and status → Identify priorities
-```
-
-**Reservation Planning (15 minutes)**:
-```
-top-places.md → Check constraints → Make reservations → Update To-Do
+**Bad** - Information overload:
+```markdown
+## top-places.md
+**Trattoria Da Enzo** (38/50)
+[200 lines of reviews, source citations, detailed scoring, all pros/cons]
 ```
 
-**Deep Research Review (1 hour)**:
-```
-overview.md → top-places.md → candidates.md → notes.md → Check all sources → Validate scores
-```
+### Further Reading
 
-**Investigating an Exclusion (5 minutes)**:
-```
-excluded.md → Find place → Read reason → (Optional: check notes.md for full details)
-```
+For deeper understanding of progressive disclosure in documentation design:
+- Anthropic Skills Guide: Three-level loading system (metadata → body → resources)
+- See this document's structure as an example: Quick Reference → detailed sections
 
 ---
 
 ## Workflow (Must Follow)
 
-**This section defines the complete research workflow from start to finish. Follow these steps in order for each city.**
+**Complete research process from start to finish.** Follow these 8 steps in order for each city.
 
-> **💡 Tip:** Start with step 0 for a new city, then iterate through steps 1-5 for each candidate. Complete with step 6 before marking the city as done.
+> **💡 Quick Start**: Most critical steps are 0 (Initialize), 2 (Evidence), 3 (Score), and 6 (Finalize). Steps 1, 4, 5, 7 are supporting processes.
 
-### 0 Initialize City Research
+### Overview of Steps
 
-When starting research for a new city:
+| Step | Name | Purpose | Time | Critical? |
+|------|------|---------|------|-----------|
+| 0 | Initialize | Set up city research | 30 min | ⭐ Yes |
+| 1 | Discovery | Collect candidates | 20 min | Medium |
+| 2 | Evidence | Research each place | 15-20 min/place | ⭐ Yes |
+| 3 | Scoring | Apply 50-point rubric | 10 min/place | ⭐ Yes |
+| 4 | Decision | Apply thresholds | 5 min/place | Medium |
+| 5 | Triage | Document exclusions | 5 min/place | Medium |
+| 6 | Finalize | Create top-places.md | 30 min | ⭐ Yes |
+| 7 | Verify | Completion checks | 10 min | ⭐ Yes |
 
-1. **Create overview.md first** with:
-   - Travel dates and accommodation
-   - Food highlights specific to the city (e.g., Roman pasta, Viennese schnitzel)
-   - Research strategy and priorities
-   - Current progress checklist
-   - Important notes (business hours, holidays, transportation from hotel)
-
-2. **Use web_search to gather initial candidates**:
-   - Search for "best [city cuisine] restaurants [year]"
-   - Search for specific dishes (e.g., "best carbonara Rome")
-   - Search for "best pizza/gelato/dessert in [city]"
-   - Focus on recent guides (2024-2026) and local recommendations
-
-3. **Batch similar searches** to save time:
-   - Do one search for restaurants
-   - One search for pizza/casual dining
-   - One search for desserts/gelato
+**Iteration pattern**: After Step 0, loop through Steps 1-5 for each candidate. Complete with Steps 6-7.
 
 ---
 
-### 1 Discovery — Candidate Collection
+### 0. Initialize City Research
 
-- Search broadly for food, coffee, and dessert places in the city.
-- Record raw findings in:
-  - inbox.md (unstructured, fast capture with quick notes)
-  - and/or candidates.md (structured table)
+**What**: Set up city research foundation with overview.md and initial candidate collection.
 
-**inbox.md structure recommendation**:
-```
-## Category (e.g., 傳統羅馬餐廳)
-1. **Place Name**
-   - 位置：area
-   - 特色：key dishes/unique features
-   - 注意：constraints
-   - 來源：source type
-```
+**Key actions**:
+1. Create overview.md with travel info, food highlights, strategy, progress checklist
+2. Run 3-4 web searches to collect 20+ candidates  
+3. Record findings in inbox.md (fast capture)
 
-**inbox.md lifecycle**:
+**Time**: 30 minutes
 
-inbox.md is the initial exploration workspace with a clear lifecycle:
-
-1. **Exploration Phase** (Research Start → Collection Complete)
-   - Quickly record web_search results
-   - Freely organize by categories (Traditional restaurants, Pizza, Desserts, etc.)
-   - Include brief notes (location, features, constraints, sources)
-   - No need for immediate structuring
-
-2. **Transfer Phase** (Collection Complete → Research In Progress)
-   - Transfer priority candidates (top 3-5) to candidates.md
-   - Set `status: inbox` in candidates.md
-   - Keep other candidates in inbox.md as "pending evaluation list"
-
-3. **Cleanup Phase** (Research Complete → Before Marking Complete)
-   - Confirm all relevant candidates transferred to:
-     - candidates.md (researched or pending research)
-     - excluded.md (explicitly excluded)
-   - Option A: Clear inbox.md, add note at top: "已轉移至 candidates.md"
-   - Option B: Keep inbox.md as historical record, add note at top: "歷史記錄（已轉移）"
-   - **NOT acceptable**: Leaving unprocessed candidates in inbox.md
-
-**inbox.md vs candidates.md**:
-
-| Feature | inbox.md | candidates.md |
-|---------|----------|---------------|
-| Format | Free-form notes | Structured table |
-| Purpose | Initial exploration & collection | Candidate summary & status tracking |
-| Timing | Research beginning | Throughout research |
-| State | Temporary | Permanent |
-| When complete | Clear or mark as historical | Keep all records |
-
-**Required fields per candidate in candidates.md table:**
-- name
-- category (restaurant | cafe | dessert)
-- area / neighborhood
-- type (e.g. pasta, steak, espresso, gelato)
-- google_maps_url (see Google Maps Link Requirement below)
-- status: inbox | researching | shortlisted | rejected | top
-- sources (brief: e.g., "Tripadvisor, Reddit, Michelin")
-- notes (Traditional Chinese, brief summary)
-
-**Optional fields:**
-- score (e.g., "39/50" or "TBD") - can be included for quick reference, though detailed scoring should always be in notes.md
-
-**Google Maps Link Requirement**:
-- ✅ Acceptable formats:
-  - Direct Google Maps links: `https://maps.app.goo.gl/...`
-  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
-- ⚠️ Avoid using:
-  - `https://www.google.com/maps/place/...` (place page URL)
-- ❌ NOT acceptable:
-  - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
-- **How to get direct links**:
-  1. Search for the place on Google Maps
-  2. Click on the specific place to open its info panel
-  3. Click "Share" button
-  4. Copy the short link (maps.app.goo.gl format) OR use search API format
-- Links MUST be tested/verified to point to the correct location
-
-**Prioritization**: Focus on 3-5 top candidates first, then expand. Don't try to research everything at once.
-
-**⚠️ CRITICAL: Preserving candidates.md Table Entries**
-
-**DO NOT delete or remove entries from the candidates.md summary table** unless absolutely necessary for one of the following reasons:
-
-**Acceptable reasons to modify/remove table entries:**
-1. **Duplicate entries**: Same restaurant appears multiple times in table (merge into one entry with combined information)
-2. **Incorrect information**: Restaurant name, location, or category is wrong and needs correction
-3. **Restaurant permanently closed**: Confirmed closure (must note in excluded.md)
-4. **Explicit instruction**: User specifically requests removal
-
-**NEVER remove entries because:**
-- ❌ They are not yet researched (keep as `status: inbox`)
-- ❌ They seem lower priority (move to excluded.md with reason instead)
-- ❌ There are already enough candidates (document decision in excluded.md)
-- ❌ You think they won't be needed (let user decide; move to excluded.md if appropriate)
-
-**Correct workflow for unwanted candidates:**
-1. Keep entry in candidates.md table with `status: rejected`
-2. Add detailed reason to excluded.md under "未進一步研究的候選 (Not Researched Further)" or similar section
-3. Explain why it was not researched (e.g., "已有足夠推薦", "優先級較低", "地點過遠")
-
-**Why this matters:**
-- Preserves research trail and avoids duplicate work
-- Maintains audit trail of all candidates considered
-- Prevents accidental loss of potentially valuable options
-- Allows user to see full scope of research
-
-**When recovering deleted entries:**
-- If entries were accidentally deleted, restore them to the table
-- Add detailed research sections if available
-- Update excluded.md to remove them from "未進一步研究" if they are now researched
+**📖 Full details**: See [references/workflow-detailed.md - Step 0](references/workflow-detailed.md#step-0-initialize-city-research)
 
 ---
 
-### 2 Evidence Collection — Per Place
+### 1. Discovery — Candidate Collection
 
-For each candidate promoted to research:
-- Add a detailed evidence section in `notes.md` (keep it skimmable; link sources).
-- Update the candidates.md table row with brief summary in notes column.
-- Summarize evidence from multiple independent sources.
+**What**: Collect and organize candidate places into structured format.
 
-**Efficient research pattern**:
-1. Use web_search with specific queries: "[Restaurant Name] [City] reviews rating reservation Reddit"
-2. One search often provides Google Maps rating, Tripadvisor reviews, and Reddit sentiment together
-3. Extract key information systematically
-4. Document full evidence in notes.md, update candidates.md table with status and brief summary
+**Key actions**:
+- Transfer top 3-5 candidates from inbox.md to candidates.md table
+- Set `status: inbox` for each new candidate
+- Include: name, category, area, type, google_maps_url, sources, brief notes
 
-Required source types:
-- Google Maps (rating, review count, recurring pros/cons)
-- Tripadvisor or similar aggregator (rating, review count)
-- Reddit (threads/comments; summarize patterns)
-- One or more reputable food or travel guides (Michelin, TimeOut, local blogs)
+**Required fields in candidates.md table**: name | category | area | type | google_maps_url | status | sources | notes
 
-Optional sources:
-- PTT / Dcard / Chinese-language travel blogs (cite clearly if used)
-- Social media mentions (TikTok, Instagram) if aggregated
+**Time**: 20 minutes
 
-Rules:
-- Do NOT fabricate facts or reviews
-- Clearly distinguish:
-  - What sources report (use bullet points with source citations)
-  - Your synthesis or inference (clearly marked)
-- Include actual URLs in sources section
-- Note if information is unavailable (use `unknown`)
+**📖 Full details**: See [references/workflow-detailed.md - Step 1](references/workflow-detailed.md#step-1-discovery--candidate-collection)
 
-**Evidence section template (for notes.md)**:
-```
-### [Place Name]
+---
 
-**Official**: [website URL or "無官方網站"]
+### 2. Evidence Collection — Per Place
 
-**Google Maps**: X.X/5 (Y reviews)
+**What**: Research each candidate thoroughly with multiple sources.
 
-**Tripadvisor**: X.X/5 (Y reviews)
-- [URL]
+**Key actions**:
+- Add detailed evidence section to notes.md for each place
+- Collect from 4+ sources: Google Maps, Tripadvisor, Reddit, Food Guide
+- Document: ratings, pros/cons, practical info (reservation, hours, queues)
+- Handle conflicts and mark uncertainty explicitly
 
-**Other ratings**: [Restaurant Guru, Foursquare, etc.]
+**Template**: See workflow-detailed.md for evidence section template
 
-**Guide sources**:
-- [URLs with brief description]
+**Time**: 15-20 minutes per place
 
-**Reddit sentiment**:
-- [Summarize patterns from multiple threads]
+**📖 Full details**: See [references/workflow-detailed.md - Step 2](references/workflow-detailed.md#step-2-evidence-collection--per-place)
 
-**Recurring pros**:
-- [List from multiple sources]
+---
 
-**Recurring cons**:
-- [List from multiple sources]
+### 3. Scoring — Standard Rubric
 
-**Practical**:
-- reservation requirement: 
-- best visiting time: 
-- closed days:
-- queue:
+**What**: Apply 50-point scoring rubric to each researched place.
 
-**Score (50-point rubric)**:
-- [breakdown]
+**Components** (0-10 each):
+- **Taste/Quality**: Food quality, authenticity, execution
+- **Value**: Price vs quality, portion size
+- **Convenience**: Location, ease of reservation/access
+- **Consistency**: Reliability across reviews
+- **Risk** (10=low): Likelihood of disappointment
+
+**Score interpretation**:
+- **40+**: Excellent → Top Pick
+- **35-39**: Very good → Top Pick
+- **30-34**: Good → Backup
+- **<30**: Consider exclusion
+
+**Time**: 10 minutes per place
+
+**📖 Full details**: See [references/workflow-detailed.md - Step 3](references/workflow-detailed.md#step-3-scoring--standard-rubric)
+
+---
+
+### 4. Decision Rules
+
+**What**: Apply promotion/exclusion thresholds systematically.
+
+**Promotion thresholds**:
+- Score ≥35 → Top Pick (promote to top-places.md)
+- Score 30-34 → Backup (promote to top-places.md)
+
+**Exclusion triggers**:
+- Score <25 → Automatic exclusion
+- Hard triggers: Tourist trap evidence, hygiene concerns, severe service issues, practical impossibility
+
+**Time**: 5 minutes per place
+
+**📖 Full details**: See [references/workflow-detailed.md - Step 4](references/workflow-detailed.md#step-4-decision-rules)
+
+---
+
+### 5. Triage — Exclusion with Reasons
+
+**What**: Mark rejected candidates and document reasons.
+
+**Key actions**:
+- Update candidates.md: `status: rejected`
+- Add entry to excluded.md with clear reason
+- Never delete entries - always document why excluded
+
+**Time**: 5 minutes per rejected place
+
+**📖 Full details**: See [references/workflow-detailed.md - Step 5](references/workflow-detailed.md#step-5-triage--exclusion-with-reasons)
+
+---
+
+### 6. Final Output — Top Picks
+
+**What**: Create finalized top-places.md with recommendations and strategy.
+
+**Required sections**:
+1. **Top Picks** (score 35+): Name, score, area, type, google_maps_url, justification, constraints
+2. **Backups** (score 30-34): Same format as Top Picks
+3. **Dining Strategy**: Time planning, reservation strategy, budget, transportation
+4. **To-Do**: Confirm closures, make reservations, plan schedule
+
+**Organization**: List in descending score order within each section
+
+**Time**: 30 minutes
+
+**📖 Full details**: See [references/workflow-detailed.md - Step 6](references/workflow-detailed.md#step-6-final-output--top-picks)
+
+---
+
+### 7. Post-Research Updates — Documentation Maintenance
+
+**What**: Verify completion and update project-wide documentation.
+
+**Verification steps**:
+1. Run completion verification commands (see below)
+2. Update PROGRESS.md status (⏳ → 📝 → 🔄 → ✅)
+3. Sync README.md with PROGRESS.md
+4. Clean up inbox.md
+5. Update AGENTS.md if workflow improved
+
+**Completion verification commands**:
+```bash
+# All should return 0 except top-places sections (should return 4)
+grep -E "\| inbox \||status:?\s*inbox" gourmet/[city]/candidates.md | wc -l
+grep -E "^#.*待決定|^#.*[Uu]ndecided|TODO|PENDING" gourmet/[city]/excluded.md | wc -l
+grep -E "^## (Top Picks|Backups|Dining Strategy|To-Do)" gourmet/[city]/top-places.md | wc -l  # Should = 4
+grep "\[ \]" gourmet/[city]/overview.md | wc -l
 ```
 
-#### Conflict Handling
+**Time**: 10 minutes
 
-**When sources disagree**, follow this resolution process:
-
-1. **Document the conflict explicitly**:
-   ```markdown
-   **Conflict noted**:
-   - Source A (Google Maps): Claims 4.5/5
-   - Source B (Tripadvisor): Claims 3.5/5
-   - Source C (Reddit): Generally positive mentions
-   ```
-
-2. **Resolution strategy** (in order of preference):
-   - **Recency**: Prefer more recent information (check review dates)
-   - **Majority consensus**: Use most common finding across sources
-   - **Detail level**: Prefer source with more specific information
-   - **Review scale**: Weight by review count/authority (1000+ reviews > 50 reviews)
-
-3. **When unresolvable**:
-   - Mark as `conflicting` in notes.md
-   - Document both sides
-   - Note in scoring rationale that evidence is conflicting
-   - Consider slightly reducing Consistency score (by 1-2 points)
-
-**Common conflict types**:
-- **Hours of operation**: Check official website first, then Google Maps
-- **Reservation requirements**: Call restaurant if critical; otherwise document uncertainty
-- **Price ranges**: Use most recent source; note if prices may have changed
-- **Service quality**: Look for trends over time (recent 6-month pattern vs older reviews)
-
-#### Uncertainty Documentation
-
-**Mark information as uncertain when**:
-- Only one source provides the information
-- Sources conflict without clear resolution
-- Information is outdated (>1 year old for restaurants)
-- Seasonal variation is possible
-
-**Uncertainty labels to use**:
-- `unknown`: No reliable source found
-- `conflicting`: Sources disagree, no clear resolution (see Conflict Handling above)
-- `unverified`: Single source only, not confirmed elsewhere
-- `seasonal`: May vary by season (note which season applies)
-- `outdated`: Based on information >1 year old (note the date)
-
-**Example usage**:
-```markdown
-**Practical**:
-- reservation requirement: required (per Tripadvisor, unverified on official site)
-- best visiting time: conflicting (some sources say lunch is best, others prefer dinner)
-- closed days: unknown (no clear information found across sources)
-- queue: 30-60 min (based on 2024 reviews, possibly outdated)
-```
-
-**Impact on scoring**:
-- High uncertainty should be noted in Risk score rationale
-- Conflicting information about quality → reduce Consistency score
-- Unknown practical information → may reduce Convenience score
+**📖 Full details**: See [references/workflow-detailed.md - Step 7](references/workflow-detailed.md#step-7-post-research-updates--documentation-maintenance)
 
 ---
 
-### 3 Scoring — Standard Rubric
+## Quality Bar & Standards
 
-Each researched place MUST include a 50-point total score:
+**Core principles**: Fewer, high-confidence picks | Multiple sources | Full traceability
 
-- Taste / Quality (0–10): Food quality, authenticity, execution
-- Value (0–10): Price vs quality, portion size
-- Convenience (0–10): Location, ease of reservation/access, opening hours
-- Consistency (0–10): Reliability across reviews, time, visits
-- Risk (0–10; 10 = low risk): Likelihood of disappointment, queue uncertainty, service issues
+**Research standards**:
+- Minimum 4+ sources per place (Google Maps, Tripadvisor, Reddit, Food Guide)
+- Every score must be justifiable with documented evidence
+- Document uncertainty explicitly (use labels: unknown, conflicting, unverified, seasonal, outdated)
 
-**Scoring guidelines**:
-- 40+ = excellent, highly recommended
-- 35-39 = very good, solid choice
-- 30-34 = good, acceptable backup
-- <30 = consider exclusion
-
-Also record:
-- reservation requirement (required | recommended | optional | none | unknown)
-- best visiting time (specific times or "off-peak" etc.)
-- closed days (especially Sunday/Monday)
-- queue expectations (if no reservation)
-
-**Detailed scoring guidance per dimension**:
-
-**Taste/Quality (0-10)**:
-- **9-10**: Exceptional. Michelin-starred or equivalent recognition, consistently outstanding
-- **7-8**: Excellent. Strong reviews, specific dishes highly praised
-- **5-6**: Good. Generally positive, solid execution
-- **3-4**: Acceptable. Mixed reviews, some quality concerns
-- **0-2**: Poor. Multiple quality complaints
-
-**Value (0-10)**:
-- **9-10**: Outstanding value. High quality at low/moderate price
-- **7-8**: Good value. Fair pricing for quality delivered
-- **5-6**: Acceptable. Slightly expensive but justified
-- **3-4**: Poor value. Overpriced for quality
-- **0-2**: Very poor value. Significantly overpriced
-
-**Convenience (0-10)**:
-- **9-10**: Highly convenient. Central location, walk-in friendly, flexible hours
-- **7-8**: Convenient. Accessible, easy reservation, reasonable hours
-- **5-6**: Moderate. Requires some planning, standard hours
-- **3-4**: Inconvenient. Difficult access, complex reservation
-- **0-2**: Very inconvenient. Remote location, very limited hours
-
-**Consistency (0-10)**:
-- **9-10**: Highly consistent. Stable ratings, minimal complaints, long-established
-- **7-8**: Consistent. Reliable quality, few negative reviews
-- **5-6**: Moderately consistent. Some variation, generally reliable
-- **3-4**: Inconsistent. Mixed experiences, hit-or-miss
-- **0-2**: Unreliable. Frequent complaints, significant variation
-
-**Risk (0-10, where 10 = low risk)**:
-- **9-10**: Very low risk. Reliable, predictable, reservation possible
-- **7-8**: Low risk. Generally safe choice, minor uncertainties
-- **5-6**: Moderate risk. Some factors could lead to disappointment
-- **3-4**: Higher risk. Significant potential issues
-- **0-2**: High risk. Multiple red flags or major concerns
-
-**Scoring consistency rules**:
-- Compare within category (restaurants to restaurants, cafes to cafes)
-- Don't penalize casual places for not being fine dining
-- Reserve 9-10 scores for truly exceptional experiences
-- A score of 35-38 is very good; not everything needs to be 40+
-- Document reasoning for every component score
-
----
-
-### 4 Decision Rules
-
-**This section defines clear thresholds and criteria for promoting or excluding candidates.**
-
-#### Promotion Thresholds
-
-**Automatic promotion**:
-- Score ≥35: Promote to Top Pick in top-places.md
-- Score 30-34: Promote to Backup in top-places.md
-
-**Requires justification** (document in notes.md):
-- Score <30 but promoting anyway (explain why)
-- Score ≥35 but NOT promoting (explain why - e.g., category oversaturation, geographic redundancy)
-
-#### Exclusion Thresholds
-
-**Automatic exclusion** (mark as `status: rejected`, document in excluded.md):
-- Score <25: Below quality standard
-- Hard exclusion triggers (regardless of score):
-  - Multi-source evidence of tourist trap (inflated prices, low quality, targets tourists)
-  - Multiple hygiene or safety concerns across sources
-  - Consistent severe service issues (rude staff, frequent errors)
-  - Practical impossibility (always closed during trip, location truly inaccessible)
-
-**Requires consideration** (borderline cases):
-- Score 25-29: Marginal quality. Document decision either way.
-- Score 30-34 with red flags: May exclude despite acceptable score if concerns are significant
-
-#### Decision Documentation
-
-**Every decision must be documented**:
-
-1. **Promoted to Top Pick/Backup**:
-   - Total score with component breakdown in notes.md
-   - Brief justification in top-places.md (one-line)
-   - Update candidates.md: `status: top` or `status: shortlisted`
-
-2. **Rejected/Excluded**:
-   - Score (if calculated) in notes.md or brief note why not scored
-   - Exclusion reason category in excluded.md
-   - Supporting evidence (which sources, what they said)
-   - Update candidates.md: `status: rejected`
-
-3. **Deprioritized** (not researched):
-   - Brief reason in excluded.md under "未進一步研究的候選"
-   - Why not researched (e.g., "已有足夠同類推薦", "優先級較低", "地點較遠")
-   - Keep in candidates.md: `status: rejected`
-
-**Traceability principle**: Every decision must trace back to documented evidence or explicit human judgment.
-
----
-
-### 5 Triage — Exclusion with Reasons
-
-Apply the Decision Rules (Section 4) to each researched candidate.
-
-- Do NOT delete entries silently.
-- Mark excluded places with:
-  - status: rejected
-  - a documented reason
-
-Record exclusions in:
-- excluded.md (primary location for all exclusion reasons)
-- Update candidates.md table with `status: rejected`
-
-**Refer to Section 4 (Decision Rules) for**:
-- Automatic exclusion thresholds (score <25, hard triggers)
-- Borderline case handling (score 25-29)
-- Documentation requirements
-
----
-
-### 6 Final Output — Top Picks
-
-Maintain top-places.md with:
-- Top Picks (high-confidence, score 35+)
-- Backups (good alternatives, score 30-34)
-- Researching (in-progress candidates)
-
-**Organization by score**:
-- List in descending score order within each section
-- Clearly show total score for each place
-
-Each entry MUST include:
-- name
-- type
-- area
-- total score (prominently displayed)
-- google maps link
-- one-line justification (why recommended)
-- constraints (reservation, queues, closed days, price level)
-
-**Google Maps Link Requirement**:
-- Every place in top-places.md MUST have a valid, working Google Maps link
-- See [Section 1: Google Maps Link Requirement](#1-discovery--candidate-collection) for acceptable formats and how to obtain links
-- **Consistency**: Use the same link format from candidates.md to maintain traceability
-
-**Additional sections to include**:
-- Dining Strategy:
-  - Time planning (lunch/dinner hours, local customs)
-  - Reservation strategy (which places need booking, how far in advance)
-  - Budget allocation (price ranges per category)
-  - Transportation from hotel (how to reach different areas)
-- To-Do:
-  - Confirm closed days
-  - Make reservations (with timing)
-  - Plan daily dining schedule
-
----
-
-### 7 Post-Research Updates — Documentation Maintenance
-
-**After completing research for a city, MUST do the following**:
-
-1. **Verify Research Completion Standard** (see [PROGRESS.md - Research Completion Standard](PROGRESS.md#-研究完成標準)):
-   - ✅ All candidates triaged (no `status: inbox` remaining)
-   - ✅ No pending decisions in excluded.md
-   - ✅ top-places.md finalized with Top Picks and Dining Strategy
-   - ✅ overview.md checklist fully marked `[x]`
-   - ✅ inbox.md cleaned up (see step 4 below)
-
-2. **Run verification commands** to confirm completion:
-   ```bash
-   # Should return nothing (no inbox entries)
-   grep -E "\| inbox \||status:?\s*inbox" gourmet/[city]/candidates.md | wc -l
-   
-   # Should return nothing (no pending decisions)
-   grep -E "^#.*待決定|^#.*[Uu]ndecided|TODO|PENDING" gourmet/[city]/excluded.md | wc -l
-   
-   # Should find all 4 required sections
-   grep -E "^## (Top Picks|Backups|Dining Strategy|To-Do)" gourmet/[city]/top-places.md | wc -l
-   
-   # Should return nothing (no unchecked items)
-   grep "\[ \]" gourmet/[city]/overview.md | wc -l
-   ```
-   
-   **Expected results for completed city**:
-   - No inbox entries found ✓
-   - No pending decisions found ✓
-   - All 4 sections found in top-places.md (count = 4) ✓
-   - No unchecked items in overview.md ✓
-
-3. **Update progress tracking**:
-   - Update PROGRESS.md with current status (primary source of truth)
-   - Sync README.md progress table to match PROGRESS.md
-   - Use accurate status icon based on completion criteria:
-     - ⏳ 未開始 → 📝 研究中 → 🔄 待完成 → ✅ 已完成
-   - Only use ✅ when ALL verification commands pass
-   - Update 重點推薦 count
-   - Add relevant notes about research completion
-
-4. **Update AGENTS.md if workflow improved**:
-   - If you discovered a more efficient research method, document it in "Process Improvements (Lessons Learned)"
-   - If you found common patterns or pitfalls, add them to relevant sections
-   - Keep the workflow documentation current with actual practices
-
-5. **Clean up inbox.md**:
-   - Confirm all candidates transferred to candidates.md or excluded.md
-   - Choose one approach:
-     - Option A: Clear inbox.md content, add note at top: "已轉移至 candidates.md (YYYY-MM-DD)"
-     - Option B: Keep as historical record, add note at top: "歷史記錄（已轉移至 candidates.md, YYYY-MM-DD）"
-   - Mark this task complete in overview.md checklist
-
-**Why this matters**:
-- PROGRESS.md serves as the project progress dashboard - it must reflect current reality
-- README.md provides a quick overview that syncs with PROGRESS.md
-- Verification commands provide objective completion criteria
-- Completion standards ensure consistency across all cities
-- AGENTS.md captures institutional knowledge - improvements benefit future research
-- Consistent updates prevent confusion and duplicate work
-
----
-
-## Process Improvements (Lessons Learned)
-
-### Efficient Research Workflow
-
-1. **Start with overview.md** - gives context for all other work
-2. **Batch web searches** - do 3-4 searches to gather 20+ candidates quickly
-3. **Prioritize ruthlessly** - research top 3-5 candidates first with full detail
-4. **Use targeted searches** - "[Place] [City] reviews rating reservation Reddit" gets most info in one query
-5. **Document as you go** - update files incrementally and commit frequently
-
-### Common Patterns to Look For
-
-When researching restaurants:
-- **Tourist trap signals**: Only near major attractions, overly positive generic reviews, no locals mentioned
-- **Authentic signals**: Reddit locals recommend, mixed tourist/local clientele, family-owned, specific dishes praised
-- **Red flags**: Inconsistent service complaints, hygiene issues mentioned multiple times, closed unexpectedly
-- **Green flags**: Michelin/guide mentions, specific dish recommendations, reservation difficulty (shows popularity)
-
-### Time Allocation
-
-For a new city:
-- Overview + inbox collection: 30 minutes
-- Detailed research per place: 15-20 minutes each
-- Target: 5 detailed researches = solid foundation
-- Can expand later with medium-priority candidates
-
-### Top-places.md Strategy
-
-- **Aim for 5-10 top picks per category** for each city (enough variety, not overwhelming)
-- **Include 3-5 backups** (alternatives if top picks unavailable)
-- **Balance categories**: At least one casual option, one special occasion, one dessert/gelato
-- **Geographic spread**: Cover different neighborhoods to match daily itinerary
+**📖 Complete quality standards**: See [references/quality-standards.md](references/quality-standards.md) for:
+- Audit framework and preservation rules
+- Quality assurance checklist
+- Process improvements and lessons learned
+- Common pitfalls to avoid
+- Research questions checklist
 
 ---
 
@@ -940,162 +614,4 @@ For a new city:
 
 ---
 
-## Quality Bar
-
-**Core Principles:**
-- ✅ Prefer fewer, higher-confidence picks
-- ✅ Avoid relying on a single platform
-- ✅ Preserve traceability at all times
-
-**Research Standards:**
-- **Minimum 4+ sources per place**: Google Maps + Tripadvisor + Reddit + Food Guide
-- **Every score must be justifiable**: Document evidence in notes.md
-- **Document uncertainty**: If information conflicts or is unavailable, note it explicitly (see Uncertainty Documentation in Section 2)
-
-### Audit Framework
-
-**Audit trail requirements** - Every research action must leave a trace:
-
-1. **Candidate addition**:
-   - Entry in candidates.md with `status: inbox`
-   - Timestamp captured in git commit
-
-2. **Research conducted**:
-   - Evidence section created in notes.md
-   - Source URLs with descriptions
-   - Status updated to `researching` in candidates.md
-
-3. **Scoring**:
-   - Score breakdown with justification in notes.md
-   - Total score added to candidates.md
-   - All five components documented with evidence
-
-4. **Triage decision**:
-   - Status updated to `shortlisted`, `top`, or `rejected`
-   - If rejected: entry in excluded.md with reason
-   - If promoted: entry in top-places.md
-
-5. **Changes after initial decision**:
-   - Document reason for change in notes.md
-   - Update all affected files (candidates.md, notes.md, top-places.md, excluded.md)
-   - Note reason in git commit message
-
-**Preservation rules**:
-- ❌ NEVER delete candidates from candidates.md (see Section 1 for details)
-- ❌ NEVER remove evidence from notes.md
-- ❌ NEVER hide exclusion reasons
-- ✅ Mark as rejected and document reason instead
-- ✅ Preserve historical scores if recalculated (note the change and reason)
-
-### Quality Assurance Checklist
-
-**Before marking a city as complete, verify**:
-
-- [ ] All candidates have scores or exclusion reasons documented
-- [ ] Every score has evidence justification in notes.md
-- [ ] All sources have working URLs (test links)
-- [ ] No unsupported claims or fabricated data
-- [ ] Conflicts documented and resolved (or marked as conflicting)
-- [ ] Uncertainty explicitly marked with appropriate labels
-- [ ] top-places.md has all required sections (Top Picks, Backups, Dining Strategy, To-Do)
-- [ ] Dining Strategy is practical and complete
-- [ ] All verification commands pass (see Section 7)
-- [ ] PROGRESS.md and README.md updated with current status
-- [ ] Geographic distribution considered (not all in same neighborhood)
-- [ ] Category balance achieved (mix of casual, special occasion, dessert)
-
-**Review focus areas**:
-- Score consistency across similar candidates
-- Evidence quality and sufficiency (4+ sources minimum)
-- Exclusion reason clarity and justification
-- Practical constraint accuracy (check official websites for hours/closures)
-
----
-
-## Common Pitfalls to Avoid
-
-1. **Don't research everything at once** - focus on top candidates first
-2. **Don't skip overview.md** - context is crucial for prioritization
-3. **Don't rely on single sources** - cross-reference at least 3-4 sources
-4. **Don't forget practical constraints** - reservation policies, closed days, queue times matter
-5. **Don't over-optimize scores** - a 35-40 range is realistic for good places; not everything is 45+
-6. **Don't neglect geographic distribution** - consider travel time from hotel
-
-## Research Questions Checklist
-
-For each researched place, ensure you can answer:
-- ✓ What is the exact rating and review count?
-- ✓ What do Reddit users say about it?
-- ✓ What are the signature dishes?
-- ✓ Do I need a reservation? How far in advance?
-- ✓ When is it closed? (day of week)
-- ✓ What is the expected wait time without reservation?
-- ✓ What is the approximate price range?
-- ✓ What are the most common complaints?
-- ✓ Is it touristy or more local?
-
----
-
-## Quick Reference
-
-### File Structure (Per City)
-```
-gourmet/YYYY-MM-DD-city/
-├── overview.md       (5min)  - Context & strategy
-├── top-places.md     (10min) - Final recommendations
-├── candidates.md     (5min)  - Summary table
-├── notes.md          (30min) - Detailed evidence
-├── inbox.md          (working) - Raw capture
-└── excluded.md       (5min)  - Rejected with reasons
-```
-
-### Scoring Rubric (50 points total)
-- **Taste/Quality** (0-10): Food quality, authenticity, execution
-- **Value** (0-10): Price vs quality, portion size
-- **Convenience** (0-10): Location, ease of access/reservation
-- **Consistency** (0-10): Reliability across reviews
-- **Risk** (0-10): Low risk = 10, high risk = 0
-
-**Score Ranges:**
-- 40+: Excellent, highly recommended (Top Pick)
-- 35-39: Very good, solid choice (Top Pick)
-- 30-34: Good, acceptable (Backup)
-- <30: Consider exclusion
-
-### Required Sources (Minimum 4)
-1. Google Maps (rating + review count)
-2. Tripadvisor or similar aggregator
-3. Reddit (threads/comments)
-4. Food/travel guide (Michelin, TimeOut, local blogs)
-
-### Completion Criteria (All Required)
-✅ No `status: inbox` items in candidates.md
-✅ No pending decisions in excluded.md
-✅ top-places.md finalized (Top Picks + Backups + Dining Strategy + To-Do)
-✅ overview.md checklist fully checked `[x]`
-✅ All verification commands pass (see below)
-
-### Key Workflow Steps
-0. **Initialize**: Create overview.md → Use web_search for candidates
-1. **Discover**: Add to candidates.md table (focus on top 3-5 first)
-2. **Research**: Add detailed evidence to notes.md (4+ sources, handle conflicts)
-3. **Score**: Apply 50-point rubric with detailed guidance, document in notes.md
-4. **Decide**: Apply decision rules (promotion/exclusion thresholds)
-5. **Triage**: Mark rejected, document in excluded.md
-6. **Finalize**: Update top-places.md with Top Picks (35+) and Backups (30-34)
-7. **Verify & Update**: Run verification commands, sync PROGRESS.md and README.md
-
-### Verification Commands
-```bash
-# Check for inbox items (should return 0)
-grep -E "\| inbox \||status:?\s*inbox" gourmet/[city]/candidates.md | wc -l
-
-# Check for pending exclusions (should return 0)
-grep -E "^#.*待決定|^#.*[Uu]ndecided|TODO|PENDING" gourmet/[city]/excluded.md | wc -l
-
-# Check top-places.md sections (should return 4)
-grep -E "^## (Top Picks|Backups|Dining Strategy|To-Do)" gourmet/[city]/top-places.md | wc -l
-
-# Check for incomplete overview tasks (should return 0)
-grep "\[ \]" gourmet/[city]/overview.md | wc -l
-```
+**End of AGENTS.md** - See `references/` directory for detailed guides on specific topics.
