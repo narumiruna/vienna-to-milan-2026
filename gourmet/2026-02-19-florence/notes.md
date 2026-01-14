@@ -46,6 +46,16 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 少數評論提及服務可改善
 - 創新風格可能不適合傳統派
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Overpricing concerns**: 頻繁抱怨價格極度昂貴，特別是紅酒加價數百%難以合理化（"wine markups reaching several hundred percent"）
+- **Service problems**: 服務品質不一，部分客人認為缺乏溫暖與個人關懷，描述為「冷淡」或「機械化」（"cold or robotic"）
+- **Upselling pressure**: 部分評論指控員工積極推銷高價酒款或菜單選項
+- **Food inconsistency**: 雖多數肯定，但部分客人認為某些菜色未達期待，特別考慮到價位（"inconsistencies in flavor", "some dishes failed to impress"）
+- **Portion size**: 部分客人認為份量小且整體體驗未達宣傳
+- **Atmosphere**: 環境被認為過於僵硬或做作，影響用餐享受
+- **Value gap**: 核心批評圍繞高成本（特別是酒水）、偶爾服務失誤與可變食物表現
+- **Sources**: Tripadvisor "The problem was the wine prices", "Overpriced and mediocre food!", "Not worth it ! Disappointing and overpriced..."
+
 **Practical**:
 - reservation requirement: required（OpenTable，提前 3-4 週）
 - best visiting time: 晚餐，特殊場合
@@ -197,6 +207,16 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - **僅在 19:30 後接受電話訂位**
 - 菜單每日變化，無固定菜單
 - 可能需等候
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Service issues**: 部分評論提及服務不友善或匆忙，客人感到被催促快速點餐與用餐（"unfriendly or rushed service", "feeling pressured"）
+- **⚠️ Abusive/rude staff**: 少數但嚴重投訴指控員工或老闆粗魯、辱罵或不屑（"abusive owner", "rude or dismissive"）
+- **Food complaints**: 偶爾有「食物差」或「令人失望」的評論，與大多數讚譽矛盾（"bad food"）
+- **Reservation difficulties**: 餐廳極度熱門且小，訂位困難，部分客人對過程感到挫折
+- **Small portions & wait times**: 部分客人提及份量小、等待時間長於預期
+- **Cramped atmosphere**: 桌子極度接近，不適合重視私人空間者
+- **Inconsistency**: 服務品質主要批評點，態度與氛圍偶爾不佳而非食物本身
+- **Sources**: Tripadvisor "Bad service", "Woefully bad experience here.Avoid.", "bad food, abusive owner", "Unimpressive - bad service", Angie Knows The Truth blog
 
 **Practical**:
 - reservation requirement: required（**19:30 後致電** +39 055 293894）
@@ -509,6 +529,16 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 價格略高
 - 觀光客眾多
 - 無座位（僅外帶）
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Long queues**: 排隊時間常達 25-45 分鐘或更久，特別是旺季，部分客人認為「不值得等待」（"not worth the wait"）
+- **⚠️ Rude/unfriendly staff**: 多則評論描述服務人員粗魯、不友善，繁忙時優先順序混亂（"rude workers", "unfriendly staff", "inefficient prioritization"）
+- **Quality inconsistency**: 雖多數讚賞，但部分認為口味不一致，某些口味未達期待
+- **Overhyped affogato**: affogato 被批評過度宣傳，咖啡蓋過 gelato 味道
+- **Not differentiated enough**: 部分客人認為考量等待與價格，與其他在地選擇差異不足
+- **Service detracts from experience**: 差勁員工態度降低整體享受，建議重視服務品質者謹慎考慮
+- **Timing recommendation**: 建議離峰時段前往以避開人潮與服務壓力
+- **Sources**: Tripadvisor "Extremely unfriendly staff, terrible gelato", "Rude workers", "Yummy gelato but terrible service", "Horrible service", "Rude service; overrated gelato", The Florence Insider
 
 **Practical**:
 - reservation requirement: none（排隊）

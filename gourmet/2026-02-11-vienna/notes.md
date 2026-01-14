@@ -67,6 +67,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 價格偏高、偏觀光；尖峰可能需要排/訂位
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Tourist trap consensus**: 多則評論強烈標記為「tourist trap」，主要服務遊客而非在地體驗
+- **Overpriced**: 頻繁抱怨價格過高但品質不相符（"overpriced and not worth the cost"）
+- **Rude service**: 服務態度從「terrible」、「rude」到「slow」、「unwelcoming」，可能因遊客量過大導致員工疲憊或冷漠
+- **Aggressive tipping**: 部分客人反映員工積極索取小費
+- **Food quality**: 少數評論認為食物「不美味」或「未達宣傳水準」（"not tasty", "doesn't live up to the hype"）
+- **Recommendation**: Rick Steves 論壇建議選擇其他分店（如 Plachutta Hietzing 近美泉宮）以獲得更好服務與在地體驗
+- **Sources**: Tripadvisor "Tourist trap with terrible service - avoid", "Overrated tourist trap", Rick Steves Travel Forum
+
 **Practical**: reservation requirement = recommended; best time = 午餐早一點/晚餐早一點; queue = 尖峰可能等位
 
 **Score (preliminary; 50-point rubric)**:
@@ -231,6 +240,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 價格較高；尖峰時段擁擠；部分評論指出食物或服務品質不一致
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Rude/indifferent staff**: 多則評論描述服務人員粗魯、冷漠、只關注小費而非真誠待客（"rude or indifferent staff"）
+- **Slow/poor service**: 長時間等待、員工忽略顧客、訂單被遺忘（"inattentive staff", "long wait times", "forgotten orders"）
+- **Food quality issues**: 咖啡被描述為「淡水般」（watered-down）、Schnitzel 過硬、蛋糕缺乏風味、份量小
+- **Overpriced**: 價格與品質不符，多則評論認為「基本且被高估」（"basic and overrated"）
+- **Tourist-focused**: 感覺更關注從遊客獲利而非維持在地高標準
+- **Inconsistent experience**: 體驗極度不一致，可能取決於時間、日期與特定員工
+- **Sources**: Tripadvisor "Overrated and overpriced", "Unfriendly and not worth it", "The worst service at Landtmann", TheFork reviews
+
 **Practical**: reservation requirement = recommended; best time = 平日或離峰時段; queue = 尖峰時段可能需要等位
 
 **Score (preliminary; 50-point rubric)**:
@@ -320,6 +338,13 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 價格極高（品嚐菜單 €225-245，酒類搭配 €105-120）；訂位困難（需提前數週或數月）
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **Wine pairing issues**: 部分客人不滿酒單搭配選擇（例如主菜搭配加拿大 Cabernet Franc 被認為不適合）
+- **Service inconsistency**: 偶有服務冷淡或匆忙的報告，與餐廳高標準不符
+- **Atmosphere concerns**: 迷宮式樓層設計導致某些座位動線不佳、人流過多影響用餐體驗
+- **Value concerns**: 部分客人認為定價未能完全反映體驗價值，特別是在品嚐菜單彈性方面
+- **Sources**: Tripadvisor negative reviews, TravelsForStars 2025-01 review, Restaurant Guru
+
 **Practical**: reservation requirement = required (提前數週預訂); dress code = smart casual to formal; best time = 彈性選擇日期提高訂位機會
 
 **Score (preliminary; 50-point rubric)**:
@@ -349,6 +374,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 驚喜菜單意味著選擇有限（冒險食客喜歡，挑食者可能不適合）；價格高（品嚐菜單約 €178）；並非所有菜色都能平均討好每位客人
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Allergy handling**: 多則評論警告食物過敏者避免（"DON'T EAT HERE IF YOU HAVE A FOOD ALLERGY"），員工對特殊飲食需求處理不當
+- **Service inconsistency**: 部分客人反映服務冷淡、不夠專業，與米其林二星期待不符
+- **Value concerns**: 少數評論認為價格與體驗不成正比，特別是驚喜菜單中某些菜色（如 Peking Lamb）未達期望
+- **Atmosphere**: 輕鬆藝術風格不符合部分客人對米其林餐廳的傳統奢華期待
+- **Fatigue**: 小份量多道菜可能導致用餐疲勞而非享受
+- **Sources**: Tripadvisor "DON'T EAT HERE IF YOU HAVE A FOOD ALLERGY", "Poor service, food just ok", TrustTheCrowd
+
 **Practical**: reservation requirement = required; opening hours = 週一至週五晚餐 (19:00-00:00)，週六日休息; dress code = smart casual
 
 **Score (preliminary; 50-point rubric)**:
@@ -377,6 +410,13 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **Recurring pros**: 正宗維也納料理（Wiener Schnitzel、goulash、馬鈴薯沙拉、內臟料理）；溫馨熱鬧氛圍；友善服務；價格合理（考量市中心位置）；份量充足
 
 **Recurring cons**: 繁忙時段需預訂；座位舒適度在繁忙夜晚可能受影響；部分常客提到菜色供應有時不一致
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Discriminatory service**: 一則嚴重投訴指控員工「極度歧視性且具攻擊性」（"shockingly discriminatory and aggressive"），特別是經理態度粗魯
+- **Reservation confusion**: 預訂溝通不清，電話告知有某道菜但現場不提供
+- **Crowded & noisy**: 因人氣高且空間小，用餐環境擁擠嘈雜，影響舒適度
+- **Menu availability**: 部分菜色無法供應，與網站或訂位時描述不符
+- **Sources**: Tripadvisor "Shockingly Discriminatory and Aggressive Experience", TrustTheCrowd, The Vienna Review
 
 **Practical**: reservation requirement = recommended; best time = 平日或提早/延後用餐時段; queue = 繁忙時段可能需等位
 
@@ -513,6 +553,16 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Some reviews mention portions could be larger
 - Prices perceived as moderate-high for brunch (though typical for area)
 - Service can slow down during peak times
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **Service issues**: 尖峰時段服務緩慢或不專注，員工顯得不堪重負或「不在意」（"slow or inattentive service", "staff seem overwhelmed or not bothered"）
+- **⚠️ Tourist trap label**: 部分評論標記為「tourist trap」，認為定價過高且體驗未達期待
+- **Crowded & noisy**: 週末特別擁擠嘈雜，座位緊密影響舒適度
+- **Food quality variability**: 偶有食物不夠新鮮或烹調不當（冷掉或過熟）
+- **Portion sizes**: 部分客人認為份量相對價格偏小
+- **Reservation confusion**: 預訂系統有時混亂，包含預訂未被確認或即使預訂仍需長時間等待
+- **Value concerns**: 相對基本呈現與偶爾品質問題，定價被認為過高
+- **Sources**: Tripadvisor "Tourist Trap!", "Great breakfast, shame about the service", "Dissappointing"
 
 **Practical**:
 - reservation requirement: recommended (book online up to 5 hours advance, call +43 1 961 27 82 for same-day or large groups)

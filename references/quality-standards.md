@@ -82,6 +82,7 @@
 
 - [ ] All candidates have scores or exclusion reasons documented
 - [ ] Every score has evidence justification in notes.md
+- [ ] **All top picks (35+) have negative review research documented** with ⚠️ flags for serious issues
 - [ ] All sources have working URLs (test links)
 - [ ] No unsupported claims or fabricated data
 - [ ] Conflicts documented and resolved (or marked as conflicting)
@@ -97,8 +98,37 @@
 
 - Score consistency across similar candidates
 - Evidence quality and sufficiency (4+ sources minimum)
+- **Negative review coverage for all top picks (35+)** - ensures balanced risk assessment
 - Exclusion reason clarity and justification
 - Practical constraint accuracy (check official websites for hours/closures)
+
+### Why Negative Reviews Matter
+
+Even highly-rated restaurants can have serious issues that only appear in negative reviews:
+
+**Critical risks hidden in negative reviews**:
+- 🚫 **Health/Safety**: Allergy handling failures, food poisoning, hygiene violations
+- 🚫 **Discrimination**: Prejudiced treatment, nationality-based service disparities
+- 🚫 **Tourist Traps**: Locals warning to avoid, quality decline, overpricing consensus
+- ⚠️ **Service Patterns**: Consistent rudeness, aggressive tipping, poor treatment of non-regulars
+- ⚠️ **Value Issues**: Price-quality mismatch not apparent from high ratings alone
+
+**Real examples from this project**:
+- Mraz & Sohn (39/50): "DON'T EAT HERE IF YOU HAVE A FOOD ALLERGY" - critical safety warning
+- Roscioli (39/50): "A review from an actual Roman: AVOID! This is a tourist trap"
+- Gasthaus Pöschl (39/50): "Shockingly discriminatory and aggressive experience"
+
+**Without negative review research, users might**:
+- Book restaurants with serious allergy handling issues (health risk)
+- Experience discrimination or rude treatment (emotional distress)
+- Overpay for tourist trap establishments (financial + experience loss)
+- Have unrealistic expectations leading to disappointment
+
+**Best practice**: Research negative reviews AFTER initial scoring (35+) to:
+1. Validate high scores with balanced perspective
+2. Identify and flag serious red flags with ⚠️
+3. Set realistic expectations for users
+4. Provide context for known issues
 
 ---
 
