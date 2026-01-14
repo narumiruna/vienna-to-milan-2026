@@ -6,7 +6,7 @@
 
 ### Essential (Start Here)
 - [Quick Reference](#quick-reference-) ⭐ **START HERE**
-- [Main Purpose (Immutable)](#main-purpose-immutable)
+- [Main Purpose](#main-purpose-immutable)
 - [Agent Mission](#agent-mission)
 - [Getting Started](#getting-started) 🚀
 
@@ -34,7 +34,7 @@
 ### Mission
 Build **evidence-based food recommendations** (restaurants, cafes, desserts) for a 2026-02-10 to 2026-02-28 trip across 5 cities in Austria and Italy.
 
-### Key Constraints (IMMUTABLE)
+### Key Constraints
 - ✈️ Flights, trains, and hotels are **already booked** - do NOT suggest changes
 - 🗓️ Cities and dates are **fixed** - see [Main Purpose](#main-purpose-immutable) for full itinerary
 - 🍽️ Focus **only on food** - not accommodations, transport, or attractions
@@ -125,7 +125,7 @@ Continue researching additional candidates or move to [Workflow](#workflow-must-
 
 ---
 
-## Main Purpose (Immutable)
+## Main Purpose
 
 - The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
 - All flights, trains, and accommodations have already been booked and are FINAL.
@@ -136,7 +136,7 @@ Agents MUST NOT:
 - Reorder cities or modify the travel route
 - Recommend alcoholic beverages or alcohol-focused venues (wine bars, cocktail bars, etc.)
 
-### Flight Itinerary (Immutable)
+### Flight Itinerary
 - TPE→VIE BR61
   - 2/10 22:30 TPE
   - 2/11 08:25 VIE
@@ -147,12 +147,12 @@ Agents MUST NOT:
   - 2/27 11:00 MXP
   - 2/28 05:55 TPE
 
-### Train Itinerary (Immutable)
+### Train Itinerary
 - 2/19 Roma Tiburtina → Firenze S. M. Novella
 - 2/22 Firenze S. M. Novella → Venezia Mestre
 - 2/25 Venezia Mestre → Milano Centrale
 
-### Accommodation (Immutable)
+### Accommodation
 - Vienna: Hilton Vienna Park
 - Rome: Mercure Roma Piazza Bologna
 - Firenze: Hotel Delle Nazioni
