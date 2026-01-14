@@ -613,7 +613,7 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 ## Documentation & Naming Rules
 
-- `AGENTS.md` and `PROGRESS.md` MUST be written in English.
+- `AGENTS.md`, `PROGRESS.md` and `references/*.md` MUST be written in English.
 - Other documents in this repo MUST be primarily in Traditional Chinese (Taiwan).
 - Use English for structured fields and keys (table headers, status values, etc.)
 - Dates must follow ISO format (YYYY-MM-DD)
