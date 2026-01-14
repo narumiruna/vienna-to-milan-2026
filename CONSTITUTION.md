@@ -12,6 +12,14 @@
 - Target cities are **Vienna, Rome, Firenze, Venice, and Milano**.
 - The purpose is **curation and shortlisting**, not general travel planning or itinerary optimization.
 
+## Documentation Principles
+
+- Language MUST be concise and precise; unnecessary verbosity is not allowed.
+- Scope and responsibility boundaries MUST be explicit.
+- Each document MUST have a single, well-defined purpose.
+- Rules MUST be stated in enforceable terms and avoid ambiguity.
+- Foundational rules MUST NOT be duplicated across documents.
+
 ## Research Process
 
 - Research MUST follow an evidence-based approach.
