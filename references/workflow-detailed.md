@@ -190,13 +190,15 @@ For each candidate promoted to research:
 
 ### Negative Review Research (Required)
 
+**Constitutional requirement (CONSTITUTION.md)**: Negative reviews MUST be analyzed for underlying concerns and risk types. High aggregate ratings do NOT indicate low risk without negative review analysis.
+
 **Why critical**: High overall ratings can mask serious issues. Negative reviews reveal:
 - Safety concerns (allergy handling, hygiene)
 - Service problems (discrimination, rudeness)
 - Tourist traps (overpricing, quality decline)
 - Practical issues (long queues, reservation problems)
 
-**Required searches** for each top pick (35+ score):
+**Required searches** for ALL candidates (especially top picks 35+ score):
 1. **web_search**: "[Restaurant Name] [City] negative reviews complaints"
 2. **web_search**: "[Restaurant Name] [City] worst experience problems"
 3. **Review platforms**: Actively read 1-2 star reviews on Tripadvisor
@@ -217,9 +219,9 @@ For each candidate promoted to research:
 - ⚠️ Value Concerns: Consistent complaints about price vs quality
 
 **When to include**: 
-- **Always** for restaurants scoring 35+ (all top picks)
-- **Recommended** for backups (30-34) if time permits
-- **Optional** for excluded items (<30) - already rejected
+- **Always** for ALL candidates (constitutional requirement per CONSTITUTION.md)
+- **Especially critical** for top picks (35+) and potential top picks
+- High ratings do NOT indicate low risk without negative review analysis
 
 ### Optional Sources
 

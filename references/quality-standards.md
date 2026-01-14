@@ -82,7 +82,7 @@
 
 - [ ] All candidates have scores or exclusion reasons documented
 - [ ] Every score has evidence justification in notes.md
-- [ ] **All top picks (35+) have negative review research documented** with ⚠️ flags for serious issues
+- [ ] **All candidates have negative review research documented (constitutional requirement)** with ⚠️ flags for serious issues, especially for top picks (35+)
 - [ ] All sources have working URLs (test links)
 - [ ] No unsupported claims or fabricated data
 - [ ] Conflicts documented and resolved (or marked as conflicting)
@@ -98,11 +98,13 @@
 
 - Score consistency across similar candidates
 - Evidence quality and sufficiency (4+ sources minimum)
-- **Negative review coverage for all top picks (35+)** - ensures balanced risk assessment
+- **Negative review coverage for ALL candidates (constitutional requirement per CONSTITUTION.md)** - ensures balanced risk assessment; high ratings do NOT indicate low risk
 - Exclusion reason clarity and justification
 - Practical constraint accuracy (check official websites for hours/closures)
 
 ### Why Negative Reviews Matter
+
+**CONSTITUTION.md requirement**: Negative reviews MUST be analyzed for underlying concerns and risk types. High aggregate ratings do NOT indicate low risk without negative review analysis.
 
 Even highly-rated restaurants can have serious issues that only appear in negative reviews:
 
@@ -124,10 +126,11 @@ Even highly-rated restaurants can have serious issues that only appear in negati
 - Overpay for tourist trap establishments (financial + experience loss)
 - Have unrealistic expectations leading to disappointment
 
-**Best practice**: Research negative reviews AFTER initial scoring (35+) to:
-1. Validate high scores with balanced perspective
-2. Identify and flag serious red flags with ⚠️
-3. Set realistic expectations for users
+**Best practice**: Research negative reviews for ALL candidates (constitutional requirement):
+1. Required for ALL candidates, especially critical for potential top picks (35+)
+2. Identify and flag serious red flags with 🚫 or ⚠️
+3. Set realistic expectations and inform risk assessment
+4. Remember: High ratings do NOT guarantee low risk
 4. Provide context for known issues
 
 ---
