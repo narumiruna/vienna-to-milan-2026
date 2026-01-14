@@ -8,47 +8,35 @@
 ## Project Objective
 
 - Build **evidence-based food recommendations** limited to restaurants, cafes, and desserts.
-- Target trip period is **2026-02-10 → 2026-02-28**.
-- Target region is **Austria & Italy**.
+- Target trip period is **2026-02-11 → 2026-02-28**.
+- Target cities are **Vienna, Rome, Firenze, Venice, and Milano**.
 - The purpose is **curation and shortlisting**, not general travel planning or itinerary optimization.
+
+## Research Process
+
+- Research MUST follow an evidence-based approach.
+- Candidate places MUST be discovered before evaluation.
+- Evaluation MUST be based on multiple independent sources.
+- Negative reviews MUST be analyzed for their underlying concerns and risk types, not treated as noise or outliers.
+- High aggregate ratings MUST NOT be assumed to reflect low risk without negative review analysis.
+- Candidates MUST be triaged into shortlist or exclusion.
+- Final outputs MUST reflect comparative judgment, not raw listings.
 
 ## Non-Negotiable Constraints
 
-- All flights, trains, and accommodations are **already booked** and MUST NOT be changed, rebooked, or reordered.
 - Cities, dates, and travel order are **fixed** and treated as immutable inputs.
 - The project scope is **food only**; accommodations, transport, attractions, shopping, and nightlife are excluded.
 - **Alcohol is excluded**; alcoholic beverages and alcohol-focused venues are not allowed, while food-focused venues that incidentally serve alcohol are acceptable.
 
-## Immutable Itinerary Reference
+## Itinerary Reference
 
-- This section is factual reference only and MUST NOT be altered, reinterpreted, or optimized.
-
-### Flights
-
-- TPE → VIE (BR61)
-  - 2026-02-10 22:30 (TPE) → 2026-02-11 08:25 (VIE)
-- VIE → FCO (OS557)
-  - 2026-02-13 17:40 (VIE) → 2026-02-13 19:15 (FCO)
-- MXP → TPE (BR96)
-  - 2026-02-27 11:00 (MXP) → 2026-02-28 05:55 (TPE)
-
-### Trains
-
-- 2026-02-19 Roma Tiburtina → Firenze S. M. Novella
-- 2026-02-22 Firenze S. M. Novella → Venezia Mestre
-- 2026-02-25 Venezia Mestre → Milano Centrale
-
-### Accommodations
-
-- Vienna: Hilton Vienna Park
-- Rome: Mercure Roma Piazza Bologna
-- Firenze: Hotel Delle Nazioni
-- Venice: Hotel Plaza Venice
-- Milano: Hotel ibis Milano Centro
+- 2/11 - 2/13, 2 nights, Vienna, Hilton Vienna Park
+- 2/13 - 2/19, 6 nights, Rome, Mercure Roma Piazza Bologna
+- 2/19 - 2/22, 3 nights, Firenze, Hotel Delle Nazioni
+- 2/22 - 2/25, 3 nights, Venice, Hotel Plaza Venice
+- 2/25 - 2/28, 3 nights, Milano, Hotel ibis Milano Centro
 
 ## Interpretation Rule
 
-- This document has the highest priority within the project.
-- In the event of any conflict, CONSTITUTION.md overrides all other files.
 - AGENTS.md defines **how to operate**.
 - CONSTITUTION.md defines **what must never be violated**.
