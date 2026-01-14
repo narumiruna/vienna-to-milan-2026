@@ -1,8 +1,15 @@
 # Instructions for Agents
 
-> **New to this project?** Start with the [Quick Reference](#quick-reference-) below for essential information, then explore detailed sections as needed.
+## Constitutional Prerequisite
+
+- `CONSTITUTION.md` is the highest authority in this project.
+- Agents MUST read and comply with the constitution before taking any action.
+- All actions, outputs, and changes MUST NOT violate `CONSTITUTION.md`.
+- Any violation renders the output **invalid**.
 
 ## Table of Contents
+
+> **New to this project?** Start with the [Quick Reference](#quick-reference-) below for essential information, then explore detailed sections as needed.
 
 ### Essential (Start Here)
 - [Quick Reference](#quick-reference-) ⭐ **START HERE**
