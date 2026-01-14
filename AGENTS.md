@@ -57,6 +57,7 @@ gourmet/YYYY-MM-DD-city/
 - **Research**: Document evidence in notes.md (4+ sources minimum)
 - **⚠️ Negative Reviews**: Search complaints, worst experiences for all top picks (35+)
 - **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
+- **🔄 Update Cascade**: If negative reviews found → Update scores → Update status → Sync all files
 - **Decide**: Promote (35+) or exclude (<30) based on thresholds
 - **Triage**: Mark rejected, document reasons in excluded.md
 - **Finalize**: Update top-places.md with Top Picks and Dining Strategy
@@ -85,6 +86,7 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 
 ### When You Need More Detail
 - **Workflow details** → See [Workflow](#workflow-must-follow) section, or [references/workflow-detailed.md](references/workflow-detailed.md) for complete step-by-step instructions
+- **Negative review workflow** → See [Negative Review Impact](#negative-review-impact--score--status-updates) for complete cascade update process
 - **Scoring guidance** → See [Scoring — Standard Rubric](#scoring--standard-rubric)
 - **Quality standards** → See [Quality Bar](#quality-bar--standards), or [references/quality-standards.md](references/quality-standards.md) for audit framework and checklists
 - **Template usage** → See [Documentation Templates](#documentation-templates)
@@ -532,6 +534,70 @@ For deeper understanding of progressive disclosure in documentation design:
 **Time**: 5 minutes per place
 
 **📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#decision-rules)
+
+---
+
+### Negative Review Impact — Score & Status Updates
+
+**What**: After adding negative review research, systematically update scores and venue status across all documentation files.
+
+**Required Workflow** (Must follow this sequence):
+
+1. **Add Negative Reviews to notes.md**
+   - Research complaints, worst experiences, red flags
+   - Add "Negative reviews / complaints" section with research date
+   - Use 🚫 for critical issues (hygiene, discrimination, safety)
+   - Use ⚠️ for moderate concerns (service, value, inconsistency)
+   - Cite specific sources (Tripadvisor reviews, Reddit threads)
+
+2. **Reassess & Update Scores in notes.md**
+   - **Lower Risk score** based on severity (🚫 issues: -2 to -3 points, ⚠️ issues: -1 to -2 points)
+   - **Lower Quality score** if food quality issues documented (-1 to -2 points)
+   - **Lower Value score** if overpricing/tourist trap evidence (-1 to -2 points)
+   - **Lower Consistency score** if experience highly variable (-1 point)
+   - **Recalculate Total** and add "DOWNGRADED" status marker if changed
+   - Example: `**Total: 32/50** (原35，降3分因服務嚴重問題)` with `**Status**: ⚠️ **DOWNGRADED**`
+
+3. **Update Status in candidates.md**
+   - If new score <30: Change status from `top`/`shortlisted` → `rejected` or `backup`
+   - If new score 30-34: Change status from `top` → `backup`
+   - Add warning note in notes column: `⚠️ DOWNGRADED XX→YY/50：[reason]`
+   - Example: `⚠️ DOWNGRADED 36→30/50：衛生問題、tourist trap、極差服務`
+
+4. **Synchronize top-places.md**
+   - **If downgraded to backup (<35)**: Move venue from "Top Picks" section to "Backups" section
+   - **Update venue entry**: Add ⚠️ or 🚫 symbol, update score, add risk warning field
+   - **Update dining strategy**: Remove from primary recommendations in itineraries, budget tables, reservation lists
+   - **Mark severely problematic venues**: Use "不建議" (not recommended) for hygiene/safety issues
+   - Example format:
+     ```markdown
+     #### Venue Name (32/50) ⚠️
+     - **total score**: 32/50 (⚠️ DOWNGRADED from 35/50)
+     - **risk warning**: ⚠️ [Specific issues] - [Details]
+     ```
+
+5. **Update excluded.md** (if rejecting entirely)
+   - If score drops below threshold or severe issues found
+   - Document reason clearly with reference to negative review findings
+
+**Critical Rules**:
+- ✅ **Always** complete all 4 steps (or 5 if excluding) for consistency
+- ✅ **Never** update just one file - all must stay synchronized
+- ✅ Scores of 35-36 with 2+ 🚫 critical issues → Strong candidate for downgrade
+- ✅ Hygiene issues (🚫) → Typically warrant rejection or "not recommended" status
+- ⚠️ **Risk**: Updating only notes.md without updating candidates.md and top-places.md creates inconsistency
+
+**Time**: 10-15 minutes per affected venue (all files)
+
+**Example Cascade**:
+```
+Bitzinger Würstelstand negative reviews found
+→ notes.md: Add negative section with 3🚫 (hygiene, tourist trap, service)
+→ notes.md: Lower scores (Risk 6→3, Value 7→5, Consistency 7→6) = 36→30/50
+→ candidates.md: Change status `top` → `backup`, add warning
+→ top-places.md: Move from "餐廳 Top Picks" to "Backups", mark 🚫 "不建議"
+→ top-places.md: Remove from itineraries, budget table, recommendations
+```
 
 ---
 
