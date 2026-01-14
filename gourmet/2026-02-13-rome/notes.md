@@ -1063,13 +1063,14 @@ Medium priority:
 - queue: likely without reservation, especially weekends
 - price range: €10-20 per person
 
-**Score (50-point rubric)**:
-- Taste / Quality: 8/10 (excellent European-style breakfast, quality ingredients)
-- Value: 6/10 (moderate-high prices, some portions small)
-- Convenience: 7/10 (central location near Piazza Navona, reservation needed)
-- Consistency: 7/10 (food quality consistent, service feedback mixed)
-- Risk (10 = low risk): 7/10 (reservation challenges, pricing expectations)
-- **Total: 35/50**
+**Score (50-point rubric)** - **Revised after negative review research**:
+- Taste / Quality: 7/10 (降1分：未煮熟食物、品質問題)
+- Value: 6/10
+- Convenience: 7/10
+- Consistency: 6/10 (降1分：服務與食物品質不穩定)
+- Risk (10 = low risk): 6/10 (降1分：服務與食物風險)
+- **Total: 32/50** (原35，降3分因服務與食物品質問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to service and food quality issues
 
 ---
 

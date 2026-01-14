@@ -186,13 +186,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Practical**: reservation requirement = none; best time = 非尖峰/當作轉場點; queue = 可能但通常周轉快
 
-**Score (preliminary; 50-point rubric)**:
+**Score (50-point rubric)** - **Revised after negative review research**:
 - Taste / Quality: 7/10
-- Value: 7/10
+- Value: 5/10 (降2分：極端高價案例與價值疑慮)
 - Convenience: 9/10
-- Consistency: 7/10
-- Risk (10 = low risk): 6/10
-- **Total: 36/50**
+- Consistency: 6/10 (降1分：服務與品質不穩定)
+- Risk (10 = low risk): 3/10 (降3分：衛生問題、tourist trap、服務極差)
+- **Total: 30/50** (原36，降6分因衛生與服務嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to hygiene concerns and service issues
 
 ---
 
@@ -326,13 +327,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Practical**: reservation requirement = recommended (尖峰時段); best time = 早餐或下午茶時段; queue = 尖峰時段可能需等位
 
-**Score (preliminary; 50-point rubric)**:
-- Taste / Quality: 7/10
-- Value: 7/10
+**Score (50-point rubric)** - **Revised after negative review research**:
+- Taste / Quality: 6/10 (降1分：冷食、品質差、「最差 strudel」)
+- Value: 6/10 (降1分：價格未能反映品質)
 - Convenience: 8/10
-- Consistency: 6/10
-- Risk (10 = low risk): 7/10
-- **Total: 35/50**
+- Consistency: 5/10 (降1分：服務與食物品質極不穩定)
+- Risk (10 = low risk): 6/10 (降1分：服務與食物品質風險)
+- **Total: 31/50** (原35，降4分因服務與食物嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to service and food quality issues
 
 ---
 
@@ -473,13 +475,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Practical**: reservation requirement = recommended; best time = 非尖峰時段，或選擇熟食櫃檯快速用餐; queue = 午餐/週末尖峰時段可能排隊
 
-**Score (preliminary; 50-point rubric)**:
+**Score (50-point rubric)** - **Revised after negative review research**:
 - Taste / Quality: 8/10
 - Value: 6/10
 - Convenience: 7/10
-- Consistency: 7/10
-- Risk (10 = low risk): 7/10
-- **Total: 35/50**
+- Consistency: 6/10 (降1分：服務評價不一致)
+- Risk (10 = low risk): 5/10 (降2分：服務問題普遍且態度惡劣)
+- **Total: 32/50** (原35，降3分因服務嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to consistent service complaints
 
 ---
 
