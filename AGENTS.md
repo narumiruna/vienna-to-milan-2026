@@ -2,10 +2,21 @@
 
 ## Constitutional Prerequisite
 
-- `CONSTITUTION.md` is the highest authority in this project.
-- Agents MUST read and comply with the constitution before taking any action.
-- All actions, outputs, and changes MUST NOT violate `CONSTITUTION.md`.
-- Any violation renders the output **invalid**.
+**REQUIRED READING**: All agents MUST read and comply with **[CONSTITUTION.md](CONSTITUTION.md)** before taking any action.
+
+**Key Points**:
+- CONSTITUTION.md defines **what must never change** (immutable facts, non-negotiable constraints)
+- AGENTS.md defines **how to operate** (workflows, methods, standards)
+- In any conflict, CONSTITUTION.md overrides AGENTS.md and all other documents
+- Any action, output, or change that violates CONSTITUTION.md is **invalid**
+
+**Constitutional Scope**:
+- Project objective and boundaries
+- Immutable travel itinerary (flights, trains, accommodations)
+- Fixed dates and city sequence
+- Scope constraints (food only, no alcohol, no itinerary changes)
+
+**For complete details, see [CONSTITUTION.md](CONSTITUTION.md)**
 
 ## Table of Contents
 
@@ -13,7 +24,7 @@
 
 ### Essential (Start Here)
 - [Quick Reference](#quick-reference-) ⭐ **START HERE**
-- [Main Purpose](#main-purpose-immutable)
+- [Project Foundation](#project-foundation)
 - [Agent Mission](#agent-mission)
 - [Getting Started](#getting-started) 🚀
 
@@ -39,13 +50,14 @@
 **Read this first.** Everything you need for 80% of tasks.
 
 ### Mission
-Build **evidence-based food recommendations** (restaurants, cafes, desserts) for a 2026-02-10 to 2026-02-28 trip across 5 cities in Austria and Italy.
+Build **evidence-based food recommendations** (restaurants, cafes, desserts) for the trip defined in **[CONSTITUTION.md](CONSTITUTION.md)**.
 
 ### Key Constraints
-- ✈️ Flights, trains, and hotels are **already booked** - do NOT suggest changes
-- 🗓️ Cities and dates are **fixed** - see [Main Purpose](#main-purpose-immutable) for full itinerary
-- 🍽️ Focus **only on food** - not accommodations, transport, or attractions
-- 🚫 **No alcoholic beverages** - exclude wine bars, cocktail bars, and alcohol-focused venues
+**All constraints are defined in [CONSTITUTION.md](CONSTITUTION.md)**. Summary:
+- ✈️ Travel logistics **already booked and immutable**
+- 🗓️ Cities, dates, and sequence **fixed**
+- 🍽️ Scope: **food only** (restaurants, cafes, desserts)
+- 🚫 **No alcohol** (exclude wine bars, cocktail bars, alcohol-focused venues)
 
 ### File Structure (Per City)
 ```
@@ -107,9 +119,9 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 **First time working on a city? Follow this minimal path:**
 
 ### Step 1: Understand Context (5 minutes)
-1. Read [Main Purpose](#main-purpose-immutable) - Know what's fixed
+1. Read **[CONSTITUTION.md](CONSTITUTION.md)** - Understand immutable constraints
 2. Check [Project Scope](#project-scope) - Know what's in/out of scope
-3. Review city dates and hotel in PROGRESS.md
+3. Review city dates in PROGRESS.md
 
 ### Step 2: Initialize City (30 minutes)
 1. Create `overview.md` first (see [Initialize City Research](#initialize-city-research))
@@ -132,108 +144,40 @@ Continue researching additional candidates or move to [Workflow](#workflow-must-
 
 ---
 
-## Main Purpose
+## Project Foundation
 
-- The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
-- All flights, trains, and accommodations have already been booked and are FINAL.
+**All immutable facts and constraints are defined in [CONSTITUTION.md](CONSTITUTION.md).**
 
-Agents MUST NOT:
-- Suggest changing flights, trains, accommodations, or travel dates
-- Suggest alternative hotels or rebooking transport
-- Reorder cities or modify the travel route
-- Recommend alcoholic beverages or alcohol-focused venues (wine bars, cocktail bars, etc.)
-
-### Flight Itinerary
-- TPE→VIE BR61
-  - 2/10 22:30 TPE
-  - 2/11 08:25 VIE
-- VIE→FCO OS557
-  - 2/13 17:40 VIE
-  - 2/13 19:15 FCO
-- MXP→TPE BR96
-  - 2/27 11:00 MXP
-  - 2/28 05:55 TPE
-
-### Train Itinerary
-- 2/19 Roma Tiburtina → Firenze S. M. Novella
-- 2/22 Firenze S. M. Novella → Venezia Mestre
-- 2/25 Venezia Mestre → Milano Centrale
-
-### Accommodation
-- Vienna: Hilton Vienna Park
-- Rome: Mercure Roma Piazza Bologna
-- Firenze: Hotel Delle Nazioni
-- Venice: Hotel Plaza Venice
-- Milano: Hotel ibis Milano Centro
+Agents must reference CONSTITUTION.md for project objective, travel dates, itinerary, and all non-negotiable constraints.
 
 ## Agent Mission
 
-Build and maintain a **high-quality, evidence-based food shortlist** for each city.
-
-**Coverage:**
-- 🍽️ Restaurants
-- ☕ Cafes
-- 🍰 Dessert shops
-
-**Exclusions:**
-- 🚫 No alcoholic beverages (wine, beer, cocktails)
-- 🚫 No alcohol-focused venues (wine bars, cocktail bars, breweries)
+Build and maintain a **high-quality, evidence-based food shortlist** for each city per CONSTITUTION.md scope.
 
 **Quality Standards - All recommendations must be:**
 - ✅ **Traceable**: Sources linked with URLs
 - ✅ **Comparable**: Shared 50-point scoring rubric
 - ✅ **Auditable**: Decisions and exclusions documented
 - ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
+- ✅ **Constitutional**: Compliant with CONSTITUTION.md constraints
 
 ---
 
 ## Project Scope
 
-### In Scope
+**Foundation**: All immutable constraints are defined in **[CONSTITUTION.md](CONSTITUTION.md)**. This section provides operational context for research execution.
 
-**Primary Objective**: Build evidence-based food recommendations for a trip from 2026-02-10 to 2026-02-28.
-
-**Target Cities**:
-- Vienna (2026-02-11 to 2026-02-13)
-- Rome (2026-02-13 to 2026-02-19)
-- Florence (2026-02-19 to 2026-02-22)
-- Venice (2026-02-22 to 2026-02-25)
-- Milan (2026-02-25 to 2026-02-27)
-
-**Categories Covered**:
-- Restaurants (all cuisine types including fine dining, traditional, casual)
-- Cafes (coffee, tea, light meals)
-- Dessert shops (gelato, pastries, tiramisu, traditional sweets)
-
-**Research Deliverables**:
+### Research Deliverables
 - Scored candidate list with evidence (candidates.md + notes.md)
 - Top picks and backup recommendations (top-places.md)
 - Practical constraints (reservations, hours, closures, queues)
 - Exclusion rationale for rejected candidates (excluded.md)
 - Dining strategy per city (timing, budget, logistics)
 
-### Out of Scope
+### Operational Guidance
+**Focus**: Food venues within constitutional scope - research quality, value, consistency, and practical logistics.
 
-**Not Researched**:
-- Accommodations (already booked, see Main Purpose)
-- Transportation between cities (already booked)
-- Non-food activities or tourist attractions
-- Shopping (unless food-related like markets)
-- Nightlife (bars, clubs) unless food-focused
-- **Alcoholic beverages and alcohol-focused venues** (wine bars, cocktail bars, breweries, wine tastings)
-- Cities outside the five target cities
-
-**Fixed Constraints** (not modifiable by research):
-- Travel dates: 2026-02-10 to 2026-02-28
-- Flight itinerary (TPE→VIE, VIE→FCO, MXP→TPE)
-- Train itinerary (Roma→Firenze, Firenze→Venezia, Venezia→Milano)
-- Hotel locations (see Main Purpose for details)
-- No alcoholic beverages preference
-
-**Scope Management**:
-- Research must stay focused on food recommendations
-- Avoid mission creep into general travel planning
-- When uncertain if something is in scope, refer back to Primary Objective
+**Scope Management**: Stay focused on food recommendations. When uncertain, defer to CONSTITUTION.md.
 
 ---
 
@@ -696,9 +640,23 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 ---
 
+## Constitutional Compliance
+
+**Before completing any task, verify:**
+1. ✅ No recommendations violate CONSTITUTION.md constraints (no alcohol venues, no itinerary changes)
+2. ✅ All research stays within constitutional scope (food only)
+3. ✅ No outputs suggest modifying immutable facts (dates, bookings, city order)
+4. ✅ When in doubt, re-read CONSTITUTION.md
+
+**Remember**: Any output that violates CONSTITUTION.md is considered **invalid** regardless of quality.
+
+---
+
 ## Further Reading
 
 **End of AGENTS.md** - For detailed guides, see the `references/` directory:
 - **[references/README.md](references/README.md)** - Navigation guide and progressive disclosure explanation
 - **[references/workflow-detailed.md](references/workflow-detailed.md)** - Complete step-by-step workflow instructions
 - **[references/quality-standards.md](references/quality-standards.md)** - Quality bar, audit framework, and best practices
+
+**Constitutional Authority**: **[CONSTITUTION.md](CONSTITUTION.md)** - Project constitution and supreme authority
