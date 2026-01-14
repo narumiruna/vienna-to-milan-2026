@@ -11,14 +11,14 @@ AGENTS.md provides core instructions and workflow overview. When you need deeper
 ### [workflow-detailed.md](workflow-detailed.md)
 **Complete step-by-step workflow instructions**
 
-- Step 0: Initialize City Research
-- Step 1: Discovery — Candidate Collection  
-- Step 2: Evidence Collection — Per Place
-- Step 3: Scoring — Standard Rubric
-- Step 4: Decision Rules
-- Step 5: Triage — Exclusion with Reasons
-- Step 6: Final Output — Top Picks
-- Step 7: Post-Research Updates — Documentation Maintenance
+- Initialize City Research
+- Discovery — Candidate Collection  
+- Evidence Collection — Per Place
+- Scoring — Standard Rubric
+- Decision Rules
+- Triage — Exclusion with Reasons
+- Final Output — Top Picks
+- Post-Research Updates — Documentation Maintenance
 
 **When to read**: When executing research tasks and you need specific guidance beyond the workflow summary in AGENTS.md.
 
@@ -79,16 +79,16 @@ quality-standards.md (Audit & best practices)
 
 **Scenario 1: Starting new city research**
 - Read AGENTS.md Quick Reference
-- Follow Step 0 summary in AGENTS.md
-- If unclear about inbox.md lifecycle → Open workflow-detailed.md Step 1
+- Follow Initialize summary in AGENTS.md
+- If unclear about inbox.md lifecycle → Open workflow-detailed.md Discovery section
 
 **Scenario 2: Scoring a borderline candidate**
 - Check scoring summary in AGENTS.md (40+, 35-39, 30-34, <30)
-- Need detailed guidance per dimension → Open workflow-detailed.md Step 3
+- Need detailed guidance per dimension → Open workflow-detailed.md Scoring section
 - See Taste/Quality 9-10 vs 7-8 criteria
 
 **Scenario 3: Completing city research**
-- Run verification commands from AGENTS.md Step 7
+- Run verification commands from AGENTS.md
 - If audit fails → Open quality-standards.md
 - Review Quality Assurance Checklist section
 
@@ -124,7 +124,7 @@ When updating these references:
 
 **Time**: 15-20 minutes per place
 
-📖 Full details: See [references/workflow-detailed.md - Step 2](references/workflow-detailed.md#step-2-evidence-collection--per-place)
+📖 Full details: See [references/workflow-detailed.md](references/workflow-detailed.md#evidence-collection--per-place)
 ```
 
 ---
