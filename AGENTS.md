@@ -2,10 +2,21 @@
 
 ## Constitutional Prerequisite
 
-- `CONSTITUTION.md` is the highest authority in this project.
-- Agents MUST read and comply with the constitution before taking any action.
-- All actions, outputs, and changes MUST NOT violate `CONSTITUTION.md`.
-- Any violation renders the output **invalid**.
+**REQUIRED READING**: All agents MUST read and comply with **[CONSTITUTION.md](CONSTITUTION.md)** before taking any action.
+
+**Key Points**:
+- CONSTITUTION.md defines **what must never change** (immutable facts, non-negotiable constraints)
+- AGENTS.md defines **how to operate** (workflows, methods, standards)
+- In any conflict, CONSTITUTION.md overrides AGENTS.md and all other documents
+- Any action, output, or change that violates CONSTITUTION.md is **invalid**
+
+**Constitutional Scope**:
+- Project objective and boundaries
+- Immutable travel itinerary (flights, trains, accommodations)
+- Fixed dates and city sequence
+- Scope constraints (food only, no alcohol, no itinerary changes)
+
+**For complete details, see [CONSTITUTION.md](CONSTITUTION.md)**
 
 ## Table of Contents
 
@@ -13,7 +24,7 @@
 
 ### Essential (Start Here)
 - [Quick Reference](#quick-reference-) ⭐ **START HERE**
-- [Main Purpose](#main-purpose-immutable)
+- [Project Foundation](#project-foundation)
 - [Agent Mission](#agent-mission)
 - [Getting Started](#getting-started) 🚀
 
@@ -39,13 +50,14 @@
 **Read this first.** Everything you need for 80% of tasks.
 
 ### Mission
-Build **evidence-based food recommendations** (restaurants, cafes, desserts) for a 2026-02-10 to 2026-02-28 trip across 5 cities in Austria and Italy.
+Build **evidence-based food recommendations** (restaurants, cafes, desserts) for the trip defined in **[CONSTITUTION.md](CONSTITUTION.md)**.
 
 ### Key Constraints
-- ✈️ Flights, trains, and hotels are **already booked** - do NOT suggest changes
-- 🗓️ Cities and dates are **fixed** - see [Main Purpose](#main-purpose-immutable) for full itinerary
-- 🍽️ Focus **only on food** - not accommodations, transport, or attractions
-- 🚫 **No alcoholic beverages** - exclude wine bars, cocktail bars, and alcohol-focused venues
+**All constraints are defined in [CONSTITUTION.md](CONSTITUTION.md)**. Summary:
+- ✈️ Travel logistics **already booked and immutable**
+- 🗓️ Cities, dates, and sequence **fixed**
+- 🍽️ Scope: **food only** (restaurants, cafes, desserts)
+- 🚫 **No alcohol** (exclude wine bars, cocktail bars, alcohol-focused venues)
 
 ### File Structure (Per City)
 ```
@@ -107,9 +119,9 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 **First time working on a city? Follow this minimal path:**
 
 ### Step 1: Understand Context (5 minutes)
-1. Read [Main Purpose](#main-purpose-immutable) - Know what's fixed
+1. Read **[CONSTITUTION.md](CONSTITUTION.md)** - Understand immutable constraints
 2. Check [Project Scope](#project-scope) - Know what's in/out of scope
-3. Review city dates and hotel in PROGRESS.md
+3. Review city dates in PROGRESS.md
 
 ### Step 2: Initialize City (30 minutes)
 1. Create `overview.md` first (see [Initialize City Research](#initialize-city-research))
@@ -132,39 +144,18 @@ Continue researching additional candidates or move to [Workflow](#workflow-must-
 
 ---
 
-## Main Purpose
+## Project Foundation
 
-- The main purpose of this project is to plan a trip from 2026-02-10 to 2026-02-28, especially focusing on food.
-- All flights, trains, and accommodations have already been booked and are FINAL.
+**All immutable facts and constraints are defined in [CONSTITUTION.md](CONSTITUTION.md).**
 
-Agents MUST NOT:
-- Suggest changing flights, trains, accommodations, or travel dates
-- Suggest alternative hotels or rebooking transport
-- Reorder cities or modify the travel route
-- Recommend alcoholic beverages or alcohol-focused venues (wine bars, cocktail bars, etc.)
+This includes:
+- Project objective (evidence-based food recommendations)
+- Travel period (2026-02-10 to 2026-02-28)
+- Target region (Austria & Italy: Vienna, Rome, Florence, Venice, Milan)
+- Complete itinerary (flights, trains, accommodations)
+- Non-negotiable constraints (no itinerary changes, food scope only, no alcohol)
 
-### Flight Itinerary
-- TPE→VIE BR61
-  - 2/10 22:30 TPE
-  - 2/11 08:25 VIE
-- VIE→FCO OS557
-  - 2/13 17:40 VIE
-  - 2/13 19:15 FCO
-- MXP→TPE BR96
-  - 2/27 11:00 MXP
-  - 2/28 05:55 TPE
-
-### Train Itinerary
-- 2/19 Roma Tiburtina → Firenze S. M. Novella
-- 2/22 Firenze S. M. Novella → Venezia Mestre
-- 2/25 Venezia Mestre → Milano Centrale
-
-### Accommodation
-- Vienna: Hilton Vienna Park
-- Rome: Mercure Roma Piazza Bologna
-- Firenze: Hotel Delle Nazioni
-- Venice: Hotel Plaza Venice
-- Milano: Hotel ibis Milano Centro
+**Agents must reference CONSTITUTION.md for authoritative details.**
 
 ## Agent Mission
 
@@ -189,11 +180,13 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 
 ## Project Scope
 
-### In Scope
+**Foundation**: All immutable constraints are defined in **[CONSTITUTION.md](CONSTITUTION.md)**. This section provides operational context for research execution.
 
-**Primary Objective**: Build evidence-based food recommendations for a trip from 2026-02-10 to 2026-02-28.
+### Research Objective
 
-**Target Cities**:
+Build evidence-based food recommendations following the constraints in CONSTITUTION.md.
+
+**Target Cities** (per CONSTITUTION.md):
 - Vienna (2026-02-11 to 2026-02-13)
 - Rome (2026-02-13 to 2026-02-19)
 - Florence (2026-02-19 to 2026-02-22)
@@ -212,28 +205,26 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - Exclusion rationale for rejected candidates (excluded.md)
 - Dining strategy per city (timing, budget, logistics)
 
-### Out of Scope
+### Operational Boundaries
 
-**Not Researched**:
-- Accommodations (already booked, see Main Purpose)
+**What to Research**:
+- Food venues within constitutional scope
+- Practical dining logistics (reservations, hours, queues)
+- Food quality, value, and consistency evidence
+
+**What NOT to Research** (per CONSTITUTION.md):
+- Accommodations (already booked)
 - Transportation between cities (already booked)
 - Non-food activities or tourist attractions
 - Shopping (unless food-related like markets)
-- Nightlife (bars, clubs) unless food-focused
-- **Alcoholic beverages and alcohol-focused venues** (wine bars, cocktail bars, breweries, wine tastings)
+- Nightlife venues (bars, clubs) unless food-focused
+- Alcoholic beverages and alcohol-focused venues
 - Cities outside the five target cities
 
-**Fixed Constraints** (not modifiable by research):
-- Travel dates: 2026-02-10 to 2026-02-28
-- Flight itinerary (TPE→VIE, VIE→FCO, MXP→TPE)
-- Train itinerary (Roma→Firenze, Firenze→Venezia, Venezia→Milano)
-- Hotel locations (see Main Purpose for details)
-- No alcoholic beverages preference
-
 **Scope Management**:
-- Research must stay focused on food recommendations
+- Stay focused on food recommendations within constitutional boundaries
 - Avoid mission creep into general travel planning
-- When uncertain if something is in scope, refer back to Primary Objective
+- When uncertain, defer to CONSTITUTION.md
 
 ---
 
