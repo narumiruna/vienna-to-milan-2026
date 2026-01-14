@@ -40,6 +40,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 尖峰時段服務可能較慢
 - 幾乎必須訂位
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Rude & disrespectful service**: 多則評論指控服務態度粗魯、不尊重客人，特別是對遊客（"rude and disrespectful", "dismissive toward tourists"）
+- **⚠️ Tourist trap allegations**: 本地人與遊客均警告已成為「tourist trap」，建議避免（"A review from an actual Roman: AVOID! This is a tourist trap"）
+- **Overpriced**: 頻繁抱怨價格遠高於羅馬平均水準且不值（"far higher than average", "not worth the cost"）
+- **Food doesn't match hype**: 部分評論認為食物「平庸」或「未達宣傳」（"mediocre given the price", "not living up to the hype"）
+- **Rushed atmosphere**: 用餐體驗感覺匆忙、擁擠，缺乏傳統羅馬餐廳的魅力或溫暖待客
+- **Mixed opinions**: 仍有粉絲讚賞食物與歷史地位，但負面聲音顯著且一致
+- **Sources**: Tripadvisor "Rude and disrespectful", "Overrated and overpriced tourist trap", "Yikes - tourist trap that can't live up to the hype", Marco Polo Blog review
+
 **Practical**:
 - reservation requirement: required（強烈建議）
 - best visiting time: 平日午餐或晚餐早場
@@ -192,6 +201,16 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 位置緊鄰萬神殿，價格略高
 - 週日公休
 - 座位有限，尖峰時段可能壓力大
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **Service issues**: 服務緩慢、不專注或甚至粗魯，例如等待25分鐘才能點飲料、整體缺乏組織感（"slow, inattentive, or even rude service"）
+- **Food quality variability**: 雖多數讚賞，但部分評論認為食物「OK but not great」、平庸或未超越羅馬其他餐廳
+- **Living on past reputation**: 部分客人認為餐廳靠過去聲譽而非當前品質
+- **Overpriced/unexpected charges**: 價值疑慮，包含未點麵包但被收費等意外費用
+- **Reservation nightmare**: 訂位極度困難，即使預訂仍可能長時間等待
+- **Overhyped**: 少數訪客認為過度宣傳，期望過高導致失望（"wouldn't cross town for it"）
+- **Peak hour stress**: 繁忙時段明顯感受員工不堪重負或組織不善
+- **Sources**: Tripadvisor reviews, TrustTheCrowd, Tripexpert, The Infatuation
 
 **Practical**:
 - reservation requirement: required（強烈建議提前訂位，通過官網或電話）
@@ -1202,6 +1221,15 @@ Medium priority:
 - Less intimate than smaller shops
 - Prices slightly higher near Spanish Steps
 - Can be crowded during peak times
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **Quality complaints**: 部分評論認為 tiramisu「acceptable, not more」、並非最佳，未達盛名期待（"Definetely not the best tiramisu!"）
+- **⚠️ Bad service attitude**: 多則評論提及「對客人態度差」、「服務不佳」，特別是繁忙時段員工匆忙或不友善（"Bad attitude with clients", "Good tiramisu, bad service"）
+- **Consistency concerns**: 品質可能因分店或時間而異，有時缺乏新鮮感或嚐起來像量產
+- **Overrated**: 與自製或其他在地選擇相比，被認為過譽
+- **Crowded experience**: 繁忙時體驗受影響，員工應對不及
+- **Balance**: 儘管負面評論存在，仍有數千則正面評價與忠實顧客
+- **Sources**: Tripadvisor "Bad service .... Tiramisu acceptable, not more", "Bad attitude with clients", "Definetely not the best tiramisu!", "Good tiramisu, bad service"
 
 **Practical**:
 - reservation requirement: none (dessert shop/gelateria)
