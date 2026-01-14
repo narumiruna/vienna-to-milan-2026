@@ -186,6 +186,40 @@ For each candidate promoted to research:
 - Tripadvisor or similar aggregator (rating, review count)
 - Reddit (threads/comments; summarize patterns)
 - One or more reputable food or travel guides (Michelin, TimeOut, local blogs)
+- **Negative reviews** (explicit search for complaints, 1-star reviews, worst experiences - see below)
+
+### Negative Review Research (Required)
+
+**Why critical**: High overall ratings can mask serious issues. Negative reviews reveal:
+- Safety concerns (allergy handling, hygiene)
+- Service problems (discrimination, rudeness)
+- Tourist traps (overpricing, quality decline)
+- Practical issues (long queues, reservation problems)
+
+**Required searches** for each top pick (35+ score):
+1. **web_search**: "[Restaurant Name] [City] negative reviews complaints"
+2. **web_search**: "[Restaurant Name] [City] worst experience problems"
+3. **Review platforms**: Actively read 1-2 star reviews on Tripadvisor
+4. **Reddit**: Search for critical comments or warnings
+
+**Documentation requirements**:
+- Add "Negative reviews / complaints" section to notes.md
+- Use ⚠️ flag for serious red flags (allergy, discrimination, tourist trap)
+- Include research date: (研究日期: YYYY-MM-DD)
+- Cite specific sources (Tripadvisor review titles, Reddit threads)
+- Balance: Document both positive reputation AND negative patterns
+
+**Common red flag categories**:
+- 🚫 Health/Safety: Allergy handling failures, hygiene issues
+- 🚫 Discrimination: Prejudiced treatment based on nationality/appearance
+- 🚫 Tourist Trap: Clear consensus of overpricing + quality decline
+- ⚠️ Service Issues: Rude staff, poor service (if pattern)
+- ⚠️ Value Concerns: Consistent complaints about price vs quality
+
+**When to include**: 
+- **Always** for restaurants scoring 35+ (all top picks)
+- **Recommended** for backups (30-34) if time permits
+- **Optional** for excluded items (<30) - already rejected
 
 ### Optional Sources
 
@@ -226,6 +260,11 @@ For each candidate promoted to research:
 
 **Recurring cons**:
 - [List from multiple sources]
+
+**Negative reviews / complaints** (研究日期: YYYY-MM-DD):
+- [Document specific complaints, red flags, patterns from low-rated reviews]
+- Use ⚠️ to mark serious issues (allergy handling, discrimination, tourist traps, safety)
+- **Sources**: [Tripadvisor negative reviews, Reddit complaints, etc.]
 
 **Practical**:
 - reservation requirement: 

@@ -55,6 +55,7 @@ gourmet/YYYY-MM-DD-city/
 - **Initialize**: Create overview.md → Use web_search for 20+ candidates
 - **Discover**: Add top 3-5 to candidates.md table
 - **Research**: Document evidence in notes.md (4+ sources minimum)
+- **⚠️ Negative Reviews**: Search complaints, worst experiences for all top picks (35+)
 - **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
 - **Decide**: Promote (35+) or exclude (<30) based on thresholds
 - **Triage**: Mark rejected, document reasons in excluded.md
@@ -74,6 +75,7 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 2. Tripadvisor or similar aggregator
 3. Reddit (local sentiment)
 4. Food/travel guide (Michelin, TimeOut, blogs)
+5. **Negative reviews** (complaints, worst experiences) - **required for all top picks (35+)**
 
 ### Completion Criteria (All Required)
 ✅ No `status: inbox` in candidates.md  
@@ -481,11 +483,12 @@ For deeper understanding of progressive disclosure in documentation design:
 - Add detailed evidence section to notes.md for each place
 - Collect from 4+ sources: Google Maps, Tripadvisor, Reddit, Food Guide
 - Document: ratings, pros/cons, practical info (reservation, hours, queues)
+- **⚠️ Research negative reviews**: Search for complaints, worst experiences, red flags (required for all top picks 35+)
 - Handle conflicts and mark uncertainty explicitly
 
 **Template**: See workflow-detailed.md for evidence section template
 
-**Time**: 15-20 minutes per place
+**Time**: 15-20 minutes per place (+ 5-10 min for negative review research on top picks)
 
 **📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#evidence-collection--per-place)
 
