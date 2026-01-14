@@ -23,10 +23,7 @@
 
 ### Reference & Troubleshooting
 - [Working with Agents](#working-with-agents-ensuring-task-completion)
-- [Process Improvements](#process-improvements-lessons-learned)
-- [Common Pitfalls](#common-pitfalls-to-avoid)
 - [Documentation & Naming Rules](#documentation--naming-rules)
-- [Research Questions Checklist](#research-questions-checklist)
 
 ---
 
@@ -54,15 +51,15 @@ gourmet/YYYY-MM-DD-city/
 └── excluded.md       (5min)  - Rejected → Audit trail
 ```
 
-### Research Workflow (7 Steps)
-0. **Initialize**: Create overview.md → Use web_search for 20+ candidates
-1. **Discover**: Add top 3-5 to candidates.md table
-2. **Research**: Document evidence in notes.md (4+ sources minimum)
-3. **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
-4. **Decide**: Promote (35+) or exclude (<30) based on thresholds
-5. **Triage**: Mark rejected, document reasons in excluded.md
-6. **Finalize**: Update top-places.md with Top Picks and Dining Strategy
-7. **Verify**: Run completion checks, update PROGRESS.md
+### Research Workflow
+- **Initialize**: Create overview.md → Use web_search for 20+ candidates
+- **Discover**: Add top 3-5 to candidates.md table
+- **Research**: Document evidence in notes.md (4+ sources minimum)
+- **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
+- **Decide**: Promote (35+) or exclude (<30) based on thresholds
+- **Triage**: Mark rejected, document reasons in excluded.md
+- **Finalize**: Update top-places.md with Top Picks and Dining Strategy
+- **Verify**: Run completion checks, update PROGRESS.md
 
 ### Scoring System (50 points)
 - **40+**: Excellent, highly recommended (Top Pick)
@@ -85,11 +82,12 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 ✅ overview.md checklist fully checked `[x]`  
 
 ### When You Need More Detail
-- **Workflow details** → See [Workflow](#workflow-must-follow) section
-- **Scoring guidance** → See [Section 3: Scoring](#3-scoring--standard-rubric)
-- **Quality standards** → See [Quality Bar](#quality-bar)
+- **Workflow details** → See [Workflow](#workflow-must-follow) section, or [references/workflow-detailed.md](references/workflow-detailed.md) for complete step-by-step instructions
+- **Scoring guidance** → See [Scoring — Standard Rubric](#scoring--standard-rubric)
+- **Quality standards** → See [Quality Bar](#quality-bar--standards), or [references/quality-standards.md](references/quality-standards.md) for audit framework and checklists
 - **Template usage** → See [Documentation Templates](#documentation-templates)
 - **Troubleshooting** → See [Working with Agents](#working-with-agents-ensuring-task-completion)
+- **Detailed references** → See [references/](references/) directory for comprehensive guides on workflow, quality standards, and best practices
 
 ---
 
@@ -103,15 +101,15 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 3. Review city dates and hotel in PROGRESS.md
 
 ### Step 2: Initialize City (30 minutes)
-1. Create `overview.md` first (see [Step 0](#0-initialize-city-research))
+1. Create `overview.md` first (see [Initialize City Research](#initialize-city-research))
 2. Run 3-4 web searches to collect 20+ candidates
 3. Add candidates to `inbox.md` (fast capture)
 
 ### Step 3: Research Top Priorities (2-3 hours)
 1. Pick top 3-5 candidates from inbox
 2. Add to `candidates.md` table with `status: inbox`
-3. Research each thoroughly (see [Step 2](#2-evidence-collection--per-place))
-4. Score using 50-point rubric (see [Step 3](#3-scoring--standard-rubric))
+3. Research each thoroughly (see [Evidence Collection](#evidence-collection--per-place))
+4. Score using 50-point rubric (see [Scoring](#scoring--standard-rubric))
 5. Promote to `top-places.md` if score ≥35
 
 ### Step 4: Report Progress
@@ -422,28 +420,28 @@ For deeper understanding of progressive disclosure in documentation design:
 
 ## Workflow (Must Follow)
 
-**Complete research process from start to finish.** Follow these 8 steps in order for each city.
+**Complete research process from start to finish.** Follow these steps in order for each city.
 
-> **💡 Quick Start**: Most critical steps are 0 (Initialize), 2 (Evidence), 3 (Score), and 6 (Finalize). Steps 1, 4, 5, 7 are supporting processes.
+> **💡 Quick Start**: Most critical steps are Initialize, Evidence, Scoring, and Finalize. Discovery, Decision, Triage, and Verify are supporting processes.
 
 ### Overview of Steps
 
-| Step | Name | Purpose | Time | Critical? |
-|------|------|---------|------|-----------|
-| 0 | Initialize | Set up city research | 30 min | ⭐ Yes |
-| 1 | Discovery | Collect candidates | 20 min | Medium |
-| 2 | Evidence | Research each place | 15-20 min/place | ⭐ Yes |
-| 3 | Scoring | Apply 50-point rubric | 10 min/place | ⭐ Yes |
-| 4 | Decision | Apply thresholds | 5 min/place | Medium |
-| 5 | Triage | Document exclusions | 5 min/place | Medium |
-| 6 | Finalize | Create top-places.md | 30 min | ⭐ Yes |
-| 7 | Verify | Completion checks | 10 min | ⭐ Yes |
+| Step | Purpose | Time | Critical? |
+|------|---------|------|-----------|
+| Initialize | Set up city research | 30 min | ⭐ Yes |
+| Discovery | Collect candidates | 20 min | Medium |
+| Evidence | Research each place | 15-20 min/place | ⭐ Yes |
+| Scoring | Apply 50-point rubric | 10 min/place | ⭐ Yes |
+| Decision | Apply thresholds | 5 min/place | Medium |
+| Triage | Document exclusions | 5 min/place | Medium |
+| Finalize | Create top-places.md | 30 min | ⭐ Yes |
+| Verify | Completion checks | 10 min | ⭐ Yes |
 
-**Iteration pattern**: After Step 0, loop through Steps 1-5 for each candidate. Complete with Steps 6-7.
+**Iteration pattern**: After Initialize, loop through Discovery-Triage for each candidate. Complete with Finalize and Verify.
 
 ---
 
-### 0. Initialize City Research
+### Initialize City Research
 
 **What**: Set up city research foundation with overview.md and initial candidate collection.
 
@@ -454,11 +452,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 30 minutes
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 0](references/workflow-detailed.md#step-0-initialize-city-research)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#initialize-city-research)
 
 ---
 
-### 1. Discovery — Candidate Collection
+### Discovery — Candidate Collection
 
 **What**: Collect and organize candidate places into structured format.
 
@@ -471,11 +469,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 20 minutes
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 1](references/workflow-detailed.md#step-1-discovery--candidate-collection)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#discovery--candidate-collection)
 
 ---
 
-### 2. Evidence Collection — Per Place
+### Evidence Collection — Per Place
 
 **What**: Research each candidate thoroughly with multiple sources.
 
@@ -489,11 +487,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 15-20 minutes per place
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 2](references/workflow-detailed.md#step-2-evidence-collection--per-place)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#evidence-collection--per-place)
 
 ---
 
-### 3. Scoring — Standard Rubric
+### Scoring — Standard Rubric
 
 **What**: Apply 50-point scoring rubric to each researched place.
 
@@ -512,11 +510,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 10 minutes per place
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 3](references/workflow-detailed.md#step-3-scoring--standard-rubric)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#scoring--standard-rubric)
 
 ---
 
-### 4. Decision Rules
+### Decision Rules
 
 **What**: Apply promotion/exclusion thresholds systematically.
 
@@ -530,11 +528,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 5 minutes per place
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 4](references/workflow-detailed.md#step-4-decision-rules)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#decision-rules)
 
 ---
 
-### 5. Triage — Exclusion with Reasons
+### Triage — Exclusion with Reasons
 
 **What**: Mark rejected candidates and document reasons.
 
@@ -545,11 +543,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 5 minutes per rejected place
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 5](references/workflow-detailed.md#step-5-triage--exclusion-with-reasons)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#triage--exclusion-with-reasons)
 
 ---
 
-### 6. Final Output — Top Picks
+### Final Output — Top Picks
 
 **What**: Create finalized top-places.md with recommendations and strategy.
 
@@ -563,11 +561,11 @@ For deeper understanding of progressive disclosure in documentation design:
 
 **Time**: 30 minutes
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 6](references/workflow-detailed.md#step-6-final-output--top-picks)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#final-output--top-picks)
 
 ---
 
-### 7. Post-Research Updates — Documentation Maintenance
+### Post-Research Updates — Documentation Maintenance
 
 **What**: Verify completion and update project-wide documentation.
 
@@ -589,7 +587,7 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 **Time**: 10 minutes
 
-**📖 Full details**: See [references/workflow-detailed.md - Step 7](references/workflow-detailed.md#step-7-post-research-updates--documentation-maintenance)
+**📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#post-research-updates--documentation-maintenance)
 
 ---
 
@@ -622,4 +620,9 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 ---
 
-**End of AGENTS.md** - See `references/` directory for detailed guides on specific topics.
+## Further Reading
+
+**End of AGENTS.md** - For detailed guides, see the `references/` directory:
+- **[references/README.md](references/README.md)** - Navigation guide and progressive disclosure explanation
+- **[references/workflow-detailed.md](references/workflow-detailed.md)** - Complete step-by-step workflow instructions
+- **[references/quality-standards.md](references/quality-standards.md)** - Quality bar, audit framework, and best practices

@@ -8,18 +8,18 @@
 
 ## Table of Contents
 
-1. [Step 0: Initialize City Research](#step-0-initialize-city-research)
-2. [Step 1: Discovery — Candidate Collection](#step-1-discovery--candidate-collection)
-3. [Step 2: Evidence Collection — Per Place](#step-2-evidence-collection--per-place)
-4. [Step 3: Scoring — Standard Rubric](#step-3-scoring--standard-rubric)
-5. [Step 4: Decision Rules](#step-4-decision-rules)
-6. [Step 5: Triage — Exclusion with Reasons](#step-5-triage--exclusion-with-reasons)
-7. [Step 6: Final Output — Top Picks](#step-6-final-output--top-picks)
-8. [Step 7: Post-Research Updates — Documentation Maintenance](#step-7-post-research-updates--documentation-maintenance)
+1. [Initialize City Research](#initialize-city-research)
+2. [Discovery — Candidate Collection](#discovery--candidate-collection)
+3. [Evidence Collection — Per Place](#evidence-collection--per-place)
+4. [Scoring — Standard Rubric](#scoring--standard-rubric)
+5. [Decision Rules](#decision-rules)
+6. [Triage — Exclusion with Reasons](#triage--exclusion-with-reasons)
+7. [Final Output — Top Picks](#final-output--top-picks)
+8. [Post-Research Updates — Documentation Maintenance](#post-research-updates--documentation-maintenance)
 
 ---
 
-## Step 0: Initialize City Research
+## Initialize City Research
 
 When starting research for a new city:
 
@@ -45,7 +45,7 @@ When starting research for a new city:
 
 ---
 
-## Step 1: Discovery — Candidate Collection
+## Discovery — Candidate Collection
 
 ### Overview
 
@@ -166,7 +166,7 @@ Focus on 3-5 top candidates first, then expand. Don't try to research everything
 
 ---
 
-## Step 2: Evidence Collection — Per Place
+## Evidence Collection — Per Place
 
 For each candidate promoted to research:
 - Add a detailed evidence section in `notes.md` (keep it skimmable; link sources).
@@ -298,7 +298,7 @@ For each candidate promoted to research:
 
 ---
 
-## Step 3: Scoring — Standard Rubric
+## Scoring — Standard Rubric
 
 Each researched place MUST include a 50-point total score:
 
@@ -369,7 +369,7 @@ Each researched place MUST include a 50-point total score:
 
 ---
 
-## Step 4: Decision Rules
+## Decision Rules
 
 **This section defines clear thresholds and criteria for promoting or excluding candidates.**
 
@@ -421,9 +421,9 @@ Each researched place MUST include a 50-point total score:
 
 ---
 
-## Step 5: Triage — Exclusion with Reasons
+## Triage — Exclusion with Reasons
 
-Apply the Decision Rules (Step 4) to each researched candidate.
+Apply the Decision Rules to each researched candidate.
 
 - Do NOT delete entries silently.
 - Mark excluded places with:
@@ -434,14 +434,14 @@ Record exclusions in:
 - excluded.md (primary location for all exclusion reasons)
 - Update candidates.md table with `status: rejected`
 
-**Refer to Step 4 (Decision Rules) for**:
+**Refer to Decision Rules section for**:
 - Automatic exclusion thresholds (score <25, hard triggers)
 - Borderline case handling (score 25-29)
 - Documentation requirements
 
 ---
 
-## Step 6: Final Output — Top Picks
+## Final Output — Top Picks
 
 Maintain top-places.md with:
 - Top Picks (high-confidence, score 35+)
@@ -466,7 +466,7 @@ Maintain top-places.md with:
 ### Google Maps Link Requirement
 
 - Every place in top-places.md MUST have a valid, working Google Maps link
-- See Step 1 for acceptable formats and how to obtain links
+- See Discovery section for acceptable formats and how to obtain links
 - **Consistency**: Use the same link format from candidates.md to maintain traceability
 
 ### Additional Sections to Include
@@ -484,7 +484,7 @@ Maintain top-places.md with:
 
 ---
 
-## Step 7: Post-Research Updates — Documentation Maintenance
+## Post-Research Updates — Documentation Maintenance
 
 **After completing research for a city, MUST do the following**:
 

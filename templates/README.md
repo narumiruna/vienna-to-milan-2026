@@ -171,38 +171,38 @@ Every researched place must have a score breakdown in notes.md:
 
 ## Research Workflow
 
-### Step 0: Initialize City Research
+### Initialize City Research
 1. Create overview.md with travel info and city food highlights
 2. Use web_search to gather initial candidates
 3. Batch similar searches (restaurants, cafes, desserts)
 
-### Step 1: Discovery (candidates.md + inbox.md)
+### Discovery (candidates.md + inbox.md)
 - Fast capture in inbox.md or directly in candidates.md table
 - Focus on 3-5 top candidates first
 - Status: `inbox`
 
-### Step 2: Evidence Collection (notes.md)
+### Evidence Collection (notes.md)
 - Add detailed evidence section per place
 - Minimum 4 sources required
 - Update candidates.md with status: `researching` → `shortlisted`
 
-### Step 3: Scoring (notes.md)
+### Scoring (notes.md)
 - Apply 50-point rubric with justification
 - Record practical info (reservation, hours, queue)
 - Update candidates.md with score
 
-### Step 4: Triage (excluded.md)
+### Triage (excluded.md)
 - Score < 30: Document in excluded.md
 - Severe issues: Hard exclusion with reasons
 - Update candidates.md status to `rejected`
 
-### Step 5: Finalize (top-places.md)
+### Finalize (top-places.md)
 - Top Picks: 35+ points
 - Backups: 30-34 points
 - Add dining strategy and to-do list
 - Update candidates.md status to `top`
 
-### Step 6: Update Progress
+### Update Progress
 - Complete overview.md checklist
 - Update PROGRESS.md and README.md
 - Verify completion criteria met
