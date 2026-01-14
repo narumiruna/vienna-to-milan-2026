@@ -214,18 +214,22 @@
 
 ## Brunch / 早午餐 (NEW)
 
-### Coromandel (35/50) ⭐
+### ⚠️ Backups - Brunch Options
+
+#### Coromandel (32/50) ⚠️
 - **type**: Brunch café, European-style breakfast
 - **area**: Centro Storico (near Piazza Navona)
-- **total score**: 35/50
+- **total score**: 32/50 (⚠️ DOWNGRADED from 35/50)
 - **google maps**: https://www.google.com/maps/search/?api=1&query=Coromandel+Rome+Monte+Giordano
-- **justification**: 羅馬最佳早午餐之一，煎餅、班尼迪克蛋、法式吐司品質優秀；復古巴黎風氛圍
+- **justification**: 早午餐菜單品質不錯，復古巴黎風氛圍
+- **risk warning**: ⚠️ 服務與食物品質問題 - 粗魯服務、未煮熟食物、品質不穩定
 - **constraints**:
   - reservation: 強烈建議預訂（via WhatsApp 或電話）
   - 週末特別繁忙
   - price: €10-20/人
+  - service and food quality concerns
 
-### Vivi Bistrot - Piazza Navona (33/50)
+#### Vivi Bistrot - Piazza Navona (33/50)
 - **type**: Organic bistrot, brunch
 - **area**: Piazza Navona (Palazzo Braschi)
 - **total score**: 33/50

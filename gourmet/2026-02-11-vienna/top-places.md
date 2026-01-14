@@ -52,15 +52,7 @@
   - reservation: recommended
   - queue: possible at peak times
 
-#### 5. Bitzinger Würstelstand (Albertina) (36/50)
-- **type**: Würstelstand (sausage stand)
-- **area**: Innere Stadt
-- **total score**: 36/50
-- **google maps**: https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9
-- **justification**: 動線超方便、出餐快，適合當轉場補給
-- **constraints**: 
-  - reservation: none
-  - queue: possible but fast turnover
+
 
 ---
 
@@ -123,15 +115,7 @@
   - price: higher prices
   - busy at peak times
 
-#### 3. Café Prückel (35/50)
-- **type**: Classic café
-- **area**: Innere Stadt
-- **total score**: 35/50
-- **google maps**: https://www.visitingvienna.com/eatingdrinking/cafespubsbars/cafe-pruckel/
-- **justification**: 獨特 1950 年代復古風格，價格較親民，靠近 MAK 博物館
-- **constraints**: 
-  - reservation: recommended at peak
-  - service: inconsistent
+
 
 ---
 
@@ -139,18 +123,43 @@
 
 ### 咖啡館 & 甜點 Backups
 
-#### 1. Zum Schwarzen Kameel (35/50)
+#### 1. Zum Schwarzen Kameel (32/50) ⚠️
 - **type**: Open-faced sandwiches
 - **area**: Innere Stadt
-- **total score**: 35/50
+- **total score**: 32/50 (⚠️ DOWNGRADED from 35/50)
 - **google maps**: https://www.tripadvisor.com/Restaurant_Review-g190454-d714256-Reviews-Zum_Schwarzen_Kameel-Vienna.html
 - **justification**: 1618 年歷史名店，以開放式三明治聞名，Michelin selected
+- **risk warning**: ⚠️ 服務問題嚴重 - 多處評論提及粗魯傲慢的服務員，價格昂貴
 - **constraints**: 
   - reservation: recommended
   - price: higher prices
   - queue: at lunch/weekend
 
-#### 2. Kaffee Alt Wien (34/50)
+#### 2. Café Prückel (31/50) ⚠️
+- **type**: Classic café
+- **area**: Innere Stadt
+- **total score**: 31/50 (⚠️ DOWNGRADED from 35/50)
+- **google maps**: https://www.visitingvienna.com/eatingdrinking/cafespubsbars/cafe-pruckel/
+- **justification**: 獨特 1950 年代復古風格，價格較親民，靠近 MAK 博物館
+- **risk warning**: ⚠️ 服務與食物問題嚴重 - 極度粗魯服務員、冷食、品質差
+- **constraints**: 
+  - reservation: recommended at peak
+  - service: very inconsistent
+  - food quality: reported issues
+
+#### 3. Bitzinger Würstelstand (30/50) ⚠️
+- **type**: Würstelstand (sausage stand)
+- **area**: Innere Stadt (Albertinaplatz)
+- **total score**: 30/50 (⚠️ DOWNGRADED from 36/50)
+- **google maps**: https://maps.app.goo.gl/Hrs6GFNyRPyTQa6n9
+- **justification**: 地點方便、出餐快，但僅作為備選選項
+- **risk warning**: 🚫 嚴重問題 - 衛生問題、tourist trap（€90敲竹槓案例）、極差服務
+- **constraints**: 
+  - reservation: none
+  - hygiene: concerns reported
+  - pricing: extreme overcharging cases
+
+#### 4. Kaffee Alt Wien (34/50)
 - **type**: Classic café (late hours)
 - **area**: Innere Stadt
 - **total score**: 34/50
@@ -160,7 +169,7 @@
   - reservation: unknown (likely walk-in)
   - payment: `unknown`（部分評論摘要提到只收現金，需現場確認）
 
-#### 3. Gerstner K. u. K. Hofzuckerbäcker (34/50)
+#### 5. Gerstner K. u. K. Hofzuckerbäcker (34/50)
 - **type**: Pastry shop & café
 - **area**: Innere Stadt
 - **total score**: 34/50
@@ -169,7 +178,7 @@
 - **constraints**:
   - queue: `unknown`（尖峰可能需要等）
 
-#### 4. Café Sperl (33/50)
+#### 6. Café Sperl (33/50)
 - **type**: Classic café
 - **area**: Mariahilf
 - **total score**: 33/50
@@ -179,7 +188,7 @@
   - reservation: recommended at peak
   - service: varies
 
-#### 5. Figlmüller (33/50)
+#### 7. Figlmüller (33/50)
 - **type**: Schnitzel restaurant
 - **area**: Innere Stadt
 - **total score**: 33/50
@@ -189,7 +198,7 @@
   - reservation: optional
   - queue: likely at peak times
 
-#### 6. Café Central (32/50)
+#### 8. Café Central (32/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -199,7 +208,7 @@
   - reservation: optional (online for ≤6 people)
   - queue: common
 
-#### 7. Demel (32/50)
+#### 9. Demel (32/50)
 - **type**: Pastry shop & café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -209,7 +218,7 @@
   - reservation: none (official policy)
   - queue: possible
 
-#### 8. Café Hawelka (32/50)
+#### 10. Café Hawelka (32/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -250,13 +259,18 @@
 **可選訂位（當天或 walk-in）**:
 - Figlmüller（可訂位但非必須，平日離峰時段可直接前往）
 - Café Central（≤6 人可線上訂位，或非尖峰時段排隊）
-- Zum Schwarzen Kameel（建議訂位或選擇熟食櫃檯）
-- Café Prückel, Café Sperl（建議訂位但通常可 walk-in）
+- Café Sperl（建議訂位但通常可 walk-in）
 - Vollpension（週末建議訂位）
 
+**⚠️ 備選但有風險（僅建議作為備案）**:
+- Zum Schwarzen Kameel（⚠️ 服務問題，僅作備選）
+- Café Prückel（⚠️ 服務與食物問題，僅作備選）
+
 **無需訂位**:
-- Bitzinger Würstelstand（香腸攤，快速周轉）
 - Demel（明確不接受訂位，離峰時段前往）
+
+**⚠️ 不建議（嚴重衛生問題）**:
+- ~~Bitzinger Würstelstand~~（🚫 衛生問題，不建議前往）
 
 ### 預算分配（每人每餐概估）
 
@@ -265,10 +279,8 @@
 | 米其林三星 | €225-365 | Steirereck (€225-245 + 酒水 €105-120) |
 | 米其林二星 | €178 | Mraz & Sohn (surprise menu) |
 | 傳統餐廳 | €25-45 | Plachutta, Gasthaus Pöschl, Figlmüller |
-| 開放式三明治 | €25-40 | Zum Schwarzen Kameel |
 | 早午餐 | €10-40 | ULRICH (€10-20), Meierei (€25-40+), Vollpension (€10-20) |
-| 咖啡館 | €10-20 | Café Landtmann, Central, Prückel, Sperl, Demel |
-| 快速補給 | €5-10 | Bitzinger Würstelstand |
+| 咖啡館 | €10-20 | Café Landtmann, Central, Sperl, Demel |
 
 **2.5 天總預算建議**（2/11 抵達至 2/13 離開）:
 - 1 次米其林餐廳：€200-250
@@ -284,7 +296,7 @@
 
 **飯店近距離優勢** ⭐:
 - **5 分鐘步行**: Steirereck im Stadtpark, Meierei im Stadtpark
-- **10-15 分鐘步行**: Innere Stadt 多數餐廳（Plachutta, Figlmüller, Café Central, Demel, Bitzinger, Zum Schwarzen Kameel）
+- **10-15 分鐘步行**: Innere Stadt 多數餐廳（Plachutta, Figlmüller, Café Central, Demel）
 
 **其他區域交通**:
 - **到 Innere Stadt**: U4 Stadtpark → U1/U3 Stephansplatz（1 站，5 分鐘）
@@ -323,20 +335,20 @@
 
 **2026-02-11 (三) 抵達日**:
 - 08:25 抵達 VIE，預計 10:00-11:00 抵達飯店
-- **午餐**: Gasthaus Pöschl（傳統小酒館）或 Bitzinger Würstelstand（輕食調時差）
-- **下午茶**: Café Landtmann 或 Café Prückel（體驗維也納咖啡館）
+- **午餐**: Gasthaus Pöschl（傳統小酒館）或輕食調時差
+- **下午茶**: Café Landtmann（體驗維也納咖啡館）
 - **晚餐**: 若體力足夠可考慮 Plachutta（Tafelspitz），或早睡調時差
 
 **2026-02-12 (四) 完整一天**:
 - **早餐**: 飯店早餐或 Meierei im Stadtpark（步行 5 分鐘）
-- **午餐**: Gasthaus Pöschl 或 Zum Schwarzen Kameel（開放式三明治）
+- **午餐**: Gasthaus Pöschl 或 Figlmüller（Schnitzel 體驗）
 - **下午茶**: Demel（老牌甜點店，離峰時段）或 Café Central（建築體驗）
 - **晚餐**: **Steirereck im Stadtpark**（米其林三星，重點餐，步行 5 分鐘）⭐⭐⭐
 
 **2026-02-13 (五) 離開日**:
 - **早午餐**: **ULRICH** (40/50, 現代早午餐) 或 **Meierei im Stadtpark** (39/50, 近飯店) 或 **Vollpension** (38/50, 社會企業)
 - **午餐**: Figlmüller（Schnitzel 體驗）或 Plachutta（Tafelspitz 若未吃過）
-- **機場前補給**: Bitzinger Würstelstand（快速便利，16:00 前離開市區）
+- **機場前**: Jonas Reindl（精品咖啡外帶）或機場用餐
 - 17:40 飛往 Rome FCO
 
 ### 其他注意事項
