@@ -199,7 +199,29 @@
   - 早上選擇最多最新鮮
   - 中午可能排隊
 
-#### 2. Regoli (40.5/50) ⭐📍
+#### 2. Il Maritozzaro (42/50) ⭐⭐ 🥐
+- **type**: Maritozzo specialist
+- **area**: Monteverde/Trastevere
+- **total score**: 42/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Il+Maritozzaro+Rome
+- **justification**: 傳奇 maritozzo 專門店（自1960年代），巨大奶油麵包，24小時營業，價格合理
+- **constraints**: 
+  - **24小時營業（大多數日子）** ⭐⭐
+  - 簡樸環境，外帶為主
+  - 位於 Trastevere 邊緣
+
+#### 3. Pasticceria Linari (41/50) ⭐ 🥐
+- **type**: Maritozzo, pastries
+- **area**: Testaccio
+- **total score**: 41/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pasticceria+Linari+Rome
+- **justification**: 家族經營自1971年，Testaccio 在地人最愛，maritozzo 羅馬最佳之一，價格合理
+- **constraints**: 
+  - 週二下午休息（13:30 關門）
+  - 早晨開門後（6:30-9:00）選擇最多
+  - 傳統義大利付款方式（先付款後取餐）
+
+#### 4. Regoli (40.5/50) ⭐📍 🥐
 - **type**: Pastry, maritozzo
 - **area**: Esquilino
 - **total score**: 40.5/50
@@ -209,6 +231,31 @@
   - **距 Mercure Roma Piazza Bologna 飯店 5 分鐘步行** ⭐⭐⭐
   - 必須早到（7:00-9:30am），maritozzi 9:30 前常賣光
   - 座位有限
+
+### 糕點 & Maritozzo - Backups
+
+#### Panificio Bonci (37/50)
+- **type**: Bakery, maritozzo, pizza al taglio
+- **area**: Trionfale (Vatican)
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Panificio+Bonci+Rome
+- **justification**: Gabriele Bonci 名店，maritozzo 軟嫩柑橘香，高品質工藝
+- **constraints**: 
+  - 價格偏高
+  - 常擁擠，排隊常見
+  - 座位極少，主要外帶
+  - 更以披薩聞名，非 maritozzo 專門店
+
+#### Federico Prodon Pâtisserie (36/50)
+- **type**: French-Italian patisserie, maritozzo
+- **area**: Borgo Pio (Vatican)
+- **total score**: 36/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Federico+Prodon+Patisserie+Rome
+- **justification**: 精緻法式-義大利糕點，maritozzo 軟嫩新鮮，優雅庭院環境
+- **constraints**: 
+  - 價格偏高（精品級）
+  - 服務評價不一
+  - 早到確保選擇
 
 ---
 
@@ -339,7 +386,11 @@
 ## 用餐策略建議
 
 ### 時間規劃
-- **早餐**: 7:00-9:30 @ Regoli（距飯店 5 分鐘，maritozzo 必吃）或 7:30-10:00 @ Antico Forno Roscioli（Pizza bianca）
+- **早餐**: 
+  - 7:00-9:30 @ **Regoli**（距飯店 5 分鐘，maritozzo 必吃，9:30前常賣光）
+  - 或 7:30-10:00 @ Antico Forno Roscioli（Pizza bianca）
+  - 或 **6:30-9:00** @ **Pasticceria Linari**（Testaccio，在地人最愛 maritozzo）
+  - 或任何時段 @ **Il Maritozzaro**（**24小時營業**，傳奇 maritozzo）
 - **午餐**: 12:00-15:00（部分店家 15:00 後關門直到 19:00）
 - **晚餐**: 19:30-22:00（羅馬人通常 20:00 後用餐）
 - **Gelato**: 任何時段，通常 11:00-23:00
@@ -368,7 +419,8 @@
 **無需訂位**:
 - **Antico Forno Roscioli**（外帶麵包店，早上最佳）
 - 所有 gelato 店：**Otaleg**, Frigidarium, Gelateria del Teatro, **Giolitti**, Come il Latte
-- **Regoli** 糕點店（早餐 maritozzo，7:00-9:30am）
+- **Maritozzo 專門店**: **Il Maritozzaro**（24小時營業）, **Pasticceria Linari**（Testaccio），**Regoli**（早餐 7:00-9:30am）
+- **Tiramisù 專門店**: **Pompi**（每日 10am-10pm）
 
 ### 預算分配（每人每餐概估）
 - **米其林三星**（La Pergola）: €250-400+（僅特殊場合）
@@ -377,7 +429,13 @@
 - **傳統 trattoria**（Trattoria Monti, Flavio, La Tavernaccia）: €25-40
 - **Pizza al taglio**（Antico Forno Roscioli, Bonci）: €5-15
 - **Gelato**: €3-5
-- **糕點**（Regoli maritozzo）: €2-5
+- **Maritozzo**:
+  - Il Maritozzaro: €3-5（巨大份量，最佳性價比）
+  - Pasticceria Linari: €2-4（在地價格）
+  - Regoli: €3-5（百年老店經典）
+  - Panificio Bonci: €4-6（價格較高）
+  - Federico Prodon: €4-7（精品級）
+- **Tiramisù**（Pompi）: €5/份
 - **咖啡**: €1-3（站著）/ €5-10（坐著）
 
 ### 從 Mercure Roma Piazza Bologna 的交通
@@ -413,24 +471,32 @@
 
 ### 出發前 1 週
 - [ ] 訂位：Trattoria Monti, La Tavernaccia, Flavio
-- [ ] 確認 Regoli 營業時間（早餐 maritozzo）
+- [ ] 確認 **Maritozzo 店家營業時間**：
+  - [ ] Regoli（7:00-9:30am，9:30前常賣光）
+  - [ ] Pasticceria Linari（週二下午休息）
+  - [ ] Il Maritozzaro（24小時，但週一晚/週日午可能短暫休息）
 - [ ] 下載離線地圖（Google Maps）
 - [ ] 準備餐廳地址清單
 
 ### 抵達羅馬第一天
 - [ ] 購買地鐵票/Roma Pass（如需要）
-- [ ] 確認飯店到 Regoli 步行路線（早餐）
-- [ ] 確認飯店到 Trattoria Monti 步行路線（午餐/晚餐選項）
+- [ ] 確認飯店到 Regoli 步行路線（早餐，5分鐘）
+- [ ] 確認飯店到 Trattoria Monti 步行路線（午餐/晚餐選項，8分鐘）
+- [ ] 規劃 **Maritozzo 品嚐計畫**（建議嘗試 2-3 家比較）
 
 ### 用餐建議順序（6天行程）
 **Day 1 (2/13 晚)**：抵達晚（19:15），飯店附近簡單晚餐
 **Day 2 (2/14)**：
-- 早餐 @ Regoli（maritozzo）
+- 早餐 @ **Regoli**（**maritozzo 必吃**，距飯店 5 分鐘）
 - 午餐 @ Trattoria Monti 或 Armando al Pantheon
 - Gelato @ Come il Latte 或 Frigidarium
 - 晚餐 @ Cesare Al Casaletto 或 Roscioli
 
-**Day 3-6**：穿插其他推薦餐廳，保留彈性
+**Day 3 (2/15)**：
+- 早餐 @ Antico Forno Roscioli 或 **Pasticceria Linari**（Testaccio maritozzo）
+- 深夜點心 @ **Il Maritozzaro**（24小時營業，體驗傳奇 maritozzo）
+
+**Day 4-6**：穿插其他推薦餐廳，保留彈性
 
 ---
 

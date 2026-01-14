@@ -652,6 +652,276 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 ---
 
+## Il Maritozzaro
+
+**Official**: 無官方網站（傳統糕餅店）
+
+**Address**: Via Ettore Rolli, 50, Monteverde/Trastevere
+
+**Opening Hours**: 24小時營業（大多數日子）；週一晚或週日下午可能短暫休息數小時
+
+**Google Maps**: 4.5/5 (thousands of reviews)
+
+**Tripadvisor**: 4.4/5 (600+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d3240439-Reviews-Il_Maritozzaro-Rome_Lazio.html
+
+**Restaurant Guru**: 4.5/5
+- https://restaurantguru.com/Il-Maritozzaro-Rome
+
+**Wanderlog**: Similar ratings
+- https://wanderlog.com/place/details/784502/il-maritozzaro
+
+**Guide sources**:
+- Rome Actually: Best Maritozzi in Rome
+- Eating Europe: 6 Best Maritozzi Spots
+- Why Italians: Best maritozzi lists
+- Etuk Tours Rome, RomeList
+
+**Recurring pros**:
+- 傳奇 maritozzo 專門店，自1960年代營業
+- 巨大、雲朵般的 maritozzi，奶油餡料超級豐富
+- 24小時營業（大多數日子），完美深夜或清晨點心
+- 經典傳統口味（奶油 panna）最受推薦
+- 也提供創意口味：開心果、Nutella
+- 價格合理，性價比高
+- 真實在地氛圍，不過度觀光化
+- 服務快速、無廢話
+- 戶外座位可享受鄰里氛圍
+- 位於 Trastevere/Porta Portese 附近
+
+**Recurring cons**:
+- 簡樸的店面與內裝（但這正是其魅力）
+- 部分人認為 maritozzo 過於簡單（僅麵包+奶油）
+- 不適合尋求複雜精緻風味者
+- 空間小，座位有限
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Overhyped expectations**: 部分訪客認為未達盛名期待，認為只是「麵包加奶油，最簡單的組合，不算差但請降低期望」
+- **⚠️ Too simple**: 少數評論認為 maritozzo 過於樸素，相對炒作而言不夠驚艷
+- **⚠️ Place ambience**: 店面被描述為「小且未得到應有照顧」，雖是歷史名店但環境簡陋
+- **Service rushed during busy times**: 繁忙時段服務可能匆忙，但粗魯或不友善的投訴罕見
+- **Balance**: 儘管有負面意見，絕大多數評論仍為正面，批評主要關於個人口味偏好而非食物品質或衛生問題
+- **Sources**: Restaurant Guru, Tripadvisor reviews
+
+**Practical**:
+- reservation requirement: none（walk-in only）
+- best visiting time: 24小時開放，任何時段皆可
+- closed: 幾乎無公休（週一晚或週日下午可能短暫休息）
+- queue: 通常服務迅速，排隊不長
+- price: 非常合理（約 €3-5 per maritozzo）
+- 位於 Trastevere 邊緣，適合探索該區時順道前往
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（經典傳統 maritozzo，巨大奶油餡料）
+- Value: 9/10（價格合理，份量慷慨）
+- Convenience: 9/10（24小時營業，無需訂位）
+- Consistency: 8/10（自1960年代品質穩定，評價高）
+- Risk (10 = low risk): 7/10（部分人認為過於簡單，但這是傳統特色）
+- **Total: 42/50**
+
+---
+
+## Pasticceria Linari
+
+**Official**: https://pasticcerialinari.com/
+
+**Address**: Via Nicola Zabaglia, 9, 00153 Rome, Testaccio
+
+**Phone**: +39 06 578 2358
+
+**Opening Hours**:
+- Monday: 06:30–21:30
+- Tuesday: 06:30–13:30
+- Wednesday–Sunday: 06:30–21:30
+
+**Google Maps**: 4.5/5 (thousands of reviews)
+
+**Tripadvisor**: 4.2/5 (hundreds of reviews)
+- https://www.tripadvisor.ca/Restaurant_Review-g187791-d2054372-Reviews-Pasticceria_Linari-Rome_Lazio.html
+
+**Restaurant Guru**: 4.2/5
+- https://restaurantguru.com/Linari-Rome
+
+**Facebook**: 4.9/5
+
+**Guide sources**:
+- Rome Actually: Best Maritozzi in Rome
+- Devour Tours: Top Spots for Best Maritozzo
+- Multiple food guides
+
+**Recurring pros**:
+- 家族經營自1971年，超過50年歷史
+- Testaccio 在地人最愛，真實羅馬早餐文化
+- Maritozzo con la panna 被譽為羅馬最佳之一
+- 尺寸大、質地完美
+- 豐富糕點選擇：cornetti、蛋糕、pizzette、tramezzini
+- 價格非常合理
+- 熱鬧的在地氛圍，常有學生與本地人
+- 室內外座位皆有
+- 服務友善（大多數時候）
+- 早上選擇最多最新鮮
+
+**Recurring cons**:
+- 繁忙時段服務可能較慢
+- 需先在收銀台付款，再憑收據取餐（傳統義大利方式）
+- 早晨高峰可能排隊
+- 主要站著享用（bar style）
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Service during busy times**: 繁忙時段服務可能較慢或混亂，但罕有嚴重服務態度問題
+- **⚠️ Payment system confusion**: 傳統義大利付款方式（先付款後取餐）可能讓遊客困惑
+- **Balance**: 負面評論極少，絕大多數為正面體驗，主要批評為繁忙時段的小問題而非根本性缺陷
+- **Sources**: Tripadvisor, Restaurant Guru
+
+**Practical**:
+- reservation requirement: none（bar/pasticceria，無需訂位）
+- best visiting time: 早上開門後（6:30-9:00）選擇最多
+- closed: 週二下午（13:30 關門）
+- queue: 早晨可能排隊，但移動快速
+- price: 非常合理（€2-4 per maritozzo）
+- 位於 Testaccio 區，適合探索該區美食時前往
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（大尺寸、完美質地，羅馬最佳之一）
+- Value: 9/10（價格非常合理）
+- Convenience: 8/10（Testaccio 位置，每日營業，週二下午除外）
+- Consistency: 8/10（家族經營50+年，品質穩定）
+- Risk (10 = low risk): 7/10（繁忙時段服務可能慢，但品質可靠）
+- **Total: 41/50**
+
+---
+
+## Panificio Bonci
+
+**Official**: 無直接官網（屬 Gabriele Bonci 旗下）
+
+**Address**: Via Trionfale, 34, Rome (Trionfale/Vatican 區)
+
+**Google Maps**: 4.3/5 (2,900+ reviews)
+- https://www.postcard.inc/places/panificio-bonci-rome
+
+**Tripadvisor**: 3.8–4.0/5 (800+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d3680531-Reviews-Panificio_Bonci-Rome_Lazio.html
+
+**Restaurant Guru**: 4.2/5 (4,000+ reviews)
+- https://restaurantguru.com/Panificio-Bonci-Rome
+
+**The Infatuation**: Strongly recommended
+- https://www.theinfatuation.com/rome/reviews/panificio-bonci
+
+**Guide sources**:
+- Katie Parla blog
+- Rome Actually: Best Maritozzi in Rome
+- Multiple food guides
+
+**Chef**: Gabriele Bonci（著名麵包師與披薩師傅）
+
+**Recurring pros**:
+- Gabriele Bonci 名店，以 pizza al taglio 聞名
+- Maritozzo 軟嫩、略帶柑橘香，結構完美不會濕軟
+- 高品質食材與工藝
+- 烤箱烘焙的 tiramisù 也是亮點
+- 優質橄欖油與麵包可購買
+- 員工友善、樂於協助選擇
+- 正宗羅馬烘焙體驗
+
+**Recurring cons**:
+- **價格偏高**：相對一般羅馬麵包店昂貴（例如 €17 買少量披薩）
+- 座位極少或無，主要外帶
+- 常常擁擠，排隊常見
+- 尖峰時段可能混亂（號碼牌制度但常被忽略）
+- **部分人認為是「tourist trap」**：受媒體與部落客影響，人氣高但部分在地人認為其他麵包店更好或更便宜
+- Maritozzo 不是專門主打（更以披薩聞名）
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Overpriced**: 多處評論認為價格過高，特別是簡單商品如 pizza bianca 和 maritozzo，雖品質好但不值得價格
+- **⚠️ Tourist trap perception**: 少數人認為是「tourist trap」，人氣受媒體炒作而非食物真正超群
+- **⚠️ Crowds and chaos**: 擁擠且排隊系統混亂，繁忙時體驗不佳
+- **⚠️ Limited seating**: 幾乎無座位，需站著吃或外帶
+- **Not a maritozzo specialist**: 雖 maritozzo 品質好，但更適合買披薩；maritozzo 愛好者可能更喜歡 Regoli 或 Casa Manfredi 等專門店
+- **Balance**: 儘管有批評，大多數評論仍肯定品質，特別是對重視手工烘焙與願意付費者
+- **Sources**: Tripadvisor, Google reviews, Katie Parla blog, Rome Actually
+
+**Practical**:
+- reservation requirement: none（bakery/takeaway）
+- best visiting time: 非尖峰時段（避開 12:00-14:00 和 19:00-21:00）
+- queue: 常見，繁忙時可能等待
+- price: 偏高（maritozzo 約 €4-6）
+- 位於 Trionfale 區，靠近梵蒂岡
+- 適合同時想買披薩與糕點者
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8.5/10（高品質，軟嫩柑橘香 maritozzo）
+- Value: 6/10（價格偏高）
+- Convenience: 7/10（Vatican 區但無座位，排隊常見）
+- Consistency: 8/10（Bonci 品牌品質穩定）
+- Risk (10 = low risk): 7.5/10（價格與人潮是主要風險，品質可靠）
+- **Total: 37/50**
+
+---
+
+## Federico Prodon Pâtisserie
+
+**Official**: Boutique patisserie
+
+**Address**: Vicolo del Farinone, 19, Borgo Pio, Rome (Vatican/Borgo 區)
+
+**Google Maps**: 4.3/5 (100+ reviews)
+
+**Restaurant Guru**: 4.3/5
+- https://restaurantguru.com/Federico-Prodon-Patisserie-Rome
+
+**Guide sources**:
+- Why Italians: Best Maritozzi in Rome
+- Rome Actually: Best Pastry Shops
+- Cucine d'Italia
+- Wanderlog
+
+**Chef**: Federico Prodon（知名糕點師，曾上義大利電視）
+
+**Recurring pros**:
+- 精緻法式-義大利風格糕點
+- Maritozzo 以軟嫩、易消化麵團與超新鮮奶油聞名
+- 優雅、現代的法式風格裝潢
+- 美麗內部庭院，提供寧靜用餐環境
+- 靠近梵蒂岡，適合參觀後休息
+- 季節性選擇，強調天然風味與低糖
+- 其他亮點：tiramisù、croissants、Pavlova、Sacher、檸檬塔
+- 服務友善（大多數時候）
+- Chef 個人品牌與電視名氣
+
+**Recurring cons**:
+- **價格偏高**：精品級別定價，咖啡與糕點相對羅馬平均貴
+- 服務評價不一：繁忙時可能不穩定
+- 早晨晚到可能選擇有限
+- 位置在 Borgo Pio，非中心主要區域
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Expensive**: 多處評論認為價格高，特別是咖啡與基本商品，在地人常用「costoso」形容
+- **⚠️ Service inconsistency**: 服務評價不一，有正面也有負面體驗，繁忙時尤其明顯
+- **⚠️ Limited availability**: 熱門商品可能售罄，需早到確保選擇
+- **Balance**: 儘管價格高與服務不一致，糕點品質（特別是 maritozzo）持續獲得美食評論家與常客讚譽
+- **Sources**: Restaurant Guru reviews, Tripadvisor mentions
+
+**Practical**:
+- reservation requirement: none（boutique patisserie）
+- best visiting time: 早上（選擇最多）
+- closed: 需確認
+- queue: 可能但通常不長
+- price: 偏高（精品級，約 €4-7 per maritozzo）
+- 位於 Borgo Pio (Vatican 區)
+- 適合尋求精緻糕點體驗者
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（精緻軟嫩，超新鮮奶油，現代技法）
+- Value: 6/10（價格偏高）
+- Convenience: 7/10（Vatican 區，庭院座位，但早到為佳）
+- Consistency: 7/10（Chef 品牌但服務不一致）
+- Risk (10 = low risk): 7/10（價格與服務不穩定是風險）
+- **Total: 36/50**
+
+---
+
 ---
 
 ### Antico Forno Roscioli
