@@ -14,7 +14,8 @@
 - Project objective and boundaries
 - Immutable travel itinerary (flights, trains, accommodations)
 - Fixed dates and city sequence
-- Scope constraints (food only, no alcohol, no itinerary changes)
+- Scope constraints (food only, no alcohol-focused venues, no itinerary changes)
+- Research process principles (evidence-based, negative review analysis, comparative judgment)
 
 **For complete details, see [CONSTITUTION.md](CONSTITUTION.md)**
 
@@ -57,7 +58,7 @@ Build **evidence-based food recommendations** (restaurants, cafes, desserts) for
 - ✈️ Travel logistics **already booked and immutable**
 - 🗓️ Cities, dates, and sequence **fixed**
 - 🍽️ Scope: **food only** (restaurants, cafes, desserts)
-- 🚫 **No alcohol** (exclude wine bars, cocktail bars, alcohol-focused venues)
+- 🚫 **No alcohol** (exclude alcoholic beverages and alcohol-focused venues; food-focused venues that incidentally serve alcohol are acceptable)
 
 ### File Structure (Per City)
 ```
@@ -74,7 +75,7 @@ gourmet/YYYY-MM-DD-city/
 - **Initialize**: Create overview.md → Use web_search for 20+ candidates
 - **Discover**: Add top 3-5 to candidates.md table
 - **Research**: Document evidence in notes.md (4+ sources minimum)
-- **⚠️ Negative Reviews**: Search complaints, worst experiences for all top picks (35+)
+- **⚠️ Negative Reviews (REQUIRED)**: Analyze complaints, worst experiences for ALL candidates, especially top picks (35+) — high ratings ≠ low risk
 - **Score**: Apply 50-point rubric (Taste + Value + Convenience + Consistency + Risk)
 - **🔄 Update Cascade**: If negative reviews found → Update scores → Update status → Sync all files
 - **Decide**: Promote (35+) or exclude (<30) based on thresholds
@@ -95,7 +96,7 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 2. Tripadvisor or similar aggregator
 3. Reddit (local sentiment)
 4. Food/travel guide (Michelin, TimeOut, blogs)
-5. **Negative reviews** (complaints, worst experiences) - **required for all top picks (35+)**
+5. **Negative reviews (REQUIRED)** - complaints, worst experiences — **mandatory for all candidates; high aggregate ratings do not indicate low risk**
 
 ### Completion Criteria (All Required)
 ✅ No `status: inbox` in candidates.md  
@@ -160,6 +161,13 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - ✅ **Auditable**: Decisions and exclusions documented
 - ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
 - ✅ **Constitutional**: Compliant with CONSTITUTION.md constraints
+
+**Research Process Requirements (per CONSTITUTION.md):**
+- Evidence-based approach with multiple independent sources
+- Candidate discovery before evaluation
+- **Negative review analysis for underlying concerns and risk types**
+- **High aggregate ratings do NOT indicate low risk without negative review analysis**
+- Triage into shortlist or exclusion based on comparative judgment
 
 ---
 
@@ -436,12 +444,12 @@ For deeper understanding of progressive disclosure in documentation design:
 - Add detailed evidence section to notes.md for each place
 - Collect from 4+ sources: Google Maps, Tripadvisor, Reddit, Food Guide
 - Document: ratings, pros/cons, practical info (reservation, hours, queues)
-- **⚠️ Research negative reviews**: Search for complaints, worst experiences, red flags (required for all top picks 35+)
+- **⚠️ REQUIRED: Research negative reviews** - Search for complaints, worst experiences, red flags for ALL candidates (per CONSTITUTION.md: analyze underlying concerns and risk types; high ratings ≠ low risk)
 - Handle conflicts and mark uncertainty explicitly
 
 **Template**: See workflow-detailed.md for evidence section template
 
-**Time**: 15-20 minutes per place (+ 5-10 min for negative review research on top picks)
+**Time**: 15-20 minutes per place (+ 5-10 min for negative review research)
 
 **📖 Full details**: See [references/workflow-detailed.md](references/workflow-detailed.md#evidence-collection--per-place)
 
@@ -456,7 +464,7 @@ For deeper understanding of progressive disclosure in documentation design:
 - **Value**: Price vs quality, portion size
 - **Convenience**: Location, ease of reservation/access
 - **Consistency**: Reliability across reviews
-- **Risk** (10=low): Likelihood of disappointment
+- **Risk** (10=low): Likelihood of disappointment — **MUST be informed by negative review analysis; high aggregate ratings do not indicate low risk**
 
 **Score interpretation**:
 - **40+**: Excellent → Top Pick
@@ -613,11 +621,13 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 ## Quality Bar & Standards
 
-**Core principles**: Fewer, high-confidence picks | Multiple sources | Full traceability
+**Core principles**: Fewer, high-confidence picks | Multiple sources | Full traceability | Negative review analysis
 
 **Research standards**:
 - Minimum 4+ sources per place (Google Maps, Tripadvisor, Reddit, Food Guide)
 - Every score must be justifiable with documented evidence
+- **Negative reviews MUST be analyzed for underlying concerns and risk types (per CONSTITUTION.md)**
+- **High aggregate ratings do NOT indicate low risk without negative review analysis**
 - Document uncertainty explicitly (use labels: unknown, conflicting, unverified, seasonal, outdated)
 
 **📖 Complete quality standards**: See [references/quality-standards.md](references/quality-standards.md) for:
@@ -643,10 +653,12 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 ## Constitutional Compliance
 
 **Before completing any task, verify:**
-1. ✅ No recommendations violate CONSTITUTION.md constraints (no alcohol venues, no itinerary changes)
+1. ✅ No recommendations violate CONSTITUTION.md constraints (no alcohol-focused venues, no itinerary changes)
 2. ✅ All research stays within constitutional scope (food only)
 3. ✅ No outputs suggest modifying immutable facts (dates, bookings, city order)
-4. ✅ When in doubt, re-read CONSTITUTION.md
+4. ✅ Research process follows constitutional requirements (evidence-based, negative review analysis, comparative judgment)
+5. ✅ Risk assessment based on negative reviews, not just aggregate ratings
+6. ✅ When in doubt, re-read CONSTITUTION.md
 
 **Remember**: Any output that violates CONSTITUTION.md is considered **invalid** regardless of quality.
 
