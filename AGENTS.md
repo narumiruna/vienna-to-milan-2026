@@ -161,12 +161,12 @@ This includes:
 
 Build and maintain a **high-quality, evidence-based food shortlist** for each city.
 
-**Coverage:**
+**Coverage** (per CONSTITUTION.md scope):
 - 🍽️ Restaurants
 - ☕ Cafes
 - 🍰 Dessert shops
 
-**Exclusions:**
+**Exclusions** (per CONSTITUTION.md constraints):
 - 🚫 No alcoholic beverages (wine, beer, cocktails)
 - 🚫 No alcohol-focused venues (wine bars, cocktail bars, breweries)
 
@@ -175,6 +175,7 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - ✅ **Comparable**: Shared 50-point scoring rubric
 - ✅ **Auditable**: Decisions and exclusions documented
 - ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
+- ✅ **Constitutional**: Compliant with CONSTITUTION.md constraints
 
 ---
 
@@ -687,9 +688,23 @@ grep "\[ \]" gourmet/[city]/overview.md | wc -l
 
 ---
 
+## Constitutional Compliance
+
+**Before completing any task, verify:**
+1. ✅ No recommendations violate CONSTITUTION.md constraints (no alcohol venues, no itinerary changes)
+2. ✅ All research stays within constitutional scope (food only)
+3. ✅ No outputs suggest modifying immutable facts (dates, bookings, city order)
+4. ✅ When in doubt, re-read CONSTITUTION.md
+
+**Remember**: Any output that violates CONSTITUTION.md is considered **invalid** regardless of quality.
+
+---
+
 ## Further Reading
 
 **End of AGENTS.md** - For detailed guides, see the `references/` directory:
 - **[references/README.md](references/README.md)** - Navigation guide and progressive disclosure explanation
 - **[references/workflow-detailed.md](references/workflow-detailed.md)** - Complete step-by-step workflow instructions
 - **[references/quality-standards.md](references/quality-standards.md)** - Quality bar, audit framework, and best practices
+
+**Constitutional Authority**: **[CONSTITUTION.md](CONSTITUTION.md)** - Project constitution and supreme authority
