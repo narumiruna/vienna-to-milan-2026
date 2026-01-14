@@ -6,7 +6,7 @@ Any output that violates this constitution is considered **invalid**.
 
 ---
 
-## Project Objective (Immutable)
+## Project Objective
 
 - Build **evidence-based food recommendations**
   - Scope limited to: restaurants, cafes, desserts
