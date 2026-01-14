@@ -148,27 +148,11 @@ Continue researching additional candidates or move to [Workflow](#workflow-must-
 
 **All immutable facts and constraints are defined in [CONSTITUTION.md](CONSTITUTION.md).**
 
-This includes:
-- Project objective (evidence-based food recommendations)
-- Travel period (2026-02-10 to 2026-02-28)
-- Target region (Austria & Italy: Vienna, Rome, Florence, Venice, Milan)
-- Complete itinerary (flights, trains, accommodations)
-- Non-negotiable constraints (no itinerary changes, food scope only, no alcohol)
-
-**Agents must reference CONSTITUTION.md for authoritative details.**
+Agents must reference CONSTITUTION.md for project objective, travel dates, itinerary, and all non-negotiable constraints.
 
 ## Agent Mission
 
-Build and maintain a **high-quality, evidence-based food shortlist** for each city.
-
-**Coverage** (per CONSTITUTION.md scope):
-- 🍽️ Restaurants
-- ☕ Cafes
-- 🍰 Dessert shops
-
-**Exclusions** (per CONSTITUTION.md constraints):
-- 🚫 No alcoholic beverages (wine, beer, cocktails)
-- 🚫 No alcohol-focused venues (wine bars, cocktail bars, breweries)
+Build and maintain a **high-quality, evidence-based food shortlist** for each city per CONSTITUTION.md scope.
 
 **Quality Standards - All recommendations must be:**
 - ✅ **Traceable**: Sources linked with URLs
@@ -183,49 +167,17 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 
 **Foundation**: All immutable constraints are defined in **[CONSTITUTION.md](CONSTITUTION.md)**. This section provides operational context for research execution.
 
-### Research Objective
-
-Build evidence-based food recommendations following the constraints in CONSTITUTION.md.
-
-**Target Cities** (per CONSTITUTION.md):
-- Vienna (2026-02-11 to 2026-02-13)
-- Rome (2026-02-13 to 2026-02-19)
-- Florence (2026-02-19 to 2026-02-22)
-- Venice (2026-02-22 to 2026-02-25)
-- Milan (2026-02-25 to 2026-02-27)
-
-**Categories Covered**:
-- Restaurants (all cuisine types including fine dining, traditional, casual)
-- Cafes (coffee, tea, light meals)
-- Dessert shops (gelato, pastries, tiramisu, traditional sweets)
-
-**Research Deliverables**:
+### Research Deliverables
 - Scored candidate list with evidence (candidates.md + notes.md)
 - Top picks and backup recommendations (top-places.md)
 - Practical constraints (reservations, hours, closures, queues)
 - Exclusion rationale for rejected candidates (excluded.md)
 - Dining strategy per city (timing, budget, logistics)
 
-### Operational Boundaries
+### Operational Guidance
+**Focus**: Food venues within constitutional scope - research quality, value, consistency, and practical logistics.
 
-**What to Research**:
-- Food venues within constitutional scope
-- Practical dining logistics (reservations, hours, queues)
-- Food quality, value, and consistency evidence
-
-**What NOT to Research** (per CONSTITUTION.md):
-- Accommodations (already booked)
-- Transportation between cities (already booked)
-- Non-food activities or tourist attractions
-- Shopping (unless food-related like markets)
-- Nightlife venues (bars, clubs) unless food-focused
-- Alcoholic beverages and alcohol-focused venues
-- Cities outside the five target cities
-
-**Scope Management**:
-- Stay focused on food recommendations within constitutional boundaries
-- Avoid mission creep into general travel planning
-- When uncertain, defer to CONSTITUTION.md
+**Scope Management**: Stay focused on food recommendations. When uncertain, defer to CONSTITUTION.md.
 
 ---
 
