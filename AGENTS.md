@@ -18,7 +18,7 @@
 
 ### Guidelines & Standards
 - [Progressive Disclosure Principle](#progressive-disclosure-principle)
-- [Quality Bar](#quality-bar)
+- [Quality Bar & Standards](#quality-bar--standards)
 - [Research Completion Standard](#research-completion-standard)
 
 ### Reference & Troubleshooting
