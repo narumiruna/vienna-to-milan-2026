@@ -1048,6 +1048,14 @@ Medium priority:
 - Reserved tables sometimes left empty for extended periods
 - Small additional charges (bottled water, automatic tips)
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Poor service**: 多處評論提及粗魯或不專注的服務員，客人感覺不受歡迎，員工顯得不耐煩或冷漠
+- **🚫 Food quality problems**: 部分投訴食物未煮熟或不符菜單描述，有評論稱之為「浪費金錢」
+- **⚠️ Unreliable service**: 即使食物受讚揚的客人也對緩慢或無組織的服務表示失望，長時間等待點餐與上菜，員工注意力分散
+- **⚠️ Transaction issues**: 部分評論暗示帳單或付款問題，特別是不明確收費或不友善處理付款疑問
+- **Service inconsistency**: 體驗差異很大，部分客人有正面體驗，但其他人遭遇嚴重服務問題
+- **Sources**: Tripadvisor "Rude staff, uncooked food, waste of money", "Beautiful cafe, really poor service", "Great food; not so great service"
+
 **Practical**:
 - reservation requirement: highly recommended (book via WhatsApp or phone)
 - best time: weekday mornings less crowded
@@ -1055,13 +1063,14 @@ Medium priority:
 - queue: likely without reservation, especially weekends
 - price range: €10-20 per person
 
-**Score (50-point rubric)**:
-- Taste / Quality: 8/10 (excellent European-style breakfast, quality ingredients)
-- Value: 6/10 (moderate-high prices, some portions small)
-- Convenience: 7/10 (central location near Piazza Navona, reservation needed)
-- Consistency: 7/10 (food quality consistent, service feedback mixed)
-- Risk (10 = low risk): 7/10 (reservation challenges, pricing expectations)
-- **Total: 35/50**
+**Score (50-point rubric)** - **Revised after negative review research**:
+- Taste / Quality: 7/10 (降1分：未煮熟食物、品質問題)
+- Value: 6/10
+- Convenience: 7/10
+- Consistency: 6/10 (降1分：服務與食物品質不穩定)
+- Risk (10 = low risk): 6/10 (降1分：服務與食物風險)
+- **Total: 32/50** (原35，降3分因服務與食物品質問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to service and food quality issues
 
 ---
 
@@ -1291,6 +1300,15 @@ Medium priority:
 - Slightly higher prices for drinks and platters
 - Not available for dessert-only reservations (lunch/dinner reservations only)
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Rude or brusque staff**: 大量評論提及粗魯、不友善或急促的服務，特別是繁忙時段。員工對問題不耐煩，未適當解釋菜單選項，有時甚至拒絕客人進入僅因他們想選擇口味或詢問份量
+- **🚫 Tourist trap label**: 部分客人認為是「tourist trap」，體驗過於緊張或混亂，名聲與實際不符
+- **⚠️ Overrated dessert**: 多處評論認為提拉米蘇平淡、不新鮮或不值得炒作，其他羅馬地點提供更好品質且更便宜的提拉米蘇
+- **⚠️ High prices**: 相對其他甜點店非常昂貴，客人對付高價但得到平庸產品感到失望，特別是被迫接受大份量而非小份量或試吃組合
+- **⚠️ Strict and confusing policies**: 對管理人潮與小空間的方式導致困惑或挫折，必須快速決定外帶或內用，逗留或瀏覽會被員工皺眉，旅客期待更輕鬆氛圍時特別負面
+- **⚠️ Inconsistent atmosphere**: 雖有人讚揚舒適溫馨環境，其他人認為過於匆忙或緊張，特別是尖峰時段，急促服務與排隊留下負面印象
+- **Sources**: Tripadvisor "Terrible - DO NOT GO! Tourist Trap!", "Overrated, rude staff, very expensive", "Mediocre tiramasu with worst customer service", "Bad customer service", "A disappointing recommendation", "Overrated and disappointed"
+
 **Practical**:
 - reservation requirement: encouraged for lunch/dinner (not for dessert-only)
 - best visiting time: lunch or dinner service
@@ -1350,6 +1368,15 @@ Medium priority:
 - 週六休息（安息日）
 - 無法運送或線上訂購
 - 排隊人潮可能很長
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Grumpy or curt staff**: 多處來源與評論一致指出員工—通常是經營家族的年長女性—態度生硬、不友善或明顯粗魯。此名聲如此確立，連 The Guardian 與 Wikipedia 都提及「noted for its 'grumpy' staff」
+- **🚫 Customer service issues**: 投訴包括員工不耐煩，特別是對不會說義大利語的遊客或不熟悉猶太習俗者。有報告稱在猶太逾越節詢問蛋糕供應時被「用惡劣方式」回答，沒有嘗試解釋背景或原因
+- **⚠️ Long wait times**: 因店面極小（被形容為「smaller than a walk-in closet」）與有限人手，常導致長隊與令人挫折的等待，有時僅為被服務就需 20-30 分鐘。猶太節日與週六休息使問題加劇
+- **⚠️ Appearance & quality concerns**: 部分客人抱怨烘焙食品的燒焦或龜裂外觀，認為看起來過熟或像「錯誤品」。實際上這是 Boccione 傳統的一部分，但對不熟悉在地文化者可能令人卻步
+- **⚠️ Limited selection and high prices**: 糕點選擇狹窄，產品快速售罄，部分人認為價格相對提供內容偏高。可能晚到發現貨架幾乎空空，或僅剩少數看起來燒焦的商品—這是店家特色，並非總是品質差的標誌
+- **Context**: 許多人建議前往是為了歷史與傳統食物，而非友善服務或多樣選擇。其生硬風格被部分人視為真實、舊世界魅力的一部分
+- **Sources**: Wikipedia "Noted for its 'grumpy' staff", Tripadvisor, Wanderlog, The Infatuation, Atlas Obscura
 
 **Practical**:
 - reservation requirement: none (walk-in only)

@@ -1139,6 +1139,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Queue during peak times
 - Tourist-heavy location
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Staff rudeness**: 多處評論提及員工不友善、生硬或明顯粗魯，特別是繁忙時段。有「最佳 gelato 但最差員工」的評論
+- **⚠️ Crowded and chaotic**: 店內人潮常導致擁擠混亂氛圍，客人感覺被催促，限制座位
+- **⚠️ Price and portion issues**: 少數評論認為份量不一致或相對價格偏小，特別是高級口味
+- **Taste complaints (rare)**: 罕見但有部分評論認為某些口味過甜、有冰晶或不符炒作，如芒果或米口味
+- **Overall**: 服務態度是主要抱怨點，gelato 品質本身極少負評
+- **Sources**: Tripadvisor "Best gelato in Florence with the worst staff", service complaints during busy periods
+
 **Practical**:
 - reservation requirement: none（gelato shop，walk-in）
 - best visiting time: Off-peak hours
@@ -1435,6 +1443,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Prices higher than traditional Italian cafés
 - Sometimes inconsistent service quality
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Inconsistent and poor service**: 多處評論強調服務不一致且有時惡劣，座位系統混亂，有人被要求在外等候而其他人立刻入座，長時間等待訂單，員工注意力不足
+- **⚠️ Quality & value concerns**: 氛圍時尚且「適合 Instagram」，但食物品質被描述為好但不足以證明高價，早午餐項目如酪梨吐司與煎餅評價混合，可頌與咖啡有時平淡或冷掉
+- **⚠️ Coffee experience**: 雖精品咖啡受讚揚，但多位評論者認為咖啡未達期待，特別是考慮價位。有「略帶焦味」的評論
+- **⚠️ High prices**: 兩人美式早午餐 €71，加點水果或培根進一步提高價格，被認為相對佛羅倫斯標準顯著偏高
+- **Service specifics**: 「awful service」、冷食、溫咖啡，繁忙時段特別混亂與不公平感
+- **Comparison**: 多處評論建議佛羅倫斯有更好的咖啡館提供相當品質但更低價格與更友善服務
+- **Sources**: Tripadvisor "Awful service", "Good Coffee, Bad Service", "Good, strong coffee, lacking service"
+
 **Practical**:
 - reservation requirement: generally walk-in (call for large groups)
 - best time: off-peak hours to avoid crowds
@@ -1620,6 +1637,15 @@ When visiting Florence, prioritize its world-class gelato and traditional Tuscan
 - Schiacciata con l'uva 僅限 9-10月（季節性）
 - 訪問時間為 2月，無法品嚐葡萄版本
 - 熱門商品可能售罄
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Quality variations between locations**: 部分義大利網站評論指出並非所有 Pugi 分店提供完全相同產品，某些據點的 schiacciata 或麵包品質優於其他分店
+- **⚠️ Taste and recipe changes**: 長期在地人提及多年後回訪感覺某些產品如 schiacciata 或麵包的風味或真實性與數十年前記憶不太相同，懷舊與期待導致更嚴格批評
+- **⚠️ Pricing and value**: 多處評論指出 Pugi 價格特別是甜點與某些特色項目偏高（「medio-alto」），部分人認為相對競爭者的份量或品質不太能證明價格
+- **Product specific complaints**: 雖 schiacciata 與披薩幾乎總是受讚揚，但如「cenci」（佛羅倫斯嘉年華甜點）被批評「intrisi d'olio」（太油）當它們應該是烘焙而非油炸，顯示甜點供應偶爾不一致
+- **Service rare mentions**: 員工通常被描述為友善開朗，但不足以抵消產品變化或期待的失望
+- **Balance**: 儘管有這些批評，Pugi 幾乎普遍被推薦用於 schiacciata 與披薩，許多人仍稱其為「una sicurezza」（可靠選擇）。大多數負評集中於特定甜點、麵包或分店差異，而非 schiacciata 本身的根本品質問題
+- **Sources**: ItaliaRecensioni, Tripadvisor Italy, Restaurant Guru, Gambero Rosso
 
 **Practical**:
 - reservation requirement: none (walk-in only)

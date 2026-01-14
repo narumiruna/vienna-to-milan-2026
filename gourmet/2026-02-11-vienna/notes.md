@@ -176,15 +176,24 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 觀光點位的擁擠；可能被認為偏貴或「不夠在地」
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Rude staff and poor service**: 極多評論提及粗魯、態度惡劣的服務人員，部分客人稱之為「維也納最差服務」，甚至有「這城市若沒有 Bitzinger 會更好」的激烈批評
+- **🚫 Tourist trap concerns**: 多處評論標記為「tourist trap」或「total scam」，遊客感覺被剝削與不受尊重
+- **🚫 Hygiene issues**: 部分評論指出衛生問題，包括髒亂環境與食物處理不當，收銀員態度惡劣
+- **⚠️ High prices**: 有極端案例收費高達 90 歐元用於一般香腸與飲料，客人感覺被敲竹槓
+- **⚠️ Poor overall experience**: 大量評論表示「not worth it」、「rip off」、「poor experience」，對食物與服務均不滿意
+- **Sources**: Tripadvisor "Worst service in Vienna", "Tourist trap, total scam", "Horrible experience for 90 Eur!", "Hygiene problems and very rude cashier"
+
 **Practical**: reservation requirement = none; best time = 非尖峰/當作轉場點; queue = 可能但通常周轉快
 
-**Score (preliminary; 50-point rubric)**:
+**Score (50-point rubric)** - **Revised after negative review research**:
 - Taste / Quality: 7/10
-- Value: 7/10
+- Value: 5/10 (降2分：極端高價案例與價值疑慮)
 - Convenience: 9/10
-- Consistency: 7/10
-- Risk (10 = low risk): 6/10
-- **Total: 36/50**
+- Consistency: 6/10 (降1分：服務與品質不穩定)
+- Risk (10 = low risk): 3/10 (降3分：衛生問題、tourist trap、服務極差)
+- **Total: 30/50** (原36，降6分因衛生與服務嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to hygiene concerns and service issues
 
 ---
 
@@ -308,15 +317,24 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 服務不一致（有時友善，有時慢速或疏忽）；尖峰時段擁擠
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Extremely rude waiters**: 大量評論提及極度粗魯的服務員，對客人不耐煩甚至大吼，拒絕協助帶位或提供基本禮貌
+- **🚫 Poor food quality**: 食物常常是冷的、品質差、份量小，有時送錯餐點（如未經溝通替換配菜）
+- **⚠️ Very slow service**: 服務極其緩慢，等待超過一小時食物才上桌，員工漠不關心或忽視客人需求
+- **⚠️ Payment and tip issues**: 服務員未經同意擅自留下小費，或在客人要求找回零錢時製造衝突，缺乏尊重
+- **⚠️ Atmosphere problems**: 雖然復古裝潢受歡迎，但實際體驗冷漠、不友善，不值得價格與名聲
+- **Sources**: Tripadvisor "Awful terrible experience bad food and rude waiter", "THE WORST IN WIEN", "Extremely rude waiter, terrible service", "The worst strudel in town"
+
 **Practical**: reservation requirement = recommended (尖峰時段); best time = 早餐或下午茶時段; queue = 尖峰時段可能需等位
 
-**Score (preliminary; 50-point rubric)**:
-- Taste / Quality: 7/10
-- Value: 7/10
+**Score (50-point rubric)** - **Revised after negative review research**:
+- Taste / Quality: 6/10 (降1分：冷食、品質差、「最差 strudel」)
+- Value: 6/10 (降1分：價格未能反映品質)
 - Convenience: 8/10
-- Consistency: 6/10
-- Risk (10 = low risk): 7/10
-- **Total: 35/50**
+- Consistency: 5/10 (降1分：服務與食物品質極不穩定)
+- Risk (10 = low risk): 6/10 (降1分：服務與食物品質風險)
+- **Total: 31/50** (原35，降4分因服務與食物嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to service and food quality issues
 
 ---
 
@@ -447,15 +465,24 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 **Recurring cons**: 價格偏高（三明治小份量，性價比疑慮）；尖峰時段排隊；服務評價不一（有時專注，有時等待過久）
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Rude and arrogant staff**: 多處評論提及服務員粗魯或傲慢，客人感覺被忽視、收到唐突回應或遭受不友善對待，有「Worst service ever」的評價
+- **⚠️ Reservation and seating issues**: 預訂系統混亂，部分客人感覺被趕出以迎接更高消費客戶，常客或高消費者獲優先待遇
+- **⚠️ Value concerns**: 多處評論稱餐廳「expensive and overrated」，認為食物與氛圍不符合高價位
+- **⚠️ Inconsistent experiences**: 體驗兩極化，食物獲好評但服務常成爭議點，標準不一致
+- **Other issues**: 罕見案例有錯誤訂單、長時間等待、員工解釋不充分等問題
+- **Sources**: Tripadvisor "Bad Service, Rude waiter", "Worst service ever", Yelp reviews, Restaurant Guru
+
 **Practical**: reservation requirement = recommended; best time = 非尖峰時段，或選擇熟食櫃檯快速用餐; queue = 午餐/週末尖峰時段可能排隊
 
-**Score (preliminary; 50-point rubric)**:
+**Score (50-point rubric)** - **Revised after negative review research**:
 - Taste / Quality: 8/10
 - Value: 6/10
 - Convenience: 7/10
-- Consistency: 7/10
-- Risk (10 = low risk): 7/10
-- **Total: 35/50**
+- Consistency: 6/10 (降1分：服務評價不一致)
+- Risk (10 = low risk): 5/10 (降2分：服務問題普遍且態度惡劣)
+- **Total: 32/50** (原35，降3分因服務嚴重問題)
+- **Status**: ⚠️ **DOWNGRADED** - Moved to backup due to consistent service complaints
 
 ---
 
@@ -494,6 +521,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Service can occasionally be inconsistent (mostly positive but some mixed reviews)
 - Can get crowded, especially weekends (reservations recommended)
 - Some portions considered small for the price
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Poor and rude service**: 大量評論提及不友善、粗魯或不屑的服務員，部分遊客感覺不受歡迎，員工顯得不耐煩或冷漠
+- **⚠️ Overpriced offerings**: 多處評論認為食物與飲料極為昂貴且不符品質，飲料份量特別小相對價格
+- **⚠️ Disappointing food quality**: 麵包乾燥、餐點乏味、食物不符促銷宣傳或魅力呈現的期待
+- **⚠️ Atmosphere vs. experience gap**: 雖然復古裝潢與概念（雇用長者烘焙）吸引人，但實際體驗未達期待，特別是服務與食物令人失望時
+- **Worst experience stories**: 有客人因惡劣對待或負面氛圍中途離席，稱之為「維也納最差咖啡館體驗」
+- **Breakfast issues**: 早餐特別被批評麵包乾燥、選擇平淡，建議去他處用早餐
+- **Sources**: Tripadvisor "The WORST experience we've ever had", "Rude service, overpriced cake", "Disappointing Breakfast Despite Cozy Atmosphere", "Nice concept but staff unfriendly"
 
 **Practical**: 
 - reservation requirement: recommended (especially weekends and larger groups)
@@ -622,6 +658,14 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Some feel portions small for the price
 - Can feel "slightly overpriced" compared to quality received
 
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **🚫 Poor and unfriendly service**: 大量評論報告服務員冷漠、不專注或明顯粗魯，客人感覺不受歡迎或被催促，員工對客人滿意度漠不關心。有評論稱「我們在奧地利一個月以來最差的服務」
+- **🚫 Slow or chaotic service**: 頻繁抱怨等待時間過長（點餐與上菜），組織混亂，訂單錯誤或遺漏，問題提出後缺乏跟進
+- **⚠️ Mishandling complaints**: 部分客人試圖反映問題時，員工採取防禦態度或不理不睬。例如主菜冷且乾燥時，服務員將責任推給廚房，不願專業解決問題，讓用餐體驗「非常不愉快」
+- **⚠️ Overpriced compared to experience**: 多處評論指出價格相對僅為平均水準的食物與不佳的服務過高，認為維也納有更好且更便宜的選擇
+- **⚠️ Billing issues**: 分帳問題與多收費用也被提及，增加客人挫折感
+- **Sources**: Tripadvisor "Worst service of any restaurant", "Poor service - staff uninterested", "Bad service, worst ever!", "Slow service? No Service!", TrustTheCrowd aggregated reviews (28% cite slow/inattentive service)
+
 **Practical**:
 - reservation requirement: highly recommended (popular spot)
 - best time: morning for breakfast, sunny days for terrace
@@ -720,6 +764,15 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 **Recurring pros** (from wien.info context + Restaurant Guru summary): 偏第三波咖啡（更重視萃取與豆子風味）；外帶/短停友善，適合把「喝好咖啡」塞進行程縫隙
 
 **Recurring cons**: 座位與尖峰狀況 `unknown`（需現場觀察）；分店多，體驗可能略有差異
+
+**Negative reviews / complaints** (研究日期: 2026-01-14):
+- **⚠️ Unfriendly or aloof staff**: Tripadvisor 評論批評咖啡館「over hyped」且員工不友善，hipster 氛圍並非對所有人都友好
+- **⚠️ Atmosphere issues**: 夏季缺乏空調導致室內非常炎熱，多處評論指出高溫造成不適（雖有戶外座位可選）
+- **⚠️ Limited food choices**: 部分訪客提及早餐菜單選擇有限，雖咖啡品質受讚揚，但尋求更多食物選項者感到失望
+- **⚠️ Pricing concerns**: 被認為比維也納其他咖啡館更貴，精品咖啡店典型定價，但部分評論認為咖啡份量相對價格偏小。有德語評論用強烈字眼稱之為「rip-off」（reine Abzocke）
+- **⚠️ Hipster overtones**: 部分評論形容為「hipster, over-hyped put on」，認為名聲與實際體驗（溫暖感或品質）不符
+- **Other issues**: 筆電使用政策並非所有桌位都可使用筆電，對希望工作/學習者有限制；抹茶拿鐵過甜，植物奶選擇有限
+- **Sources**: Tripadvisor "Such a hipster over hyped put on, and unfriendly", "Schreckliches Lokal, reine Abzocke", Specialty Coffee Shop Guide, Wanderlog
 
 **Practical**:
 - reservation: none
