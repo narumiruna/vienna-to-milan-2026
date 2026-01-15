@@ -94,6 +94,19 @@
   - address: Borgo San Frediano 43/R, 50124 Florence
   - 特色菜：手工 ravioli、牛臉頰燉菜、tiramisu
 
+#### 8. Pho Pho Asian/Vietnamese Food (37/50) ⭐
+- **type**: Vietnamese, pho
+- **area**: Centro (Via Sant'Antonino)
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pho+Pho+Via+Sant%27Antonino+Florence
+- **official**: https://www.thefork.com/restaurant/pho-pho-r843649
+- **justification**: 佛羅倫斯最佳越南餐廳，道地 pho 與春捲；TheFork 8.5/10；溫馨家庭氛圍
+- **constraints**: 
+  - reservation: recommended（可通過 TheFork 預訂）
+  - hours: 11:00 AM - 11:00 PM daily
+  - location: Via Sant'Antonino 11R（亞洲雜貨店後方，稍隱蔽）
+  - price: €10-16/bowl（約 €25/person）
+
 ---
 
 ### 咖啡館 Top Picks
