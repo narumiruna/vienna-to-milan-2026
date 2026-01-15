@@ -1666,3 +1666,87 @@ Medium priority:
 
 **特殊文化意義**:
 Pizza dolce di Beridde 代表羅馬猶太社群的堅韌與傳承。名稱中的 "pizza" 源自拉丁語的麵餅，與現代披薩無關。這款甜麵包在猶太節慶、婚禮、割禮等儀式中扮演重要角色，是羅馬猶太文化的象徵。
+
+---
+
+## Phở 1 Aurelia
+
+**Address**: Near Vatican, Aurelio area, Rome
+
+**Google Maps**: 4.8/5 (300+ reviews) — https://www.google.com/maps/search/?api=1&query=Pho+1+Aurelia+Rome
+
+**Aggregator (Restaurant Guru)**: 4.8/5 — https://restaurantguru.com/Pho-1-Aurelia-Rome
+
+**Reviews**: 
+- 持續高評價，特別讚賞道地的湯頭、新鮮食材、春捲
+- 寧靜氛圍，友善服務
+- 位置接近梵蒂岡，遊客方便
+- 價格合理
+
+**Recurring pros** (from reviews): 道地越南風味，湯頭完美；春捲新鮮酥脆；友善服務；寧靜氛圍；價格合理
+
+**Recurring cons**: 位置稍偏離市中心（但近梵蒂岡）
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 極少負評，主要為：
+  - ⚠️ 偶有菜單選項有限的評論
+  - 整體負評比例極低，風險低
+
+**Practical**:
+- reservation: recommended
+- best time: 午餐或晚餐早時段
+- location: Near Vatican, accessible for tourists
+- price: €10-20/person (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (道地風味，高評價)
+- Value: 8/10 (合理價格)
+- Convenience: 6/10 (近梵蒂岡但稍離市中心)
+- Consistency: 8/10 (評價穩定)
+- Risk (10 = low risk): 8/10 (負評極少)
+- **Total: 38/50**
+- **Status**: ⭐ **TOP PICK** (已修正至38/50)
+
+---
+
+## Pho1 (Via Merulana)
+
+**Address**: Via Merulana, Monti, Rome (central Rome)
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Pho1+Via+Merulana+Rome
+
+**Tripadvisor**: — https://www.tripadvisor.com/Restaurant_Review-g187791-d13114792-Reviews-Pho1-Rome_Lazio.html
+
+**Aggregator (Wanderlog)**: — https://wanderlog.com/place/details/2129303/ristorante-ph%E1%BB%9F-1
+
+**Reviews**: 
+- 市中心位置方便
+- 道地越南風味，湯頭與河粉均獲好評
+- 素食與無麩質選項
+- 服務快速
+- 價格合理
+
+**Recurring pros** (from reviews): 中央位置方便；道地風味；素食友善；服務快；價格合理
+
+**Recurring cons**: 可能在尖峰時段較忙碌
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 負評比例低，主要為：
+  - ⚠️ 尖峰時段服務較慢
+  - ⚠️ 偶有湯頭不夠濃郁的評論
+  - 整體風險可控
+
+**Practical**:
+- reservation: recommended (尤其晚餐)
+- best time: 午餐或晚餐早時段
+- location: Via Merulana, central Rome, near hotel area
+- price: €10-20/person (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (道地風味)
+- Value: 7/10 (合理價格)
+- Convenience: 8/10 (市中心位置)
+- Consistency: 7/10 (評價穩定但有少量抱怨)
+- Risk (10 = low risk): 7/10 (少量服務與口味風險)
+- **Total: 37/50**
+- **Status**: ⭐ **TOP PICK** (已修正至37/50)
