@@ -1196,3 +1196,88 @@ Visit Pavé early in the morning for the freshest Michetta. The bakery opens at 
 
 **Cultural context**: 
 Michetta's history traces back to Austrian influences (Kaiser roll adaptation), and its recipe was adapted to Milan's climate to achieve its singular airy texture. It's a symbol of Milanese breakfast and snacking culture.
+
+---
+
+## Ristornate Casavietnam
+
+**Address**: Viale Nazario Sauro 5, 20124 Milan
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Ristornate+Casavietnam+Milan
+
+**Tripadvisor**: — https://www.tripadvisor.com/Restaurant_Review-g187849-d19068065-Reviews-Ristornate_Casavietnam-Milan_Lombardy.html
+
+**TheFork**: — https://www.thefork.com/restaurants/milan-c348156/vietnamese-t394
+
+**Reviews**:
+- 正宗越南風味，特別是 pho 湯頭
+- 新鮮食材，友善服務
+- 價格合理，性價比高
+- 溫馨舒適的氛圍
+- 隱藏珍寶，較少遊客
+
+**Recurring pros** (from reviews): 正宗道地風味；湯頭鮮美；友善服務；價格合理；溫馨氛圍；隱藏珍寶
+
+**Recurring cons**: 位置稍偏離主要觀光區
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 極少負評，主要為：
+  - ⚠️ 位置稍偏
+  - 整體負評比例極低，風險低
+
+**Practical**:
+- reservation: recommended
+- best time: 午餐或晚餐時段
+- location: Viale Nazario Sauro 5, 稍離市中心但交通便利
+- price: €10-20/person (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (正宗道地風味)
+- Value: 8/10 (價格合理)
+- Convenience: 6/10 (稍離市中心)
+- Consistency: 8/10 (評價穩定)
+- Risk (10 = low risk): 7/10 (負評極少)
+- **Total: 38/50**
+- **Status**: ⭐ **TOP PICK**
+
+---
+
+## Hanoi
+
+**Address**: Piazzale Antonio Baiamonti, 5, 20154 Milano
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Hanoi+Piazzale+Baiamonti+Milan
+
+**TheFork**: 8.9/10 — https://www.thefork.com/restaurant/hanoi-r483003
+
+**Reviews**:
+- 道地越南料理，特別是 pho bo (牛肉河粉)
+- 服務快速有效率
+- 價格合理
+- 品質穩定
+- 簡單乾淨的環境
+
+**Recurring pros** (from reviews): 道地風味；快速服務；價格合理；品質穩定；簡單環境
+
+**Recurring cons**: 裝潢簡單；無太多特色
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 負評比例低，主要為：
+  - ⚠️ 少數人認為湯頭不夠濃郁
+  - ⚠️ 裝潢過於簡單
+  - 整體風險可控
+
+**Practical**:
+- reservation: recommended
+- best time: 午餐或晚餐時段
+- location: Piazzale Baiamonti 5, 市中心便利
+- price: €10-20/person (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (道地風味，穩定品質)
+- Value: 8/10 (價格合理)
+- Convenience: 7/10 (市中心位置)
+- Consistency: 7/10 (評價穩定，少量口味抱怨)
+- Risk (10 = low risk): 6/10 (少量湯頭與環境風險)
+- **Total: 36/50**
+- **Status**: ⭐ **TOP PICK**
