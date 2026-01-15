@@ -1664,3 +1664,49 @@ When visiting Florence, prioritize its world-class gelato and traditional Tuscan
 - **Total: 36/50**
 
 **重要注意**: Schiacciata con l'uva 是托斯卡尼葡萄收成季節（9-10月）的特色甜點，2月訪問無法品嚐。但 Pugi 的經典鹹味 schiacciata 全年供應，仍值得一試。
+
+---
+
+## Pho Pho Asian/Vietnamese Food
+
+**Address**: Via Sant'Antonino 11R EatAsia Hall, 50123 Florence, Italy
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Pho+Pho+Via+Sant%27Antonino+Florence
+
+**TheFork**: 8.5/10 (37 reviews) — https://www.thefork.com/restaurant/pho-pho-r843649
+
+**TripAdvisor**: 4.0/5 (4 reviews) — https://www.tripadvisor.com/Restaurant_Review-g187895-d33072631-Reviews-Pho_Pho_Asian_Vietnamese_Food-Florence_Tuscany.html
+
+**Reviews**:
+- 佛羅倫斯少數道地越南餐廳
+- 位於亞洲雜貨店後方，溫馨家庭氛圍
+- Pho 湯頭濃郁道地，有多種選擇（牛肉、雞肉等）
+- 春捲酥脆新鮮
+- 越南籍服務人員，英文溝通良好
+- 素食選項可選
+
+**Recurring pros** (from reviews): 道地越南風味；溫馨家庭氛圍；豐富份量；價格合理；素食友善；市中心位置便利
+
+**Recurring cons**: 位置稍隱蔽（亞洲雜貨店後方）；少數評論認為湯頭可更濃郁
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 負評比例極低，主要為：
+  - ⚠️ 位置不易發現（需穿過雜貨店）
+  - ⚠️ 少數客人希望湯頭更濃
+  - 整體風險低
+
+**Practical**:
+- reservation: recommended (可通過 TheFork 預訂)
+- best time: 午餐或晚餐時段
+- hours: 11:00 AM - 11:00 PM daily
+- location: 距火車站與主要景點步行 10 分鐘
+- price: €10-16/bowl (約€25/person)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (道地風味，多樣選擇)
+- Value: 8/10 (價格合理，份量足)
+- Convenience: 7/10 (市中心但稍隱蔽)
+- Consistency: 7/10 (評價穩定但樣本較少)
+- Risk (10 = low risk): 7/10 (位置與樣本量風險)
+- **Total: 37/50**
+- **Status**: ⭐ **TOP PICK**

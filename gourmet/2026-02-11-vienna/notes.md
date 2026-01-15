@@ -816,3 +816,86 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Consistency: 6/10
 - Risk (10 = low risk): 6/10
 - **Total: 34/50**
+
+---
+
+## Pho Linh
+
+**Address**: Fleischmarkt 16 Im Hof, 1010 Vienna, Austria
+
+**Google Maps**: 4.8/5 (780+ reviews) — https://www.google.com/maps/search/?api=1&query=Pho+Linh+Fleischmarkt+16+Vienna
+
+**Tripadvisor**: 4.9/5 (72 reviews) — https://www.tripadvisor.ca/Restaurant_Review-g190454-d20912812-Reviews-Pho_Linh-Vienna.html
+
+**Aggregator (Restaurant Guru)**: 4.8/5 — https://restaurantguru.com/Pho-Linh-Vienna
+
+**Guide / Reviews**:
+- ViennaList: https://viennalist.com/pho/ (listed in "16 Best Pho Places in Vienna")
+- Vienna Würstelstand: https://viennawurstelstand.com/guide/the-9-best-places-for-pho-in-vienna/
+- IANU.co: https://www.ianu.co/en/top10/vienna/the-top-vietnamese-restaurants-in-vienna-you-can-t-miss/
+
+**Recurring pros** (from reviews): 道地越南風味，特別是 pho 與 summer rolls；溫馨舒適的氛圍；友善服務；價格合理；室內外座位；素食與無麩質選項；常被形容為「hidden gem」
+
+**Recurring cons**: 晚餐時段常客滿，建議訂位；位於 Im Hof（中庭內）可能不易找到
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 極少負評，主要為：
+  - ⚠️ 偶有「位置難找」抱怨（在中庭內）
+  - ⚠️ 用餐時段客滿需等位
+  - 整體負評比例極低，風險低
+
+**Practical**:
+- reservation: recommended for dinner (可能提供訂位)
+- best time: 午餐或晚餐早時段
+- hours: 需確認（一般午晚餐營業）
+- price: €10-20/人 (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (道地、持續高評價)
+- Value: 8/10 (合理價格、份量足)
+- Convenience: 7/10 (市中心但稍難找、需訂位)
+- Consistency: 8/10 (評價極穩定)
+- Risk (10 = low risk): 9/10 (負評極少)
+- **Total: 41/50**
+- **Status**: ⭐ **TOP PICK** (已修正至41/50，屬於 excellent 等級)
+
+---
+
+## Nguyen's Pho House
+
+**Address**: Lerchenfelder Straße 46, 1070 Vienna, Austria
+
+**Google Maps**: 4.4/5 (1800+ reviews) — https://www.google.com/maps/search/?api=1&query=Nguyen%27s+Pho+House+Lerchenfelder+Strasse+Vienna
+
+**Tripadvisor**: 4.1/5 (350+ reviews) — https://www.tripadvisor.com/Restaurant_Review-g190454-d3962341-Reviews-Nguyen_s_Pho_House-Vienna.html
+
+**Guide / Reviews**:
+- Vienna Würstelstand: https://viennawurstelstand.com/guide/the-9-best-places-for-pho-in-vienna/
+- Wanderlog: https://wanderlog.com/list/geoCategory/1820320/best-spots-for-pho-in-vienna
+- InTravel: https://intravel.net/vienna/restaurants-cafes/nguyens-pho-house
+
+**Recurring pros** (from reviews): 道地越南菜，特別是 pho；自製河粉（homemade bánh phở）；總是很忙/熱鬧的氛圍（人氣指標）；在地人喜愛；新鮮食材；現代友善氛圍
+
+**Recurring cons**: 常客滿需訂位；尖峰時段可能等位
+
+**Negative reviews / complaints** (研究日期: 2026-01-15):
+- 主要抱怨：
+  - ⚠️ 訂位困難，常客滿
+  - ⚠️ 服務可能因忙碌而較慢
+  - ⚠️ 少數評論認為湯頭略鹹或不夠濃郁
+  - 整體負評比例低，主要為便利性/服務速度問題
+
+**Practical**:
+- reservation: highly recommended (建議提前訂位)
+- best time: 非尖峰時段或午餐早時段
+- hours: 需確認（一般午晚餐營業）
+- price: €10-20/人 (估計)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (道地、自製河粉)
+- Value: 8/10 (合理價格)
+- Convenience: 6/10 (常客滿、需訂位、Neubau區需稍走)
+- Consistency: 7/10 (評價多但略分散)
+- Risk (10 = low risk): 7/10 (服務速度與訂位難度風險)
+- **Total: 36/50**
+- **Status**: ⭐ **TOP PICK**

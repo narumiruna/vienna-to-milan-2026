@@ -42,6 +42,17 @@
   - 營業: Tue 19:30-22:30 (dinner only), Wed-Sat 12:30-14:30 & 19:30-22:30, Sun 12:30-14:30 (lunch only)
   - 注意: 確認帳單細節
 
+### 2.5. **Ristornate Casavietnam** - 38/50 ⭐
+- **類型**: 越南餐廳, pho
+- **區域**: Viale Nazario Sauro 5
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Ristornate+Casavietnam+Milan)
+- **推薦理由**: 正宗越南風味，道地pho湯頭，隱藏珍寶，友善服務，價格合理
+- **約束條件**:
+  - 預訂: **建議**
+  - 價格: €10-20/人
+  - 休息日: 需確認
+  - 位置: 稍離市中心但交通便利
+
 ### 3. **Pasticceria Marchesi 1824** - 38/50
 - **類型**: 頂級糕點咖啡館
 - **區域**: Multiple（Galleria, Monte Napoleone, Via Santa Maria）
@@ -69,6 +80,26 @@
 - **類型**: 開胃酒吧
 - **區域**: Città Studi
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Bar+Basso+Milan)
+- **推薦理由**: 1947 年創立，Negroni Sbagliato 發源地，真實米蘭開胃酒體驗
+- **約束條件**:
+  - 預訂: 不需要（walk-in）
+  - 價格: Negroni Sbagliato €11
+  - 休息日: **Tuesday**
+  - 營業: Mon, Wed-Sun 10:00-01:30
+  - 注意: 繁忙時可能等待，小吃簡單
+
+### 5.5. **Hanoi** - 36/50 ⭐
+- **類型**: 越南餐廳, pho
+- **區域**: Piazzale Baiamonti 5
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Hanoi+Piazzale+Baiamonti+Milan)
+- **推薦理由**: 道地越南料理，特別是pho bo，服務快速，價格合理，品質穩定
+- **約束條件**:
+  - 預訂: **建議**
+  - 價格: €10-20/人
+  - 休息日: 需確認
+  - 位置: 市中心便利
+
+### 6. **Confine - Pizza e Cantina** - 35/50
 - **推薦理由**: 1947 年創立，Negroni Sbagliato 發源地，真實米蘭開胃酒體驗
 - **約束條件**:
   - 預訂: 不需要（walk-in）

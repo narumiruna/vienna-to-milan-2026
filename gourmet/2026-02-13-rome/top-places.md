@@ -132,6 +132,28 @@
   - 繁忙時服務可能不一致
   - 建議平日週三或週五
 
+#### 10. Phở 1 Aurelia (38/50) ⭐
+- **type**: Vietnamese, pho
+- **area**: Aurelio (near Vatican)
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pho+1+Aurelia+Rome
+- **justification**: 高評價越南餐廳，道地湯頭與春捲；Google 4.8/5；寧靜氛圍
+- **constraints**: 
+  - reservation: recommended
+  - 位置近梵蒂岡，稍離市中心
+  - price: €10-20/person
+
+#### 11. Pho1 (Via Merulana) (37/50) ⭐
+- **type**: Vietnamese, pho
+- **area**: Monti (Via Merulana)
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pho1+Via+Merulana+Rome
+- **justification**: 市中心位置，道地越南風味；素食與無麩質選項；服務快速
+- **constraints**: 
+  - reservation: recommended（尤其晚餐）
+  - price: €10-20/person
+  - 尖峰時段可能較忙碌
+
 ### Gelato & 甜點 Top Picks
 
 #### 1. Otaleg (43/50) ⭐⭐ 🍨

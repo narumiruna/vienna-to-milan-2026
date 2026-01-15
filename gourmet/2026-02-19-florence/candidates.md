@@ -39,6 +39,7 @@ Notes:
 | Ditta Artigianale | cafe | Multiple locations (4 venues) | brunch, specialty coffee | https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Florence | shortlisted | Google 4.2-4.3/5 | 精品咖啡與現代早午餐，多據點方便；€10-18/人；39/50。 |
 | Pasticceria Cucciolo | dessert | Centro (Via del Corso) | bomboloni, pastries | https://www.google.com/maps/search/?api=1&query=Pasticceria+Cucciolo+Florence | shortlisted | 38/50 | TasteAtlas, food blogs, TripAdvisor | 佛羅倫斯最佳 bomboloni；新鮮出爐；經典奶油/果醬內餡；€1-2/個。 |
 | Antico Forno Pugi | dessert | Multiple locations | schiacciata, breads | https://www.google.com/maps/search/?api=1&query=Forno+Pugi+Florence | shortlisted | 36/50 | Local guides, Firenze Made in Tuscany | 佛羅倫斯最著名麵包店；schiacciata 專家；9月有 schiacciata con l'uva。 |
+| Pho Pho Asian/Vietnamese Food | restaurant | Centro (Via Sant'Antonino) | Vietnamese, pho | https://www.google.com/maps/search/?api=1&query=Pho+Pho+Via+Sant%27Antonino+Florence | top | TheFork 8.5/10, TripAdvisor 4.0/5 | 佛羅倫斯最佳越南餐廳；道地 pho 與春捲；溫馨氛圍；37/50。 |
 
 ---
 

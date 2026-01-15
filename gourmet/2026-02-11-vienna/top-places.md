@@ -42,7 +42,18 @@
   - reservation: recommended
   - busy at peak times
 
-#### 4. Plachutta (Wollzeile) (37/50)
+#### 4. Pho Linh (41/50) ⭐⭐⭐
+- **type**: Vietnamese, pho
+- **area**: Innere Stadt (Fleischmarkt)
+- **total score**: 41/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pho+Linh+Fleischmarkt+16+Vienna
+- **justification**: 維也納最高評價越南餐廳，道地 pho 與溫馨氛圍；Google 4.8/5 (780+ reviews), Tripadvisor 4.9/5
+- **constraints**: 
+  - reservation: recommended for dinner
+  - location: 位於中庭內（Im Hof）稍難找
+  - price: €10-20/person
+
+#### 5. Plachutta (Wollzeile) (37/50)
 - **type**: Tafelspitz specialist
 - **area**: Innere Stadt
 - **total score**: 37/50
@@ -52,7 +63,16 @@
   - reservation: recommended
   - queue: possible at peak times
 
-
+#### 6. Nguyen's Pho House (36/50) ⭐
+- **type**: Vietnamese, pho
+- **area**: Neubau (Lerchenfelder Straße)
+- **total score**: 36/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Nguyen%27s+Pho+House+Lerchenfelder+Strasse+Vienna
+- **justification**: 在地人最愛，自製河粉，熱鬧氛圍；Google 4.4/5 (1800+ reviews)
+- **constraints**: 
+  - reservation: highly recommended（常客滿）
+  - busy at peak times
+  - price: €10-20/person
 
 ---
 

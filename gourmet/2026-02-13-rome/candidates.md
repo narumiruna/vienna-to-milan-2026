@@ -38,6 +38,8 @@ Notes:
 | Two Sizes | dessert | Centro (Via del Governo Vecchio) | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Two+Sizes+Tiramisu+Rome | inbox | Tripadvisor, food blogs | 外帶杯裝提拉米蘇；mini/regular 兩種尺寸；經典+創意口味。 |
 | Tiramisù Merisù | dessert | Trastevere | tiramisù specialist | https://www.google.com/maps/search/?api=1&query=Tiramisu+Merisu+Trastevere+Rome | inbox | Food blogs, guides | 純提拉米蘇專門店；多種口味；素食/無麩質/低咖啡因選項。 |
 | Pasticceria Boccione | dessert | Jewish Ghetto | Jewish pastries, pizza ebraica | https://www.google.com/maps/search/?api=1&query=Pasticceria+Boccione+Rome | shortlisted | 40/50 | Atlas Obscura, Tripadvisor, Spotted by Locals | 210年老店，Pizza dolce di Beridde專家；羅馬猶太區傳統糕點；週六休息。 |
+| Phở 1 Aurelia | restaurant | Aurelio (near Vatican) | Vietnamese, pho | https://www.google.com/maps/search/?api=1&query=Pho+1+Aurelia+Rome | top | Google 4.8/5 (300+ reviews), Restaurant Guru 4.8/5 | 高評價越南餐廳，道地湯頭與春捲；近梵蒂岡；寧靜氛圍；38/50。 |
+| Pho1 (Via Merulana) | restaurant | Monti (Via Merulana) | Vietnamese, pho | https://www.google.com/maps/search/?api=1&query=Pho1+Via+Merulana+Rome | top | Tripadvisor, Google Maps, Wanderlog | 市中心位置，道地風味；素食與無麩質選項；服務快速；37/50。 |
 
 ---
 
