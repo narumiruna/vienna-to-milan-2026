@@ -1,69 +1,6 @@
 # Marpit Markdown Syntax Guide
 
-## Table of Contents
-
-- [Core Rule](#core-rule)
-- [Basic Structure](#basic-structure)
-  - [Minimal Slide Deck](#minimal-slide-deck)
-- [Content Slide](#content-slide)
-  - [Frontmatter (Required)](#frontmatter-required)
-- [Slide Separation](#slide-separation)
-- [Directives](#directives)
-  - [Global Directives (in frontmatter)](#global-directives-in-frontmatter)
-  - [Local Directives (per slide)](#local-directives-per-slide)
-- [Headers and Text](#headers-and-text)
-  - [Header Hierarchy](#header-hierarchy)
-- [H2 - Section Heading](#h2-section-heading)
-  - [H3 - Subsection](#h3-subsection)
-    - [H4 - Minor heading (rarely used)](#h4-minor-heading-rarely-used)
-  - [Text Formatting](#text-formatting)
-  - [Lists](#lists)
-- [Code Blocks](#code-blocks)
-  - [Basic Code Block](#basic-code-block)
-  - [Code with Language Highlighting](#code-with-language-highlighting)
-- [Images](#images)
-  - [Basic Image](#basic-image)
-  - [Image with Size](#image-with-size)
-  - [Image Positioning](#image-positioning)
-  - [SVG Images](#svg-images)
-- [Custom Styling](#custom-styling)
-  - [Scoped Style Tags](#scoped-style-tags)
-  - [Inline HTML](#inline-html)
-- [Left Column](#left-column)
-- [Right Column](#right-column)
-- [Two-Column Layouts](#two-column-layouts)
-  - [Method 1: HTML Grid](#method-1-html-grid)
-- [Left](#left)
-- [Right](#right)
-  - [Method 2: Flexbox](#method-2-flexbox)
-- [Special Features](#special-features)
-  - [Presenter Notes](#presenter-notes)
-  - [Fragments (Incremental Reveal)](#fragments-incremental-reveal)
-- [Point 2](#point-2)
-- [Point 2](#point-2)
-  - [Point 3](#point-3)
-- [Theme Selection](#theme-selection)
-  - [Available Themes](#available-themes)
-  - [Setting Theme](#setting-theme)
-- [Common Patterns](#common-patterns)
-  - [Title Slide](#title-slide)
-  - [Section Divider](#section-divider)
-  - [Content Slide](#content-slide)
-- [Slide Title](#slide-title)
-  - [Code Example Slide](#code-example-slide)
-- [Code Example](#code-example)
-- [Best Practices](#best-practices)
-- [Troubleshooting](#troubleshooting)
-  - [Slide not rendering](#slide-not-rendering)
-  - [Images not showing](#images-not-showing)
-  - [Styling not applying](#styling-not-applying)
-- [Quick Reference Card](#quick-reference-card)
-- [Content](#content)
-- [See Also](#see-also)
-
 Complete reference for writing valid Marpit/Marp Markdown slides.
-
----
 
 ## Core Rule
 
@@ -252,58 +189,14 @@ const greet = () => {
 
 ### Background Images (Recommended)
 
-Use background syntax to automatically size and position images:
-
 ```markdown
-# Full-page background (entire slide)
-![bg fit](diagrams/architecture.svg)
-
-# Right-side image (split layout)
-![bg right fit](diagrams/workflow.svg)
-
-# Left-side image (split layout)
-![bg left fit](diagrams/concept.svg)
-
-# Custom width split
-![bg right:40% fit](diagrams/detail.svg)  # Image takes 40% on right
-![bg left:60% fit](diagrams/main.svg)     # Image takes 60% on left
+![bg fit](diagrams/architecture.svg)          # Full-page background
+![bg right fit](diagrams/workflow.svg)        # Right-side image (split)
+![bg left fit](diagrams/concept.svg)          # Left-side image (split)
+![bg right:40% fit](diagrams/detail.svg)      # Custom width split (40% right)
 ```
 
-**Key benefits of `bg` syntax:**
-- `fit` modifier auto-scales images to fill available space
-- No manual width/height adjustments needed
-- Consistent sizing across slides
-- Better for responsive layouts
-
-### Split Layout Patterns
-
-**Text on left, image on right:**
-```markdown
-![bg right fit](diagrams/city-venice.svg)
-
-# Feature Description
-
-- Point 1
-- Point 2
-- Point 3
-```
-
-**Image on left, text on right:**
-```markdown
-![bg left fit](diagrams/concept.svg)
-
-# Explanation
-
-Content appears on the right side.
-```
-
-**Full-page image with optional overlay text:**
-```markdown
-![bg fit](diagrams/pretrip-checklist.svg)
-
-# Optional Title
-Text will overlay on the image
-```
+**Key benefits of `bg` syntax:** `fit` modifier auto-scales images, no manual adjustments, consistent sizing, better for responsive layouts.
 
 ### Regular Images (Avoid if possible)
 
@@ -337,75 +230,48 @@ h1 {
 
 ### Inline HTML
 
-Marpit supports limited HTML:
+Marpit supports limited HTML for custom layouts:
 
 ```markdown
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 32px;">
   <div>
-
 ## Left Column
 Content here
-
   </div>
   <div>
-
 ## Right Column
 More content
-
   </div>
 </div>
 ```
 
-**Limitations**:
-- Not all HTML elements supported
-- Keep it simple—prefer Markdown when possible
+**Limitations**: Not all HTML elements supported—prefer Markdown when possible.
 
 ---
 
 ## Two-Column Layouts
 
-### Method 1: HTML Grid
-
+**Grid layout:**
 ```markdown
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 48px;">
-
 <div>
-
 ## Left
 - Point 1
-- Point 2
-
 </div>
-
 <div>
-
 ## Right
 - Point A
-- Point B
-
 </div>
-
 </div>
 ```
 
-### Method 2: Flexbox
-
+**Flexbox layout:**
 ```markdown
 <div style="display: flex; gap: 32px;">
-
-<div style="flex: 1;">
-
-Content left
-
+<div style="flex: 1;">Content left</div>
+<div style="flex: 1;">Content right</div>
 </div>
-
-<div style="flex: 1;">
-
-Content right
-
-</div>
-
-</div>
+```
 ```
 
 See [patterns.md](patterns.md) for more layout examples.

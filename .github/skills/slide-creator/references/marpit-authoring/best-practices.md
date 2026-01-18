@@ -70,84 +70,22 @@ Guidelines for creating professional, consistent, and effective slide presentati
 
 ### Why Avoid HTML
 
-1. **Security** - HTML is disabled by default in Marp for security reasons
-   - Requires explicit enablement: VS Code "Marp: Enable HTML" setting or `--html` CLI flag
-   - Protects against potential XSS attacks in collaborative environments
-
-2. **Portability** - Raw HTML breaks viewing in other Markdown editors
-   - GitHub, GitLab, editors without Marp will show raw `<div>` tags
-   - Reduces document reusability and sharing capability
-
-3. **Maintainability** - Pure Markdown is easier to edit and version control
-   - Clear diff history in git
-   - No mixing of HTML/CSS concerns with content
-   - Easier for non-technical collaborators
-
-4. **Philosophy** - Marpit is designed for Markdown-first authoring
-   - Goes against the "separation of concerns" principle
-   - Defeats the purpose of using a Markdown-based tool
+1. **Security** - Disabled by default, requires explicit enablement (`--html` flag)
+2. **Portability** - Breaks viewing in non-Marp Markdown editors
+3. **Maintainability** - Pure Markdown easier to edit and version control
+4. **Philosophy** - Defeats purpose of Markdown-first tool
 
 ### Recommended Alternatives to HTML
 
-**Instead of `<div>` layouts:**
-- Use tables for simple multi-column content
-- Use `![bg left:40%]()` or `![bg right:40%]()` for split layouts
-- Create custom theme CSS with class-based styling
-- Use background images with text overlay
+**Instead of `<div>` layouts:** Use tables, `![bg left:40%]()` split layouts, custom theme CSS, or background images with text overlay
 
-**Instead of inline styles:**
-- Use directives: `backgroundColor`, `backgroundImage`, `color`
-- Define styles in `<style scoped>` for page-specific tweaks
-- Create custom theme CSS for reusable styles
-- Use `class` directive to apply theme-defined styles
-
-**Example (Bad - using HTML):**
-```markdown
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-  <div style="background: #333; padding: 20px;">
-    Content
-  </div>
-</div>
-```
-
-**Example (Good - using Marpit features):**
-```markdown
-<!-- _backgroundColor: #333 -->
-
-| Column 1 | Column 2 |
-|----------|----------|
-| Content  | Content  |
-```
-
-Or with background split:
-```markdown
-![bg right:40%](image.png)
-
-# Content on the left
-With text and lists
-```
+**Instead of inline styles:** Use directives (`backgroundColor`, `backgroundImage`, `color`), `<style scoped>` blocks, or custom theme CSS with `class` directive
 
 ### When HTML is Acceptable
 
-Only use HTML when:
-1. **No Marpit alternative exists** for the required layout
-2. **Visual complexity justifies** the maintenance cost
-3. **You control the rendering environment** (not for sharing)
-4. **You document** the HTML requirement clearly
+Only when: (1) No Marpit alternative exists, (2) Visual complexity justifies cost, (3) You control rendering environment, (4) Requirement documented clearly
 
-Even then, prefer `<style scoped>` over inline `<div>` structures.
-
-### HTML Enablement (If Required)
-
-**VS Code:**
-1. Open Settings (Ctrl/Cmd + ,)
-2. Search "Marp: Enable HTML"
-3. Check the option
-
-**Marp CLI:**
-```bash
-marp slides.md --html -o output.html
-```
+**Enablement:** VS Code: Settings → "Marp: Enable HTML" | CLI: `marp slides.md --html`
 
 ---
 
@@ -166,91 +104,22 @@ A presentation with inconsistent styling appears unprofessional and distracts fr
 ### 1. Color Palette
 
 - ✅ Choose ONE accent color for all section dividers
-- ✅ Use background shades with intentional hierarchy (see below)
+- ✅ Use background shades with intentional hierarchy (darkest for leads, medium for content, lightest for emphasis)
 - ✅ Maintain consistent text colors for similar content types
-- ❌ Avoid: Different colors for each section divider (unless intentional theming)
-
-**Background Color Hierarchy (Recommended Pattern)**
-
-Use different background shades to create visual hierarchy:
-
-- **Lead slides (section dividers)**: Darkest shade — signals transitions, demands attention
-- **Content slides**: Medium shade — easier on eyes for main content
-- **Special emphasis**: Lightest or accent shade — reserve for critical messages
-
-**Example (Good - with hierarchy)**:
-```markdown
----
-marp: true
-backgroundColor: #1e3a5f  <!-- Medium shade for content -->
----
-
-<!-- _class: lead -->
-<!-- _backgroundColor: #0f1f2e -->  <!-- Darkest for lead -->
-# Section 1
-
----
-
-## Content Slide
-Regular content on medium background...
-
----
-
-<!-- _class: lead -->
-<!-- _backgroundColor: #0f1f2e -->  <!-- Darkest for lead -->
-# Section 2
-```
-
-**Example (Also Good - single color)**:
-```markdown
-<!-- All section dividers use same color -->
-<!-- _backgroundColor: #0891b2 -->
-# Section 1
----
-<!-- _backgroundColor: #0891b2 -->
-# Section 2
----
-<!-- _backgroundColor: #0891b2 -->
-# Section 3
-```
-
-**Example (Bad)**:
-```markdown
-<!-- Inconsistent colors with no pattern -->
-<!-- _backgroundColor: #0891b2 -->
-# Section 1
----
-<!-- _backgroundColor: #7c3aed -->
-# Section 2
----
-<!-- _backgroundColor: #10b981 -->
-# Section 3
-```
+- ❌ Avoid: Different colors for each section without pattern
 
 ### 2. Spacing System
 
 - ✅ Use ONE standard gap size for all grid layouts (e.g., 48px)
 - ✅ Use ONE standard margin-top value (e.g., 32px)
 - ✅ Maintain consistent padding around content blocks
-- ❌ Avoid: Mixing 32px, 40px, 48px gaps randomly
-
-**Example (Good)**:
-```markdown
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 48px;">
-  <!-- Consistent 48px gap everywhere -->
-</div>
-```
-
-**Example (Bad)**:
-```markdown
-<!-- Slide 1: gap 32px, Slide 2: gap 48px, Slide 3: gap 40px -->
-```
+- ❌ Avoid: Mixing gap sizes randomly (32px, 40px, 48px)
 
 ### 3. Layout Patterns
 
-- ✅ Reuse the same grid template for similar content
-- ✅ Keep two-column splits at same proportions (1fr 1fr or specific widths)
-- ✅ Use consistent border radius, stroke width across all custom elements
+- ✅ Reuse same grid template for similar content
+- ✅ Keep two-column splits at same proportions
+- ✅ Use consistent border radius, stroke width
 - ❌ Avoid: Different layout structures for similar content types
 
 ### 4. Typography
@@ -336,89 +205,23 @@ Only break consistency for intentional emphasis:
 
 ### Slide Density
 
-**One idea per slide**:
-- ✅ Each slide focuses on one key message
-- ✅ Use bullet points (3-5 max per slide)
-- ❌ Avoid: Wall of text, 10+ bullets, multiple topics
-
-**Good**:
-```markdown
-## Benefits of Microservices
-
-- Independent deployment
-- Technology flexibility
-- Fault isolation
-- Scalability
-```
-
-**Bad**:
-```markdown
-## Architecture Overview
-
-Microservices are a software development technique that arranges
-an application as a collection of loosely coupled services. In a
-microservices architecture, services are fine-grained and the
-protocols are lightweight. The benefit of decomposing an application
-into different smaller services is that it improves modularity and
-makes the application easier to understand, develop, and test. It
-also parallelizes development by enabling small autonomous teams to
-develop, deploy and scale their respective services independently.
-It also allows the architecture of an individual service to emerge
-through continuous refactoring. Microservices-based architectures...
-[continues for 20 more lines]
-```
+**One idea per slide**: Each slide focuses on one key message, use 3-5 bullets max. Avoid wall of text, 10+ bullets, or multiple topics.
 
 ### Title Guidelines
 
-**Be specific and descriptive**:
-- ✅ "Authentication Flow with OAuth 2.0"
-- ❌ "Authentication"
-- ✅ "Database Performance: Query Optimization"
-- ❌ "Performance"
+**Be specific and descriptive**: ✅ "Authentication Flow with OAuth 2.0" | ❌ "Authentication"
 
 ### Code Slides
 
-**Keep code minimal**:
-- Show only relevant portions
-- Use syntax highlighting
-- Add brief comments for clarity
-- Consider splitting complex code across multiple slides
-
-**Good**:
-````markdown
-## User Authentication
-
-```python
-def authenticate(username, password):
-    user = User.query.filter_by(username=username).first()
-    if user and user.check_password(password):
-        return generate_token(user)
-    return None
-```
-````
-
-**Bad**:
-````markdown
-## Code
-
-```python
-# [50 lines of unformatted code with no explanation]
-```
-````
+**Keep code minimal**: Show only relevant portions, use syntax highlighting, add brief comments, split complex code across multiple slides.
 
 ### Image Usage
 
 **CRITICAL: Always use `bg` (background) syntax for diagrams and large images.**
 
-**Why use `bg` syntax:**
-- Automatic sizing with `fit` modifier - no manual adjustments
-- Consistent appearance across slides
-- Better split layouts with proper text positioning
-- Reduces maintenance when images change
+**Why:** Automatic sizing with `fit` modifier, consistent appearance, better split layouts, reduces maintenance.
 
-**Good - bg syntax with split layout**:
-```markdown
-![bg right fit](diagrams/architecture.svg)
+**Good**: `![bg right fit](diagrams/architecture.svg)` | **Bad**: Regular image syntax requiring manual sizing
 
 # System Architecture
 
