@@ -119,29 +119,12 @@ Components: Taste/Quality (10) + Value (10) + Convenience (10) + Consistency (10
 
 **First time working on a city? Follow this minimal path:**
 
-### Step 1: Understand Context (5 minutes)
-1. Read **[CONSTITUTION.md](CONSTITUTION.md)** - Understand immutable constraints
-2. Check [Project Scope](#project-scope) - Know what's in/out of scope
-3. Review city dates in PROGRESS.md
+1. **Understand Context (5 min)**: Read [CONSTITUTION.md](CONSTITUTION.md), check [Project Scope](#project-scope), review city dates in PROGRESS.md
+2. **Initialize City (30 min)**: Create `overview.md`, run 3-4 web searches for 20+ candidates, add to `inbox.md`
+3. **Research Top Priorities (2-3 hours)**: Pick top 3-5 candidates, add to `candidates.md` with `status: inbox`, research thoroughly, score using 50-point rubric, promote to `top-places.md` if score ≥35
+4. **Report Progress**: Use `report_progress` tool after each section, update PROGRESS.md status when complete
 
-### Step 2: Initialize City (30 minutes)
-1. Create `overview.md` first (see [Initialize City Research](#initialize-city-research))
-2. Run 3-4 web searches to collect 20+ candidates
-3. Add candidates to `inbox.md` (fast capture)
-
-### Step 3: Research Top Priorities (2-3 hours)
-1. Pick top 3-5 candidates from inbox
-2. Add to `candidates.md` table with `status: inbox`
-3. Research each thoroughly (see [Evidence Collection](#evidence-collection--per-place))
-4. Score using 50-point rubric (see [Scoring](#scoring--standard-rubric))
-5. Promote to `top-places.md` if score ≥35
-
-### Step 4: Report Progress
-- Use `report_progress` tool after completing each city section
-- Update PROGRESS.md status when city research complete
-
-### What's Next?
-Continue researching additional candidates or move to [Workflow](#workflow-must-follow) for complete details.
+**What's Next?** Continue researching additional candidates or see [Workflow](#workflow-must-follow) for complete details.
 
 ---
 
@@ -162,222 +145,57 @@ Build and maintain a **high-quality, evidence-based food shortlist** for each ci
 - ✅ **Actionable**: Clear top picks (35+) and backups (30-34)
 - ✅ **Constitutional**: Compliant with CONSTITUTION.md constraints
 
-**Research Process Requirements (per CONSTITUTION.md):**
-- Evidence-based approach with multiple independent sources
-- Candidate discovery before evaluation
-- **Negative review analysis for underlying concerns and risk types**
-- **High aggregate ratings do NOT indicate low risk without negative review analysis**
-- Triage into shortlist or exclusion based on comparative judgment
+**Research Process Requirements**: Evidence-based approach with multiple sources, candidate discovery before evaluation, negative review analysis for risk types, triage based on comparative judgment. See CONSTITUTION.md for complete requirements.
 
 ---
 
 ## Project Scope
 
-**Foundation**: All immutable constraints are defined in **[CONSTITUTION.md](CONSTITUTION.md)**. This section provides operational context for research execution.
+**Foundation**: All immutable constraints defined in **[CONSTITUTION.md](CONSTITUTION.md)**.
 
-### Research Deliverables
-- Scored candidate list with evidence (candidates.md + notes.md)
-- Top picks and backup recommendations (top-places.md)
-- Practical constraints (reservations, hours, closures, queues)
-- Exclusion rationale for rejected candidates (excluded.md)
-- Dining strategy per city (timing, budget, logistics)
+**Deliverables**: Scored candidate list with evidence, top picks and backups, practical constraints (reservations, hours, closures, queues), exclusion rationale, dining strategy per city.
 
-### Operational Guidance
-**Focus**: Food venues within constitutional scope - research quality, value, consistency, and practical logistics.
-
-**Scope Management**: Stay focused on food recommendations. When uncertain, defer to CONSTITUTION.md.
+**Focus**: Food venues within constitutional scope - research quality, value, consistency, and practical logistics. When uncertain, defer to CONSTITUTION.md.
 
 ---
 
 ## Working with Agents: Ensuring Task Completion
 
-### How to Keep Agents Working Until Completion
+For detailed guidance on managing agent behavior and ensuring research tasks complete successfully, see [references/working-with-agents.md](references/working-with-agents.md).
 
-**Problem**: Agents may stop mid-task, leaving research incomplete.
-
-**Solutions**:
-
-1. **Break large tasks into clear, atomic steps**
-   - ✅ "Research and score Pompi tiramisu" (specific, achievable)
-   - ❌ "Research all tiramisu in Italy" (too broad, likely to stop mid-way)
-
-2. **Set clear completion criteria in instructions**
-   - Define what "done" means (e.g., "score must be in candidates.md AND notes.md")
-   - Agent will work toward the defined end state
-
-3. **Use progress tracking tools**
-   - Agent should call `report_progress` after each meaningful unit of work
-   - This creates checkpoints and shows what's left
-
-4. **Provide task checklists**
-   - Include a checklist in your request (e.g., "Research 3 restaurants: A, B, C")
-   - Agent can track progress and know when complete
-
-5. **Avoid ambiguous scope**
-   - ✅ "Add top 3 tiramisu places to Rome candidates" (clear boundary)
-   - ❌ "Research tiramisu" (unclear when to stop)
-
-### When Agent Stops Unexpectedly
-
-**If agent stops mid-research**:
-- Check the last commit to see what was completed
-- Verify files in git status to confirm progress
-
-**If agent repeatedly stops**:
-- Break the task into smaller chunks
-- Ask agent to complete one specific file at a time
-- Use "complete X, then Y, then Z" format
+**Quick tips:**
+- Break large tasks into clear, atomic steps
+- Set clear completion criteria
+- Provide task checklists
+- Use "complete X, then Y, then Z" format for sequential tasks
 
 ---
 
 ## Research Completion Standard
 
-For detailed completion criteria, status definitions, and verification checklists, see [PROGRESS.md - Research Completion Standard](PROGRESS.md#-研究完成標準).
+See [PROGRESS.md - Research Completion Standard](PROGRESS.md#-研究完成標準) for detailed criteria.
 
-**Quick Reference:**
-- A city is marked "✅ 已完成" when ALL of the following are met:
-  1. All candidates triaged (no `status: inbox` in candidates.md)
-  2. No pending decisions in excluded.md
-  3. top-places.md finalized (Top Picks, Backups, Dining Strategy, To-Do)
-  4. overview.md checklist fully checked `[x]`
-
-**Status Indicators:**
-- ⏳ 未開始 (Not Started) → 📝 研究中 (In Progress) → 🔄 待完成 (Needs Finalization) → ✅ 已完成 (Completed)
+**Quick Reference**: A city is marked "✅ 已完成" when: (1) All candidates triaged (no `status: inbox`), (2) No pending decisions in excluded.md, (3) top-places.md finalized, (4) overview.md checklist complete.
 
 ---
 
 ## Required Repository Structure (Per City)
 
-Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO), e.g. `2026-02-11-vienna/`, and MUST contain:
+Each city directory under `gourmet/` MUST be prefixed with the arrival date (ISO), e.g. `2026-02-11-vienna/`, and MUST contain: overview.md, inbox.md, candidates.md, notes.md, top-places.md, excluded.md.
 
-- overview.md  
-- inbox.md  
-- candidates.md  
-- notes.md  
-- top-places.md  
-- excluded.md  
+**Templates**: Standardized templates available in `/templates/` directory. Copy to new city: `cp templates/*.md gourmet/YYYY-MM-DD-cityname/`. See templates/README.md for detailed usage.
 
-Agents MUST respect this structure and naming.
-
-**All documentation must follow the Progressive Disclosure Principle** (see dedicated section below for details).
-
----
-
-## Documentation Templates
-
-**Location**: `/templates/` directory at repository root
-
-The project provides standardized templates for all 6 required documentation files to ensure consistency across cities.
-
-### Available Templates
-
-1. **overview.md** - Travel info, food highlights, research strategy, progress tracking
-2. **candidates.md** - Structured table with required fields (name, category, area, type, google_maps_url, status, sources, notes)
-3. **notes.md** - Detailed evidence sections with 50-point scoring rubric
-4. **top-places.md** - Final recommendations (Top Picks 35+, Backups 30-34), dining strategy, to-do lists
-5. **inbox.md** - Quick capture workspace for initial discovery
-6. **excluded.md** - Audit trail of rejected places with documented reasons
-
-### Usage
-
-When starting research for a new city:
-
-```bash
-# Copy all templates to the new city directory
-cp templates/*.md gourmet/YYYY-MM-DD-cityname/
-```
-
-Then customize each file following the workflow steps (0-6) and guidelines in this document.
-
-### Template Features
-
-- **Pre-structured sections**: All required sections with placeholder text
-- **Field requirements**: Clear specifications for required and optional fields
-- **Bilingual support**: English structured fields, Traditional Chinese content areas
-- **Scoring rubric**: Built-in 50-point system (Taste/Quality + Value + Convenience + Consistency + Risk)
-- **Research standards**: Minimum 4 sources requirement, Google Maps link formats, practical information checklist
-
-### Complete Documentation
-
-For detailed usage instructions, workflow guidance, and examples, see:
-- **templates/README.md** - Comprehensive usage guide (295 lines)
-  - Per-file purposes and structures
-  - Research workflow (Steps 0-6)
-  - Completion criteria
-  - Quality standards and common pitfalls
+**All documentation must follow the Progressive Disclosure Principle** (see [references/progressive-disclosure.md](references/progressive-disclosure.md)).
 
 ---
 
 ## Progressive Disclosure Principle
 
-**Core Idea**: Reveal information gradually - show only what's needed at each stage, with clear paths to deeper detail.
+**All documentation must follow the Progressive Disclosure Principle** - reveal information gradually, showing only what's needed at each stage with clear paths to deeper detail.
 
-### The Problem We're Solving
+For complete explanation of the principle, 6-file architecture, rules, and examples, see [references/progressive-disclosure.md](references/progressive-disclosure.md).
 
-Users have different needs at different times:
-- 🏃 **Quick decisions**: "Where should I eat tonight?" → Need: top-places.md (1 min)
-- 🔍 **Research validation**: "Why this restaurant?" → Need: notes.md evidence (5 min)
-- 📋 **Overview scan**: "What are all my options?" → Need: candidates.md table (2 min)
-- ❓ **Audit trail**: "Why was X excluded?" → Need: excluded.md (30 sec)
-
-**Progressive disclosure prevents information overload while maintaining traceability.**
-
-### Our 6-File Layered Architecture
-
-Each file = a distinct information layer. Users enter at the layer they need:
-
-| File | Purpose | Read Time | When to Use |
-|------|---------|-----------|-------------|
-| **overview.md** | Context & strategy | 5 min | Starting research on new city |
-| **top-places.md** | Final recommendations | 10 min | Planning actual trip, making reservations |
-| **candidates.md** | Summary table | 5 min | Quick scan of all options |
-| **notes.md** | Full evidence | 30+ min | Validating scores, deep research |
-| **inbox.md** | Working notes | N/A | During initial discovery phase |
-| **excluded.md** | Rejection reasons | 5 min | Understanding what was filtered out |
-
-**Information flow**: overview → top-places → candidates → notes → excluded
-
-### Key Rules for Agents
-
-**✅ DO:**
-- Start with conclusions, then provide evidence (inverted pyramid style)
-- Use summaries in higher layers (top-places.md, candidates.md)
-- Keep full details in lower layers (notes.md)
-- Link between layers: "See notes.md for full evidence"
-- Maintain traceability: every decision documented somewhere
-
-**❌ DON'T:**
-- Duplicate information across files
-- Mix abstraction levels (summaries with detailed evidence)
-- Hide critical information too deep
-- Create files beyond the required 6
-
-### Examples
-
-**Good** - Progressive disclosure:
-```markdown
-## top-places.md
-**Trattoria Da Enzo** (38/50) - Authentic Roman cuisine, excellent cacio e pepe
-- Location: Trastevere
-- Reservation: Required, book 1 week ahead
-- See notes.md for detailed scoring rationale
-
-## notes.md - Trattoria Da Enzo
-[Full research: sources, scoring breakdown, pros/cons]
-```
-
-**Bad** - Information overload:
-```markdown
-## top-places.md
-**Trattoria Da Enzo** (38/50)
-[200 lines of reviews, source citations, detailed scoring, all pros/cons]
-```
-
-### Further Reading
-
-For deeper understanding of progressive disclosure in documentation design:
-- Anthropic Skills Guide: Three-level loading system (metadata → body → resources)
-- See this document's structure as an example: Quick Reference → detailed sections
+**Quick summary**: Each file serves a distinct purpose - overview.md (context), top-places.md (recommendations), candidates.md (summary table), notes.md (evidence), inbox.md (workspace), excluded.md (audit trail).
 
 ---
 

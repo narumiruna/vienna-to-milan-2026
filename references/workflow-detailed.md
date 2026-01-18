@@ -2,8 +2,6 @@
 
 **Purpose**: Complete step-by-step instructions for each workflow stage. Read this when you need full details beyond the overview in AGENTS.md.
 
-**When to use**: When executing research tasks and you need specific guidance on how to complete each step.
-
 ---
 
 ## Table of Contents
@@ -69,24 +67,9 @@ When starting research for a new city:
 
 inbox.md is the initial exploration workspace with a clear lifecycle:
 
-1. **Exploration Phase** (Research Start → Collection Complete)
-   - Quickly record web_search results
-   - Freely organize by categories (Traditional restaurants, Pizza, Desserts, etc.)
-   - Include brief notes (location, features, constraints, sources)
-   - No need for immediate structuring
-
-2. **Transfer Phase** (Collection Complete → Research In Progress)
-   - Transfer priority candidates (top 3-5) to candidates.md
-   - Set `status: inbox` in candidates.md
-   - Keep other candidates in inbox.md as "pending evaluation list"
-
-3. **Cleanup Phase** (Research Complete → Before Marking Complete)
-   - Confirm all relevant candidates transferred to:
-     - candidates.md (researched or pending research)
-     - excluded.md (explicitly excluded)
-   - Option A: Clear inbox.md, add note at top: "已轉移至 candidates.md"
-   - Option B: Keep inbox.md as historical record, add note at top: "歷史記錄（已轉移）"
-   - **NOT acceptable**: Leaving unprocessed candidates in inbox.md
+1. **Exploration Phase**: Quickly record web_search results, organize by categories, include brief notes (location, features, constraints, sources)
+2. **Transfer Phase**: Transfer priority candidates (top 3-5) to candidates.md with `status: inbox`; keep others in inbox.md as "pending evaluation list"
+3. **Cleanup Phase**: Confirm all relevant candidates transferred to candidates.md or excluded.md. Clear inbox.md or mark as historical record with note "已轉移至 candidates.md" or "歷史記錄（已轉移）"
 
 ### inbox.md vs candidates.md
 
@@ -114,19 +97,11 @@ inbox.md is the initial exploration workspace with a clear lifecycle:
 
 ### Google Maps Link Requirement
 
-- ✅ Acceptable formats:
-  - Direct Google Maps links: `https://maps.app.goo.gl/...`
-  - Search API links: `https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`
-- ⚠️ Avoid using:
-  - `https://www.google.com/maps/place/...` (place page URL)
-- ❌ NOT acceptable:
-  - Generic placeholders like `[查看地圖]` or `[View Map]` without proper URLs
-- **How to get direct links**:
-  1. Search for the place on Google Maps
-  2. Click on the specific place to open its info panel
-  3. Click "Share" button
-  4. Copy the short link (maps.app.goo.gl format) OR use search API format
-- Links MUST be tested/verified to point to the correct location
+- ✅ Acceptable: Direct Google Maps links (`https://maps.app.goo.gl/...`) or Search API links (`https://www.google.com/maps/search/?api=1&query=[Place+Name+City]`)
+- ⚠️ Avoid: `https://www.google.com/maps/place/...` (place page URL)
+- ❌ NOT acceptable: Generic placeholders like `[查看地圖]` without proper URLs
+- **How to get**: Search on Google Maps → Click place → Click "Share" → Copy short link (maps.app.goo.gl) OR use search API format
+- Links MUST be tested/verified to point to correct location
 
 ### Prioritization
 
@@ -134,35 +109,25 @@ Focus on 3-5 top candidates first, then expand. Don't try to research everything
 
 ### ⚠️ CRITICAL: Preserving candidates.md Table Entries
 
-**DO NOT delete or remove entries from the candidates.md summary table** unless absolutely necessary for one of the following reasons:
+**DO NOT delete entries from candidates.md table** unless absolutely necessary.
 
-**Acceptable reasons to modify/remove table entries:**
-1. **Duplicate entries**: Same restaurant appears multiple times in table (merge into one entry with combined information)
-2. **Incorrect information**: Restaurant name, location, or category is wrong and needs correction
-3. **Restaurant permanently closed**: Confirmed closure (must note in excluded.md)
-4. **Explicit instruction**: User specifically requests removal
+**Acceptable reasons to modify/remove:**
+1. Duplicate entries (merge into one)
+2. Incorrect information (fix errors)
+3. Restaurant permanently closed (note in excluded.md)
+4. Explicit user instruction
 
-**NEVER remove entries because:**
-- ❌ They are not yet researched (keep as `status: inbox`)
-- ❌ They seem lower priority (move to excluded.md with reason instead)
-- ❌ There are already enough candidates (document decision in excluded.md)
-- ❌ You think they won't be needed (let user decide; move to excluded.md if appropriate)
+**NEVER remove because:**
+- ❌ Not yet researched (keep as `status: inbox`)
+- ❌ Lower priority (move to excluded.md instead)
+- ❌ Enough candidates (document decision in excluded.md)
 
 **Correct workflow for unwanted candidates:**
-1. Keep entry in candidates.md table with `status: rejected`
-2. Add detailed reason to excluded.md under "未進一步研究的候選 (Not Researched Further)" or similar section
-3. Explain why it was not researched (e.g., "已有足夠推薦", "優先級較低", "地點過遠")
+1. Keep entry in candidates.md with `status: rejected`
+2. Add detailed reason to excluded.md under "未進一步研究的候選 (Not Researched Further)"
+3. Explain why (e.g., "已有足夠推薦", "優先級較低", "地點過遠")
 
-**Why this matters:**
-- Preserves research trail and avoids duplicate work
-- Maintains audit trail of all candidates considered
-- Prevents accidental loss of potentially valuable options
-- Allows user to see full scope of research
-
-**When recovering deleted entries:**
-- If entries were accidentally deleted, restore them to the table
-- Add detailed research sections if available
-- Update excluded.md to remove them from "未進一步研究" if they are now researched
+**Why this matters**: Preserves research trail, maintains audit trail, prevents loss of valuable options, shows full scope of research.
 
 ---
 
@@ -280,62 +245,21 @@ For each candidate promoted to research:
 
 ### Conflict Handling
 
-**When sources disagree**, follow this resolution process:
+**When sources disagree**:
 
-1. **Document the conflict explicitly**:
-   ```markdown
-   **Conflict noted**:
-   - Source A (Google Maps): Claims 4.5/5
-   - Source B (Tripadvisor): Claims 3.5/5
-   - Source C (Reddit): Generally positive mentions
-   ```
+1. **Document the conflict**: Note conflicting ratings/claims from different sources
+2. **Resolution strategy** (in order): Prefer recency (check review dates) → Majority consensus → Detail level → Review scale (1000+ reviews > 50 reviews)
+3. **When unresolvable**: Mark as `conflicting` in notes.md, document both sides, note in scoring rationale, consider reducing Consistency score (by 1-2 points)
 
-2. **Resolution strategy** (in order of preference):
-   - **Recency**: Prefer more recent information (check review dates)
-   - **Majority consensus**: Use most common finding across sources
-   - **Detail level**: Prefer source with more specific information
-   - **Review scale**: Weight by review count/authority (1000+ reviews > 50 reviews)
-
-3. **When unresolvable**:
-   - Mark as `conflicting` in notes.md
-   - Document both sides
-   - Note in scoring rationale that evidence is conflicting
-   - Consider slightly reducing Consistency score (by 1-2 points)
-
-**Common conflict types**:
-- **Hours of operation**: Check official website first, then Google Maps
-- **Reservation requirements**: Call restaurant if critical; otherwise document uncertainty
-- **Price ranges**: Use most recent source; note if prices may have changed
-- **Service quality**: Look for trends over time (recent 6-month pattern vs older reviews)
+**Common conflict types**: Hours (check official website first), reservations (call if critical), price ranges (use most recent), service quality (look for 6-month trends).
 
 ### Uncertainty Documentation
 
-**Mark information as uncertain when**:
-- Only one source provides the information
-- Sources conflict without clear resolution
-- Information is outdated (>1 year old for restaurants)
-- Seasonal variation is possible
+**Mark information as uncertain when**: Only one source, sources conflict, information outdated (>1 year), seasonal variation possible.
 
-**Uncertainty labels to use**:
-- `unknown`: No reliable source found
-- `conflicting`: Sources disagree, no clear resolution (see Conflict Handling above)
-- `unverified`: Single source only, not confirmed elsewhere
-- `seasonal`: May vary by season (note which season applies)
-- `outdated`: Based on information >1 year old (note the date)
+**Uncertainty labels**: `unknown` (no reliable source), `conflicting` (sources disagree), `unverified` (single source), `seasonal` (varies by season), `outdated` (>1 year old, note date).
 
-**Example usage**:
-```markdown
-**Practical**:
-- reservation requirement: required (per Tripadvisor, unverified on official site)
-- best visiting time: conflicting (some sources say lunch is best, others prefer dinner)
-- closed days: unknown (no clear information found across sources)
-- queue: 30-60 min (based on 2024 reviews, possibly outdated)
-```
-
-**Impact on scoring**:
-- High uncertainty should be noted in Risk score rationale
-- Conflicting information about quality → reduce Consistency score
-- Unknown practical information → may reduce Convenience score
+**Impact on scoring**: High uncertainty → note in Risk score; conflicting quality info → reduce Consistency; unknown practical info → may reduce Convenience.
 
 ---
 
@@ -442,21 +366,9 @@ Each researched place MUST include a 50-point total score:
 
 **Every decision must be documented**:
 
-1. **Promoted to Top Pick/Backup**:
-   - Total score with component breakdown in notes.md
-   - Brief justification in top-places.md (one-line)
-   - Update candidates.md: `status: top` or `status: shortlisted`
-
-2. **Rejected/Excluded**:
-   - Score (if calculated) in notes.md or brief note why not scored
-   - Exclusion reason category in excluded.md
-   - Supporting evidence (which sources, what they said)
-   - Update candidates.md: `status: rejected`
-
-3. **Deprioritized** (not researched):
-   - Brief reason in excluded.md under "未進一步研究的候選"
-   - Why not researched (e.g., "已有足夠同類推薦", "優先級較低", "地點較遠")
-   - Keep in candidates.md: `status: rejected`
+1. **Promoted to Top Pick/Backup**: Total score with breakdown in notes.md, brief justification in top-places.md, update candidates.md to `status: top` or `status: shortlisted`
+2. **Rejected/Excluded**: Score in notes.md, exclusion reason in excluded.md with supporting evidence, update candidates.md to `status: rejected`
+3. **Deprioritized** (not researched): Brief reason in excluded.md under "未進一步研究的候選", keep in candidates.md as `status: rejected`
 
 **Traceability principle**: Every decision must trace back to documented evidence or explicit human judgment.
 
@@ -512,16 +424,9 @@ Maintain top-places.md with:
 
 ### Additional Sections to Include
 
-**Dining Strategy**:
-- Time planning (lunch/dinner hours, local customs)
-- Reservation strategy (which places need booking, how far in advance)
-- Budget allocation (price ranges per category)
-- Transportation from hotel (how to reach different areas)
+**Dining Strategy**: Time planning, reservation strategy, budget allocation, transportation from hotel.
 
-**To-Do**:
-- Confirm closed days
-- Make reservations (with timing)
-- Plan daily dining schedule
+**To-Do**: Confirm closed days, make reservations (with timing), plan daily dining schedule.
 
 ---
 

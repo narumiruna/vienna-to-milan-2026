@@ -53,6 +53,43 @@ AGENTS.md provides core instructions and workflow overview. When you need deeper
 
 ---
 
+### [progressive-disclosure.md](progressive-disclosure.md)
+**Design philosophy for organizing research documentation**
+
+- Core Idea
+- The Problem We're Solving
+- 6-File Layered Architecture
+- Key Rules for Agents
+- Examples (Good vs Bad)
+
+**When to read**: When creating or organizing documentation files, understanding the 6-file architecture and information flow.
+
+**Key topics**:
+- Progressive disclosure prevents information overload
+- Each file serves a distinct purpose and information layer
+- Information flow: overview → top-places → candidates → notes → excluded
+- DO: Start with conclusions, use summaries in higher layers
+- DON'T: Duplicate information, mix abstraction levels
+
+---
+
+### [working-with-agents.md](working-with-agents.md)
+**Practical guidance for managing agent behavior**
+
+- How to Keep Agents Working Until Completion
+- When Agent Stops Unexpectedly
+
+**When to read**: When delegating tasks to agents and encountering incomplete work or premature stopping.
+
+**Key topics**:
+- Break large tasks into clear, atomic steps
+- Set clear completion criteria
+- Provide task checklists
+- Avoid ambiguous scope
+- Use "complete X, then Y, then Z" format for sequential tasks
+
+---
+
 ## How to Use These References
 
 ### Progressive Disclosure in Action

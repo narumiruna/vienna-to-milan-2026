@@ -1,52 +1,5 @@
 # SVG Illustration Core Rules
 
-## Table of Contents
-
-- [Intent](#intent)
-- [Standard Workflow](#standard-workflow)
-- [Core Principle: Visual Consistency](#core-principle-visual-consistency)
-  - [Example: Consistent Design System](#example-consistent-design-system)
-  - [Common Inconsistency Mistakes](#common-inconsistency-mistakes)
-- [Canvas Specifications](#canvas-specifications)
-  - [ViewBox Must Match Content Bounds (CRITICAL)](#viewbox-must-match-content-bounds-critical)
-  - [Guidelines](#guidelines)
-- [Visual Style](#visual-style)
-  - [Stroke and Fill](#stroke-and-fill)
-  - [Border Radius](#border-radius)
-  - [Shadows](#shadows)
-- [Color Selection](#color-selection)
-  - [Use Established Palettes](#use-established-palettes)
-- [Smart Sizing Logic](#smart-sizing-logic)
-  - [Centered Illustrations](#centered-illustrations)
-  - [Two-Column Layouts](#two-column-layouts)
-- [Left Column](#left-column)
-- [Right Column](#right-column)
-  - [Full-Background Graphics](#full-background-graphics)
-- [Text in SVG](#text-in-svg)
-  - [Best Practices](#best-practices)
-  - [Emoji and Special Characters: Don't Use Them](#emoji-and-special-characters-dont-use-them)
-  - [Text Alignment](#text-alignment)
-- [Basic Shapes](#basic-shapes)
-  - [Rectangle (with rounded corners)](#rectangle-with-rounded-corners)
-  - [Circle](#circle)
-  - [Path (for custom shapes)](#path-for-custom-shapes)
-  - [Line](#line)
-  - [Arrow](#arrow)
-- [Gradients](#gradients)
-  - [Linear Gradient](#linear-gradient)
-  - [Radial Gradient](#radial-gradient)
-- [Grouping and Organization](#grouping-and-organization)
-  - [Group Elements](#group-elements)
-  - [Transform Groups](#transform-groups)
-- [Performance Tips](#performance-tips)
-  - [Optimize SVG Code](#optimize-svg-code)
-  - [Keep File Size Small](#keep-file-size-small)
-- [Common Mistakes](#common-mistakes)
-  - [❌ Avoid These](#-avoid-these)
-  - [✅ Do These](#-do-these)
-- [Quick Template](#quick-template)
-- [See Also](#see-also)
-
 Essential rules for creating clean, editable SVG illustrations for Marp/Marpit slides.
 
 ---
@@ -80,114 +33,41 @@ Create clean, editable SVG illustrations that:
 
 **CRITICAL: All SVG assets in a presentation must follow a unified design system.**
 
-When creating multiple SVGs for the same presentation:
+Key principles: (1) Use SAME color palette, (2) Consistent stroke widths (e.g., 3px), (3) Uniform border radius (e.g., 16px), (4) Consistent shadows, (5) Uniform icon style
 
-1. **Use the SAME color palette** across all assets
-2. **Maintain consistent stroke widths** (e.g., 3px or 4px everywhere)
-3. **Apply uniform border radius** (e.g., 12px or 16px for all cards)
-4. **Use consistent shadow/depth system** (same filter definitions)
-5. **Keep icon style uniform** (all outlined OR all filled, not mixed)
-
-### Example: Consistent Design System
-
-```xml
-<!-- Define ONCE, reuse everywhere -->
-<defs>
-  <!-- Standard shadow (use in ALL diagrams) -->
-  <filter id="shadow-sm">
-    <feDropShadow dx="0" dy="2" stdDeviation="4" flood-opacity="0.12"/>
-  </filter>
-
-  <!-- Primary gradient (use for all primary elements) -->
-  <linearGradient id="primary-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-    <stop offset="0%" style="stop-color:#f0f9ff;stop-opacity:1" />
-    <stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:1" />
-  </linearGradient>
-</defs>
-
-<!-- Consistent styling -->
-<rect rx="16" fill="url(#primary-bg)" stroke="#0891b2" stroke-width="3" filter="url(#shadow-sm)"/>
-```
-
-### Common Inconsistency Mistakes
-
-❌ **Don't do this:**
-- `icon.svg` uses stroke-width="4" but `diagram.svg` uses stroke-width="2"
-- `card-1.svg` has rx="12" but `card-2.svg` has rx="8"
-- `flow.svg` uses #2563EB but `architecture.svg` uses #1e40af
-- Some SVGs have shadows, others don't
-
-✅ **Do this:**
-- ALL assets use stroke-width="3" consistently
-- ALL cards/containers use rx="16" consistently
-- ALL assets use the SAME accent color (#0891b2)
-- ALL assets use the SAME shadow filter
+**Define standards ONCE in `<defs>`, reuse everywhere**
 
 ---
 
 ## Canvas Specifications
 
-### ViewBox Must Match Content Bounds (CRITICAL)
+**ViewBox Must Match Content Bounds (CRITICAL)**
 
-The `viewBox` should tightly fit the actual content, not be arbitrarily sized. Empty space in the viewBox will scale proportionally, causing the actual content to appear tiny.
+The `viewBox` should tightly fit actual content, not be arbitrarily sized. Empty space scales proportionally, making content appear tiny.
 
-**Wrong approach:**
-```xml
-<!-- Content only uses 600×400 area in center, rest is empty -->
-<svg viewBox="0 0 1920 1080" width="1920" height="1080">
-  <rect x="660" y="340" width="600" height="400" />
-</svg>
-```
-Result: Massive empty space around content when embedded.
-
-**Correct approach:**
-```xml
-<!-- viewBox matches actual content bounds -->
-<svg viewBox="0 0 600 400" width="600" height="400">
-  <rect x="0" y="0" width="600" height="400" />
-</svg>
-```
-Result: Content fills the available space when scaled with `![w:600](...)`.
-
-### Guidelines
-
-- **Determine content bounds first**: Calculate the bounding box of all visible elements
-- **Set viewBox to match**: `viewBox="0 0 {width} {height}"` where width/height fit the content
-- **Avoid 1920×1080 for small graphics**: Only use full canvas for actual full-slide backgrounds
-- **Common sizes**:
-  - Centered diagrams: 1200×675 or 1400×787 (maintains 16:9)
-  - Icons/badges: 200×200 to 600×400
-  - Two-column graphics: 720×405 to 800×450
-  - Plugin cards: 1440×300 (wide, short)
-  - Flow diagrams: 1320×200 (extra wide, short)
-
-**Slide baseline reference:** 16:9 aspect ratio, conceptually 1920×1080, but adjust viewBox to content.
-
-**Other specs:**
-- Safe margins: **120px on each side** when using full 1920×1080 canvas
-- Grid alignment: **8px**
+**Guidelines:**
+- Determine content bounds first, set viewBox to match: `viewBox="0 0 {width} {height}"`
+- Avoid 1920×1080 for small graphics (use only for full-slide backgrounds)
+- Common sizes: Centered diagrams (1200×675), Icons (200×200 to 600×400), Two-column (720×405), Plugin cards (1440×300)
+- Safe margins: 120px on each side for 1920×1080 canvas
+- Grid alignment: 8px
 
 ---
 
 ## Visual Style
 
-### Stroke and Fill
-
-- Stroke width: **3-4px** (use 3px for modern, clean look)
+**Stroke and Fill:**
+- Stroke width: 3-4px (use 3px for modern look)
 - Stroke caps/joins: rounded (`stroke-linecap="round" stroke-linejoin="round"`)
-- Fill: Use solid colors or subtle gradients
-- Prefer solid fills over outlines for clarity
+- Fill: Solid colors or subtle gradients
 
-### Border Radius
+**Border Radius:**
+- Cards/containers: 12-16px (consistent)
+- Small elements: 8px
+- Buttons/badges: 8-12px
 
-- Cards/containers: **12-16px** (use one value consistently)
-- Small elements: **8px**
-- Buttons/badges: **8-12px**
-
-### Shadows
-
-Define shadow filters in `<defs>` and reuse:
-
+**Shadows:**
+Define in `<defs>`, reuse:
 ```xml
 <defs>
   <filter id="shadow-sm">
