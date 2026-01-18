@@ -1,43 +1,5 @@
 # Embedding SVG in Marpit Slides
 
-## Table of Contents
-
-- [Embedding Methods](#embedding-methods)
-  - [Method 0: Background Syntax (Preferred)](#method-0-background-syntax-preferred)
-  - [Method 1: External File (Legacy - for small inline images only)](#method-1-external-file-legacy-for-small-inline-images-only)
-  - [Method 2: Inline Base64 (Recommended for production)](#method-2-inline-base64-recommended-for-production)
-  - [Method 3: Inline SVG XML (Not recommended)](#method-3-inline-svg-xml-not-recommended)
-- [Placement Patterns](#placement-patterns)
-  - [Pattern 1: Full-Page Background (Most Common)](#pattern-1-full-page-background-most-common)
-  - [Pattern 2: Split Layout - Text and Image](#pattern-2-split-layout-text-and-image)
-  - [Pattern 3: Multiple Images Comparison](#pattern-3-multiple-images-comparison)
-  - [Pattern 4: Legacy Centered on Slide (Avoid)](#pattern-4-legacy-centered-on-slide-avoid)
-- [Responsive Considerations](#responsive-considerations)
-  - [Maintain Aspect Ratio](#maintain-aspect-ratio)
-  - [Percentage Widths](#percentage-widths)
-- [Theme-Specific Adjustments](#theme-specific-adjustments)
-  - [Default Theme](#default-theme)
-  - [Gaia Theme](#gaia-theme)
-  - [Uncover Theme](#uncover-theme)
-- [Common Embedding Issues](#common-embedding-issues)
-  - [Issue 1: SVG Too Small on Slide](#issue-1-svg-too-small-on-slide)
-  - [Issue 2: SVG Pixelated](#issue-2-svg-pixelated)
-  - [Issue 3: Colors Look Different](#issue-3-colors-look-different)
-  - [Issue 4: SVG Not Showing](#issue-4-svg-not-showing)
-  - [Issue 5: Base64 Too Long](#issue-5-base64-too-long)
-- [Best Practices](#best-practices)
-  - [1. Use bg syntax by default](#1-use-bg-syntax-by-default)
-  - [2. Consistent Sizing Within Presentation](#2-consistent-sizing-within-presentation)
-  - [3. Use Alt Text](#3-use-alt-text)
-- [Production Workflow](#production-workflow)
-  - [Development Phase](#development-phase)
-  - [Distribution Phase](#distribution-phase)
-- [Advanced: Dynamic SVG with Variables](#advanced-dynamic-svg-with-variables)
-- [Quick Reference](#quick-reference)
-  - [Syntax Cheatsheet](#syntax-cheatsheet)
-  - [Sizing Guidelines](#sizing-guidelines)
-- [See Also](#see-also)
-
 Complete guide for embedding SVG illustrations in Marp/Marpit Markdown presentations.
 
 ---
@@ -46,149 +8,102 @@ Complete guide for embedding SVG illustrations in Marp/Marpit Markdown presentat
 
 **RECOMMENDED: Use `bg` (background) syntax for most images to avoid manual sizing.**
 
-### Method 0: Background Syntax (Preferred)
-
-**Use `bg` syntax with `fit` modifier for automatic sizing:**
-
+**Background Syntax (Preferred):**
 ```markdown
-# Full-page background
-![bg fit](diagram.svg)
-
-# Split layout - image on right
-![bg right fit](architecture.svg)
-
-# Split layout - image on left
-![bg left fit](workflow.svg)
-
-# Custom split ratio
-![bg right:40% fit](detail.svg)
+![bg fit](diagram.svg)              # Full-page background
+![bg right fit](architecture.svg)   # Split layout - image on right
+![bg left fit](workflow.svg)        # Split layout - image on left
+![bg right:40% fit](detail.svg)     # Custom split ratio
 ```
 
-**Pros**:
-- `fit` modifier auto-scales images perfectly
-- No manual width/height adjustments needed
-- Consistent sizing across slides
-- Better for split layouts with text
+**Pros**: `fit` modifier auto-scales, no manual adjustments, consistent sizing, better for split layouts
 
-**Cons**:
-- Less control over exact positioning (but rarely needed)
-
-**This should be your default choice for diagrams and illustrations.**
-
----
-
-### Method 1: External File (Legacy - for small inline images only)
-
-Save SVG as separate file and reference:
-
+**External File (Legacy - for small inline images only):**
 ```markdown
 ![width:800px](diagram.svg)
 ```
-
-**Pros**:
-- Easy to edit SVG separately
-- Clean Markdown
-- Faster iteration during development
-
-**Cons**:
-- **Manual sizing required** - must specify width/height
-- Inconsistent across slides if not careful
-- Requires managing separate files
 
 **Use only for**: Small inline icons (e.g., `![width:40px](icon.svg)`)
 
----
-
-### Method 2: Inline Base64 (Recommended for production)
-
-Convert SVG to base64 and embed directly:
-
+**Base64 Inline (For production):**
 ```markdown
-![width:800px](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNjAwIj4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iI2YwZjlmZiIvPgo8L3N2Zz4K)
+![](data:image/svg+xml;base64,PHN2Zy...)
 ```
 
-**Pros**:
-- Self-contained Markdown file
-- No external dependencies
-- Easy distribution (single .md file)
-
-**Cons**:
-- Harder to edit inline
-- Larger file size
-
-**How to convert**:
-```bash
-# On macOS/Linux
-base64 -i diagram.svg
-
-# Or use online tools
-# https://www.base64encode.org/
-```
+**Pros**: Self-contained, single file distribution
+**Generate with**: `base64 -w 0 diagram.svg`
 
 ---
 
-### Method 3: Inline SVG XML (Not recommended)
+## Placement Patterns
 
-Embed SVG XML directly in Markdown:
-
+**Full-Page Background:**
 ```markdown
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="600" fill="#f0f9ff"/>
-</svg>
+![bg fit](diagram.svg)
 ```
 
-**Pros**:
-- Editable inline
-- No encoding needed
+**Split Layout - Text and Image:**
+```markdown
+![bg right:40% fit](diagram.svg)
+# Title
+Content on left
+```
 
-**Cons**:
-- **May not work reliably** in all Marpit themes
-- Breaks Markdown flow
-- Not officially supported
-
-**Verdict**: Use base64 or external file instead.
+**Multiple Images:**
+```markdown
+![bg left:50%](before.svg)
+![bg right:50%](after.svg)
+```
 
 ---
 
-## Sizing Methods
+## Responsive Considerations
 
-### Fixed Width
+**Maintain aspect ratio**: SVG automatically maintains aspect ratio when only width or height specified
 
-```markdown
-![width:800px](diagram.svg)
-![w:800px](diagram.svg)  <!-- shorthand -->
-```
+**Percentage widths**: Can use in layouts (`width: 50%`) for responsive sizing
 
-**When to use**: Most common, ensures consistent size across slides.
+---
 
-### Fixed Height
+## Common Embedding Issues
 
-```markdown
-![height:600px](diagram.svg)
-![h:600px](diagram.svg)  <!-- shorthand -->
-```
+**Issue 1: SVG Too Small** - Solution: Use `bg fit` syntax or increase width specification
+**Issue 2: SVG Pixelated** - Solution: Ensure SVG is vector-only (no embedded raster images)
+**Issue 3: Colors Look Different** - Solution: Test in actual HTML export, define all colors explicitly
+**Issue 4: SVG Not Showing** - Solution: Check file path, verify xmlns attribute, embed all resources inline
+**Issue 5: Base64 Too Long** - Solution: Simplify SVG or use external file
 
-**When to use**: When height constraint is more important (e.g., vertical flows).
+---
 
-### Both Width and Height
+## Best Practices
 
-```markdown
-![w:800px h:600px](diagram.svg)
-```
+1. **Use bg syntax by default** for diagrams and illustrations
+2. **Consistent sizing** within presentation (e.g., all centered diagrams at 1200px)
+3. **Use alt text** for accessibility
 
-**When to use**: Rarely—usually let aspect ratio determine one dimension.
+---
 
-### Percentage Width (in layouts)
+## Production Workflow
 
-```markdown
-<div style="width: 50%;">
+**Development**: Use external files (`.svg`) for fast iteration
+**Distribution**: Convert to base64 for self-contained Markdown
 
-![width:100%](diagram.svg)
+**Convert command**: `base64 -w 0 diagram.svg`
 
-</div>
-```
+---
 
-**When to use**: Inside columns or containers.
+## Quick Reference
+
+**Syntax Cheatsheet:**
+- `![bg fit](file.svg)` - Full-page background
+- `![bg right fit](file.svg)` - Split right
+- `![bg left fit](file.svg)` - Split left
+- `![w:1200](file.svg)` - Fixed width (legacy)
+
+**Sizing Guidelines:**
+- Centered diagrams: 1200px
+- Two-column graphics: 720px
+- Icons: 40-60px
 
 ---
 
