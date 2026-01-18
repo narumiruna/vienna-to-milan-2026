@@ -1,100 +1,30 @@
 # Advanced Layouts
 
-## Table of Contents
-
-- [Split Layouts with Background Images](#split-layouts-with-background-images)
-  - [Left-Right Split (40/60)](#left-right-split-4060)
-  - [Right-Side Image](#right-side-image)
-  - [Vertical Split](#vertical-split)
-- [Multiple Background Images](#multiple-background-images)
-  - [Side-by-Side Comparison](#side-by-side-comparison)
-  - [Three-Image Layout](#three-image-layout)
-- [Table-Based Layouts](#table-based-layouts)
-  - [Two-Column Content](#two-column-content)
-  - [Three-Column Layout](#three-column-layout)
-- [Mixed Content Layouts](#mixed-content-layouts)
-  - [Code + Explanation](#code-explanation)
-  - [Image + Code](#image-code)
-- [List Layouts](#list-layouts)
-  - [Multi-Column Lists (Using Tables)](#multi-column-lists-using-tables)
-  - [Nested Lists with Emphasis](#nested-lists-with-emphasis)
-- [Quote Layouts](#quote-layouts)
-  - [Large Quote](#large-quote)
-  - [Quote with Context](#quote-with-context)
-- [Hero Section](#hero-section)
-- [Dashboard Layout](#dashboard-layout)
-- [Code Comparison](#code-comparison)
-- [Icon/Emoji Lists](#iconemoji-lists)
-- [Timeline Layout](#timeline-layout)
-- [Grid Layout (Pseudo)](#grid-layout-pseudo)
-- [Highlight Box Pattern](#highlight-box-pattern)
-- [Process Flow](#process-flow)
-- [Comparison Matrix](#comparison-matrix)
-- [Image Gallery](#image-gallery)
-- [Math-Heavy Slide](#math-heavy-slide)
-- [Mixed Media](#mixed-media)
-- [Full-Screen Image with Caption](#full-screen-image-with-caption)
-- [Source Code with Annotations](#source-code-with-annotations)
-- [Tips for Advanced Layouts](#tips-for-advanced-layouts)
-- [Troubleshooting](#troubleshooting)
-
 Complex slide structures and multi-column techniques for Marpit.
 
 ---
 
 ## Split Layouts with Background Images
 
-### Left-Right Split (40/60)
-
+**Left-Right Split:**
 ```markdown
-![bg left:40%](diagram.png)
-
-# Explanation
-
-- Key point about diagram
-- Second observation
-- Third insight
+![bg left:40%](diagram.png)        # 40% left, 60% right
+![bg right:40%](screenshot.png)    # 40% right, 60% left
 ```
 
-**Variations:**
-- `![bg left:30%](img.png)` - 30% left, 70% right
-- `![bg left:50%](img.png)` - 50/50 split
-- `![bg left:60%](img.png)` - 60% left, 40% right
+**Variations:** `left:30%`, `left:50%`, `left:60%`, etc.
 
----
-
-### Right-Side Image
-
-```markdown
-![bg right:40%](screenshot.png)
-
-# Feature Description
-
-**What it does:**
-- Capability 1
-- Capability 2
-- Capability 3
-```
-
----
-
-### Vertical Split
-
+**Vertical Split:**
 ```markdown
 ![bg vertical](top-image.png)
-![bg](bottom-image.png)
-
-# Content
+![bg](bottom-image.png)            # Images stacked vertically
 ```
-
-**Effect:** Images stacked vertically in background
 
 ---
 
 ## Multiple Background Images
 
-### Side-by-Side Comparison
-
+**Side-by-Side Comparison:**
 ```markdown
 ![bg left:50%](before.png)
 ![bg right:50%](after.png)
@@ -167,127 +97,80 @@ def process(data):
 
 ---
 
-### Image + Code
+## Table-Based Layouts
 
+**Two-Column Content:**
 ```markdown
-![bg right:45%](architecture-diagram.png)
-
-# System Design
-
-```python
-class DataPipeline:
-    def __init__(self):
-        self.stages = []
+| Column 1 | Column 2 |
+|----------|----------|
+| Content A | Content B |
 ```
 
-Processes data in stages
+**Multi-Column Lists:**
+```markdown
+| Core | Advanced |
+|------|----------|
+| • Feature 1 | • Feature A |
+| • Feature 2 | • Feature B |
 ```
 
 ---
 
 ## List Layouts
 
-### Multi-Column Lists (Using Tables)
-
+**Nested Lists with Emphasis:**
 ```markdown
-# Feature Coverage
-
-| Core | Advanced |
-|------|----------|
-| • Authentication | • SSO |
-| • CRUD ops | • Webhooks |
-| • Search | • Analytics |
-| • Export | • Custom fields |
-```
-
----
-
-### Nested Lists with Emphasis
-
-```markdown
-# Architecture Layers
-
-1. **Presentation Layer**
-   - React components
-   - Tailwind CSS
-
-2. **Business Logic**
-   - Domain models
-   - Service layer
-
-3. **Data Access**
-   - Repository pattern
-   - ORM integration
+1. **Layer 1**
+   - Detail a
+   - Detail b
+2. **Layer 2**
+   - Detail c
 ```
 
 ---
 
 ## Quote Layouts
 
-### Large Quote
-
 ```markdown
-<!-- _class: lead -->
+> "Quote text here"
+— Author
 
-> "Design is not just what it looks like.
-> Design is how it works."
-
-— Steve Jobs
+**Context:**
+- Explanation
 ```
 
 ---
 
-### Quote with Context
+## Mixed Content Layouts
 
+**Code + Image:**
 ```markdown
-# Industry Perspective
+![bg right:45%](diagram.png)
 
-> "Software is eating the world"
-> — Marc Andreessen, 2011
-
-**This means:**
-- Digital transformation is inevitable
-- Every company becomes a tech company
+```python
+code_example()
 ```
 
----
-
-## Hero Section
-
-```markdown
-<!-- _class: lead invert -->
-<!-- _backgroundImage: url('hero-background.jpg') -->
-<!-- _backgroundSize: cover -->
-
-# **BIG BOLD MESSAGE**
-
-Compelling subtitle that drives home the point
-
-[Call to Action]
+Explanation text
 ```
 
----
-
-## Dashboard Layout
-
+**Dashboard/Metrics:**
 ```markdown
-# Key Metrics Q4 2024
-
 | Metric | Value | Trend |
 |--------|-------|-------|
 | Users | 1.2M | ↑ 15% |
-| Revenue | $4.5M | ↑ 22% |
-| NPS | 72 | ↑ 8pts |
+```
 
-*All metrics vs. Q3 2024*
+**Hero Section:**
+```markdown
+<!-- _class: lead invert -->
+<!-- _backgroundImage: url('bg.jpg') -->
+
+# **BIG MESSAGE**
+Subtitle
 ```
 
 ---
-
-## Code Comparison
-
-````markdown
-# Refactoring Example
 
 **Before:**
 ```python
