@@ -31,6 +31,7 @@
 | Ristornate Casavietnam | restaurant | Viale Nazario Sauro 5 | Vietnamese, pho | 38/50 | top | 正宗越南餐廳；道地pho湯頭；隱藏珍寶；Google高評價。 |
 | Hanoi | restaurant | Piazzale Baiamonti 5 | Vietnamese, pho | 36/50 | top | 傳統越南料理；服務快速；價格合理；米蘭可靠越南餐廳。 |
 | Ristorante Pizzeria L'antro della Sibilla | restaurant | Via San Gregorio 37 | 拿坡里披薩與南義料理 | 38/50 | top | 正宗南義風味；Paccheri alla Sibillina招牌菜；Zone 2近中央車站；€28/人；Tripadvisor 4.2/5 (1,150+評論)；服務與品質有波動但整體可靠。 |
+| Giolina | restaurant | Via Felice Bellotti 6, Porta Venezia | 當代拿坡里披薩 | 31/50 | backup | ⚠️ 當代披薩，麵糰與食材品質優；50 Top Pizza / Gambero Rosso / TimeOut 推薦；但服務極度不穩定（有極差體驗報告）、性價比爭議、評價兩極；€25-30/人；Tripadvisor 3.7/5 vs Google ~4.3/5；僅適合願意承擔服務風險的食客。 |
 
 ---
 

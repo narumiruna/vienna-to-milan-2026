@@ -290,6 +290,25 @@
   - 營業: 下午茶時段
   - 注意: Tripadvisor 3.5/5，評價混合，性價比一般
 
+### Giolina - 31/50 ⚠️
+- **類型**: 當代拿坡里披薩餐廳
+- **區域**: Via Felice Bellotti 6, Porta Venezia
+- **Website**: [https://giolina.it/](https://giolina.it/)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Giolina+Milano+Via+Bellotti+6)
+- **推薦理由**: 50 Top Pizza / Gambero Rosso / TimeOut 推薦，麵糰與食材品質優秀，創意配料，70年代復古氛圍
+- **風險警告**: ⚠️ **服務極度不穩定** - 有極差服務體驗報告（被粗魯對待、催促離席），評價兩極化（Tripadvisor 3.7/5 vs Google ~4.3/5），性價比爭議（配料量相對價格偏少）
+- **約束條件**:
+  - 預訂: **強烈建議**（官網或電話 +39 02 7600 6379）
+  - 價格: €25-30/人（披薩 €8-17, 開胃菜 €5-12）
+  - 休息日: 無固定休息日
+  - 營業: Mon-Fri 12:30-15:00, 19:00/19:30-00:30; Sat-Sun 12:30-15:00, 19:00-00:30
+  - 注意: 
+    - **僅適合願意承擔服務風險的食客**
+    - 無 WiFi（對遊客不便）
+    - 如前往務必點布拉塔起司（burrata）開胃菜（高度推薦）
+    - 避開高峰時段（21:00後）
+    - 替代方案: 若需穩定體驗，考慮其他米蘭披薩店
+
 ---
 
 ## 用餐策略 (Dining Strategy)
