@@ -30,6 +30,7 @@
 | Confine - Pizza e Cantina | restaurant | Piazza Guglielmo Massaia | 創意披薩與酒吧 | 29/50 | backup | ⚠️ DOWNGRADED 35→29/50：性價比爭議大（多則負評批評過度定價）、服務極度不穩定、照明問題嚴重、環境擁擠嘈雜。全球排名第4但實際體驗兩極化。Google 4.4/5 vs Tripadvisor 3.3/5。 |
 | Ristornate Casavietnam | restaurant | Viale Nazario Sauro 5 | Vietnamese, pho | 38/50 | top | 正宗越南餐廳；道地pho湯頭；隱藏珍寶；Google高評價。 |
 | Hanoi | restaurant | Piazzale Baiamonti 5 | Vietnamese, pho | 36/50 | top | 傳統越南料理；服務快速；價格合理；米蘭可靠越南餐廳。 |
+| Ristorante Pizzeria L'antro della Sibilla | restaurant | Via San Gregorio 37 | 拿坡里披薩與南義料理 | 38/50 | top | 正宗南義風味；Paccheri alla Sibillina招牌菜；Zone 2近中央車站；€28/人；Tripadvisor 4.2/5 (1,150+評論)；服務與品質有波動但整體可靠。 |
 
 ---
 
