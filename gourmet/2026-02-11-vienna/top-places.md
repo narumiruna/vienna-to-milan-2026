@@ -114,7 +114,21 @@
 
 ### 咖啡館 & 甜點 Top Picks
 
-#### 1. Jonas Reindl Coffee Roasters (Landstraße) (37/50)
+#### 1. Aufzug Café (40/50) ⭐⭐⭐
+- **type**: Specialty coffee, vegan cakes, unique concept
+- **area**: Wieden (near Hauptbahnhof & Belvedere)
+- **total score**: 40/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Aufzug+Caf%C3%A9+Vienna
+- **justification**: 極致獨特體驗 - 在修復的 Art Nouveau 電梯艙內喝咖啡；優秀咖啡品質、傑出純素蛋糕選擇、溫馨服務；Google 4.9/5 (680+ reviews), Tripadvisor 4.8/5
+- **constraints**:
+  - reservation: **NOT AVAILABLE** (先到先得)
+  - seating: 極有限（僅數個座位於電梯艙內）
+  - best time: 非尖峰時段（避免午餐與週末下午）
+  - may need to wait or takeaway if full
+  - price: 合理價格
+  - **unique selling point**: 全維也納唯一的電梯咖啡館概念
+
+#### 2. Jonas Reindl Coffee Roasters (Landstraße) (37/50)
 - **type**: Specialty coffee, pastries
 - **area**: Landstraße
 - **total score**: 37/50
@@ -124,7 +138,7 @@
   - reservation: none
   - seating: `unknown`（尖峰可能需要等）
 
-#### 2. Café Landtmann (36/50)
+#### 3. Café Landtmann (36/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 36/50
@@ -234,6 +248,51 @@
 - **total score**: 32/50
 - **google maps**: https://maps.app.goo.gl/oVTuA6dMfcAKwf156
 - **justification**: 老牌甜點名店，官網明確：不接受訂位，適合離峰去買/內用
+- **constraints**: 
+  - reservation: **NOT ACCEPTED**
+  - queue: likely
+
+#### 10. Café Hawelka (32/50)
+- **type**: Historic café
+- **area**: Innere Stadt
+- **total score**: 32/50
+- **google maps**: https://www.google.com/maps/place/%E5%93%88%E7%B6%AD%E5%8D%A1%E5%92%96%E5%95%A1%E9%A4%A8/@48.2079316,16.3697835,17z/data=!4m6!3m5!1s0x476d07992145fee5:0xf04c05a748ab1574!8m2!3d48.2079316!4d16.3697835!16zL20vMDh4XzRi?entry=ttu
+- **justification**: 老派咖啡館體驗值高，但觀光化/排隊與性價比風險
+- **constraints**: 
+  - reservation: unknown
+  - queue: possible
+
+#### 11. Fenster Café (31/50) ⚠️
+- **type**: Specialty coffee (third-wave), cone coffee
+- **area**: Innere Stadt (Griechengasse, Old University Quarter)
+- **total score**: 31/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Fenster+Caf%C3%A9+Wien
+- **justification**: 錐筒咖啡（Fensterccino）獨特體驗 - 巧克力內襯華夫錐筒裝咖啡；第三波咖啡品質；Google 4.6/5 (4000+ reviews), Tripadvisor 4.6/5
+- **risk warning**: ⚠️ 過譽且昂貴 (€11-12/杯) - 主要為打卡噱頭而非品質優先；溫度偏低以防錐筒融化
+- **constraints**:
+  - reservation: N/A (window service, takeaway only)
+  - **NO SEATING** - 字面意義的「窗口咖啡」，僅外帶
+  - payment: card only (no cash)
+  - price: €11-12 for cone coffee (expensive)
+
+---
+
+## Special Notes（特殊項目）
+
+### McDonald's Käsetascherl (38/50) 🍟
+- **type**: Fast food (Austrian specialty)
+- **availability**: Multiple McDonald's locations (seasonal/promotional - check before visiting)
+- **total score**: 38/50
+- **justification**: 奧地利麥當勞限定特色 - 炸起司口袋（Käsetascherl），外酥內香；有趣的在地速食體驗
+- **note**: 並非傳統維也納美食推薦，但作為便利、快速、有趣的在地變化值得一試（若有供應）
+- **constraints**:
+  - availability: **MAY NOT BE AVAILABLE** at all locations (seasonal/promotional)
+  - check current menu before visiting
+  - multiple locations throughout Vienna
+  - price: moderate for fast food
+  - hours: varies by location (many open late)
+
+---
 - **constraints**: 
   - reservation: none (official policy)
   - queue: possible

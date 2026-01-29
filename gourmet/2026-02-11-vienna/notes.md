@@ -899,3 +899,485 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk (10 = low risk): 7/10 (服務速度與訂位難度風險)
 - **Total: 36/50**
 - **Status**: ⭐ **TOP PICK**
+
+---
+
+## Fenster Café
+
+**研究日期**: 2026-01-29
+
+**Location**: Griechengasse 10, 1010 Vienna (Old University Quarter, Innere Stadt)
+
+**Google Maps**: 4.6/5 (3,999 reviews)
+
+**Tripadvisor**: 4.6/5
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d12449255-Reviews-Fenster_Cafe-Vienna.html
+
+**Restaurant Guru**: 4.6/5
+- https://restaurantguru.com/Fenster-Cafe-Vienna
+
+**Specialty Coffee Map**:
+- https://specialtycoffeemap.com/coffeeshop/fenster-cafe_yyovR4p
+
+**Official**: https://fenster.cafe/
+
+**Concept**: Third-wave specialty coffee served through a small window (fenster = window in German), famous for the "Fensterccino" - cappuccino served in an edible chocolate-lined waffle cone.
+
+**Menu & Pricing**:
+- Signature "Fensterccino" (coffee in cone): €11-12
+- Regular espresso drinks: €1-10
+- Desserts and vegan options available
+- Gluten-free options for most drinks
+- Accepts contactless payments only (no cash)
+
+**Recurring pros**:
+- Unique, Instagram-worthy presentation (coffee in chocolate-lined waffle cone)
+- High-quality third-wave coffee (single-origin beans, precise ratios)
+- Friendly, knowledgeable baristas
+- Excellent flat whites and cappuccinos
+- Convenient location in Old University Quarter
+- LGBTQ+ welcoming, dog- and kid-friendly
+- Wheelchair accessible
+
+**Recurring cons**:
+- Takeaway only (no seating - literal "window café")
+- Very expensive (€11-12 for cone coffee)
+- Small portions
+- Card-only payments
+- Coffee served at lower temperature to prevent cone melting
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **⚠️ Overpriced**: 主要抱怨點，€11-12 一杯咖啡被多數評論認為「crazy expensive」，僅為新奇與打卡價值，可在其他維也納咖啡館用相同價錢喝三杯
+- **⚠️ Overrated/overhyped**: 多處評論稱「不值得名聲」、「不是世界最佳咖啡」、「主要是 Instagram 噱頭」
+- **Lukewarm drinks**: 為防止錐筒融化，咖啡溫度偏低，部分客人偏好更熱的飲料
+- **No seating**: 無座位區域，僅能外帶，對某些客人不便
+- **Small portions**: 相對價格，份量偏小
+- **Sources**: Tripadvisor "Not worthy of its reputation", "A bit overpriced but good flavour", "Good coffee but not the best in the world", Wanderlog reviews
+
+**Practical**:
+- Hours: Check official website for current hours
+- Reservation: Not applicable (takeaway only window service)
+- Best time: Non-peak hours to avoid queues
+- Price range: €11-12 per cone coffee
+- Payment: Card only, no cash
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10 (good third-wave coffee, but not exceptional)
+- Value: 4/10 (extremely expensive for what you get; novelty-focused)
+- Convenience: 7/10 (central location, but no seating, takeaway only)
+- Consistency: 7/10 (coffee quality stable, but temperature compromise)
+- Risk (10 = low risk): 6/10 (high price, hype vs. reality gap, temperature issues)
+- **Total: 31/50**
+- **Status**: 🔄 **BACKUP** (unique experience but overpriced and overhyped)
+
+---
+
+## Öfferl (Wollzeile)
+
+**研究日期**: 2026-01-29
+
+**Location**: Wollzeile 31, 1010 Vienna (Old University Quarter, Innere Stadt)
+
+**Google Maps**: 4.5/5 (2,200+ reviews)
+
+**Tripadvisor**: 4.1/5 (100+ reviews) - Ranked #9 among 147 bakeries in Vienna
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d18954204-Reviews-Backerei_Offerl-Vienna.html
+
+**Wanderlog**: 4.5/5 (360+ Google reviews)
+- https://wanderlog.com/place/details/2636554/%C3%B6fferl
+
+**World of Mouth**:
+- https://www.worldofmouth.app/restaurants/offerl---wollzeile-31
+
+**The Vienna Review**:
+- https://www.theviennareview.at/food-drink/11384/offerl
+
+**Official**: https://www.oefferl.bio/de/mariahilfer-strasse-9
+
+**Hours**: Daily 07:00-19:00
+
+**Specialty**: Artisan organic bread, croissants (especially pain au chocolat), pastries. Products used by several top Vienna restaurants.
+
+**Recurring pros**:
+- Excellent quality croissants and pain au chocolat
+- High-quality organic ingredients
+- Freshly baked goods with visible baking process (large central oven)
+- Good coffee (flat whites especially praised)
+- Modern, clean, welcoming interior
+- Breakfast and lunch options
+- Vegetarian choices available
+- Cozy seating and takeout options
+
+**Recurring cons**:
+- Prices higher than average Vienna bakeries
+- Service quality highly inconsistent (can be rude or unhelpful)
+- Can get very busy (arrive early for best selection)
+- Crowded during peak times
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **🚫 Rude and unfriendly staff**: 大量評論提及服務人員不友善、粗魯、拒絕提供基本協助（如拒絕加熱貝果雖然店內有烤箱）("unfriendly", "rude", "refused to help")
+- **🚫 Workplace culture issues**: 前員工投訴工作環境惡劣、管理階層不尊重員工、監控攝影機、缺乏氣候控制、員工滿意度極低（Kununu 評價差）
+- **⚠️ Overpriced**: 價格被認為過高且不合理，有「pretentious」、「exploitative」評價
+- **⚠️ Slow service**: 尖峰時段服務緩慢
+- **Inconvenient payment process**: 座位客人需在櫃檯排隊付款，被認為麻煩
+- **Sources**: Tripadvisor "Unfreundliches Personal", Wanderlog reviews, Kununu employer reviews, Kurier article on employee complaints
+
+**Practical**:
+- Reservation: Not available (first-come, first-served)
+- Best time: Early morning for best selection; avoid weekend rush
+- Payment: Cash and cards accepted
+- Price range: Above average for Vienna bakeries
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (excellent baked goods, high-quality ingredients)
+- Value: 5/10 (overpriced relative to quality and service experience)
+- Convenience: 7/10 (central location, good hours, but crowded and no reservations)
+- Consistency: 5/10 (food quality stable, but service highly inconsistent)
+- Risk (10 = low risk): 4/10 (rude service, workplace culture issues, customer service problems)
+- **Total: 29/50**
+- **Status**: ❌ **EXCLUDED** - Quality products undermined by consistent service problems and ethical concerns about workplace culture
+
+---
+
+## GRND Restaurant (Spareribs)
+
+**研究日期**: 2026-01-29
+
+**Location**: Kärntner Straße 61, 1010 Vienna, Austria (Innere Stadt, near Opera House)
+
+**Tripadvisor**: 4.3/5 (260+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d11912977-Reviews-GRND_Restaurant-Vienna.html
+
+**Official**: https://www.grnd.at/
+
+**Cuisine**: Austrian and Ukrainian fusion, traditional dishes
+
+**Ambiance**: Historic building (almost 200 years old), modern flair, live piano music on weekends
+
+**Menu Highlights**:
+- Spareribs (signature dish, frequently praised as "amazing", "to die for")
+- Wiener Schnitzel (veal €25.90, pork €17.50)
+- Viennese liver, beef cheeks
+- Traditional Austrian dishes
+- Gluten-free, vegan, and vegetarian options available
+
+**Recurring pros**:
+- Excellent spareribs (most frequently praised item)
+- Generous portion sizes
+- Good atmosphere and decor
+- Central location near major attractions
+- Accepts credit cards
+- Live music on weekends
+
+**Recurring cons**:
+- High prices
+- Service inconsistency (can be excellent or poor)
+- Mixed food quality reviews (varies significantly)
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **🚫 Poor service quality**: 多處評論描述「one of the worst service ever」、「very disappointing service」、員工不友善或冷漠
+- **🚫 Rude and unprofessional staff**: 服務員態度粗魯、不專業，甚至在用餐區大聲八卦與咒罵（"waitresses gossiping and swearing loudly")
+- **⚠️ Overpriced with mediocre food**: 食物被描述為「mediocre」、「poor quality」，價格與品質不符
+- **⚠️ Food quality issues**: 沙拉不新鮮、炸肉排味道不佳且引起不適、食物未達期望
+- **⚠️ Soulless atmosphere**: 雖然位置與音樂不錯，整體氛圍被形容為「soulless, bland」，缺乏個性
+- **Inconsistent experience**: 體驗極度兩極化，有人讚賞有人強烈批評
+- **Sources**: Tripadvisor "Overpriced and mediocre - avoid", "One of the worst service ever", "A soulless, bland, and overpriced establishment", "The food was delicious, but waitresses were gossiping and swearing"
+
+**Practical**:
+- Reservation: Recommended (especially for weekends)
+- Hours: Lunch and dinner service
+- Price range: Medium-high (€15-30 per main)
+- Payment: Credit cards accepted
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10 (spareribs good, other items mixed reviews)
+- Value: 5/10 (overpriced for quality delivered)
+- Convenience: 8/10 (central location, near major attractions)
+- Consistency: 5/10 (highly variable experience - food and service)
+- Risk (10 = low risk): 4/10 (poor service reputation, food quality inconsistency, mediocre experiences common)
+- **Total: 29/50**
+- **Status**: ❌ **EXCLUDED** - Too inconsistent and service problems too severe for recommendation
+
+---
+
+## Aufzug Café
+
+**研究日期**: 2026-01-29
+
+**Location**: Wiedner Gürtel 4, 1040 Vienna (near Hauptbahnhof and Belvedere)
+
+**Google Maps**: 4.9/5 (680+ reviews)
+
+**Tripadvisor**: 4.8/5 (13 reviews) - Among Vienna's top coffee and tea spots
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d26799913-Reviews-Aufzug_Cafe-Vienna.html
+
+**Restaurant Guru**: 4.9/5
+- https://restaurantguru.com/Aufzug-Cafe-Vienna
+
+**HappyCow**: Highly rated for vegan options
+- https://www.happycow.net/reviews/aufzug-cafe-vienna-390184
+
+**The Vienna Review**:
+- https://www.theviennareview.at/food-drink/12554/aufzug-cafe
+
+**Spotted by Locals**: "Time travel coffee place"
+- https://www.spottedbylocals.com/vienna/aufzug-cafe/
+
+**Unique Concept**: Seating inside restored Art Nouveau elevator cabins - unlike any other café in Vienna. Owner wears "liftboy" uniform.
+
+**Menu Highlights**:
+- Excellent barista coffee (espresso, cappuccino, matcha latte, iced Americano)
+- Great selection of vegan cakes and pastries (carrot cake, brownies, cookies)
+- Oat milk available at no extra charge
+- Transparent about vegan and allergen options
+
+**Recurring pros**:
+- Extraordinary unique atmosphere (seating in historic elevator cabins)
+- Excellent coffee quality
+- Outstanding vegan cake selection
+- Warm, friendly, accommodating service
+- Cozy, intimate setting with nostalgic décor
+- Good value for money
+- Close to Belvedere and Hauptbahnhof
+- Wes Anderson "Grand Budapest Hotel" vibes
+
+**Recurring cons**:
+- Very small space (only a few seats)
+- Can fill up quickly, may need to wait for a seat
+- No reservations possible
+- Limited seating means takeaway sometimes necessary
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **⚠️ Limited space & waiting**: 主要問題是空間極小，尖峰時段可能無座位或需等待
+- **Occasional service mix-ups**: 罕見案例有送錯飲料（如燕麥奶誤成普通牛奶），但員工立即友善修正
+- **Food sweetness**: 少數客人認為某些糕點（紅蘿蔔蛋糕、布朗尼）過甜，但屬主觀口味問題
+- **Crowds impact atmosphere**: 因人氣高，有時擁擠影響原本輕鬆氛圍
+- **No major service complaints**: 無重大服務或品質問題，主要為空間限制與偶爾等位
+- **Sources**: HappyCow reviews, Tripadvisor, Restaurant Guru
+
+**Practical**:
+- Reservation: Not available (first-come, first-served)
+- Best time: Off-peak hours (avoid lunchtime and weekend afternoons)
+- Hours: Check current schedule (typically daytime hours)
+- Price range: Reasonable/moderate for Vienna
+- Accessibility: Wheelchair accessible
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (excellent coffee, outstanding vegan cakes)
+- Value: 8/10 (reasonable prices, no extra charge for oat milk)
+- Convenience: 6/10 (small space, no reservations, may need to wait, but near Belvedere/Hauptbahnhof)
+- Consistency: 9/10 (consistently high ratings, reliable quality)
+- Risk (10 = low risk): 8/10 (main risk is not finding a seat; quality and service very reliable)
+- **Total: 40/50**
+- **Status**: ⭐ **TOP PICK** (unique experience, excellent quality, but limited seating)
+
+---
+
+## McDonald's Käsetascherl
+
+**研究日期**: 2026-01-29
+
+**Location**: Multiple McDonald's locations throughout Vienna
+
+**Item**: Käsetascherl (cheese pocket) - fried pastry filled with creamy cheese
+
+**Official**: https://www.mcdonalds.at/unsere-produkte
+
+**Description**: Small fried cheese-filled pockets, crispy outside with gooey cheese inside. Austrian McDonald's specialty not found in other countries. Typically offered as a side item similar to nuggets or fries.
+
+**Availability**: May be seasonal or promotional - not always available at every location. Check current menu or ask staff.
+
+**Reviews Summary**:
+- Generally positive reviews from customers who try it
+- Praised as "tasty, gooey cheese treat"
+- Adds local flair to standard McDonald's menu
+- Vienna McDonald's described as more diverse and occasionally "gourmet" compared to other countries
+- Staff friendly and efficient
+- Self-service kiosks make ordering easy for tourists
+
+**Recurring pros**:
+- Unique local specialty
+- Crispy and cheesy
+- Convenient locations throughout Vienna
+- Clean, modern, family-friendly branches
+- Self-service kiosks with multiple languages
+- Predictable meal option during sightseeing
+
+**Recurring cons**:
+- May not be available at all locations
+- Seasonal/promotional availability
+- Standard fast food limitations
+
+**Practical**:
+- Availability: Check current menu (may be seasonal/promotional)
+- Price: Moderate for fast food side item
+- Locations: Multiple branches throughout Vienna
+- Hours: Varies by location (many open late)
+
+**Score (50-point rubric)**:
+- Taste / Quality: 6/10 (decent fast food, novelty factor)
+- Value: 7/10 (reasonable for what it is)
+- Convenience: 9/10 (multiple locations, long hours, easy ordering)
+- Consistency: 8/10 (standard McDonald's reliability)
+- Risk (10 = low risk): 8/10 (predictable fast food experience; main risk is availability)
+- **Total: 38/50**
+- **Status**: 🔄 **SPECIAL NOTE** - Interesting local McDonald's item worth trying if available, but not a primary recommendation for Vienna food experience
+
+---
+
+## Zur Alten Kaisermühle
+
+**研究日期**: 2026-01-29
+
+**Location**: Fischerstrand 6, 1220 Vienna (Donaustadt district, by Old Danube)
+
+**Google Maps**: 4.4/5
+
+**Tripadvisor**: 3.8/5 (600+ reviews) - Ranked around #450 in Vienna restaurants
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1319651-Reviews-Zur_Alten_Kaisermuhle-Vienna.html
+
+**Restaurant Guru**: 4.4/5
+- https://restaurantguru.com/Zur-Alten-Kaisermuhle-Vienna-3
+
+**Official**: https://www.kaisermuehle.at/en/
+
+**Established**: 1893 (operating since)
+
+**Hours**: Tuesday-Sunday 11:30-23:00 (Closed Mondays)
+
+**Setting**: Historic restaurant on scenic banks of Old Danube (Alte Donau), with garden terrace and private pier (can arrive by boat)
+
+**Cuisine**: Traditional Austrian with Mediterranean influences
+
+**Menu Highlights**:
+- Wiener Schnitzel
+- Tafelspitz (boiled beef)
+- Fresh fish and seafood from charcoal grill
+- Spare ribs and entrecôte
+- Spanish tapas
+- Apple strudel and gelato
+- Extensive Austrian and Spanish wine list
+- Vegetarian, vegan, and gluten-free options (availability reported as inconsistent)
+
+**Recurring pros**:
+- Beautiful waterfront location with stunning views
+- Excellent garden terrace (one of Vienna's most popular)
+- Scenic riverside setting
+- Family-friendly (playground available)
+- Unique option to arrive by boat (private pier)
+- Traditional Austrian dishes
+- Accepts reservations and credit cards
+
+**Recurring cons**:
+- Service highly inconsistent
+- Far from city center (Donaustadt district)
+- High prices for inconsistent quality
+- Can feel touristy
+- Mixed food quality reviews
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **🚫 Poor and rude service**: 大量評論描述服務「unfriendly」、「rude」、「inattentive」，員工忽視客人、長時間等待、訂單錯誤
+- **🚫 Tourist trap atmosphere**: 多處評論標記為「tourist trap」，感覺餐廳利用優越位置剝削遊客而非提供優質服務
+- **⚠️ Inconsistent food quality**: 食物評價極度分歧，有人讚美但更多人覺得「average」或「disappointing」，溫度不當（冷掉）或準備不佳
+- **⚠️ Overpriced**: 價格高但不符品質，甚至被指控對小項目（如水杯）額外收費以「nickel-and-dime」遊客
+- **⚠️ Noisy atmosphere**: 聲學設計差，繁忙時難以交談，迴音嚴重
+- **Poor value for money**: 價格與體驗不符，位置優越但其他方面令人失望
+- **Sources**: Tripadvisor "Average food and poor service in a gorgeous setting", "Schlechte Serviceerfahrung", "Gutes Essen, teilweise Abzocke, schlechte Akustik", "Enttäuscht vom Preis-Leistungsverhältnis"
+
+**Practical**:
+- Reservation: Highly recommended (especially for terrace seating)
+- Best time: Sunset for best views; weekday lunch for fewer crowds
+- Transportation: Further from center (U1 to Alte Donau, then walk or boat)
+- Price range: Medium-high (€20-35 per main)
+- Family features: Playground available
+
+**Score (50-point rubric)**:
+- Taste / Quality: 6/10 (inconsistent, many mediocre reviews)
+- Value: 4/10 (overpriced for quality, extra charges reported)
+- Convenience: 4/10 (far from center in Donaustadt, requires special trip)
+- Consistency: 4/10 (highly variable service and food quality)
+- Risk (10 = low risk): 3/10 (tourist trap reputation, poor service common, inconsistent experience, acoustic issues)
+- **Total: 21/50**
+- **Status**: ❌ **EXCLUDED** - Scenic location cannot compensate for poor service, inconsistent quality, tourist trap feel, and inconvenient distance from center
+
+---
+
+## Salm Bräu ⚠️ Constitutional Concern
+
+**研究日期**: 2026-01-29
+
+**⚠️ CONSTITUTIONAL ISSUE**: This venue is a brewery that brews its own beer on-site and is primarily known for its beer selection. Per CONSTITUTION.md: "Alcohol is excluded; alcoholic beverages and alcohol-focused venues are not allowed, while food-focused venues that incidentally serve alcohol are acceptable."
+
+**Assessment**: Salm Bräu appears to be an **alcohol-focused venue** (on-site brewery, beer as primary draw), which may violate constitutional scope. However, it also serves substantial Austrian food. This is a borderline case requiring clarification.
+
+**Location**: Rennweg 8, 1030 Vienna (next to Lower Belvedere Palace)
+
+**Tripadvisor**: 4.2/5 (6,400+ reviews) - Travelers' Choice award
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1319527-Reviews-Salm_Brau-Vienna.html
+
+**Google Maps & Restaurant Guru**: 4.3/5
+- https://restaurantguru.com/Salm-Braeu-Vienna
+
+**Wanderlog**: Highly rated for ribs, pork knuckle, schnitzel, and beer
+- https://wanderlog.com/place/details/42622/salm-br%C3%A4u
+
+**Official**: https://salmbraeu.com/en/salm-braeu/
+
+**Established**: Historic building, brewery tradition
+
+**Concept**: On-site brewery with traditional Austrian restaurant
+
+**Menu Highlights**:
+- Wiener Schnitzel (veal €25.90, pork €17.50)
+- Hühner Cordon Bleu (€20.80)
+- Tafelspitz (€22.90)
+- Pork knuckle and BBQ ribs
+- Apple strudel and traditional desserts
+- Vegetarian and gluten-free options available
+
+**Beer** (PRIMARY FOCUS):
+- House-brewed beer on-site (Pilsner, Märzen, wheat beer, seasonal specialties)
+- Beer garden for outdoor seating
+- Fresh, traditional brewing methods
+- Beer selection frequently cited as highlight
+
+**Recurring pros**:
+- Authentic Austrian brewery experience
+- Excellent house-brewed beer (fresh, flavorful)
+- Generous portion sizes
+- Rustic, historic atmosphere
+- Beautiful beer garden
+- Close to Lower Belvedere
+- Hearty, traditional Austrian food
+- Dog-friendly
+
+**Recurring cons**:
+- Service highly inconsistent (can be excellent or terrible)
+- High prices
+- Crowded and busy atmosphere
+- Can feel rushed
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **🚫 "One of the worst service ever"**: 極多評論描述服務為「worst ever」、「horrible」、員工態度惡劣、不友善、粗魯
+- **🚫 Bad attitudes from staff**: 員工顯示極差態度，客人感覺不受歡迎或被忽視
+- **⚠️ Slow and inconsistent service**: 長時間等待食物或飲料，尖峰時段員工不堪重負，缺乏細節關注
+- **⚠️ Mixed food quality**: 雖有人讚美，但多處評論認為食物「average」或「disappointing」，特別是 schnitzel 被評為「mediocre」
+- **Atmosphere issues**: 雖然氛圍活潑熱鬧，但擁擠繁忙環境導致服務匆忙或不專注
+- **Sources**: Tripadvisor "Bad service, bad attitudes from staff, food mediocre", "One of the worst service ever", "Horrible service", "Schlechtester Service den ich je erlebt habe"
+
+**Practical**:
+- Reservation: Strongly recommended (especially for beer garden)
+- Best time: Off-peak hours for better service
+- Hours: Lunch and dinner (check current schedule)
+- Price range: Medium-high (€17-26 for mains)
+- Location: Next to Lower Belvedere (convenient for palace visitors)
+- Payment: Cards accepted
+
+**Score (50-point rubric)** - **IF within constitutional scope**:
+- Taste / Quality: 7/10 (food decent but inconsistent; beer excellent)
+- Value: 6/10 (generous portions but high prices)
+- Convenience: 7/10 (near Belvedere, but busy and crowded)
+- Consistency: 4/10 (highly variable service and food quality)
+- Risk (10 = low risk): 3/10 (service problems very common, "worst ever" reviews frequent)
+- **Total: 27/50**
+- **Status**: ⚠️ **CONSTITUTIONAL REVIEW REQUIRED** - Brewery (alcohol-focused) may violate scope; if permitted, would be EXCLUDED due to poor service reputation (score <30)
