@@ -230,11 +230,61 @@
    - 注意：Relaxed artisan atmosphere
    - 來源：Hidden Spoon 2025
 
+## 新發現 - 飯店附近（Piazza Bologna/Esquilino）
+
+### 餐廳 - 飯店附近
+14. **Lyo**
+   - 位置：Via Catania 28, Piazza Bologna（飯店附近）
+   - 特色：現代 trattoria，意大利地中海料理，carbonara、risotto、優質食材
+   - 評分：Tripadvisor 4.9/5 (200評論)，Google 4.5/5 (300+ 評論)
+   - 價位：€9-21/人（moderate 價位 €€-€€€）
+   - 注意：傑出雞尾酒，適合用餐與慶祝
+   - 來源：Tripadvisor, Restaurant Guru
+
+15. **Fornace Stella**
+   - 位置：Piazza Lecce 9, Piazza Bologna（飯店附近）
+   - 特色：正宗意大利/拿波里披薩，炸物前菜（fiori di zucca, baccalà）優秀
+   - 評分：Tripadvisor 4.2/5 (280+ 評論)
+   - 注意：在地人最愛，建議訂位
+   - 來源：Tripadvisor
+
+### 甜點 & Gelato - 飯店附近
+16. **Gelateria Fassi (Palazzo del Freddo)**
+   - 位置：Via Principe Eugenio 65, Esquilino（飯店附近，步行可達）
+   - 特色：羅馬最古老 gelato 店（自1880年），zabaione gelato、sanpietrini（冰淇淋三明治）、caterinette
+   - 評分：Tripadvisor 4.3/5 (3,100+ 評論)，排名 #68/1,043 甜點店
+   - 注意：歷史悠久，份量大，價格合理，尖峰時段排隊
+   - 來源：Tripadvisor, Google Maps
+
+17. **The Gelatist**
+   - 位置：Via Nazionale 19A, Esquilino
+   - 特色：高品質手工 gelato，純素與無乳製品選項，cheesecake 與 mixed berries 口味
+   - 評分：Tripadvisor 高分，本地推薦
+   - 注意：份量慷慨，靠近 Termini
+   - 來源：Tripadvisor
+
+18. **Gelateria dei Gracchi**
+   - 位置：Via di Priscilla（near Piazza Bologna）
+   - 特色：純天然食材，季節性水果，開心果與水果口味受歡迎
+   - 來源：Multiple guides
+
+19. **Pico Gelato**
+   - 位置：Piazza Bologna neighborhood
+   - 特色：創意口味，新鮮食材，奶油質地
+   - 來源：Local recommendations
+
+20. **MATREM Bakery**
+   - 位置：Piazza Bologna（飯店附近）
+   - 特色：手工披薩、pangoccioli、各式糕點，價格實惠 <€10/人
+   - 注意：溫馨氛圍，適合快速早餐或輕食
+   - 來源：InTravel
+
 ## 研究優先順序
 1. 高優先：Da Enzo al 29, Armando al Pantheon, Roscioli, Bonci Pizzarium
 2. 中優先：Flavio al Velavevodetto, Antico Forno Roscioli, Otaleg, Giolitti
 3. 低優先（特殊場合）：La Pergola
 4. **新增 - Brunch優先**：Coromandel, Vivi Bistrot, Variabile Drink & Food
+5. **新增 - 飯店附近優先**：Gelateria Fassi, Lyo, Fornace Stella, MATREM Bakery
 
 ## 待確認事項
 - [ ] 各店 Google Maps 評分與評論數
