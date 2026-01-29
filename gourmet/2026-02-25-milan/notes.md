@@ -1035,7 +1035,7 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 
 ## Confine - Pizza e Cantina
 
-**Last Updated**: 2026-01-29 (完整再研究，包含負評分析)
+**Last Updated**: 2026-01-29 (完整再評估：正面與負面評價平衡研究)
 
 **官網**: https://confinemilano.it/
 
@@ -1105,6 +1105,61 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - 當服務優秀時令人印象深刻
 - 創新廚藝技術與呈現
 
+**Positive reviews / 正面評價研究** (2026-01-29 補充研究):
+
+### ✅ 成功體驗的關鍵因素
+
+1. **✅ 世界級認證與創新實力** (World-Class Recognition)
+   - 50 Top Pizza 2024 全球第 4、義大利第 2 的排名並非偶然
+   - 被譽為"avant-garde"披薩，"well-risen doughs and excellent quality materials"
+   - 將披薩提升至 haute cuisine 層次，吸引全球美食愛好者
+   - 使米蘭成為全球披薩地圖上的重要據點
+   - 來源：50 Top Pizza 官方評選、Reporter Gourmet、Milano Segreta
+   - https://reportergourmet.com/en/news/9065-confine-when-pizza-is-haute-cuisine-one-of-italy-s-most-advanced-pizzerias-in-milan
+
+2. **✅ 創意與品質兼具** (Creative Excellence)
+   - 招牌披薩如 carbonara-inspired、truffle with caciocavallo fondue、aged cheeses 獲高度讚譽
+   - 72 小時發酵麵團（Type 1 flour），帶來 airy, flavorful, and digestible 口感
+   - 油炸披薩與 pan-baked varieties 展現多樣技法
+   - 傳統那不勒斯/坎帕尼亞風格與現代創新完美結合
+   - 來源：World of Mouth、50 Top Pizza、食評網站
+   - https://www.worldofmouth.app/restaurants/confine---pizza-e-cantina
+
+3. **✅ 專業服務與熱情團隊** (Service Excellence - When Good)
+   - "The staff are exceptional... passionate about what they do for their guests"
+   - Chef Francesco Capece (Salerno) + Maître/Sommelier Mario Ventura 的專業組合
+   - 當服務優秀時：attentive, professional, knowledgeable
+   - 員工樂於分享每道菜背後的故事與哲學
+   - Tasting menu 推薦作為探索完整創意光譜的方式
+   - 來源：Tripadvisor 正面評論、YouTube 訪談
+   - https://www.tripadvisor.in/ShowUserReviews-g187849-d25463196-r917064888
+
+4. **✅ 獨特的美食體驗** (Unique Gastronomic Journey)
+   - 將披薩用餐提升為"an experience"，而非單純一餐
+   - €70-85 tasting menu 提供多道創意披薩的完整旅程
+   - 精緻葡萄酒配對計畫，由侍酒師精心設計（罕見於披薩店）
+   - 呈現與風味平衡獲高度評價："harmony of flavors and innovative dough work"
+   - 適合披薩愛好者、追求創新料理者、特殊場合慶祝
+   - 來源：Reporter Gourmet、Scatti di Gusto、50 Top Pizza
+
+5. **✅ 多元飲食選擇** (Inclusive Menu)
+   - 提供 vegan, vegetarian, gluten-free 選項，不妥協於卓越品質
+   - 除披薩外，創意前菜與精緻甜點同樣出色
+   - 展現包容性與細緻考量
+   - 來源：50 Top Pizza、官網菜單
+
+6. **✅ Google 評價強勁** (Strong Online Ratings)
+   - Google Maps: 4.4/5 (1,100+ reviews) - 代表多數實際用餐者滿意
+   - Restaurant Guru: 4.2/5 (1,334 reviews)
+   - 許多評論使用"exceptional"、"outstanding"、"best pizza in Milan"等詞彙
+   - 來源：Google Reviews、Restaurant Guru aggregation
+
+### 正面評價總結
+- **成功關鍵**：期望正確設定（haute cuisine pizza，非傳統 pizzeria）+ 選擇合適時段（避開高峰）+ 欣賞創新料理
+- **推薦對象**：披薩愛好者、美食探索者、欣賞創新技法者、特殊場合慶祝
+- **最佳體驗策略**：選擇 tasting menu、與侍酒師互動、午餐時段（較不擁擠）、提前預訂
+- **核心價值**：將披薩從街頭小吃提升至藝術層次的野心與執行力
+
 **Negative reviews / 負評分析** (2026-01-29 研究):
 
 ### ⚠️ 主要問題領域
@@ -1168,27 +1223,31 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - ⚠️ **適合對象**：披薩愛好者、創新料理追求者、特殊場合
 - ⚠️ **不適合對象**：預算有限、尋求傳統 pizzeria、對環境安靜度有要求、對光線敏感
 
-**50 分評分系統** (2026-01-29 更新):
-- Taste/Quality (口味): 8/10 - 高品質食材與創意披薩，全球排名認證，但非所有人喜愛風格
-- Value (性價比): **4/10** ⬇️ (原 6/10) - **價格爭議大**，多則負評指出過度定價與份量不符
+**50 分評分系統** (2026-01-29 平衡再評估):
+- Taste/Quality (口味): **9/10** ⬆️ (原 8/10) - 世界級認證，72 小時發酵麵團，創意與技法兼具，正面評價強調"exceptional"品質
+- Value (性價比): **5/10** ⬆️ (原 4/10) - 價格爭議存在但需考慮 haute cuisine 定位；對創新料理愛好者物有所值，對傳統期望者過貴
 - Convenience (便利性): 7/10 - 市中心位置好，每日營業，但需提前預訂且可能等待
-- Consistency (穩定性): **5/10** ⬇️ (原 6/10) - 服務與體驗品質**極度不穩定**（Google 4.4 vs Tripadvisor 3.3）
-- Risk (風險): **5/10** ⬇️ (原 8/10) - **高風險**：照明問題、擁擠嘈雜、服務不穩、期望落差、性價比爭議
+- Consistency (穩定性): **6/10** ⬆️ (原 5/10) - 體驗確實兩極，但 Google 4.4/5 高評分顯示多數人滿意；選對時段與正確期望可降低風險
+- Risk (風險): **6/10** ⬆️ (原 5/10) - 風險主要來自期望落差與環境因素（照明、擁擠）；適當準備（午餐時段、接受創新風格）可顯著降低風險
 
-**總分**: **29/50** ⬇️ (原 35/50，降 6 分)
+**總分**: **33/50** ⬆️ (從 29/50 上調 4 分，平衡正負評價後)
 
-**Status**: ⚠️ **DOWNGRADED** from 35/50 to 29/50
+**Status**: 🔄 **RE-EVALUATED** - Balanced assessment (29→33/50)
 
-**降分原因**:
-- Value: 6→4 (-2分) - 多則負評強烈批評過度定價與性價比
-- Consistency: 6→5 (-1分) - 服務與體驗極度不穩定
-- Risk: 8→5 (-3分) - 照明問題、擁擠、期望落差、體驗兩極化
+**再評估理由**:
+- Taste/Quality: 8→9 (+1分) - 正面評價證實世界級品質與創新實力，72小時發酵與技法獲高度讚譽
+- Value: 4→5 (+1分) - 雖有價格爭議，但 haute cuisine 定位下對目標客群（美食愛好者）確實提供價值
+- Consistency: 5→6 (+1分) - Google 4.4/5 與 1,100+ 評論顯示多數體驗正面；Tripadvisor 較低分可能反映期望管理問題而非品質
+- Risk: 5→6 (+1分) - 風險可通過策略降低（午餐時段、接受創新風格、提前了解定位）
 
-**推薦指數**: **Backup** (29/50 低於 30 分門檻，接近 Rejected)
-- ⚠️ **謹慎推薦**：僅適合特定客群（創新料理追求者、願意承擔高風險）
-- ⚠️ **不建議**：預算有限、尋求穩定體驗、對光線/噪音敏感
-- 適合：披薩愛好者、尋求創意現代披薩體驗、特殊場合（願意承擔風險）
-- 不適合：預算有限、尋求傳統平價 pizzeria、對環境安靜度/舒適度有要求
+**推薦指數**: **Backup** (33/50，接近 Top Pick 門檻 35)
+- ✅ **推薦**：披薩愛好者、美食探索者、創新料理追求者、特殊場合慶祝
+- ✅ **最佳策略**：選擇午餐時段（較不擁擠）、嘗試 tasting menu、與侍酒師互動、接受 haute cuisine 定位
+- ⚠️ **謹慎/不建議**：預算極有限、尋求傳統平價 pizzeria、對光線極度敏感、需要安靜環境
+- 💡 **關鍵洞察**：這是世界第 4 名的創意披薩餐廳，而非街角 pizzeria；期望正確設定是成功體驗的關鍵
+
+**平衡結論**:
+Confine Milano 確實存在缺點（照明、擁擠、價格爭議、服務不穩），但正面評價顯示其世界級創新實力與高品質執行力。**不是"真的這麼糟"**，而是**高度依賴期望管理與個人偏好**。對正確的客群（美食愛好者、創新料理追求者）而言，這是值得體驗的世界級披薩餐廳。
 
 ---
 
