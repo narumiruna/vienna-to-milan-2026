@@ -2057,3 +2057,213 @@ Pizza dolce di Beridde 代表羅馬猶太社群的堅韌與傳承。名稱中的
 - Risk (10 = low risk): 7/10 (價格爭議風險，遊客潮)
 - **Total: 37/50**
 - **Status**: ⭐ **TOP PICK** (高品質創意披薩，價格爭議但品質值得)
+
+---
+
+## Gelateria Fassi (Palazzo del Freddo) ⭐ 🏛️📍
+
+**Official**: https://www.gelateriafassi.com/
+
+**Address**: Via Principe Eugenio, 65-67, 00185 Rome (Esquilino, near Piazza Vittorio)
+
+**Phone**: +39 06 446 4740
+
+**Opening Hours**:
+- Monday–Saturday: 12:00 PM – 12:00 AM (midnight)
+- Sunday: 10:00 AM – 12:00 AM (midnight)
+
+**Google Maps**: 4.4/5 (thousands of reviews)
+
+**Tripadvisor**: 4.3/5 (3,100+ reviews) - Travelers' Choice
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d1023845-Reviews-Palazzo_del_Freddo_Giovanni_Fassi-Rome_Lazio.html
+- Ranks #68 out of 1,043 dessert spots in Rome
+
+**Restaurant Guru**: 4.2/5
+
+**Guide sources**:
+- https://www.gelateriafassi.com/
+- https://www.explore.com/1718815/oldest-gelateria-rome
+- https://www.amalfistyle.com/2025/09/24/famous-gelateria-fassi-in-rome/
+- https://www.tasteatlas.com/palazzodelfreddodigiovannifassi
+- https://renatoprosciutto.com/gelateria-fassi-rome-palazzo-freddo/
+
+**Recurring pros**:
+- **羅馬最古老的 gelateria（自1880年）**：145年歷史，羅馬冰淇淋文化象徵
+- **超大份量，價格合理**：Small cone/cup €1.80, Medium ~€2.70；份量慷慨
+- **獨特的傳統特色商品**：
+  - Sanpietrino（小巧克力包裹 semifreddo，羅馬鵝卵石形狀）
+  - Caterinetta（Viennetta 前身，切片蛋糕配鮮奶油與威化餅）
+  - Ninetto（義大利原創冰棍，巧克力外衣）
+- **20-30種口味**，季節性更新：pistachio、stracciatella、hazelnut、zabaione、rice、tiramisu 等
+- **免費奶油頂層**（panna）：輕盈美味
+- **歷史氛圍**：大理石與復古裝潢，可容納數百人
+- **導覽體驗**（週末）：參觀博物館與生產線，品嚐會 (~€29.90/adult)
+- **靠近 Termini 與飯店**：Esquilino 區，從 Mercure Roma Piazza Bologna 步行約 12-15 分鐘
+
+**Recurring cons**:
+- **尖峰時段排隊長**：繁忙時可能等待 15-30 分鐘
+- **服務可能不穩定**：繁忙時服務可能匆忙或不耐煩
+- **遊客眾多**：靠近 Termini，觀光客比例高
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **⚠️ Rude staff**: 多則評論提及服務態度粗魯、不友善（"rude and dismissive", "impatient with customers"）
+- **⚠️ Chaos during busy times**: 繁忙時組織混亂、體驗匆忙壓抑（"chaotic, stressed, not enjoyable"）
+- **⚠️ Quality disappointment**: 少數訪客認為 gelato "nothing special"、"worst gelato"、或未達歷史名聲期待
+- **⚠️ Crowds and waiting**: 人潮擁擠，特別靠近 Termini，排隊常態
+- **⚠️ Cleanliness concerns**: 少數負面評論提及復古環境看似缺乏維護
+- **Balance**: 儘管有批評，大多數評論仍為正面，特別肯定歷史價值、份量與價格
+- **Sources**: Tripadvisor ("Rude", "Chaos", "Worst Gelato"), Restaurant Guru reviews
+
+**Practical**:
+- reservation requirement: none（gelato shop）
+- best visiting time: 非尖峰時段（下午或晚間，避開 14:00-16:00 和飯後高峰）
+- queue: 繁忙時可能排隊 15-30 分鐘
+- price: 非常合理（€1.80-2.70 per cone/cup，€9+ for takeaway tub）
+- 距 Mercure Roma Piazza Bologna 飯店步行約 12-15 分鐘
+- 適合家庭、想體驗羅馬傳統 gelato 文化者
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（歷史傳統，品質穩定但非頂級手工）
+- Value: 9/10（份量大、價格合理）
+- Convenience: 9/10（靠近飯店，營業時間長）
+- Consistency: 7/10（gelato 品質穩定，但服務不一致）
+- Risk (10 = low risk): 5/10（服務態度、繁忙時混亂、部分人認為品質未達期待）
+- **Total: 38/50**
+
+**Status**: shortlisted（考慮為 Backup，38分接近 Top Pick 門檻但服務與品質風險降低評級）
+
+---
+
+## Lyo ⭐📍
+
+**Official**: https://www.lyoroma.it/
+
+**Address**: Via Catania 28, Palazzo Taverna, 00161 Rome (Piazza Bologna/Nomentano)
+
+**Phone**: +39 342 094 6995
+
+**Email**: lyoroma@libero.it
+
+**Opening Hours**:
+- Every day: 5:30 PM – 1:30 AM
+
+**Google Maps**: 4.5/5 (300+ reviews)
+
+**Tripadvisor**: 4.9/5 (200 reviews) - Exceptional rating
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d9702232-Reviews-Lyo-Rome_Lazio.html
+
+**Restaurant Guru**: 4.5/5
+
+**Type**: Modern Italian/Mediterranean restaurant and cocktail lounge
+
+**Recurring pros**:
+- **傑出評分**：Tripadvisor 4.9/5 極為罕見，反映卓越體驗
+- **專業服務**：多次被稱讚「staff always smiling and helpful」、「precise and polite」、「attentive and detail-oriented」
+- **優質義大利地中海料理**：spaghetti alla carbonara、risotto、brodo 等經典菜
+- **優秀雞尾酒與酒單**：cocktails 是亮點，專業調酒師與酒窖
+- **理想慶祝場所**：多則評論提及生日、畢業派對等成功舉辦
+- **現代氛圍**：寬敞、組織良好，適合私人活動與休閒晚餐
+- **DJ 與音樂**：活動時提供 DJ 與音樂，氛圍熱鬧
+- **素食與無麩質選項**：對飲食限制友善
+- **靠近飯店**：Via Catania 28, Piazza Bologna 區，從 Mercure Roma Piazza Bologna 步行約 5-8 分鐘
+- **營業至深夜**：開到凌晨 1:30，適合晚餐後續攤
+
+**Recurring cons**:
+- 主要針對私人派對與慶祝活動優化，可能較適合團體而非雙人浪漫晚餐
+- 價格中等偏高（€9-21/人，€€-€€€ 級別）
+- 晚間可能音樂較大聲
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **幾乎無負面評論**：詳細搜尋後，幾乎找不到關於服務問題、食物品質或負面體驗的投訴
+- **極正面一致性**：評論持續稱讚「professional」、「kind」、「welcoming」、「excellent value」
+- **Balance**: 這是極為罕見的高品質一致性，顯示餐廳對服務與品質的嚴格控管
+- **Sources**: Tripadvisor (overwhelmingly positive), Restaurant Guru (positive), 無明顯負面模式
+
+**Practical**:
+- reservation requirement: recommended（建議訂位，特別團體活動或週末）
+- best visiting time: 晚餐 17:30-23:00，適合慶祝或休閒晚餐
+- closed: 無公休（每日營業）
+- price: €9-21/person（moderate 價位）
+- 距 Mercure Roma Piazza Bologna 飯店步行約 5-8 分鐘
+- 輪椅無障礙，接受信用卡，免費 WiFi
+- 適合慶祝、團體聚餐、尋求現代義大利料理與優質雞尾酒者
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10（高品質義大利地中海料理，carbonara、risotto 受好評）
+- Value: 8/10（價格合理，份量與品質對應）
+- Convenience: 10/10（距飯店超近，營業至深夜，無公休）
+- Consistency: 9.5/10（4.9/5 Tripadvisor 評分，幾乎無負面評論）
+- Risk (10 = low risk): 9/10（風險極低，服務與品質高度一致）
+- **Total: 45.5/50**
+
+**Status**: top（強烈推薦，飯店附近最佳選擇之一）
+
+---
+
+## Fornace Stella 🍕📍
+
+**Official**: https://www.fornacestella.it/
+
+**Address**: 
+- Piazza Lecce 9, 00161 Rome (Nomentano/Piazza Bologna) - 主要據點
+- Via Alessandro Cruto 9 (Marconi area) - 分店
+
+**Opening Hours** (Piazza Lecce):
+- Sunday: 12:30 PM – 3:00 PM, 7:00 PM – 11:00 PM
+- Monday–Saturday: 7:00 PM – 11:00 PM (dinner only)
+
+**Google Maps**: ~4.4/5 (multiple reviews)
+
+**Tripadvisor**: 4.2/5 (280+ reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d15699976-Reviews-Fornace_Stella-Rome_Lazio.html
+- Ranks within top 1,400-1,500 restaurants in Rome
+
+**Restaurant Guru**: 4.2-4.3/5
+
+**Type**: Pizzeria with Roman and Neapolitan styles, neighborhood restaurant
+
+**Recurring pros**:
+- **正宗義大利/拿波里披薩**：輕盈、易消化的麵團，高品質配料
+- **傑出炸物前菜**：fiori di zucca（炸花椰菜花）、baccalà（鱈魚）、potato croquettes、Ascoli olives 獲高度讚揚
+- **在地人最愛**：Piazza Bologna 區鄰里餐廳，非觀光化
+- **素食友善**：Eggplant Parmigiana、onion rings、多種可客製化披薩
+- **現代舒適氛圍**：友善服務、乾淨現代內裝
+- **對飲食限制友善**：提供無麩質與無乳糖選項
+- **靠近飯店**：Piazza Lecce 9，從 Mercure Roma Piazza Bologna 步行約 8-10 分鐘
+- **合理價位**：€15-25/person
+
+**Recurring cons**:
+- **預訂困難**：熱門時段難訂位，需提前致電
+- **繁忙時服務慢**：尖峰時段服務可能不穩定或緩慢
+- **品質偶有變化**：少數評論提及麵團未熟或配料未達預期
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- **⚠️ Inconsistent service during busy times**: 繁忙時服務緩慢、不專注（"slow service", "inattentive staff during crowded periods"）
+- **⚠️ Quality variations**: 少數投訴披薩麵團未煮熟或太韌、配料未達預期（"dough undercooked or too chewy"）
+- **⚠️ Reservation nightmare**: 難以訂位，即使預訂仍可能長時間等待
+- **⚠️ Food temperature issues**: 零星投訴食物送達時溫度不夠熱（可能廚房忙不過來）
+- **⚠️ Noise level**: 室內噪音高，擁擠時難以對話
+- **Balance**: 大多數評論仍為正面，強調披薩與炸物品質，耐心與非尖峰時段可獲得更好體驗
+- **Sources**: Tripadvisor reviews ("Disappointing service", quality variations), Restaurant Guru
+
+**Practical**:
+- reservation requirement: recommended（強烈建議訂位，特別晚餐與週末）
+- best visiting time: 非尖峰時段（週間晚餐早場 19:00-20:00，或週日午餐）
+- closed: 無特定公休，但建議電話確認
+- queue: 無訂位可能等待
+- price: €15-25/person
+- 距 Mercure Roma Piazza Bologna 飯店步行約 8-10 分鐘
+- 適合尋求在地披薩體驗、炸物愛好者、鄰里氛圍
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10（高品質披薩與炸物，偶有變化）
+- Value: 8/10（價格合理）
+- Convenience: 9/10（距飯店近，位置方便）
+- Consistency: 7/10（食物穩定但服務繁忙時不一致）
+- Risk (10 = low risk): 6/10（繁忙時服務慢、品質偶有變化、訂位困難）
+- **Total: 38/50**
+
+**Status**: shortlisted（考慮為 Backup，38分接近 Top Pick 門檻但服務與預訂風險降低評級）
+
+---
+

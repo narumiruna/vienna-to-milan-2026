@@ -10,7 +10,19 @@
 
 ### 餐廳 Top Picks
 
-#### 1. Antico Forno Roscioli (45/50) ⭐⭐⭐ 🍕
+#### 1. Lyo (45.5/50) ⭐⭐⭐ 📍
+- **type**: Modern Italian/Mediterranean restaurant, cocktail lounge
+- **area**: Piazza Bologna (飯店附近)
+- **total score**: 45.5/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Lyo+Via+Catania+Rome
+- **justification**: 傑出 4.9/5 Tripadvisor 評分，專業服務與高品質義大利料理（carbonara、risotto），優秀雞尾酒，距飯店僅 5-8 分鐘步行，幾乎無負面評論，極高一致性
+- **constraints**: 
+  - reservation: recommended（建議訂位，特別週末或團體）
+  - price: €9-21/person（moderate）
+  - 營業至凌晨 1:30
+  - **距 Mercure Roma Piazza Bologna 飯店步行僅 5-8 分鐘** ⭐
+
+#### 2. Antico Forno Roscioli (45/50) ⭐⭐⭐ 🍕
 - **type**: Pizza al taglio, bakery
 - **area**: Centro Storico (Campo de' Fiori)
 - **total score**: 45/50
@@ -22,7 +34,7 @@
   - 中午繁忙
   - 早上 7:30-10:00 選擇最多最新鮮
 
-#### 2. Otaleg (43/50) ⭐⭐ 🍨
+#### 3. Otaleg (43/50) ⭐⭐ 🍨
 - **type**: Gelato, artisanal
 - **area**: Trastevere
 - **total score**: 43/50
@@ -379,6 +391,30 @@
   - 純甜點不可訂位
   - 可能需時間選擇口味
 
+### Fornace Stella (38/50) 🍕📍
+- **type**: Pizza (Roman/Neapolitan), Italian
+- **area**: Piazza Bologna (飯店附近)
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Fornace+Stella+Piazza+Lecce+Rome
+- **justification**: 在地人最愛，正宗披薩與傑出炸物前菜（fiori di zucca、baccalà）；素食友善；4.2/5 Tripadvisor；鄰里餐廳氛圍
+- **constraints**:
+  - reservation: recommended（強烈建議訂位，尤其晚餐）
+  - price: €15-25/人
+  - 繁忙時服務可能慢
+  - **距 Mercure Roma Piazza Bologna 飯店步行 8-10 分鐘** ⭐
+
+### Gelateria Fassi (Palazzo del Freddo) (38/50) 🍨🏛️📍
+- **type**: Gelato, historic (since 1880)
+- **area**: Esquilino (飯店附近)
+- **total score**: 38/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Gelateria+Fassi+Rome
+- **justification**: 羅馬最古老 gelateria（145年歷史）；獨特商品 Sanpietrino、Caterinetta；份量大價格合理（€1.80-2.70）；歷史文化體驗
+- **constraints**:
+  - 尖峰時段排隊 15-30 分鐘
+  - 服務繁忙時可能不穩定
+  - **距 Mercure Roma Piazza Bologna 飯店步行 12-15 分鐘** ⭐
+  - 營業至午夜（Mon-Sat 12pm-12am, Sun 10am-12am）
+
 ---
 
 ### Da Enzo al 29 (35/50)
@@ -500,10 +536,16 @@
 
 ### 從 Mercure Roma Piazza Bologna 的交通
 
-**飯店近距離優勢** ⭐:
-- **5 分鐘步行**: Regoli（早餐 maritozzo）
-- **8 分鐘步行**: Trattoria Monti（米其林推薦）
-- **12 分鐘步行**: Come il Latte（gelato）
+**飯店近距離優勢** ⭐（步行範圍內）:
+- **5-8 分鐘步行**: 
+  - **Lyo**（現代義大利料理，carbonara、risotto、雞尾酒，45.5/50）⭐⭐⭐
+  - **Regoli**（早餐 maritozzo，百年老店，7:00-9:30am）
+- **8-10 分鐘步行**: 
+  - **Fornace Stella**（在地人最愛披薩與炸物，38/50）
+  - **Trattoria Monti**（米其林推薦，Le Marche 料理，39.5/50）
+- **12-15 分鐘步行**: 
+  - **Gelateria Fassi**（羅馬最古老 gelato，1880年，38/50，營業至午夜）
+  - **Come il Latte**（頂級奶油 gelato，39.5/50）
 
 **市中心區域**（15-25 分鐘）:
 - 到 Centro Storico/Pantheon: 地鐵 B 線 → Castro Pretorio/Termini，步行或轉車

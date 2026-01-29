@@ -44,6 +44,9 @@ Notes:
 | A Rota Pizzeria Romanesca | restaurant | Tor Pignattara | Pizza romana, thin crust | https://www.google.com/maps/search/?api=1&query=A+Rota+Pizzeria+Romanesca+Rome | top | 35/50 | Tripadvisor 4.0/5, Google 4.4/5, Restaurant Guru 4.3/5 | 正宗薄脆羅馬披薩；溫馨氛圍；預訂需電話確認；35/50。 |
 | Seu Pizza Illuminati | restaurant | Trastevere (Porta Portese) | Creative Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Seu+Pizza+Illuminati+Rome | rejected | Tripadvisor 4.1/5, TimeOut Rome | ❌ 已排除：品質與服務不一致；價格偏高；期望未達成。29/50。詳見 excluded.md |
 | Ruver Teglia Frazionata | restaurant | Aventino (Circus Maximus) | Pizza in teglia | https://www.google.com/maps/search/?api=1&query=Ruver+Teglia+Frazionata+Rome | top | 37/50 | Tripadvisor 4.7/5, Google 4.6-4.7/5, Sluurpy 92/100 | Bonci 學徒；季節性有機食材；創意配料；價格偏高但品質傑出；37/50。 |
+| Lyo | restaurant | Piazza Bologna (飯店附近) | Italian/Mediterranean | https://www.google.com/maps/search/?api=1&query=Lyo+Via+Catania+Rome | top | 45.5/50 | Tripadvisor 4.9/5 (200評論), Google 4.5/5 (300+評論), Restaurant Guru | 現代 trattoria，carbonara/risotto 優秀；傑出雞尾酒；飯店附近步行5-8分鐘；45.5/50。⭐ 飯店最近 |
+| Fornace Stella | restaurant | Piazza Bologna (飯店附近) | Pizza (Roman/Neapolitan) | https://www.google.com/maps/search/?api=1&query=Fornace+Stella+Piazza+Lecce+Rome | shortlisted | 38/50 | Tripadvisor 4.2/5 (280+評論), Restaurant Guru | 在地人最愛，正宗披薩與炸物；飯店附近步行8-10分鐘；繁忙時服務慢；38/50。 |
+| Gelateria Fassi (Palazzo del Freddo) | dessert | Esquilino (飯店附近) | Gelato, historic | https://www.google.com/maps/search/?api=1&query=Gelateria+Fassi+Rome | shortlisted | 38/50 | Tripadvisor 4.3/5 (3,100+評論), Google 4.4/5 | 羅馬最古老 gelato（1880年）；Sanpietrino 特色商品；飯店步行12-15分鐘；服務不穩；38/50。 |
 
 ---
 
