@@ -99,27 +99,6 @@
   - 休息日: 需確認
   - 位置: 市中心便利
 
-### 6. **Confine - Pizza e Cantina** - 35/50
-- **推薦理由**: 1947 年創立，Negroni Sbagliato 發源地，真實米蘭開胃酒體驗
-- **約束條件**:
-  - 預訂: 不需要（walk-in）
-  - 價格: Negroni Sbagliato €11
-  - 休息日: **Tuesday**
-  - 營業: Mon, Wed-Sun 10:00-01:30
-  - 注意: 繁忙時可能等待，小吃簡單
-
-### 6. **Confine - Pizza e Cantina** - 35/50
-- **類型**: 創意披薩餐廳
-- **區域**: Piazza Guglielmo Massaia (市中心)
-- **Google Maps**: [直接連結](https://maps.app.goo.gl/EUKi79UspeDsKuKFA)
-- **推薦理由**: 高品質創意披薩，時尚現代設計，豐富葡萄酒選擇，tasting menu 可體驗多種風格
-- **約束條件**:
-  - 預訂: **建議**（繁忙時段強烈建議）
-  - 價格: €€€ (披薩 €15-25/個)
-  - 休息日: 需確認
-  - 營業: 需確認
-  - 注意: 環境擁擠嘈雜，服務品質不穩定，照明較亮，適合特殊場合而非日常用餐
-
 ---
 
 ### Tiramisù 專門店 / 糕點店
