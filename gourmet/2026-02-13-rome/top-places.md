@@ -154,6 +154,30 @@
   - price: €10-20/person
   - 尖峰時段可能較忙碌
 
+#### 12. Ruver Teglia Frazionata (37/50) ⭐ 🍕
+- **type**: Pizza in teglia (pan pizza by the slice)
+- **area**: Aventino (Circus Maximus area)
+- **total score**: 37/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Ruver+Teglia+Frazionata+Rome
+- **justification**: Bonci 學徒 Alessandro Ruver；季節性有機食材；創意配料；Tripadvisor 4.7/5，top 10% Rome restaurants；傑出麵團品質
+- **constraints**: 
+  - reservation: none（walk-in pizza al taglio 街頭美食）
+  - price: €5-6/slice（價格偏高但品質傑出）
+  - 座位有限（小店面，街邊氛圍）
+  - 尖峰時段可能繁忙
+
+#### 13. A Rota Pizzeria Romanesca (35/50) 🍕
+- **type**: Roman-style pizza (thin crust)
+- **area**: Tor Pignattara
+- **total score**: 35/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=A+Rota+Pizzeria+Romanesca+Rome
+- **justification**: 正宗薄脆羅馬披薩；高品質與創意配料；溫馨氛圍；炸物前菜（suppli）與甜點（tiramisu）受好評
+- **constraints**: 
+  - reservation: strongly recommended（電話確認制）
+  - 位置偏遠（Tor Pignattara，非市中心）
+  - 尖峰時段服務速度慢
+  - price: €15-25/person
+
 ### Gelato & 甜點 Top Picks
 
 #### 1. Otaleg (43/50) ⭐⭐ 🍨
@@ -368,16 +392,30 @@
   - queue: 尖峰可能等 1-1.5 小時，建議開門前到達
   - 空間小且吵雜
 
-### Bonci Pizzarium (32/50)
+### Pizzarium (Bonci) (30/50) 🍕
 - **type**: Pizza al taglio
 - **area**: Trionfale (Vatican)
-- **total score**: 32/50
-- **google maps**: https://www.google.com/maps/search/?api=1&query=Bonci+Pizzarium+Rome
-- **justification**: "Pizza al taglio 之王"，有機食材與創意口味，Anthony Bourdain 推薦
+- **total score**: 30/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Pizzarium+Bonci+Rome
+- **justification**: 名廚 Gabriele Bonci；創意配料與頂級麵團；Anthony Bourdain 推薦；但服務與品質不穩定
 - **constraints**:
-  - reservation: none
-  - queue: 常態 30-60+ 分鐘
-  - 按重量計價偏貴，無舒適座位
+  - reservation: none（walk-in only）
+  - queue: 常態 30-60+ 分鐘排隊
+  - price: €20-40/kg（按重量計價偏貴）
+  - 無舒適座位（僅站立桌）
+  - 服務態度與品質不一致風險
+
+### 180 grammi (31/50) 🍕
+- **type**: Pizza tonda (Roman-style thin crust)
+- **area**: Casilino (Via Tor De' Schiavi)
+- **total score**: 31/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=180grammi+Pizzeria+Romana+Rome
+- **justification**: 薄脆羅馬式披薩；傑出炸物前菜（supplì）；50 Top Pizza 榜上有名；但預訂極困難且位置偏遠
+- **constraints**:
+  - reservation: required（強烈建議提前數週預訂，線上系統故障，電話難打通）
+  - 位置偏遠（Centocelle/Casilino 區，非市中心）
+  - price: €15-25/person
+  - 需信用卡預訂，取消/爽約有罰金
 
 ---
 

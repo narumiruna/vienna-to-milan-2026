@@ -52,6 +52,54 @@
 
 ---
 
+### Seu Pizza Illuminati (Pizzeria)
+- **location**: Trastevere (Porta Portese), Via Angelo Bargoni 10-18
+- **type**: Creative Neapolitan pizza
+- **status**: rejected
+- **total score**: 29/50（低於門檻 30 分）
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Seu+Pizza+Illuminati+Rome
+
+**排除理由**：
+
+1. **品質不一致**（中度）
+   - Tripadvisor 多起評論提及「品質不一致」（"inconsistent quality"）
+   - 部分遊客遇到平庸披薩或麵團/配料問題
+   - 期望與現實落差大（"don't get the hype", "Avoid at all costs!"）
+
+2. **價格偏高與性價比疑慮**
+   - 經典 Margherita €10，精緻披薩 €15-18
+   - 多數評論認為「價格偏高，體驗不一定值得」
+   - 與品質不一致結合，性價比差
+
+3. **服務問題**
+   - 等待時間長
+   - 服務匆忙
+   - 尖峰時段體驗不佳
+
+4. **不符合經典羅馬披薩期待**
+   - 創意 Neapolitan 風格，不適合尋找傳統羅馬披薩的人
+   - 對創意配料接受度因人而異
+
+**來源**：
+- TripAdvisor: "inconsistent quality; too expensive", "Avoid at all costs!", "Very good, but not the best"
+- Trust the Crowd: AI analysis showing mixed reviews
+- TimeOut Rome: Review with caveats
+
+**評分 breakdown**：
+- Taste / Quality: 7/10（創意有餘但品質不一致）
+- Value: 5/10（價格偏高，性價比受質疑）
+- Convenience: 7/10（Trastevere 位置佳，但等待時間長）
+- Consistency: 5/10（品質與服務明顯不穩定）
+- Risk (10 = low risk): 5/10（高期望未達成風險，品質不一致）
+- **Total: 29/50**
+
+**替代方案**：
+- A Rota Pizzeria Romanesca（正宗羅馬披薩，35/50）
+- Ruver Teglia Frazionata（高品質 pizza in teglia，37/50）
+- Pizzarium（雖有風險但名氣大，30/50 backup）
+
+---
+
 ## 排除標準提醒
 
 ### Hard exclusion triggers（硬性排除）
