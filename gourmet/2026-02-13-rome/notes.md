@@ -1750,3 +1750,310 @@ Pizza dolce di Beridde 代表羅馬猶太社群的堅韌與傳承。名稱中的
 - Risk (10 = low risk): 7/10 (少量服務與口味風險)
 - **Total: 37/50**
 - **Status**: ⭐ **TOP PICK** (已修正至37/50)
+
+---
+
+## Pizzarium (Bonci Pizzarium)
+
+**Address**: Via della Meloria, 43, 00136 Rome, Italy
+
+**Official**: http://www.gabrielebonci.it/pizzarium/
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Pizzarium+Bonci+Rome
+
+**Tripadvisor**: 4.0-4.2/5 (thousands of reviews)
+- https://www.tripadvisor.co.uk/Restaurant_Review-g187791-d941728-Reviews-Pizzarium_Bonci-Rome_Lazio.html
+
+**Restaurant Guru**: 4.0-4.2/5
+- https://restaurantguru.com/Pizzarium-Rome
+
+**Food Guides**: 
+- Rated "Rome's best pizza-by-the-slice" by Rough Guide, Frommer's
+- Featured by Anthony Bourdain
+- Michelin recognition
+- https://www.tripexpert.com/rome/restaurants/pizzarium-bonci
+
+**Recurring pros** (from reviews):
+- 創意口味：季節性蔬菜、gourmet 食材（nduja 香腸、trippa alla romana、野生蘆筍）
+- 頂級麵團：傳家麵粉、天然酵母、長時間發酵，口感鬆軟有風味
+- 專家讚譽：「羅馬最佳 pizza al taglio」
+- Gabriele Bonci 名廚光環
+- 獨特美食體驗
+
+**Recurring cons**:
+- 服務問題：員工不友善或疏忽，混亂的叫號系統（尤其繁忙時段）
+- 長時間排隊與擁擠：常見1小時以上排隊，有些客人錯過叫號被告知運氣不好
+- 高價：€20-40/kg（每片秤重計價），許多評論質疑性價比
+- 品質不一致：有報告披薩冷、濕軟、甚至未煮熟（特別是肉丸口味）
+- 缺乏座位與氛圍：只有站立桌，不適合悠閒用餐
+- 位置偏遠：除了梵蒂岡外，遠離傳統觀光路線
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- 🚫 **Rude/inattentive staff**: 頻繁抱怨員工態度不友善、服務疏忽、混亂的叫號系統
+- ⚠️ **Long waits & confusing service**: 排隊時間長（1小時+），錯過叫號無法補救
+- ⚠️ **High prices**: €20-40/kg 價格偏高，許多人質疑性價比
+- ⚠️ **Inconsistent quality**: 披薩有時冷、濕軟、未煮熟
+- ⚠️ **No seating/comfort**: 僅站立桌，空間狹小，不適合悠閒用餐
+- **Sources**: Tripadvisor ("Worth the Netflix hype!", "Not worth the hype"), Restaurant Guru reviews
+
+**Practical**:
+- hours: Mon closed; Tue-Sat 11am-10pm; Sun 11am-3pm & 5pm-10pm
+- phone: +39 06 3974 5416
+- location: Via della Meloria 43, near Cipro metro, Vatican area
+- reservation: walk-in only (排隊制)
+- best time: 非尖峰時段（避開午餐時間）
+- queue: 常態 30-60 分鐘排隊
+- price: €20-40/kg（每片秤重計價，單片約 €5-10）
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (創意口味與頂級麵團，但品質偶有不一致)
+- Value: 5/10 (價格高，性價比受質疑)
+- Convenience: 5/10 (排隊長、無座位、位置偏遠)
+- Consistency: 6/10 (名氣大但品質與服務不穩定)
+- Risk (10 = low risk): 6/10 (服務態度、排隊時間、品質不穩定風險)
+- **Total: 30/50**
+- **Status**: 🟡 **BACKUP** (名氣大但體驗風險高)
+
+---
+
+## 180 grammi (180g Pizzeria Romana)
+
+**Address**: Via Tor De' Schiavi, 53, 00172 Rome, Italy (Casilino area)
+*Second location: Via Genazzano, 32, 00177 Rome*
+
+**Official**: https://180gpizzeriaromana.com
+
+**Google Maps**: 4.5/5
+- https://www.google.com/maps/search/?api=1&query=180grammi+Pizzeria+Romana+Rome
+
+**Tripadvisor**: 4.1/5 (750+ reviews, Via Tor De' Schiavi); 3.4/5 (Via Genazzano, smaller sample)
+- https://www.tripadvisor.co.uk/Restaurant_Review-g187791-d13370026-Reviews-180g_Pizzeria_Romana-Rome_Lazio.html
+
+**Restaurant Guru**: 4.5/5
+- https://restaurantguru.com/180grammi-Pizzeria-Romana-Rome
+
+**Food Guides**:
+- Featured in 50 Top Pizza ranking
+- 2foodtrippers review: https://www.2foodtrippers.com/180-grammi-pizzeria-romana/
+- Wanderlog: https://wanderlog.com/place/details/1577588/180grammi-pizzeria-romana
+
+**Recurring pros** (from reviews):
+- 道地薄脆羅馬式披薩（pizza tonda, "la scrocchiarella"）
+- 高品質食材：mozzarella、tomato、anchovies、burrata
+- 傑出炸物前菜：supplì 特別受讚賞
+- 長時間發酵麵團：輕盈易消化
+- 傳統與創意兼具，素食與純素選項
+
+**Recurring cons**:
+- 預訂困難：線上系統故障，電話預訂困難，需提前數週預訂
+- 服務問題：有時「疏忽」、「表面」、「匆忙」
+- 氛圍冷淡：現代裝潢感覺「冷」
+- 品質不一致：部分評論認為風味「不如預期」或「平庸」
+- 價格偏高：需信用卡預訂，取消或爽約有罰金政策
+- 位置偏遠：非市中心，需多段地鐵或長途計程車
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- 🚫 **Reservation nightmare**: 線上預訂系統故障，電話難打通，需提前數週預訂
+- ⚠️ **Distracted/superficial service**: 服務態度「疏忽」、「匆忙」
+- ⚠️ **Inconsistent quality**: 部分評論認為風味「平庸」、「不如預期」
+- ⚠️ **High prices vs. experience**: 價格偏高，體驗不一定值得
+- ⚠️ **Credit card policy**: 需信用卡預訂，取消/爽約有罰金
+- ⚠️ **Location**: 非市中心，交通不便
+- **Sources**: Tripadvisor reviews, 2foodtrippers blog, Wanderlog reviews
+
+**Practical**:
+- hours: 18:45-22:00 (Via Tor De' Schiavi), closed Tuesdays; 19:00-00:00 (Via Genazzano)
+- phone: +39 391 144 6575 (Via Tor De' Schiavi); +39 347 999 8983 (Via Genazzano)
+- location: Centocelle/Casilino area, outside city center
+- reservation: required (強烈建議提前數週預訂)
+- best time: 平日晚餐早場
+- price: €15-25/person (估計)
+- note: 需信用卡預訂，取消有罰金政策
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (高品質薄脆羅馬披薩，但品質偶有不一致)
+- Value: 6/10 (價格偏高，預訂困難)
+- Convenience: 4/10 (位置偏遠，預訂極困難)
+- Consistency: 7/10 (多數好評但有不一致報告)
+- Risk (10 = low risk): 6/10 (預訂困難、品質不穩定、服務問題風險)
+- **Total: 31/50**
+- **Status**: 🟡 **BACKUP** (品質佳但預訂與交通不便)
+
+---
+
+## A Rota Pizzeria Romanesca
+
+**Address**: Via di Tor Pignattara 190, 00177 Rome, Italy
+
+**Google Maps**: 4.4/5
+- https://www.google.com/maps/search/?api=1&query=A+Rota+Pizzeria+Romanesca+Rome
+
+**Tripadvisor**: 4.0/5 (280+ reviews)
+- https://www.tripadvisor.ca/Restaurant_Review-g187791-d19919269-Reviews-A_Rota_Pizzeria_Romanesca-Rome_Lazio.html
+
+**Restaurant Guru**: 4.3/5 (1,300+ reviews)
+- https://restaurantguru.com/A-Rota-Pizzeria-Romanesca-Rome
+
+**Wanderlog**: 4.0-4.4/5
+- https://wanderlog.com/place/details/4955854/a-rota-pizzeria-romanesca
+
+**Trust the Crowd**: AI insights analysis
+- https://trustthecrowd.com/food/it/rome/a-rota-pizzeria-romanesca-116624
+
+**Recurring pros** (from reviews):
+- 正宗薄脆羅馬式披薩，高品質與創意配料
+- 溫馨舒適氛圍，吸引在地人與遊客
+- 炸物前菜（suppli）與甜點（tiramisu）受好評
+- 員工熱情、專業、細心
+
+**Recurring cons**:
+- 預訂流程麻煩或不靈活，需確認電話
+- 尖峰時段服務速度慢
+- 部分人認為價格偏高（雖然有人認為品質值得）
+- 內部裝潢簡約，氛圍不吸引所有人
+- 社群媒體期望未達成，部分失望
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- ⚠️ **Booking process**: 預訂流程麻煩，需確認電話
+- ⚠️ **Slow service**: 尖峰時段服務速度慢
+- ⚠️ **Price perception**: 部分人認為價格偏高（但多數認為品質值得）
+- ⚠️ **Mixed atmosphere**: 裝潢簡約，不吸引所有人
+- ⚠️ **Expectations vs. reality**: 社群媒體宣傳導致過高期望
+- **Sources**: Tripadvisor reviews, Restaurant Guru, Wanderlog
+
+**Practical**:
+- location: Tor Pignattara area (outside city center)
+- reservation: strongly recommended (電話確認制)
+- best time: 非尖峰時段避免慢服務
+- price: €15-25/person (估計)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 8/10 (正宗薄脆羅馬披薩，高品質配料)
+- Value: 7/10 (價格合理，品質對應)
+- Convenience: 6/10 (位置偏遠，預訂麻煩但可行)
+- Consistency: 7/10 (多數好評，少量服務慢問題)
+- Risk (10 = low risk): 7/10 (主要風險為服務慢與預訂流程)
+- **Total: 35/50**
+- **Status**: ⭐ **TOP PICK** (正宗羅馬披薩，品質穩定)
+
+---
+
+## Seu Pizza Illuminati
+
+**Address**: Via Angelo Bargoni, 10-18, 00153 Rome, Italy
+
+**Official**: https://www.seupizza.com/
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Seu+Pizza+Illuminati+Rome
+
+**Tripadvisor**: 4.1/5 (1,300+ reviews)
+- https://en.tripadvisor.com.hk/Restaurant_Review-g187791-d13927592-Reviews-Seu_Pizza_Illuminati-Rome_Lazio.html
+
+**Trust the Crowd**: AI insights analysis
+- https://trustthecrowd.com/food/it/rome/seu-pizza-illuminati-112340
+
+**TimeOut Rome**: Review
+- https://www.timeout.com/rome/restaurants/seu-pizza-illuminati
+
+**Recurring pros** (from reviews):
+- 創意 Neapolitan 風格披薩：獨特風味組合（南瓜 + amaretto 碎、花椰菜 + 燒檸檬凝膠）
+- Chef Pier Daniele Seu 的創新手法
+- 「新鮮在地」食材
+- 時尚氛圍與不錯的酒單、香檳選擇
+- 美食家與評論家肯定
+
+**Recurring cons**:
+- 品質不一致：部分遊客遇到平庸披薩或麵團/配料問題
+- 價格偏高：經典 Margherita €10，精緻披薩 €15-18
+- 服務問題：等待時間長、服務匆忙
+- 期望未達成：「不懂炒作」是常見抱怨
+- 不適合尋找經典羅馬披薩的人
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- ⚠️ **Inconsistent quality**: 披薩品質與服務有起伏（"inconsistent quality; too expensive"）
+- ⚠️ **Overpriced for results**: 價格偏高，體驗不一定值得（Margherita €10，精緻 €15-18）
+- ⚠️ **Don't get the hype**: 「不懂炒作」，期望未達成（"Avoid at all costs!", "don't get the hype"）
+- ⚠️ **Long waits & rushed service**: 等待時間長，服務匆忙
+- ⚠️ **Dough/topping issues**: 部分評論提及麵團或配料問題
+- ⚠️ **Not for classic pizza lovers**: 不適合尋找傳統羅馬披薩的人
+- **Sources**: Tripadvisor ("inconsistent quality; too expensive", "Avoid at all costs!", "Very good, but not the best"), Trust the Crowd analysis, TimeOut Rome
+
+**Practical**:
+- location: Trastevere (Porta Portese neighborhood), near Tiber River
+- reservation: recommended
+- best time: 非尖峰時段（避開等待與服務匆忙）
+- price: €15-25/person (Margherita €10, specialty €15-18)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 7/10 (創意有餘但品質不一致)
+- Value: 5/10 (價格偏高，性價比受質疑)
+- Convenience: 7/10 (Trastevere 位置佳，但等待時間長)
+- Consistency: 5/10 (品質與服務明顯不穩定)
+- Risk (10 = low risk): 5/10 (高期望未達成風險，品質不一致)
+- **Total: 29/50**
+- **Status**: ❌ **REJECTED** (品質與服務不一致，價格偏高，不推薦)
+
+---
+
+## Ruver Teglia Frazionata
+
+**Address**: Viale Aventino, 46, 00153 Rome, Italy
+
+**Google Maps**: 4.6-4.7/5 (200+ reviews)
+- https://www.google.com/maps/search/?api=1&query=Ruver+Teglia+Frazionata+Rome
+
+**Tripadvisor**: 4.7/5 (top 10% Rome restaurants)
+- https://www.tripadvisor.com/Restaurant_Review-g187791-d27998438-Reviews-Ruver_Teglia_Frazionata-Rome_Lazio.html
+
+**Sluurpy**: 92/100 (200+ votes)
+- https://it-en.sluurpy.com/roma/ristorante/10298430/ruver-teglia-frazionata
+
+**Eating Around Italy**: Review
+- https://eatingarounditaly.com/ruver-teglia-frazionata-pizza-rome/
+
+**50 Top Pizza**: Recognition
+- https://www.50toppizza.it/referenza/ruver-teglia-frazionata/
+
+**Recurring pros** (from reviews):
+- 「非凡」、「美味」pizza in teglia（平底鍋披薩切片）
+- 與傳奇 Gabriele Bonci 相比（店主 Alessandro Ruver 曾師從 Bonci）
+- 季節性、有機、在地食材
+- 每日輪換配料，獨特組合 + 經典（Margherita、薯仔披薩）
+- 新鮮、輕盈、易消化麵團
+- 小而溫馨，員工友善專業（解釋配料，英語友善）
+- 「隱藏寶石」、羅馬頂級街頭美食
+- 對品質與創新的熱情
+
+**Recurring cons**:
+- 價格偏高：遊客感覺每片 €5-6 過高（特別是簡單配料）
+- 按片計價而非秤重：違反羅馬傳統，引起困惑或不滿
+- 簡單配料價格不合理：基本 marinara（番茄 + 奧勒岡）價格被認為針對遊客
+- 份量偏小：部分評論認為價格與份量不符
+- 遊客潮：因名氣而繁忙，尖峰時段服務較慢
+- 座位有限：小店面，街邊氛圍，不易坐下
+
+**Negative reviews / complaints** (研究日期: 2026-01-29):
+- ⚠️ **Overpriced (tourist complaints)**: 遊客頻繁抱怨每片 €5-6 過高（"they are scamming money"）
+- ⚠️ **Pricing by slice vs. weight**: 違反羅馬傳統（秤重計價），引起困惑
+- ⚠️ **Simple toppings not justified**: 基本 marinara 價格被認為針對遊客
+- ⚠️ **Small portions**: 價格與份量不符
+- ⚠️ **Tourist crowds**: 繁忙時段服務較慢
+- ⚠️ **Limited seating**: 小店面，街邊氛圍
+- **Sources**: Wanderlog ("overpriced", "scamming money"), Eating Around Italy blog, Tripadvisor reviews
+
+**Practical**:
+- phone: +39 327 073 7999
+- location: Viale Aventino 46, near Circus Maximus, Colosseum area
+- hours: varies by day (check online)
+- reservation: not required (walk-in, street food style)
+- best time: 非尖峰時段避開遊客潮
+- price: €5-6/slice (higher than traditional Roman pizza al taglio)
+
+**Score (50-point rubric)**:
+- Taste/Quality: 9/10 (高品質食材、傑出麵團、創意配料)
+- Value: 5/10 (價格偏高，特別對遊客而言)
+- Convenience: 8/10 (位置中心，近景點，但座位有限)
+- Consistency: 8/10 (多數高評價，少量價格抱怨)
+- Risk (10 = low risk): 7/10 (價格爭議風險，遊客潮)
+- **Total: 37/50**
+- **Status**: ⭐ **TOP PICK** (高品質創意披薩，價格爭議但品質值得)

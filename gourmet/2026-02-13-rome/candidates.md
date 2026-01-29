@@ -16,7 +16,7 @@ Notes:
 | Flavio al Velavevodetto | restaurant | Testaccio | Roman classics | https://www.google.com/maps/search/?api=1&query=Flavio+al+Velavevodetto+Rome | shortlisted | Tripadvisor, Google Maps, Reddit, TripExpert | Testaccio 在地人最愛；carbonara/amatriciana/cacio e pepe 高評價；建議訂位。 |
 | Ditirambo | restaurant | Trastevere/Campo de' Fiori | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Ditirambo+Rome | shortlisted | TheFork, TripAdvisor, Restaurant Guru | 創意季節料理，素食友善；TheFork 9.3/10；建議訂位。 |
 | Bottega Tredici | restaurant | Ghetto/Centro Storico | Creative seasonal | https://www.google.com/maps/search/?api=1&query=Bottega+Tredici+Rome | shortlisted | TheFork, TripAdvisor, Restaurant Guru | 現代義大利創意料理；TheFork 9.2/10；Tripadvisor Travelers' Choice。 |
-| Bonci Pizzarium | restaurant | Trionfale (Vatican) | Pizza al taglio | https://www.google.com/maps/search/?api=1&query=Bonci+Pizzarium+Rome | researching | Tripadvisor, Google Maps, food guides | "Pizza al taglio 之王"；有機麵粉、創意口味；常需排隊 30-60 分鐘。 |
+| Pizzarium (Bonci) | restaurant | Trionfale (Vatican) | Pizza al taglio | https://www.google.com/maps/search/?api=1&query=Pizzarium+Bonci+Rome | backup | 30/50 | Tripadvisor 4.0-4.2/5, Restaurant Guru, Tripexpert | 名廚 Gabriele Bonci；創意配料；高價 €20-40/kg；長排隊；服務與品質不穩定。 |
 | Antico Forno Roscioli | restaurant | Centro Storico | Pizza al taglio, bakery | https://www.google.com/maps/search/?api=1&query=Antico+Forno+Roscioli+Rome | shortlisted | TripAdvisor, Google Maps, Restaurant Guru | 歷史悠久麵包店，經典 pizza rossa/bianca；外帶為主，價格合理。 |
 | Come il Latte | dessert | Esquilino | Gelato | https://www.google.com/maps/search/?api=1&query=Come+il+Latte+Rome | shortlisted | Yelp, TripAdvisor, food blogs | 高級奶油冰淇淋，60-70%牛奶；排隊長，離峰時段佳。 |
 | Frigidarium | dessert | Piazza Navona | Gelato | https://www.google.com/maps/search/?api=1&query=Frigidarium+Rome | shortlisted | Yelp, TripAdvisor, Reddit | 部落客 #1 首選；可沾巧克力；中央位置。 |
@@ -40,6 +40,10 @@ Notes:
 | Pasticceria Boccione | dessert | Jewish Ghetto | Jewish pastries, pizza ebraica | https://www.google.com/maps/search/?api=1&query=Pasticceria+Boccione+Rome | shortlisted | 40/50 | Atlas Obscura, Tripadvisor, Spotted by Locals | 210年老店，Pizza dolce di Beridde專家；羅馬猶太區傳統糕點；週六休息。 |
 | Phở 1 Aurelia | restaurant | Aurelio (near Vatican) | Vietnamese, pho | https://www.google.com/maps/search/?api=1&query=Pho+1+Aurelia+Rome | top | Google 4.8/5 (300+ reviews), Restaurant Guru 4.8/5 | 高評價越南餐廳，道地湯頭與春捲；近梵蒂岡；寧靜氛圍；38/50。 |
 | Pho1 (Via Merulana) | restaurant | Monti (Via Merulana) | Vietnamese, pho | https://www.google.com/maps/search/?api=1&query=Pho1+Via+Merulana+Rome | top | Tripadvisor, Google Maps, Wanderlog | 市中心位置，道地風味；素食與無麩質選項；服務快速；37/50。 |
+| 180 grammi | restaurant | Casilino (Via Tor De' Schiavi) | Pizza tonda, Roman-style | https://www.google.com/maps/search/?api=1&query=180grammi+Pizzeria+Romana+Rome | backup | 31/50 | Tripadvisor 4.1/5, Google 4.5/5, 50 Top Pizza | 薄脆羅馬式披薩，傑出 supplì；預訂極困難需提前數週；位置偏遠；31/50。 |
+| A Rota Pizzeria Romanesca | restaurant | Tor Pignattara | Pizza romana, thin crust | https://www.google.com/maps/search/?api=1&query=A+Rota+Pizzeria+Romanesca+Rome | top | 35/50 | Tripadvisor 4.0/5, Google 4.4/5, Restaurant Guru 4.3/5 | 正宗薄脆羅馬披薩；溫馨氛圍；預訂需電話確認；35/50。 |
+| Seu Pizza Illuminati | restaurant | Trastevere (Porta Portese) | Creative Neapolitan pizza | https://www.google.com/maps/search/?api=1&query=Seu+Pizza+Illuminati+Rome | rejected | Tripadvisor 4.1/5, TimeOut Rome | ❌ 已排除：品質與服務不一致；價格偏高；期望未達成。29/50。詳見 excluded.md |
+| Ruver Teglia Frazionata | restaurant | Aventino (Circus Maximus) | Pizza in teglia | https://www.google.com/maps/search/?api=1&query=Ruver+Teglia+Frazionata+Rome | top | 37/50 | Tripadvisor 4.7/5, Google 4.6-4.7/5, Sluurpy 92/100 | Bonci 學徒；季節性有機食材；創意配料；價格偏高但品質傑出；37/50。 |
 
 ---
 
