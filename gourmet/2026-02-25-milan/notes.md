@@ -1362,3 +1362,144 @@ Michetta's history traces back to Austrian influences (Kaiser roll adaptation), 
 - Risk (10 = low risk): 6/10 (少量湯頭與環境風險)
 - **Total: 36/50**
 - **Status**: ⭐ **TOP PICK**
+
+## Sant Ambroeus
+
+**Official**: https://santambroeusmilano.it/
+
+**Google Maps**: 估計 4.0-4.3/5 (需驗證具體分店)
+
+**Tripadvisor**: 3.5/5 (560-570 reviews)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d1319798-Reviews-Sant_Ambroeus_Milano-Milan_Lombardy.html
+
+**Guide sources**:
+- Wanderlog reviews
+- Multiple traveler reviews highlighting tiramisu
+
+**常見優點**:
+- 1936年創立，米蘭歷史名店
+- 優雅的氛圍與傳統米蘭風格
+- 經典甜點，特別是提拉米蘇評價高
+- 精緻服務，適合咖啡或甜點休息
+- 米蘭文化體驗
+
+**常見缺點**:
+- 評價混合：部分遊客認為品質不如過去獨特
+- 價格偏高（符合其高端定位）
+- 性價比評價兩極
+
+**實用資訊**:
+- reservation requirement: 建議（用餐時段），咖啡甜點不一定需要
+- best visiting time: 下午茶時段
+- closed days: 需確認
+- price: €8-15 per dessert/coffee
+- location: Corso Giacomo Matteotti 7 (市中心便利)
+
+**50 分評分系統**:
+- Taste/Quality: 7/10 - 經典提拉米蘇質量好，但不是革命性
+- Value: 6/10 - 價格偏高，與品質相符但性價比一般
+- Convenience: 8/10 - 市中心位置極佳
+- Consistency: 6/10 - Tripadvisor 3.5/5 顯示體驗參差
+- Risk: 6/10 - 可能未達期望，但不至於失望
+
+**總分**: 33/50
+
+**推薦狀態**: Backup (30-34分)
+- 適合：尋找優雅傳統環境、米蘭文化體驗、經典提拉米蘇
+- 不適合：預算有限、尋求創新甜點、期望物超所值
+
+---
+
+## Cova Montenapoleone
+
+**Official**: https://www.covamilano.com/
+
+**Google Maps**: 估計 4.2-4.5/5 (需驗證具體數據)
+
+**Guide sources**:
+- 1817年創立，米蘭最古老糕點店之一
+- Montenapoleone 奢華購物區位置
+- 歷史悠久的精緻糕點與茶室
+
+**常見優點**:
+- 1817年歷史，米蘭最古老糕點店
+- 經典 Panettone 專家
+- 精緻提拉米蘇與傳統甜點
+- Belle Époque 氛圍，優雅茶室
+- Montenapoleone 購物區便利位置
+
+**常見缺點**:
+- 價格非常高（奢華定位）
+- 提拉米蘇非最強項（Panettone 與巧克力更受推薦）
+- 可能過於觀光化
+
+**實用資訊**:
+- reservation requirement: 建議（茶室用餐），外帶不需要
+- best visiting time: 下午茶時段，購物後
+- closed days: 需確認
+- price: €10-18 per dessert
+- location: Via Montenapoleone 8 (奢華購物區)
+
+**50 分評分系統**:
+- Taste/Quality: 8/10 - 歷史名店，Panettone 與巧克力優秀，提拉米蘇水準中上
+- Value: 5/10 - 價格非常高，奢華體驗但性價比低
+- Convenience: 9/10 - Montenapoleone 購物區核心位置
+- Consistency: 7/10 - 歷史名店穩定性高
+- Risk: 7/10 - 價格高但品質有保證
+
+**總分**: 36/50
+
+**推薦狀態**: Top Pick (35-39分)
+- 適合：奢華購物體驗、歷史文化愛好者、Panettone 專門尋找、預算充裕
+- 不適合：預算有限、專門尋找最佳提拉米蘇（非強項）
+
+---
+
+## Peck
+
+**Official**: https://www.peck.it/en/
+
+**Google Maps**: 估計 4.2-4.4/5
+
+**Tripadvisor**: 4.0/5 (1,300+ reviews, Travelers' Choice Award)
+- https://www.tripadvisor.co.uk/Restaurant_Review-g187849-d4579766-Reviews-Peck-Milan_Lombardy.html
+
+**Guide sources**:
+- Established 1883
+- 3-floor gourmet food hall near Duomo
+- Deli, restaurant, wine cellar
+
+**常見優點**:
+- 1883年創立，米蘭美食殿堂
+- 三層樓美食百貨：熟食、餐廳、酒窖
+- 頂級食材：新鮮義大利麵、起司、臘腸、甜點
+- Tripadvisor 4.0/5，Travelers' Choice Award
+- "Foodie heaven" 美食愛好者天堂
+- 傳統提拉米蘇，符合米蘭高標準
+- Duomo 附近便利位置
+
+**常見缺點**:
+- 價格非常高（與頂級品質相符）
+- 提拉米蘇非特別突出項目（整體食材品質更受讚譽）
+- 可能過於觀光化
+
+**實用資訊**:
+- reservation requirement: 餐廳建議，美食百貨不需要
+- best visiting time: 早上或下午（避開午餐晚餐高峰）
+- closed days: 需確認
+- price: €10-20 per dessert
+- location: Via Spadari 9 (Duomo 附近)
+
+**50 分評分系統**:
+- Taste/Quality: 8/10 - 頂級食材，傳統提拉米蘇品質高
+- Value: 6/10 - 價格高但符合頂級定位
+- Convenience: 9/10 - Duomo 附近核心位置，三層樓美食百貨
+- Consistency: 7/10 - Tripadvisor 4.0/5，歷史名店穩定
+- Risk: 7/10 - 價格高但品質可靠
+
+**總分**: 37/50
+
+**推薦狀態**: Top Pick (35-39分)
+- 適合：美食愛好者、尋求頂級食材體驗、米蘭文化體驗、購買特產伴手禮
+- 不適合：預算有限、專門尋求最創新提拉米蘇
+
