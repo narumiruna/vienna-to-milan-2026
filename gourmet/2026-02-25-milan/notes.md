@@ -1604,3 +1604,126 @@ Michetta's history traces back to Austrian influences (Kaiser roll adaptation), 
 - 點招牌菜（Paccheri alla Sibillina, Parmigiana di melanzane）較為保險
 - 預算有限但想體驗南義風味的好選擇
 
+---
+
+## Giolina
+
+**Official Website**: https://giolina.it/
+
+**Google Maps**: 估計 4.3-4.4/5 (數百則評論)
+- Google Maps 連結: https://www.google.com/maps/search/?api=1&query=Giolina+Milano+Via+Bellotti+6
+
+**Tripadvisor**: 3.7/5 (380+ 評論)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d17268336-Reviews-Giolina-Milan_Lombardy.html
+- Ranking: 約 #1,500 in Milan
+
+**50 Top Pizza**: 被列為米蘭最佳披薩店之一
+- https://www.50toppizza.it/referenza/giolina-4/
+- 註：以正統拿坡里風格為基礎，但更輕盈、創新的當代手法
+
+**Gambero Rosso**: 推薦為優質拿坡里風格披薩，創業團隊創新品質
+- https://www.gamberorosso.it/luoghi/locali/pizzeria/giolina/
+
+**TimeOut Milan**: 被列入米蘭必吃披薩店之一
+- https://www.timeout.com/milan/restaurants/best-pizza-in-milan
+- 強調創意、傳統兼具，麵糰與配料品質高
+
+**OAD Guides**: 米蘭披薩推薦
+- https://www.oadguides.com/restaurant/giolina
+
+**Reddit / 食物論壇**: 多次被提及為當代披薩體驗，氛圍好
+- 提及創意配料、布拉塔起司、招牌麵糰
+
+**常見優點**:
+- **麵糰品質極佳**：半全麥麵粉，輕盈蓬鬆，拿坡里風格
+- **優質食材**：使用 Caseificio Barlotti 莫札瑞拉、Salumificio Santoro 醃肉等頂級供應商
+- **創意配料**：如布拉塔起司（burrata）、'nduja、茄子泥等創新組合
+- **氛圍時尚復古**：70年代風格內裝，開放式廚房，當地人與時尚人士聚集
+- **S.Pellegrino Young Chef Academy 合作**：支持年輕主廚，季節性特別披薩
+- **自然酒單**：精選自然酒與調酒
+- 布拉塔起司特別受好評（多位評論者回訪專程為布拉塔）
+- 'nduja bruschetta 也是亮點
+
+**常見缺點** (⚠️ 重要風險因素):
+1. 🚫 **服務嚴重問題**：
+   - **極差服務體驗**：至少一則評論描述「從頭到尾被當垃圾對待」（"treated like literal trash from start to finish"），是評論者經歷過最糟的餐廳體驗
+   - **被催促離席**：45分鐘後就被服務生催促離開桌位
+   - **服務態度不一致**：有些服務生親切，但也有粗魯無禮的案例
+
+2. ⚠️ **配料稀少爭議**：
+   - 多則評論提到配料量相對價格偏少
+   - 例如：「Margherita with nduja」評論 nduja 量極少，大量羅勒導致口味單調
+
+3. ⚠️ **性價比爭議**：
+   - 部分顧客認為 €26 (披薩+啤酒+咖啡) 價格過高，品質未達預期
+   - 有評論認為「好披薩在別處」（"the good pizzas are elsewhere"）
+   - 披薩評價「普通」（"normal"）而非卓越
+
+4. ⚠️ **實用性問題**：
+   - **無 WiFi**：對國際旅客不友善，特別是需要掃 QR code 看菜單時
+   - 對無本地數據的遊客造成不便
+
+5. ⚠️ **評價兩極化**：
+   - Tripadvisor 3.7/5 相對於其他來源（Google ~4.3, TimeOut/50 Top Pizza 推薦）評分較低
+   - 顯示體驗高度不一致
+
+**負評來源** (研究日期: 2026-01-29):
+- Tripadvisor: "Horror" review (2024) - 服務極差，遊客被警告遠離
+  https://www.tripadvisor.co.uk/ShowUserReviews-g187849-d17268336-r960099508-Giolina-Milan_Lombardy.html
+- Tripadvisor: "Sconsigliato" (Not Recommended, 2024) - 被催促離席，價格過高
+  https://www.tripadvisor.it/ShowUserReviews-g187849-d17268336-r943430608-Giolina-Milan_Lombardy.html
+- Tripadvisor: "Two visit during our Milan trip" (2023) - 無WiFi問題
+  https://www.tripadvisor.com/ShowUserReviews-g187849-d17268336-r875432073-Giolina-Milan_Lombardy.html
+- Tripadvisor: 一般評論 - 配料稀少，披薩普通
+  https://www.tripadvisor.com/Restaurant_Review-g187849-d17268336-Reviews-Giolina-Milan_Lombardy.html
+
+**正面評價分析**:
+- 在食物指南（50 Top Pizza, Gambero Rosso, TimeOut）獲高度推薦
+- 多數正面評論強調麵糰品質、氛圍、布拉塔起司
+- 當地人仍常去，顯示有固定客群
+- 創意與品質在特定客群中受肯定
+
+**實用資訊**:
+- **Location**: Via Felice Bellotti 6, 20129 Milano (Porta Vittoria / Porta Venezia 區)
+- **Phone**: +39 02 7600 6379
+- **Reservation**: **強烈建議**（預訂官網 giolina.it 或電話）
+- **Opening Hours**:
+  - Monday-Friday: 12:30-15:00 (lunch), 19:00/19:30-00:30 (dinner)
+  - Saturday-Sunday: 12:30-15:00 (lunch), 19:00-00:30 (dinner)
+- **Price Range**:
+  - Antipasti: €5-12
+  - Pizza: €8-17
+  - Dessert: €6-8
+- **Average per person**: €25-30 (含飲料)
+- **Closed days**: 無固定休息日
+- **Best visiting time**: 晚餐早場（19:00-20:00）避開高峰
+- **Queue**: 未預訂可能需等待或被拒
+
+**50 分評分系統**:
+- **Taste/Quality** (口味): 8/10 - 麵糰與食材品質優，創意配料，但配料量爭議
+- **Value** (性價比): 6/10 - 價格中高，但配料量與體驗穩定性受質疑
+- **Convenience** (便利性): 7/10 - Porta Venezia 位置尚可，但無 WiFi 對遊客不便
+- **Consistency** (穩定性): 5/10 - 服務與體驗高度不穩定，評價兩極化
+- **Risk** (風險): 5/10 - 服務態度與體驗風險高，有極差體驗報告
+
+**總分**: 31/50
+
+**推薦狀態**: Backup (30-34分)
+
+**風險警告**: ⚠️ 
+- 服務品質極度不穩定，有極差服務體驗報告（🚫 "treated like trash", 被催促離席）
+- 性價比爭議大，配料量相對價格偏少
+- 評價兩極化顯示體驗不可預測
+- 不適合時間緊迫或對服務敏感的旅客
+
+**建議**:
+- **適合對象**: 願意冒險嘗試當代披薩、能容忍服務風險的食客
+- **不適合**: 需要穩定體驗、對服務品質要求高的旅客
+- **替代方案**: 若尋求更穩定的披薩體驗，考慮其他已評分的米蘭披薩店
+- **如果決定前往**:
+  - 務必預訂避免等待
+  - 點布拉塔起司（burrata）作為開胃菜（高度推薦）
+  - 避開高峰時段（晚上21:00後）
+  - 準備好應對可能的服務不佳情況
+  - 帶本地數據或下載菜單截圖（無 WiFi）
+
