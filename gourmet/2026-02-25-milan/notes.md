@@ -1503,3 +1503,104 @@ Michetta's history traces back to Austrian influences (Kaiser roll adaptation), 
 - 適合：美食愛好者、尋求頂級食材體驗、米蘭文化體驗、購買特產伴手禮
 - 不適合：預算有限、專門尋求最創新提拉米蘇
 
+---
+
+## Ristorante Pizzeria L'antro della Sibilla
+
+**官網**: https://www.antrodellasibilla.com/
+
+**Google Maps**: 4.4-4.5/5 (數千則評論)
+- [Google Maps 連結](https://www.google.com/maps/search/?api=1&query=L'Antro+della+Sibilla+Milan)
+
+**Tripadvisor**: 4.2/5 (1,150+ 評論)
+- https://www.tripadvisor.com/Restaurant_Review-g187849-d2141684-Reviews-L_Antro_della_Sibilla-Milan_Lombardy.html
+- Travelers' Choice 獎項（前10%餐廳）
+- 排名約 #283-285 / 7,600+ 米蘭餐廳
+
+**TheFork**: 9.1/10 (高分)
+- 服務: 9.2/10
+- 食物: 9.2/10
+- https://www.thefork.com/restaurant/l-antro-della-sibilla-r728678
+
+**Restaurant Guru**: 4.4/5
+
+**料理類型**:
+- 正宗拿坡里與南義料理
+- 特色：披薩、海鮮、傳統義大利菜
+
+**常見優點**:
+- 正宗拿坡里披薩與南義料理
+- 招牌菜：Paccheri alla Sibillina（義大利麵）、烤魚、Parmigiana di melanzane（茄子千層）、carbonara
+- 舒適溫馨的裝潢，獨特裝飾
+- 友善且樂於助人的服務（會講英文）
+- 合理價格，份量慷慨
+- 多樣化選擇：素食、純素、無麩質選項
+- 寵物友善
+- 戶外座位可用
+- 接受信用卡與 TheFork 禮券
+- 鄰近市中心，Via San Gregorio 37（Zone 2）
+
+**常見缺點（負評分析）** (研究日期: 2026-01-29):
+1. ⚠️ **食物品質不穩定**：
+   - 部分評論提到菜餚平淡、擺盤不佳、與菜單描述不符
+   - 炸可頌被批評「不起眼」、「terrible food」
+   - 某些海鮮或披薩被形容為「缺乏風味」
+   
+2. ⚠️ **服務問題**：
+   - 儘管整體友善，但服務可能匆忙或不夠細心
+   - 高峰時段等待時間長、服務組織不佳
+   - 部分客人感到被催促用餐
+   
+3. ⚠️ **性價比爭議**：
+   - 少數評論認為價格與品質不成比例
+   - 份量或品質未達預期時，有顧客質疑評價與獎項
+   
+4. ⚠️ **氛圍與期望落差**：
+   - 某些客人認為氛圍與網路評價不符
+   - 裝潢雖被稱為「cozy」，但也有人覺得普通
+
+**負評來源**:
+- Tripadvisor: "Really disappointing" (2024年9月) - 食物品質與服務問題
+  https://www.tripadvisor.co.uk/ShowUserReviews-g187849-d2141684-r917260913-L_Antro_della_Sibilla-Milan_Lombardy.html
+- Tripadvisor: "Terrible food" (2020年6月) - 披薩與開胃菜批評
+  https://www.tripadvisor.in/ShowUserReviews-g187849-d2141684-r739452995-L_Antro_della_Sibilla-Milan_Lombardy.html
+
+**正面評價分析**:
+- 多數評論（超過70%）給予4-5星好評
+- 常客與當地人推薦
+- 「正宗義式」體驗受讚譽
+- 適合情侶、家庭、朋友聚餐
+
+**實用資訊**:
+- reservation requirement: **強烈建議**（特別是晚餐與週末，可透過 TheFork 或官網預訂）
+- best visiting time: 晚餐時段，避開高峰以獲得更好服務
+- closed days: 需確認（官網顯示每日營業）
+- 營業時間: 每日 12:00-23:30
+- queue: 熱門時段可能需等待
+- 地址: Via San Gregorio 37, 20124 Milano (Zone 2, 近 Milano Centrale)
+- 電話: +39 02 6748 1054
+- Email: info@antrodellasibilla.com
+- 價格區間: 約 €28/人（平均）
+  - 開胃菜: €13-39
+  - 義大利麵: €15-16
+  - 主菜: €15-50
+  - 披薩: €7-11
+  - 甜點: €6-8
+
+**50 分評分系統**:
+- Taste/Quality (口味): 7/10 - 正宗南義料理，但品質有時不穩定
+- Value (性價比): 8/10 - 價格合理，份量慷慨
+- Convenience (便利性): 9/10 - 靠近市中心與中央車站，易達
+- Consistency (穩定性): 7/10 - 整體評價高但有負評指出不穩定性
+- Risk (風險): 7/10 - 多數體驗良好，但服務與品質有波動風險
+
+**總分**: 38/50
+
+**推薦狀態**: Top Pick (35-39分)
+
+**建議**: 
+- 適合尋求正宗拿坡里料理的旅客
+- 建議提前預訂並避開高峰時段
+- 點招牌菜（Paccheri alla Sibillina, Parmigiana di melanzane）較為保險
+- 預算有限但想體驗南義風味的好選擇
+

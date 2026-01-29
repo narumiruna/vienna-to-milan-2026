@@ -100,9 +100,26 @@
 
 ---
 
+### 其他餐廳 (Other Restaurants)
+
+#### 9. Ristorante Pizzeria L'antro della Sibilla - 38/50
+- **類型**: 拿坡里披薩與南義料理
+- **區域**: Via San Gregorio 37, Zone 2 (近Milano Centrale)
+- **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=L'Antro+della+Sibilla+Milan)
+- **推薦理由**: 正宗拿坡里與南義風味，招牌Paccheri alla Sibillina，Tripadvisor 4.2/5 (1,150+評論) Travelers' Choice，TheFork 9.1/10，友善服務，多樣化選擇（素食/純素/無麩質），價格合理
+- **約束條件**:
+  - 預訂: **強烈建議**（特別是晚餐與週末，可透過TheFork或官網預訂）
+  - 價格: €28/人（平均）
+  - 休息日: 需確認
+  - 營業: 每日 12:00-23:30
+  - 電話: +39 02 6748 1054
+  - 注意: 服務與品質有波動，建議避開高峰時段，點招牌菜較為保險
+
+---
+
 ### Aperitivo 開胃酒吧
 
-#### 9. Camparino in Galleria - 37/50
+#### 10. Camparino in Galleria - 37/50
 - **類型**: 歷史開胃酒吧
 - **區域**: Galleria Vittorio Emanuele II
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Camparino+in+Galleria+Milan)
@@ -114,7 +131,7 @@
   - 營業: 全日營業
   - 注意: Galleria內，購物後休息理想地點
 
-#### 10. Bar Basso - 36/50
+#### 11. Bar Basso - 36/50
 - **類型**: 開胃酒吧
 - **區域**: Città Studi
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Bar+Basso+Milan)
@@ -126,7 +143,7 @@
   - 營業: Mon, Wed-Sun 10:00-01:30
   - 注意: 繁忙時可能等待，小吃簡單
 
-#### 11. Un Posto a Milano - 36/50
+#### 12. Un Posto a Milano - 36/50
 - **類型**: 農莊花園aperitivo
 - **區域**: Zone 4, Cascina Cuccagna
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Un+Posto+a+Milano)
@@ -142,7 +159,7 @@
 
 ### 咖啡館、糕點店、Brunch
 
-#### 12. Gelato Giusto - 41/50
+#### 13. Gelato Giusto - 41/50
 - **類型**: 手工gelato
 - **區域**: Corso Buenos Aires
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Gelato+Giusto+Milan)
@@ -153,7 +170,7 @@
   - 休息日: 需確認
   - 營業: 全日營業
 
-#### 13. Pavé - 40-41/50 ⭐
+#### 14. Pavé - 40-41/50 ⭐
 - **類型**: 糕點店 & brunch
 - **區域**: Porta Venezia (Via Felice Casati 27)
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Pave+Milan)
@@ -165,7 +182,7 @@
   - 營業: 早餐與brunch時段
   - 注意: 可能排隊
 
-#### 14. Pasticceria Cucchi - 38/50
+#### 15. Pasticceria Cucchi - 38/50
 - **類型**: 傳統米蘭糕點店
 - **區域**: Corso Genova 1
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Pasticceria+Cucchi+Milan)
@@ -177,7 +194,7 @@
   - 營業: 早餐與下午茶時段
   - 注意: Pan Meino供應不定期（4月聖喬治日前後最穩定）
 
-#### 15. Loste Café - 38/50
+#### 16. Loste Café - 38/50
 - **類型**: 精品咖啡
 - **區域**: Zona Buenos Aires
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Loste+Cafe+Milan)
@@ -188,7 +205,7 @@
   - 休息日: 需確認
   - 營業: 早餐與全日
 
-#### 16. Pasticceria Martesana - 37/50
+#### 17. Pasticceria Martesana - 37/50
 - **類型**: 糕點店（提拉米蘇專家）
 - **區域**: Via Cardinale Giovanni Cagliero 14 (Zone 2) + other locations
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Pasticceria+Martesana+Cagliero+Milan)
@@ -200,7 +217,7 @@
   - 營業: 糕點店營業時間
   - 注意: 服務品質因分店而異，Mercato Centrale分店評價較低
 
-#### 17. Peck - 37/50
+#### 18. Peck - 37/50
 - **類型**: 美食殿堂 & 糕點
 - **區域**: Via Spadari 9, Centro Storico (Duomo附近)
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=Peck+Milan)
@@ -212,7 +229,7 @@
   - 營業: 早上或下午（避開午餐晚餐高峰）
   - 注意: 價格高但符合頂級定位
 
-#### 18. oTTo - 37/50
+#### 19. oTTo - 37/50
 - **類型**: Scandinavian-style brunch
 - **區域**: Chinatown (Isola)
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=oTTo+Milan)
@@ -223,7 +240,7 @@
   - 休息日: 需確認
   - 營業: Brunch時段
 
-#### 19. God Save the Food (GSTF) - 36/50
+#### 20. God Save the Food (GSTF) - 36/50
 - **類型**: Brunch & international cuisine
 - **區域**: Brera / Tortona
 - **Google Maps**: [搜尋連結](https://www.google.com/maps/search/?api=1&query=God+Save+the+Food+Milan)
@@ -234,7 +251,7 @@
   - 休息日: 週末從中午開始營業
   - 營業: Brunch週末
 
-#### 20. Cova Montenapoleone - 36/50
+#### 21. Cova Montenapoleone - 36/50
 - **類型**: 歷史糕點店
 - **區域**: Via Montenapoleone 8 (奢華購物區)
 - **Website**: [https://www.covamilano.com/](https://www.covamilano.com/)
