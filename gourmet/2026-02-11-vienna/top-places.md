@@ -14,7 +14,7 @@
 - **type**: Fine dining, Austrian
 - **area**: Stadtpark
 - **total score**: 41/50
-- **google maps**: https://guide.michelin.com/en/vienna/wien/restaurant/steirereck-im-stadtpark
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Steirereck+im+Stadtpark+Vienna
 - **justification**: 米其林三星，奧地利頂級餐廳，創新且深植傳統的料理藝術
 - **constraints**: 
   - reservation: **required**（提前數週）
@@ -25,7 +25,7 @@
 - **type**: Fine dining, creative
 - **area**: Brigittenau
 - **total score**: 39/50
-- **google maps**: https://guide.michelin.com/en/vienna/wien/restaurant/mraz-sohn
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Mraz+%26+Sohn+Vienna
 - **justification**: 米其林二星，創意品嚐菜單與開放式廚房體驗
 - **constraints**: 
   - reservation: **required**
@@ -36,7 +36,7 @@
 - **type**: Viennese beisl (traditional tavern)
 - **area**: Innere Stadt
 - **total score**: 39/50
-- **google maps**: https://www.tripadvisor.com/Restaurant_Review-g190454-d877454-Reviews-Gasthaus_Poschl-Vienna.html
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Gasthaus+Poschl+Vienna
 - **justification**: 正宗維也納小酒館，在地人與遊客皆推薦，價格合理
 - **constraints**: 
   - reservation: recommended
@@ -82,7 +82,7 @@
 - **type**: Modern international brunch
 - **area**: Neubau (St. Ulrichsplatz)
 - **total score**: 40/50
-- **google maps**: https://ulrichwien.at/home_en/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=ULRICH+Vienna
 - **justification**: 現代化國際早午餐熱點，沙克舒卡、酪梨吐司、巴西莓碗；線上訂位系統
 - **constraints**: 
   - reservation: recommended (weekends)
@@ -93,7 +93,7 @@
 - **type**: Creative breakfast
 - **area**: Stadtpark
 - **total score**: 39/50
-- **google maps**: https://www.steirereck.at/meierei/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Meierei+im+Stadtpark+Vienna
 - **justification**: Steirereck 姐妹店，創意早餐菜單，起司專門；飯店步行 5 分鐘
 - **constraints**: 
   - reservation: recommended
@@ -104,7 +104,7 @@
 - **type**: Brunch café (social enterprise)
 - **area**: Wieden
 - **total score**: 38/50
-- **google maps**: https://www.vollpension.wien/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Vollpension+Vienna
 - **justification**: 社會企業，長者烘焙傳統糕點；溫馨氛圍，素食/純素可選
 - **constraints**: 
   - reservation: recommended (crowded weekends)
@@ -142,7 +142,7 @@
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 36/50
-- **google maps**: https://viennatrips.com/blog/cafe-landtmann-vienna
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Cafe+Landtmann+Vienna
 - **justification**: 正宗維也納咖啡館體驗，曾是佛洛伊德等名人常客，高品質奧地利料理與甜點
 - **constraints**: 
   - reservation: recommended
@@ -161,7 +161,7 @@
 - **type**: Open-faced sandwiches
 - **area**: Innere Stadt
 - **total score**: 32/50 (⚠️ DOWNGRADED from 35/50)
-- **google maps**: https://www.tripadvisor.com/Restaurant_Review-g190454-d714256-Reviews-Zum_Schwarzen_Kameel-Vienna.html
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Zum+Schwarzen+Kameel+Vienna
 - **justification**: 1618 年歷史名店，以開放式三明治聞名，Michelin selected
 - **risk warning**: ⚠️ 服務問題嚴重 - 多處評論提及粗魯傲慢的服務員，價格昂貴
 - **constraints**: 
@@ -173,7 +173,7 @@
 - **type**: Classic café
 - **area**: Innere Stadt
 - **total score**: 31/50 (⚠️ DOWNGRADED from 35/50)
-- **google maps**: https://www.visitingvienna.com/eatingdrinking/cafespubsbars/cafe-pruckel/
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Cafe+Pruckel+Vienna
 - **justification**: 獨特 1950 年代復古風格，價格較親民，靠近 MAK 博物館
 - **risk warning**: ⚠️ 服務與食物問題嚴重 - 極度粗魯服務員、冷食、品質差
 - **constraints**: 
@@ -216,7 +216,7 @@
 - **type**: Classic café
 - **area**: Mariahilf
 - **total score**: 33/50
-- **google maps**: https://www.tripadvisor.com/Restaurant_Review-g190454-d877314-Reviews-Cafe_Sperl-Vienna.html
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Cafe+Sperl+Vienna
 - **justification**: 1880 年歷史，保存完好的舊世界氛圍，較不觀光化
 - **constraints**: 
   - reservation: recommended at peak

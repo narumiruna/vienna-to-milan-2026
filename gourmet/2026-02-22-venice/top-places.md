@@ -7,7 +7,7 @@
 #### Rosa Salva - 40/50 ⭐
 - **type**: Pastry, cafe
 - **area**: San Marco 950 (multiple locations)
-- **google_maps_url**: https://rosasalva.it/en/
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Rosa+Salva+Venezia
 - **justification**: 19世紀老店；正宗威尼斯糕點；panettone名店；多據點便利
 - **constraints**: €5-12/人；可能排隊；多為站立用餐
 
@@ -28,7 +28,7 @@
 #### Il Ridotto - 39/50 ⭐
 - **type**: Modern Venetian (Michelin Guide)
 - **area**: Castello (Campo SS Filippo e Giacomo)
-- **google_maps_url**: https://www.ilridotto.com
+- **google_maps_url**: https://www.google.com/maps/search/?api=1&query=Il+Ridotto+Venezia
 - **justification**: 米其林指南推薦；創意當代威尼斯料理；小巧精緻氛圍
 - **constraints**: 必須預訂；€50-80/人（品嚐菜單）
 
