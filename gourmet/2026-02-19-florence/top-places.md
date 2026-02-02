@@ -191,7 +191,7 @@
 - **type**: Specialty coffee & modern brunch
 - **area**: Multiple locations (Via dei Neri, Via dello Sprone, etc.)
 - **total score**: 39/50
-- **google maps**: https://dittaartigianale.com/en/pages/punti-vendita
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Ditta+Artigianale+Florence
 - **justification**: 精品咖啡文化，4 個據點方便；酪梨吐司、煎餅、法式吐司
 - **constraints**:
   - reservation: generally walk-in (call for large groups)
