@@ -47,3 +47,4 @@ Next step (research queue suggestion):
 - Start with: Figlmüller, Plachutta, Café Central, Demel, Bitzinger Würstelstand
 
 For detailed research evidence, sources, and scoring rationale, see [notes.md](notes.md).
+| Nordsee | restaurant | Innere Stadt (Kärntner Straße 25) | fast-food seafood chain | https://www.google.com/maps/search/?api=1&query=Nordsee+Vienna | rejected | Google 3.9/5, Tripadvisor 3.5-3.7/5, Restaurant Guru 3.9/5 | 快餐連鎖海鮮；€6-13/餐極低價但品質極不穩定、frozen/reheated問題、服務差；28/50。 |

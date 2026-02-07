@@ -1620,3 +1620,88 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - **Status**: 🌟 **TOP PICK** - Excellent balance of quality, value, and reliability
 
 ---
+
+## Nordsee (Kärntner Straße 25, 1010 Innere Stadt) - BUDGET OPTION
+
+**Research date**: 2026-02-07
+
+**Category**: Fast-food seafood chain
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Nordsee+Vienna+Kärntner+Strasse
+
+**Ratings**:
+- Google: 3.9/5 (thousands of reviews)
+- Tripadvisor: 3.5-3.7/5 (varies by location)
+- Restaurant Guru: 3.9/5 (5,000+ reviews)
+- **Rating note**: Mixed reviews with significant polarization
+
+**Sources**:
+- https://restaurantguru.com/NORDSEE-Vienna-2
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1127181-Reviews-NORDSEE_Wien_Karntnerstr-Vienna.html
+- Multiple Tripadvisor locations (Kohlmarkt, Kärntnerstrasse)
+- Wanderlog, Budget travel guides
+
+**Menu highlights**:
+- Fish & chips - praised item
+- Fish sandwiches - €6-8
+- Fried prawns/shrimp
+- Salmon dishes
+- Octopus
+- Paella
+- Shrimp cocktails
+- Combo meals: €10-13
+
+**Price range**:
+- Individual items: €6-8 (sandwiches, salads)
+- Combo meals: €10-13 (main + sides)
+- Note: Base prices low, but sides charged separately can increase total
+
+**Recurring pros**:
+- **Very affordable prices** for Vienna city center
+- Wide variety of seafood options
+- Quick service
+- Multiple convenient central locations
+- Generous portions
+- Fresh fish (when quality is good)
+- Good for quick seafood snack while sightseeing
+
+**Recurring cons**:
+- **Fast food atmosphere** (not fine dining)
+- **Quality highly inconsistent**
+- Simple, basic environment
+- Side dishes (potatoes, rice) reported as average/lukewarm
+
+**Negative reviews / complaints** (研究日期: 2026-02-07):
+- **🚫 "Worst seafood in Vienna if not Europe"**: Multiple extreme negative reviews
+- **🚫 Poor food quality**: Fish described as old, cold, reheated, inedible
+- **🚫 Frozen products poorly prepared**: Food served cold inside, microwaved and served back
+- **🚫 Worst service**: Staff described as rude, inattentive, uninterested
+- **⚠️ Cleanliness issues**: Some locations reported as not well-maintained
+- **⚠️ Disappointing value**: Quality doesn't justify even budget prices for some reviewers
+- **Inconsistency**: Experience varies significantly by location and timing
+- **Sources**: Multiple Tripadvisor reviews "worst service ever seen", "frozen products serviced in the worst possible way", "the worst - avoid"
+
+**Practical**:
+- **Multiple locations**:
+  - Kärntner Straße 25, 1010 (near Stephansplatz)
+  - Kohlmarkt 6, 1010
+  - Other locations in Vienna
+- Hours: Mon-Sat 9:00 AM - 9:00 PM, Sun 10:00 AM - 8:00 PM (Kärntnerstr location)
+- Phone: +43 1 512 73 54 (Kärntnerstr)
+- Website: www.nordsee.com
+- Reservation: Not needed (fast food)
+- Payment: Cards accepted
+- Accessibility: Wheelchair accessible
+
+**Score (50-point rubric)**:
+- Taste / Quality: 5/10 (highly inconsistent, significant complaints about frozen/reheated food)
+- Value: 7/10 (prices low but quality often doesn't match even budget expectations)
+- Convenience: 9/10 (excellent central locations, quick service, no reservation needed)
+- Consistency: 3/10 (extreme variability - "worst" to "good" experiences)
+- Risk (10 = low risk): 4/10 (high risk of disappointing experience based on numerous negative reviews)
+- **Total: 28/50**
+- **Status**: ❌ **EXCLUDED** - Below 30-point threshold; too many quality and service issues despite budget pricing
+
+**Recommendation**: While Nordsee offers the lowest seafood prices in Vienna (€6-13), the high risk of poor quality, frozen/reheated food, and bad service makes it unsuitable for recommendation. The existing Nautilus weekday lunch (€19.50) offers much better value with reliable quality for only €6-7 more.
+
+---

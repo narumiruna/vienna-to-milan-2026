@@ -75,6 +75,28 @@
   - https://www.tripadvisor.com/Restaurant_Review-g190454-d1319651-Reviews-Zur_Alten_Kaisermuhle-Vienna.html
   - Multiple reviews citing tourist trap, poor service, value concerns
 
+### Nordsee (Kärntner Straße)
+- **類別**: fast-food seafood chain
+- **分數**: 28/50
+- **研究日期**: 2026-02-07
+- **原因**:
+  - **預算考量**: 雖然是維也納最便宜的海鮮選項（€6-13/餐），但品質問題嚴重
+  - **🚫 "Worst seafood in Vienna if not Europe"**: 多個極端負評
+  - **🚫 品質極差**: 魚被描述為舊的、冷的、重新加熱、無法食用
+  - **🚫 Frozen products poorly prepared**: 食物內部冷，微波後再上菜
+  - **🚫 極差服務**: 員工被形容為粗魯、不關心、「worst service ever seen」
+  - **⚠️ 清潔問題**: 某些地點維護不佳
+  - **高度不一致**: 體驗從「worst」到「good」差異極大
+  - 雖然價格低廉，但風險太高無法推薦
+- **替代方案**: Nautilus weekday lunch (€19.50) - 只多 €6-7 但品質可靠得多
+- **多個地點**: Kärntner Straße 25, Kohlmarkt 6, 其他
+- **評分**: Google 3.9/5, Tripadvisor 3.5-3.7/5
+- **來源**:
+  - https://restaurantguru.com/NORDSEE-Vienna-2
+  - https://www.tripadvisor.com/Restaurant_Review-g190454-d1127181-Reviews-NORDSEE_Wien_Karntnerstr-Vienna.html
+  - Multiple Tripadvisor negative reviews
+  - Wanderlog, Budget travel guides
+
 ---
 
 ## Constitutional Review Required
