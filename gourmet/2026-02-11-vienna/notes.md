@@ -1381,3 +1381,327 @@ For quick scanning of candidates, see [candidates.md](candidates.md).
 - Risk (10 = low risk): 3/10 (service problems very common, "worst ever" reviews frequent)
 - **Total: 27/50**
 - **Status**: ⚠️ **CONSTITUTIONAL REVIEW REQUIRED** - Brewery (alcohol-focused) may violate scope; if permitted, would be EXCLUDED due to poor service reputation (score <30)
+
+---
+
+## Kulinarium 7 (Sigmundsgasse 1, 1070 Neubau)
+
+**Research date**: 2026-02-07
+
+**Category**: Seafood restaurant, Dalmatian/Croatian cuisine
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Kulinarium+7+Vienna
+
+**Ratings**:
+- Tripadvisor: 4.6/5 (190+ reviews) - Consistently excellent
+- TheFork: 9.5+/10 (1,800+ reviews) - Very high satisfaction
+- Google: 4.6/5 (340+ reviews)
+- Restaurant Guru: 4.6/5 (620+ reviews)
+- **Aggregate consensus**: Top tier seafood restaurant
+
+**Sources**:
+- https://kulinarium7.com/ (official website)
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1889515-Reviews-Kulinarium_7-Vienna.html
+- https://www.thefork.com/restaurant/kulinarium-7-r646853
+- https://restaurantguru.com/Kulinarium-7-Vienna
+- Falstaff Restaurantguide 2025: Top 5 Seafood Restaurants in Vienna
+
+**Menu highlights**:
+- Dalmatinischer Fischeintopf (Dalmatian fish stew) - €38
+- Fresh mussels - €21
+- Linguine with mixed seafood - €22
+- Spaghetti with lobster - €42
+- Salt-baked branzino (sea bass)
+- Chef's fish soup - €24
+- Tuna tartar - €18
+- Octopus salad
+- Ribeye steak - €38 (non-seafood option)
+- Extensive Croatian wine list
+
+**Recurring pros**:
+- **Exceptional freshness**: Multiple sources emphasize seafood quality
+- **Authentic Dalmatian/Croatian cuisine**: Traditional recipes and flavors
+- **Knowledgeable and attentive staff**: Professional service, wine recommendations
+- **Warm, cozy atmosphere**: Stylish interior with open kitchen concept
+- **Consistent quality**: Reviews show reliability across visits
+- **Quality ingredients**: Focus on traditional Adriatic recipes
+- **Excellent wine selection**: Croatian, Austrian, Italian, French wines
+
+**Recurring cons**:
+- **Occasional over-salting**: Minor complaint about seasoning
+- **Service charge**: ~€3.70 per person (coperto-style charge)
+- **Limited ambiance complaints**: Very few, but some find it plain
+
+**Negative reviews / complaints** (研究日期: 2026-02-07):
+- **Minimal negative reviews found**: No prominent or recurring serious complaints
+- **⚠️ Over-salting**: Some guests report occasional dishes being too salty
+- **⚠️ Service charge**: Minor frustration about per-person charge (~€3.70)
+- **Sources**: TheFork reviews mention occasional salt level issues; very rare service complaints
+
+**Practical**:
+- Address: Sigmundsgasse 1, 1070 Wien
+- Hours: Tue-Sat 17:30-23:00, Sun 13:00-22:00; Closed Monday
+- Reservation: Highly recommended (especially dinner, weekends)
+- Phone: +43 664 882 63971 or +43 1 5220530
+- Email: office@kulinarium7.com
+- Price range: €60-65/person for full meal with wine
+- Payment: Cards accepted
+- Special offers: Up to 30% off via TheFork on selected times
+- Wine cellar available for private events
+
+**Score (50-point rubric)**:
+- Taste / Quality: 9/10 (exceptional freshness, authentic Dalmatian cuisine)
+- Value: 8/10 (fair pricing for quality, though upper-mid range)
+- Convenience: 7/10 (Neubau location, not central but accessible)
+- Consistency: 9/10 (highly reliable across 1800+ reviews)
+- Risk (10 = low risk): 9/10 (minimal negative reviews, consistent quality)
+- **Total: 42/50**
+- **Status**: 🌟 **TOP PICK** - Outstanding Dalmatian seafood with minimal risk
+
+---
+
+## Kornat (Marc Aurel Straße 8, 1010 Innere Stadt)
+
+**Research date**: 2026-02-07
+
+**Category**: Seafood restaurant, Croatian-Dalmatian cuisine
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Kornat+Vienna
+
+**Ratings**:
+- Tripadvisor: 4.1/5 (470-476 reviews) - Good but with concerns
+- TheFork: 9.4/10 (700+ reviews) - High satisfaction on booking platform
+- Google Maps: (not specified in research)
+- **Rating discrepancy note**: TheFork ratings significantly higher than Tripadvisor
+
+**Sources**:
+- https://kornat.at/en/home-2/ (official website)
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d694454-Reviews-Restaurant_Kornat-Vienna.html
+- https://www.thefork.com/restaurant/kornat-r599721
+- https://restaurantguru.com/Kornat-Vienna
+
+**Menu highlights**:
+- Fresh oysters
+- Sea bass baked in salt
+- Octopus salad
+- Lobster pasta
+- Swordfish
+- Tuna dishes
+- Crab
+- Scallops
+- Croatian tapas
+- Extensive Austrian and Spanish wine list
+
+**Price range**:
+- Main courses: €40-50 (e.g., Rinderfiletsteak €45.90, Kalbsmedaillons €39.90)
+- Valentine's Day menu: from €82.90/person
+- Wagyu ribeye: up to €299
+- Average dining experience: ~€78/person
+- New Year's Eve menu: up to €199.90/person
+
+**Recurring pros**:
+- **Fresh seafood**: Generally praised for quality
+- **Elegant atmosphere**: White tablecloths, real flowers, maritime-inspired decor
+- **Family-run**: Personal touch from owners
+- **Wide selection**: Extensive Croatian-Dalmatian seafood menu
+- **Central location**: Marc Aurel Straße 8, heart of Innere Stadt
+- **Garden terrace**: Outdoor seating available
+
+**Recurring cons**:
+- **Inconsistent service**: Multiple reports of slow, inattentive, or selectively friendly staff
+- **Overcooked food**: Several recent reviews cite lobster "turned to mush", overcooked mussels
+- **Bland dishes**: Some find food lacking flavor despite high price
+- **Overpriced**: Common complaint about value for money
+- **Unremarkable atmosphere**: Some disappointed with decor vs. expectations
+
+**Negative reviews / complaints** (研究日期: 2026-02-07):
+- **⚠️ Overcooked or bland food**: Multiple complaints about lobster and mussels being overcooked, dishes lacking flavor
+- **⚠️ Service inconsistency**: Long waits, forgetful service (forgotten beverages), perception of selective friendliness to certain customers
+- **⚠️ High prices not justified**: "Way overpriced for what you get", "certainly not worth the high price"
+- **⚠️ Limited menu/drink selection**: Some guests expected more variety
+- **⚠️ Disappointing atmosphere**: Physical space described as "unremarkable" or "plain" upon arrival
+- **Sources**: TheFork reviews "overcooked lobster", "bland", Tripadvisor "inattentive service", "wouldn't return"
+
+**Practical**:
+- Address: Marc Aurel Straße 8, 1010 Vienna
+- Hours: Mon-Sun 11:30 AM - 12:00 AM (midnight), every day
+- Reservation: Highly recommended (especially dinner, weekends)
+- Phone: +43 1 535 65 18
+- Email: service@kornat.at
+- Website: https://kornat.at/en/booking/
+- Features: Garden terrace, bar, live music occasionally
+- Vegetarian/gluten-free options available
+- Payment: Cards accepted
+
+**Score (50-point rubric)**:
+- Taste / Quality: 7/10 (fresh seafood but overcooked/bland issues reported)
+- Value: 6/10 (high prices, value concerns common)
+- Convenience: 9/10 (excellent central location in Innere Stadt)
+- Consistency: 6/10 (variable service and food quality across reviews)
+- Risk (10 = low risk): 5/10 (significant service issues, food execution problems)
+- **Total: 33/50**
+- **Status**: ⚠️ **BACKUP** - Good seafood but inconsistent execution and service issues; consider alternatives first
+
+---
+
+## Nautilus Fischrestaurant (Am Naschmarkt 673, 1060 Wieden)
+
+**Research date**: 2026-02-07
+
+**Category**: Seafood restaurant, Mediterranean
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Nautilus+Fischrestaurant+Vienna
+
+**Ratings**:
+- Tripadvisor: 4.1/5 (680+ reviews) - Consistently good
+- Google: 4.4/5
+- Restaurant Guru: 4.3/5 (3,100+ reviews)
+- **Aggregate consensus**: Upper tier seafood restaurant, reliable
+
+**Sources**:
+- https://www.nautilus-fischrestaurant.at/ (official website)
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1816688-Reviews-Nautilus_Fischrestaurant-Vienna.html
+- https://restaurantguru.com/Nautilus-Vienna
+- https://www.theviennareview.at/food-drink/6104/nautilus-fischrestaurant
+
+**Menu highlights**:
+- Fish soup - €10.50
+- Grilled squid
+- Scallops
+- Mussels
+- Vongole pasta
+- King prawns
+- Mixed fish platter for two - from €92
+- Seasonal seafood specialties
+- Weekday lunch menu (Mon-Fri) - €19.50
+- Saturday oyster bar with champagne/sparkling wine
+- Vegetarian and gluten-free options
+
+**Recurring pros**:
+- **Fresh seafood**: Consistently praised for quality and freshness
+- **Efficient, friendly service**: Staff aim to turn visitors into regulars
+- **Vibrant Naschmarkt atmosphere**: Lively market setting, great terrace
+- **Good wine selection**: Austrian and international wines
+- **Variety**: International menu with Mediterranean and classic seafood
+- **Fair prices**: Considered good value for quality (especially weekday lunch)
+- **Accessibility**: Wheelchair friendly, family-friendly with highchairs
+- **Delivery and takeout available**
+
+**Recurring cons**:
+- **Upper mid-range pricing**: More expensive than average Vienna restaurant (reflects inland seafood costs)
+- **Busy atmosphere**: Can be noisy due to market location
+- **Crowded during peak times**: Popular spot, reservations recommended
+
+**Negative reviews / complaints** (研究日期: 2026-02-07):
+- **Virtually no detailed negative reviews found**: Minimal complaints on major platforms
+- **⚠️ Price sensitivity**: Some guests find it expensive (typical for quality seafood in landlocked city)
+- **⚠️ Busy/noisy environment**: Market location means lively but not quiet dining
+- **Sources**: Limited negative feedback found; majority of reviews are positive
+
+**Practical**:
+- Address: Am Naschmarkt 673, 1060 Wien
+- Hours: Mon-Sat 11:00 AM - 11:00 PM, Sun & Holidays 11:00 AM - 9:00 PM
+- Reservation: Recommended for weekends/holidays
+- Phone: +43 (660) 77 666 33
+- Email: office@nautilus-fischrestaurant.at
+- Website: https://www.nautilus-fischrestaurant.at/
+- Price range: Mid-to-upper (€€-€€€); lunch €19.50, mains vary, fish platter for 2 €92
+- Features: Outdoor terrace in market garden, wheelchair accessible, highchairs
+- Payment: Credit cards (Visa, Mastercard)
+- Special: Saturday oyster bar
+
+**Score (50-point rubric)**:
+- Taste / Quality: 8/10 (fresh, high-quality seafood, consistent preparation)
+- Value: 8/10 (fair pricing for quality, good weekday lunch deal)
+- Convenience: 8/10 (Naschmarkt location, accessible, lively atmosphere)
+- Consistency: 8/10 (reliable quality across 3100+ reviews)
+- Risk (10 = low risk): 9/10 (minimal complaints, very stable reputation)
+- **Total: 41/50**
+- **Status**: 🌟 **TOP PICK** - Excellent balance of quality, value, and reliability
+
+---
+
+## Nordsee (Kärntner Straße 25, 1010 Innere Stadt) - BUDGET OPTION
+
+**Research date**: 2026-02-07
+
+**Category**: Fast-food seafood chain
+
+**Google Maps**: https://www.google.com/maps/search/?api=1&query=Nordsee+Vienna+Kärntner+Strasse
+
+**Ratings**:
+- Google: 3.9/5 (thousands of reviews)
+- Tripadvisor: 3.5-3.7/5 (varies by location)
+- Restaurant Guru: 3.9/5 (5,000+ reviews)
+- **Rating note**: Mixed reviews with significant polarization
+
+**Sources**:
+- https://restaurantguru.com/NORDSEE-Vienna-2
+- https://www.tripadvisor.com/Restaurant_Review-g190454-d1127181-Reviews-NORDSEE_Wien_Karntnerstr-Vienna.html
+- Multiple Tripadvisor locations (Kohlmarkt, Kärntnerstrasse)
+- Wanderlog, Budget travel guides
+
+**Menu highlights**:
+- Fish & chips - praised item
+- Fish sandwiches - €6-8
+- Fried prawns/shrimp
+- Salmon dishes
+- Octopus
+- Paella
+- Shrimp cocktails
+- Combo meals: €10-13
+
+**Price range**:
+- Individual items: €6-8 (sandwiches, salads)
+- Combo meals: €10-13 (main + sides)
+- Note: Base prices low, but sides charged separately can increase total
+
+**Recurring pros**:
+- **Very affordable prices** for Vienna city center
+- Wide variety of seafood options
+- Quick service
+- Multiple convenient central locations
+- Generous portions
+- Fresh fish (when quality is good)
+- Good for quick seafood snack while sightseeing
+
+**Recurring cons**:
+- **Fast food atmosphere** (not fine dining)
+- **Quality highly inconsistent**
+- Simple, basic environment
+- Side dishes (potatoes, rice) reported as average/lukewarm
+
+**Negative reviews / complaints** (研究日期: 2026-02-07):
+- **🚫 "Worst seafood in Vienna if not Europe"**: Multiple extreme negative reviews
+- **🚫 Poor food quality**: Fish described as old, cold, reheated, inedible
+- **🚫 Frozen products poorly prepared**: Food served cold inside, microwaved and served back
+- **🚫 Worst service**: Staff described as rude, inattentive, uninterested
+- **⚠️ Cleanliness issues**: Some locations reported as not well-maintained
+- **⚠️ Disappointing value**: Quality doesn't justify even budget prices for some reviewers
+- **Inconsistency**: Experience varies significantly by location and timing
+- **Sources**: Multiple Tripadvisor reviews "worst service ever seen", "frozen products serviced in the worst possible way", "the worst - avoid"
+
+**Practical**:
+- **Multiple locations**:
+  - Kärntner Straße 25, 1010 (near Stephansplatz)
+  - Kohlmarkt 6, 1010
+  - Other locations in Vienna
+- Hours: Mon-Sat 9:00 AM - 9:00 PM, Sun 10:00 AM - 8:00 PM (Kärntnerstr location)
+- Phone: +43 1 512 73 54 (Kärntnerstr)
+- Website: www.nordsee.com
+- Reservation: Not needed (fast food)
+- Payment: Cards accepted
+- Accessibility: Wheelchair accessible
+
+**Score (50-point rubric)**:
+- Taste / Quality: 5/10 (highly inconsistent, significant complaints about frozen/reheated food)
+- Value: 7/10 (prices low but quality often doesn't match even budget expectations)
+- Convenience: 9/10 (excellent central locations, quick service, no reservation needed)
+- Consistency: 3/10 (extreme variability - "worst" to "good" experiences)
+- Risk (10 = low risk): 4/10 (high risk of disappointing experience based on numerous negative reviews)
+- **Total: 28/50**
+- **Status**: ❌ **EXCLUDED** - Below 30-point threshold; too many quality and service issues despite budget pricing
+
+**Recommendation**: While Nordsee offers the lowest seafood prices in Vienna (€6-13), the high risk of poor quality, frozen/reheated food, and bad service makes it unsuitable for recommendation. The existing Nautilus weekday lunch (€19.50) offers much better value with reliable quality for only €6-7 more.
+
+---

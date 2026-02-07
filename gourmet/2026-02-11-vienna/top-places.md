@@ -76,6 +76,38 @@
 
 ---
 
+### 海鮮餐廳 Top Picks
+
+#### 1. Kulinarium 7 (42/50) ⭐⭐⭐
+- **type**: Dalmatian/Croatian seafood
+- **area**: Neubau (Sigmundsgasse 1)
+- **total score**: 42/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Kulinarium+7+Vienna
+- **justification**: 維也納頂級達爾馬提亞海鮮餐廳；exceptional freshness, authentic Croatian cuisine, consistent quality；Tripadvisor 4.6/5 (190+ reviews), TheFork 9.5/10 (1800+ reviews)
+- **constraints**: 
+  - reservation: **HIGHLY RECOMMENDED** (especially dinner, weekends)
+  - hours: Tue-Sat 17:30-23:00, Sun 13:00-22:00; Closed Monday
+  - price: €60-65/person for full meal with wine
+  - phone: +43 664 882 63971 or +43 1 5220530
+  - email: office@kulinarium7.com
+- **menu highlights**: 達爾馬提亞魚湯 €24, 龍蝦義大利麵 €42, 鹽烤鱸魚, 淡菜 €21, 海鮮義大利麵 €22
+
+#### 2. Nautilus Fischrestaurant (41/50) ⭐⭐⭐
+- **type**: Mediterranean seafood
+- **area**: Wieden (Naschmarkt)
+- **total score**: 41/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Nautilus+Fischrestaurant+Vienna
+- **justification**: Naschmarkt 地中海海鮮；fresh, reliable, fair pricing, vibrant market atmosphere；Tripadvisor 4.1/5 (680+ reviews), Google 4.4/5, Restaurant Guru 4.3/5 (3100+ reviews)
+- **constraints**: 
+  - reservation: recommended for weekends/holidays
+  - hours: Mon-Sat 11:00 AM - 11:00 PM, Sun & Holidays 11:00 AM - 9:00 PM
+  - price: weekday lunch €19.50 (excellent value), fish platter for 2 from €92
+  - phone: +43 (660) 77 666 33
+  - email: office@nautilus-fischrestaurant.at
+- **menu highlights**: 魚湯 €10.50, 烤魷魚, 扇貝, 淡菜, vongole 義大利麵, 週六生蠔吧
+
+---
+
 ### Brunch / 早午餐 Top Picks
 
 #### 1. ULRICH (40/50) ⭐
@@ -242,7 +274,21 @@
   - reservation: optional (online for ≤6 people)
   - queue: common
 
-#### 9. Demel (32/50)
+#### 9. Kornat (33/50) ⚠️
+- **type**: Croatian seafood
+- **area**: Innere Stadt (Marc Aurel Straße 8)
+- **total score**: 33/50
+- **google maps**: https://www.google.com/maps/search/?api=1&query=Kornat+Vienna
+- **justification**: 克羅埃西亞海鮮家族餐廳，fresh seafood, central location
+- **risk warning**: ⚠️ 服務與執行問題 - 服務不穩定、煮過頭、性價比疑慮
+- **constraints**: 
+  - reservation: highly recommended
+  - hours: Mon-Sun 11:30 AM - 12:00 AM
+  - price: €40-50/main (較貴)
+  - phone: +43 1 535 65 18
+- **menu highlights**: 鹽烤鱸魚, 章魚沙拉, 龍蝦義大利麵, 鮮蝦
+
+#### 10. Demel (32/50)
 - **type**: Pastry shop & café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -252,7 +298,7 @@
   - reservation: **NOT ACCEPTED**
   - queue: likely
 
-#### 10. Café Hawelka (32/50)
+#### 11. Café Hawelka (32/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -297,7 +343,7 @@
   - reservation: none (official policy)
   - queue: possible
 
-#### 10. Café Hawelka (32/50)
+#### 11. Café Hawelka (32/50)
 - **type**: Historic café
 - **area**: Innere Stadt
 - **total score**: 32/50
@@ -329,11 +375,13 @@
 2. **Mraz & Sohn**（米其林二星，僅週一至週五晚餐，提前 1-2 週）
 
 **建議訂位（提前 3-7 天）**:
-1. Plachutta（Tafelspitz 名店，尖峰時段建議訂位）
-2. Gasthaus Pöschl（傳統小酒館，晚餐時段建議訂位）
-3. Café Landtmann（歷史咖啡館，可線上訂位）
-4. ULRICH（早午餐，週末建議訂位）
-5. Meierei im Stadtpark（創意早餐，建議訂位）
+1. **Kulinarium 7**（達爾馬提亞海鮮，晚餐與週末建議訂位）
+2. **Nautilus Fischrestaurant**（Naschmarkt 海鮮，週末/假日建議訂位）
+3. Plachutta（Tafelspitz 名店，尖峰時段建議訂位）
+4. Gasthaus Pöschl（傳統小酒館，晚餐時段建議訂位）
+5. Café Landtmann（歷史咖啡館，可線上訂位）
+6. ULRICH（早午餐，週末建議訂位）
+7. Meierei im Stadtpark（創意早餐，建議訂位）
 
 **可選訂位（當天或 walk-in）**:
 - Figlmüller（可訂位但非必須，平日離峰時段可直接前往）
@@ -357,17 +405,19 @@
 |------|---------|------|
 | 米其林三星 | €225-365 | Steirereck (€225-245 + 酒水 €105-120) |
 | 米其林二星 | €178 | Mraz & Sohn (surprise menu) |
+| 海鮮餐廳 | €60-92 | Kulinarium 7 (€60-65/人), Nautilus (魚拼盤 €92/2人) |
 | 傳統餐廳 | €25-45 | Plachutta, Gasthaus Pöschl, Figlmüller |
 | 早午餐 | €10-40 | ULRICH (€10-20), Meierei (€25-40+), Vollpension (€10-20) |
 | 咖啡館 | €10-20 | Café Landtmann, Central, Sperl, Demel |
 
 **2.5 天總預算建議**（2/11 抵達至 2/13 離開）:
 - 1 次米其林餐廳：€200-250
+- 1 次海鮮餐廳：€60-92（可選）
 - 2-3 次傳統餐廳：€75-135
 - 2-3 次咖啡館：€20-60
 - 1-2 次早午餐：€15-40
 - 1-2 次快速補給：€5-20
-- **總計**: 約 €315-505/人
+- **總計**: 約 €375-597/人（含海鮮選項）或 €315-505/人（不含海鮮）
 
 ### 從 Hilton Vienna Park 的交通
 
@@ -379,10 +429,10 @@
 
 **其他區域交通**:
 - **到 Innere Stadt**: U4 Stadtpark → U1/U3 Stephansplatz（1 站，5 分鐘）
+- **到 Neubau (Kulinarium 7, ULRICH)**: U4 Stadtpark → U2 Museumsquartier（轉乘，約 20 分鐘）或計程車
+- **到 Wieden (Nautilus/Naschmarkt, Vollpension)**: U4 Stadtpark → U4 Kettenbrückengasse（3 站，10 分鐘）+ 步行
 - **到 Brigittenau (Mraz & Sohn)**: U4 Stadtpark → U2 Taborstraße（轉乘，約 15-20 分鐘）或計程車約 15 分鐘
 - **到 Mariahilf (Café Sperl)**: U4 Stadtpark → U4 Kettenbrückengasse（3 站，10 分鐘）+ 步行 5 分鐘
-- **到 Neubau (ULRICH)**: U4 Stadtpark → U2 Museumsquartier（轉乘，約 20 分鐘）或計程車
-- **到 Wieden (Vollpension)**: 地鐵或計程車約 15-20 分鐘
 
 **交通優勢**: 飯店位置極佳，Stadtpark 與 Innere Stadt 主要餐廳皆可步行抵達。
 

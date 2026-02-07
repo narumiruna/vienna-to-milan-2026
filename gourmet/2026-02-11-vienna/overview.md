@@ -14,25 +14,28 @@
 
 **額外特色**:
 - 米其林餐廳：Steirereck (⭐⭐⭐), Mraz & Sohn (⭐⭐) - 創新奧地利料理
+- **海鮮餐廳**：Kulinarium 7 (42/50), Nautilus (41/50) - 達爾馬提亞/克羅埃西亞海鮮
 - Würstelstand (香腸攤)：Bitzinger - 機動補給選項
 - 開放式三明治：Zum Schwarzen Kameel - 1618 年歷史名店
 
 ## 研究策略
 1. ✅ 使用 web_search 收集候選餐廳 (完成)
-2. ✅ 針對 3-5 個優先候選進行詳細研究 (完成 12 個)
+2. ✅ 針對 3-5 個優先候選進行詳細研究 (完成 12 個 + 3 個海鮮)
 3. ✅ 交叉驗證 Google Maps、Tripadvisor、Reddit、美食指南 (完成)
 4. ✅ 使用 50 分評分系統評估每個地點 (完成)
 5. ✅ 記錄排除理由 (Café Sacher Wien 29/50)
 6. ✅ 建立 top-places.md 與用餐策略 (完成)
+7. ✅ 海鮮餐廳研究 (2026-02-07 完成，3 個候選：2 個 top picks, 1 個 backup)
 
 ## 當前進度
 
 ### 研究完成 ✅
-- [x] 收集候選餐廳 (12 個候選)
+- [x] 收集候選餐廳 (15 個候選：12 個傳統/咖啡館 + 3 個海鮮)
 - [x] 詳細研究米其林餐廳 (2 個: Steirereck 41/50, Mraz & Sohn 39/50)
 - [x] 詳細研究傳統餐廳 (4 個: Gasthaus Pöschl 39/50, Plachutta 37/50, Figlmüller 33/50, Zum Schwarzen Kameel 35/50)
 - [x] 詳細研究咖啡館與甜點 (9 個: Jonas Reindl 37/50, Café Landtmann 36/50, Café Prückel 35/50, Kaffee Alt Wien 34/50, Gerstner 34/50, Café Sperl 33/50, Café Hawelka 32/50, Café Central 32/50, Demel 32/50)
 - [x] 詳細研究快速補給 (1 個: Bitzinger Würstelstand 36/50)
+- [x] 詳細研究海鮮餐廳 (3 個: Kulinarium 7 42/50, Nautilus 41/50, Kornat 33/50)
 - [x] 評分與排序所有候選
 - [x] 記錄排除地點 (Café Sacher Wien 29/50)
 - [x] 建立 top-places.md 包含用餐策略與待辦事項
@@ -70,7 +73,9 @@
 ## 研究成果摘要
 
 **Top Picks (35+ 分)**:
+- Kulinarium 7 (42/50) - 達爾馬提亞海鮮
 - Steirereck im Stadtpark (41/50) - 米其林三星
+- Nautilus Fischrestaurant (41/50) - Naschmarkt 海鮮
 - Mraz & Sohn (39/50) - 米其林二星
 - Gasthaus Pöschl (39/50) - 正宗小酒館
 - Plachutta (37/50) - Tafelspitz 名店
@@ -84,6 +89,7 @@
 - Kaffee Alt Wien (34/50)
 - Gerstner K. u. K. Hofzuckerbäcker (34/50)
 - Café Sperl (33/50)
+- Kornat (33/50) - 克羅埃西亞海鮮（服務風險）
 - Figlmüller (33/50)
 - Café Hawelka (32/50)
 - Café Central (32/50)

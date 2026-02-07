@@ -35,6 +35,9 @@ Notes:
 | GRND Restaurant | restaurant | Kärntner Straße 61 (Innere Stadt) | spareribs, Austrian/Ukrainian | https://www.google.com/maps/search/?api=1&query=GRND+Restaurant+Vienna | rejected | Tripadvisor 4.3/5 (260+ reviews) | Spareribs 不錯但整體服務極差、食物品質不一致、過度昂貴；29/50。 |
 | Zur Alten Kaisermühle | restaurant | Fischerstrand 6, 1220 (Old Danube) | traditional Austrian, riverside | https://www.google.com/maps/search/?api=1&query=Zur+Alten+Kaiserm%C3%BChle+Vienna | rejected | Google 4.4/5, Tripadvisor 3.8/5 (600+ reviews) | 河畔景觀優美但服務差、tourist trap、距離中心遠、品質不一致；21/50。 |
 | Salm Bräu | brewery restaurant | Rennweg 8 (near Belvedere) | Austrian, house-brewed beer | https://www.google.com/maps/search/?api=1&query=Salm+Br%C3%A4u+Vienna | constitutional review | Tripadvisor 4.2/5 (6400+ reviews) | ⚠️ 憲法審查：釀酒廠（酒精為主）可能超出範圍；若允許則因服務極差排除（27/50）。 |
+| Kulinarium 7 | restaurant | Neubau (Sigmundsgasse 1) | seafood, Dalmatian/Croatian | https://www.google.com/maps/search/?api=1&query=Kulinarium+7+Vienna | top | Tripadvisor 4.6/5 (190+ reviews), TheFork 9.5/10 (1800+ reviews) | 達爾馬提亞海鮮頂級選擇；鹽烤鱸魚、達爾馬提亞魚湯、龍蝦義大利麵；€60-65/人；極少負評；42/50。 |
+| Nautilus Fischrestaurant | restaurant | Wieden (Am Naschmarkt 673) | seafood, Mediterranean | https://www.google.com/maps/search/?api=1&query=Nautilus+Fischrestaurant+Vienna | top | Tripadvisor 4.1/5 (680+ reviews), Google 4.4/5, Restaurant Guru 4.3/5 | Naschmarkt 地中海海鮮；烤魷魚、淡菜、扇貝；平日午餐 €19.50；幾乎無負評；41/50。 |
+| Kornat | restaurant | Innere Stadt (Marc Aurel Straße 8) | seafood, Croatian | https://www.google.com/maps/search/?api=1&query=Kornat+Vienna | backup | Tripadvisor 4.1/5 (476 reviews), TheFork 9.4/10 (700+ reviews) | 克羅埃西亞海鮮家族餐廳；鮮蝦、鹽烤鱸魚、章魚；€40-50/主菜；服務不穩定與煮過頭風險；33/50。 |
 
 ---
 
@@ -44,3 +47,4 @@ Next step (research queue suggestion):
 - Start with: Figlmüller, Plachutta, Café Central, Demel, Bitzinger Würstelstand
 
 For detailed research evidence, sources, and scoring rationale, see [notes.md](notes.md).
+| Nordsee | restaurant | Innere Stadt (Kärntner Straße 25) | fast-food seafood chain | https://www.google.com/maps/search/?api=1&query=Nordsee+Vienna | rejected | Google 3.9/5, Tripadvisor 3.5-3.7/5, Restaurant Guru 3.9/5 | 快餐連鎖海鮮；€6-13/餐極低價但品質極不穩定、frozen/reheated問題、服務差；28/50。 |
