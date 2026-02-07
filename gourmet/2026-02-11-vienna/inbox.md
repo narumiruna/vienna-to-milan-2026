@@ -142,3 +142,85 @@
 
 ### 冰淇淋/甜品（視季節）
 23. Eis-Greissler（冰淇淋）- https://www.google.com/maps/search/?api=1&query=Eis-Greissler%20Wien
+
+---
+
+## 海鮮餐廳候選（新增 2026-02-07）
+
+說明：維也納雖為內陸城市，但有發達的克羅埃西亞/達爾馬提亞海鮮餐廳場景。多數餐廳從亞得里亞海每週數次直接進口新鮮海鮮。以下為初步收集候選。
+
+### 克羅埃西亞/達爾馬提亞海鮮
+1. **Kornat** (Marc Aurel Straße 8, Innere Stadt)
+   - 類型：克羅埃西亞海鮮，家族經營
+   - 評分：Tripadvisor 4.1/5 (476 reviews), TheFork 9.4/10 (700+ reviews)
+   - 特色：鮮蝦、鹽烤鱸魚、章魚沙拉、龍蝦義大利麵
+   - 注意：價格較高，服務不穩定，部分過度煮熟負評
+   - URL: https://www.google.com/maps/search/?api=1&query=Kornat+Vienna
+
+2. **Kulinarium 7** (Neubau)
+   - 類型：達爾馬提亞/克羅埃西亞高級海鮮
+   - 評分：Tripadvisor 4.6/5 (190+ reviews), TheFork 9.5+/10 (1800+ reviews)
+   - 特色：鹽烤鱸魚、鮪魚韃靼、達爾馬提亞魚湯、龍蝦義大利麵 (€42)
+   - 價格：€60-65/人（含酒）
+   - 注意：高評價，訂位建議
+   - URL: https://www.google.com/maps/search/?api=1&query=Kulinarium+7+Vienna
+
+3. **Konoba / Konoba Pescaria**
+   - 類型：克羅埃西亞地中海海鮮
+   - 特色：烤章魚、烤魚、貝類
+   - 注意：道地感與性價比好評
+   - URL: https://www.google.com/maps/search/?api=1&query=Konoba+Pescaria+Vienna
+
+4. **Restaurant Ragusa**
+   - 類型：達爾馬提亞/地中海家庭式
+   - 特色：章魚、帶骨魚類、溫馨服務
+   - URL: https://www.google.com/maps/search/?api=1&query=Restaurant+Ragusa+Vienna
+
+5. **Lubin**
+   - 類型：地中海/克羅埃西亞
+   - 特色：Fine-de-Claire 生蠔、魚湯 (brodetto)、烤鱸魚 (Branzino)
+   - 注意：近期翻新後品質穩定
+   - URL: https://www.google.com/maps/search/?api=1&query=Lubin+Vienna
+
+### Naschmarkt 海鮮
+6. **Nautilus Fischrestaurant** (Naschmarkt)
+   - 類型：地中海海鮮，市場氛圍
+   - 評分：Tripadvisor 4.1/5 (680+ reviews), Google 4.4/5, Restaurant Guru 4.3/5
+   - 特色：烤魷魚、淡菜、扇貝、vongole 義大利麵
+   - 價格：魚湯 €10.50, 雙人混合魚拼盤 €92, 平日午餐 €19.50
+   - 注意：價格中高但公道，戶外座位氛圍佳
+   - URL: https://www.google.com/maps/search/?api=1&query=Nautilus+Fischrestaurant+Naschmarkt+Vienna
+
+7. **Umar Fisch** (Naschmarkt 76-79)
+   - 類型：市場到餐桌海鮮，Michelin 推薦
+   - 評分：Tripadvisor 4.0/5 (500+ reviews), Restaurant Guru 4.2/5 (2600+ reviews)
+   - 特色：生蠔、烤章魚、鱸魚、當日漁獲
+   - 價格：偏高（€€€），可能 €300+ 驚嚇帳單
+   - ⚠️ 注意：價格透明度問題，tourist trap 感，務必事先詢價
+   - URL: https://www.google.com/maps/search/?api=1&query=Umar+Fisch+Naschmarkt+Vienna
+
+### 其他特色
+8. **Takan's Fischrestaurant** (near Kutschkermarkt)
+   - 類型：傳統與創新魚料理
+   - 特色：多樣新鮮魚類選擇
+   - 注意：Falstaff 推薦
+   - URL: https://www.google.com/maps/search/?api=1&query=Takan%27s+Fischrestaurant+Vienna
+
+9. **Le Salzgries Paris** (Innere Stadt)
+   - 類型：法式海鮮餐館
+   - 特色：龍蝦濃湯、生蠔、精緻法式料理
+   - 注意：高級氛圍，價格較高
+   - URL: https://www.google.com/maps/search/?api=1&query=Le+Salzgries+Paris+Vienna
+
+10. **Fischerie**
+    - 類型：本地/區域魚類專門，現代風格
+    - 特色：奧地利水域魚類（施蒂利亞蝦、Attersee 白魚）
+    - 注意：創新與經典兼具
+    - URL: https://www.google.com/maps/search/?api=1&query=Fischerie+Vienna
+
+## 海鮮研究下一步
+- [ ] 選擇前 3-5 個候選進行詳細多來源研究
+- [ ] 收集 Google Maps 精確評分與評論數
+- [ ] 深入分析負面評價與風險因素
+- [ ] 應用 50 分評分系統
+- [ ] 決定是否納入 top-places.md
